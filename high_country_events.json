@@ -189,7 +189,7 @@
     },
     {
       "id": "brm_20251214",
-      "title": "Old Farmer&#8217;S Ball English Country Dance",
+      "title": "Stecoah Community Jam",
       "date": "2025-12-14T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -211,7 +211,7 @@
     },
     {
       "id": "brm_20251215",
-      "title": "Alleghany Jubilee",
+      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
       "date": "2025-12-15T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -222,7 +222,7 @@
     },
     {
       "id": "brm_20251216",
-      "title": "Stecoah Community Jam",
+      "title": "Wednesday Open Mic At The Reeves",
       "date": "2025-12-16T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -233,8 +233,19 @@
     },
     {
       "id": "brm_20251217",
-      "title": "Josh Goforth At White Horse Black Mountain",
+      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
       "date": "2025-12-17T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "brm_20251218",
+      "title": "Alleghany Jubilee",
+      "date": "2025-12-18T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
@@ -266,7 +277,7 @@
     },
     {
       "id": "brm_20251220",
-      "title": "Appalachian Roadshow",
+      "title": "Earl Scruggs Homeplace Open House",
       "date": "2025-12-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -343,7 +354,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "Wintery Mix Presents The Blue Ridge Girls",
+      "title": "Alleghany Jubilee",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -353,8 +364,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2025-12-14T06:00:20.060407",
-  "total_events": 32,
+  "last_updated": "2025-12-14T15:47:26.707027",
+  "total_events": 33,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
