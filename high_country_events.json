@@ -23,105 +23,6 @@
       "longitude": -81.1701
     },
     {
-      "id": "hch_20251211_0",
-      "title": "Old Time Jame",
-      "date": "2025-12-11T19:00:00",
-      "location": "The Jones House, Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20251212_1",
-      "title": "Blowing Rock Holiday Stroll",
-      "date": "2025-12-12T17:00:00",
-      "location": "Downtown Blowing Rock",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20251212_2",
-      "title": "Community Square Dance",
-      "date": "2025-12-12T18:00:00",
-      "location": "Todd Merchantile, Todd",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20251212_3",
-      "title": "Blue Ridge Opry",
-      "date": "2025-12-12T19:30:00",
-      "location": "Ashe Civic Center, Jefferson",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20251213_7",
-      "title": "Santa Visits At The Blowing Rock",
-      "date": "2025-12-13T12:00:00",
-      "location": "The Blowing Rock, Blowing Rock",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20251213_8",
-      "title": "Handmade Ornament Making",
-      "date": "2025-12-13T13:00:00",
-      "location": "Mount Jefferson State Natural Area Picnic Shelter, West Jefferson",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20251213_9",
-      "title": "Holiday Ornaments At Elk Knob",
-      "date": "2025-12-13T14:00:00",
-      "location": "Elk Knob State Park, Todd",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20251213_10",
-      "title": "Event at Appalachian Theatre",
-      "date": "2025-12-13T14:00:00",
-      "location": "Appalachian Theatre, Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20251213_11",
-      "title": "Boone Holiday Parade",
-      "date": "2025-12-13T18:00:00",
-      "location": "King St, Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "obw_20251213",
       "title": "Live Music at Old Barn Winery",
       "date": "2025-12-13T18:00:00",
@@ -133,50 +34,6 @@
       "longitude": -81.119
     },
     {
-      "id": "hch_20251213_4",
-      "title": "King Street Indoor Market",
-      "date": "2025-12-13T22:00:00",
-      "location": "Agricultural Conference Center, Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20251213_5",
-      "title": "Indoor Holiday Market",
-      "date": "2025-12-13T23:00:00",
-      "location": "Historic Banner Elk School, Downtown Banner Elk",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20251213_6",
-      "title": "Studio Saturdays- Felted Ornaments",
-      "date": "2025-12-13T23:00:00",
-      "location": "Blowing Rock Art &amp; History Museum",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20251214_13",
-      "title": "Event at Appalachian Theatre",
-      "date": "2025-12-14T15:00:00",
-      "location": "Appalachian Theatre, Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "obw_20251214",
       "title": "Live Music at Old Barn Winery",
       "date": "2025-12-14T18:00:00",
@@ -186,17 +43,6 @@
       "url": "https://oldbarnwinery.com/live-music",
       "latitude": 36.5054,
       "longitude": -81.119
-    },
-    {
-      "id": "hch_20251214_12",
-      "title": "Santa At The Mast General Store",
-      "date": "2025-12-14T23:00:00",
-      "location": "1:30-3:30: Mast Store Annex, Valle Crucis",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "brm_20251215",
@@ -232,6 +78,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "hch_20251218_0",
+      "title": "Old Time Jam",
+      "date": "2025-12-18T19:00:00",
+      "location": "The Jones House, Downtown Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "brm_20251218",
       "title": "Earl Scruggs Homeplace Open House",
       "date": "2025-12-18T19:00:00",
@@ -239,6 +96,72 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "hch_20251218_1",
+      "title": "Christmas By Candlelight With The Kruger Brothers",
+      "date": "2025-12-18T19:30:00",
+      "location": "The Walker Center, Wilkesboro",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "hch_20251219_3",
+      "title": "An Appalachian Christmas",
+      "date": "2025-12-19T19:00:00",
+      "location": "Mountain Home Music, Grace Lutheran Church, Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "hch_20251219_2",
+      "title": "Christmas With Darren And Brooke Aldridge",
+      "date": "2025-12-19T19:30:00",
+      "location": "Appalachian Theatre, Downtown Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "hch_20251220_5",
+      "title": "Wksk Live Radio Show",
+      "date": "2025-12-20T11:00:00",
+      "location": "Ashe Civic Center, West Jefferson",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "hch_20251220_7",
+      "title": "Santa Visits At The Blowing Rock",
+      "date": "2025-12-20T12:00:00",
+      "location": "The Blowing Rock, Blowing Rock",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "hch_20251220_8",
+      "title": "Event at Daingerfield\u2019s Restaurant",
+      "date": "2025-12-20T17:30:00",
+      "location": "Daingerfield\u2019s Restaurant, Westglow Luxury Resort and Spa, Blowing Rock",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -272,6 +195,50 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "hch_20251220_4",
+      "title": "King Street Indoor Market",
+      "date": "2025-12-20T22:00:00",
+      "location": "Agricultural Conference Center, Downtown Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "hch_20251220_6",
+      "title": "Event at Famous Brick Oven Pizzeria",
+      "date": "2025-12-20T23:00:00",
+      "location": "Famous Brick Oven Pizzeria, Beech Mountain",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "hch_20251221_10",
+      "title": "S Playhouse",
+      "date": "2025-12-21T14:00:00",
+      "location": "Children\u2019s Playhouse, Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "hch_20251221_9",
+      "title": "Santa At The Mast General Store",
+      "date": "2025-12-21T23:00:00",
+      "location": "1:30-3:30: Mast Store Annex, Valle Crucis",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -353,8 +320,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2025-12-15T10:18:18.508321",
-  "total_events": 32,
+  "last_updated": "2025-12-15T14:50:45.221907",
+  "total_events": 29,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
