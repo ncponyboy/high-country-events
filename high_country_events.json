@@ -188,17 +188,6 @@
       "longitude": -81.119
     },
     {
-      "id": "brm_20251214",
-      "title": "Stecoah Community Jam",
-      "date": "2025-12-14T19:00:00",
-      "location": "Blue Ridge Area, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "hch_20251214_12",
       "title": "Santa At The Mast General Store",
       "date": "2025-12-14T23:00:00",
@@ -211,7 +200,7 @@
     },
     {
       "id": "brm_20251215",
-      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
+      "title": "Alleghany Jubilee",
       "date": "2025-12-15T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -244,7 +233,7 @@
     },
     {
       "id": "brm_20251218",
-      "title": "Alleghany Jubilee",
+      "title": "Earl Scruggs Homeplace Open House",
       "date": "2025-12-18T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -277,7 +266,7 @@
     },
     {
       "id": "brm_20251220",
-      "title": "Earl Scruggs Homeplace Open House",
+      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
       "date": "2025-12-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -354,7 +343,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "Alleghany Jubilee",
+      "title": "Stecoah Community Jam",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -364,8 +353,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2025-12-14T15:58:38.187919",
-  "total_events": 33,
+  "last_updated": "2025-12-15T06:00:09.720013",
+  "total_events": 32,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
