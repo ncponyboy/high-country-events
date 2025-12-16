@@ -45,19 +45,8 @@
       "longitude": -81.119
     },
     {
-      "id": "brm_20251215",
-      "title": "Alleghany Jubilee",
-      "date": "2025-12-15T19:00:00",
-      "location": "Blue Ridge Area, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "brm_20251216",
-      "title": "Wednesday Open Mic At The Reeves",
+      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
       "date": "2025-12-16T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -68,7 +57,7 @@
     },
     {
       "id": "brm_20251217",
-      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
+      "title": "Zuma Coffee Bluegrass Jam Session",
       "date": "2025-12-17T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -90,7 +79,7 @@
     },
     {
       "id": "brm_20251218",
-      "title": "Earl Scruggs Homeplace Open House",
+      "title": "Contra Dance In Franklin, Nc",
       "date": "2025-12-18T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -118,6 +107,17 @@
       "description": "",
       "source": "High Country Host",
       "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "brm_20251219",
+      "title": "Wednesday Open Mic At The Reeves",
+      "date": "2025-12-19T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -189,7 +189,7 @@
     },
     {
       "id": "brm_20251220",
-      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
+      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
       "date": "2025-12-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -310,7 +310,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "Stecoah Community Jam",
+      "title": "Alleghany Jubilee",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -320,7 +320,7 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2025-12-15T14:52:49.338054",
+  "last_updated": "2025-12-16T06:00:10.415389",
   "total_events": 29,
   "sources": [
     "High Country Host",
