@@ -56,17 +56,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "brm_20251218",
-      "title": "Candlelight Christmas With The Kruger Brothers",
-      "date": "2025-12-18T19:00:00",
-      "location": "Blue Ridge Area, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "hch_20251218_1",
       "title": "Christmas By Candlelight With The Kruger Brothers",
       "date": "2025-12-18T19:30:00",
@@ -90,7 +79,7 @@
     },
     {
       "id": "brm_20251219",
-      "title": "Christmas With Darin &#038; Brooke Aldridge",
+      "title": "Christmas In Appalachia",
       "date": "2025-12-19T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -167,7 +156,7 @@
     },
     {
       "id": "brm_20251220",
-      "title": "Weekly Jam Sessions At The Jones House",
+      "title": "An Appalachian Christmas Concert",
       "date": "2025-12-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -222,7 +211,7 @@
     },
     {
       "id": "brm_20251222",
-      "title": "High Country Holiday With Michael Reno Harrell And Josh Goforth",
+      "title": "Friends Of Hot Springs Nc Contra Dance",
       "date": "2025-12-22T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -299,7 +288,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "Contra Dance In Franklin, Nc",
+      "title": "High Country Holiday With Michael Reno Harrell And Josh Goforth",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -309,8 +298,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2025-12-18T11:00:08.631550",
-  "total_events": 28,
+  "last_updated": "2025-12-19T06:00:11.792410",
+  "total_events": 27,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
