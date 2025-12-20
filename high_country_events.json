@@ -78,17 +78,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "brm_20251219",
-      "title": "Christmas In Appalachia",
-      "date": "2025-12-19T19:00:00",
-      "location": "Blue Ridge Area, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "hch_20251219_2",
       "title": "Christmas With Darren And Brooke Aldridge",
       "date": "2025-12-19T19:30:00",
@@ -156,7 +145,7 @@
     },
     {
       "id": "brm_20251220",
-      "title": "An Appalachian Christmas Concert",
+      "title": "Christmas In Appalachia",
       "date": "2025-12-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -199,6 +188,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "brm_20251221",
+      "title": "Alleghany Jubilee",
+      "date": "2025-12-21T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "hch_20251221_9",
       "title": "Santa At The Mast General Store",
       "date": "2025-12-21T23:00:00",
@@ -211,8 +211,30 @@
     },
     {
       "id": "brm_20251222",
-      "title": "Friends Of Hot Springs Nc Contra Dance",
+      "title": "Alleghany Jubilee",
       "date": "2025-12-22T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "brm_20251223",
+      "title": "Christmas In Appalachia",
+      "date": "2025-12-23T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "brm_20251224",
+      "title": "Whitewater Bluegrass Christmas Show",
+      "date": "2025-12-24T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
@@ -288,7 +310,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "High Country Holiday With Michael Reno Harrell And Josh Goforth",
+      "title": "Wksk\\U2019S Old Time And Bluegrass Show Returns Live: Surefire Bluegrass",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -298,8 +320,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2025-12-19T17:16:13.712971",
-  "total_events": 27,
+  "last_updated": "2025-12-20T06:00:10.149992",
+  "total_events": 29,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
