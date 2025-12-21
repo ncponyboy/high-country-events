@@ -133,28 +133,6 @@
       "longitude": -81.499
     },
     {
-      "id": "sbr_20251220",
-      "title": "Wksk Live Radio Show At Ashe Civic Center",
-      "date": "2025-12-20T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Stay Blue Ridge",
-      "url": "https://www.stayblueridge.com/events-list",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "brm_20251220",
-      "title": "Christmas In Appalachia",
-      "date": "2025-12-20T19:00:00",
-      "location": "Blue Ridge Area, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "hch_20251220_4",
       "title": "King Street Indoor Market",
       "date": "2025-12-20T22:00:00",
@@ -189,7 +167,7 @@
     },
     {
       "id": "brm_20251221",
-      "title": "Alleghany Jubilee",
+      "title": "Old Farmer&#8217;S Ball Family Dance",
       "date": "2025-12-21T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -222,7 +200,7 @@
     },
     {
       "id": "brm_20251223",
-      "title": "Christmas In Appalachia",
+      "title": "Feed &#038; Seed",
       "date": "2025-12-23T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -233,8 +211,19 @@
     },
     {
       "id": "brm_20251224",
-      "title": "Whitewater Bluegrass Christmas Show",
+      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
       "date": "2025-12-24T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "brm_20251225",
+      "title": "Alleghany Jubilee",
+      "date": "2025-12-25T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
@@ -310,7 +299,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "Wksk\\U2019S Old Time And Bluegrass Show Returns Live: Surefire Bluegrass",
+      "title": "Christmas In Appalachia",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -318,9 +307,20 @@
       "url": "https://www.blueridgemusicnc.com/events/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "ac_20260320",
+      "title": "Community Event",
+      "date": "2026-03-20T19:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=2",
+      "latitude": 36.4332,
+      "longitude": -81.499
     }
   ],
-  "last_updated": "2025-12-20T06:00:10.149992",
+  "last_updated": "2025-12-21T06:00:14.704043",
   "total_events": 29,
   "sources": [
     "High Country Host",
