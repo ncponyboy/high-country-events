@@ -45,19 +45,8 @@
       "longitude": -81.6746
     },
     {
-      "id": "brm_20251223",
-      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
-      "date": "2025-12-23T19:00:00",
-      "location": "Blue Ridge Area, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "brm_20251224",
-      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
+      "title": "Wednesday Open Mic At The Reeves",
       "date": "2025-12-24T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -112,7 +101,7 @@
     },
     {
       "id": "brm_20251227",
-      "title": "Wednesday Open Mic At The Reeves",
+      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
       "date": "2025-12-27T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -200,7 +189,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "Feed &#038; Seed",
+      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -221,8 +210,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2025-12-23T06:00:10.055921",
-  "total_events": 20,
+  "last_updated": "2025-12-24T06:00:13.318110",
+  "total_events": 19,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
