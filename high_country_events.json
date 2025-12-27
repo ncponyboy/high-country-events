@@ -101,7 +101,7 @@
     },
     {
       "id": "brm_20251228",
-      "title": "Folk School Winter Dance Week",
+      "title": "Old Farmer&#8217;S Ball English Country Dance",
       "date": "2025-12-28T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -112,7 +112,7 @@
     },
     {
       "id": "brm_20251229",
-      "title": "Alleghany Jubilee",
+      "title": "Hart Square Foundation &#8211; Community Square Dance",
       "date": "2025-12-29T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -123,7 +123,7 @@
     },
     {
       "id": "brm_20251230",
-      "title": "Hart Square Foundation &#8211; Community Square Dance",
+      "title": "Alleghany Jubilee",
       "date": "2025-12-30T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -145,8 +145,19 @@
     },
     {
       "id": "brm_20251231",
-      "title": "Alleghany Jubilee",
+      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
       "date": "2025-12-31T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "brm_20260101",
+      "title": "Folk School Winter Dance Week",
+      "date": "2026-01-01T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
@@ -167,7 +178,7 @@
     },
     {
       "id": "brm_20260103",
-      "title": "Old Farmer&#8217;S Ball English Country Dance",
+      "title": "Alleghany Jubilee",
       "date": "2026-01-03T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -186,6 +197,17 @@
       "url": "https://ashechamber.com/calendar.php?caltype=2",
       "latitude": 36.4332,
       "longitude": -81.499
+    },
+    {
+      "id": "brm_20260120",
+      "title": "Wednesday Open Mic At The Reeves",
+      "date": "2026-01-20T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "obw_20260220",
@@ -232,8 +254,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2025-12-26T22:10:28.917941",
-  "total_events": 21,
+  "last_updated": "2025-12-27T06:00:09.912211",
+  "total_events": 23,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
