@@ -23,39 +23,6 @@
       "longitude": -81.499
     },
     {
-      "id": "hch_20251223_0",
-      "title": "Event at Elk Knob State Park",
-      "date": "2025-12-23T13:00:00",
-      "location": "Elk Knob State Park, Todd",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20251225_1",
-      "title": "Christmas Day Skiing At App Ski Mountain",
-      "date": "2025-12-25T13:00:00",
-      "location": "App Ski Mtn, Blowing Rock",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20251227_2",
-      "title": "King Street Indoor Market",
-      "date": "2025-12-27T22:00:00",
-      "location": "Agricultural Conference Center, Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "brm_20251230",
       "title": "Alleghany Jubilee",
       "date": "2025-12-30T19:00:00",
@@ -111,6 +78,17 @@
       "longitude": -81.119
     },
     {
+      "id": "hch_20260103_1",
+      "title": "The Carolina Comedy Magic Parlor",
+      "date": "2026-01-03T19:00:00",
+      "location": "Mysterium Escape Adventure, Downtown Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "brm_20260103",
       "title": "Wednesday Open Mic At The Reeves",
       "date": "2026-01-03T19:00:00",
@@ -118,6 +96,17 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "hch_20260103_0",
+      "title": "King Street Indoor Market",
+      "date": "2026-01-03T22:00:00",
+      "location": "Agricultural Conference Center, Downtown Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -188,8 +177,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2025-12-30T10:38:36.396049",
-  "total_events": 17,
+  "last_updated": "2025-12-30T14:21:29.995288",
+  "total_events": 16,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
