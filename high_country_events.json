@@ -45,17 +45,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "obw_20251227",
-      "title": "Live Music at Old Barn Winery",
-      "date": "2025-12-27T18:00:00",
-      "location": "Old Barn Winery, Sparta NC",
-      "description": "Live music featuring local and regional artists",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/live-music",
-      "latitude": 36.5054,
-      "longitude": -81.119
-    },
-    {
       "id": "hch_20251227_2",
       "title": "King Street Indoor Market",
       "date": "2025-12-27T22:00:00",
@@ -67,30 +56,8 @@
       "longitude": -81.6746
     },
     {
-      "id": "obw_20251228",
-      "title": "Live Music at Old Barn Winery",
-      "date": "2025-12-28T18:00:00",
-      "location": "Old Barn Winery, Sparta NC",
-      "description": "Live music featuring local and regional artists",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/live-music",
-      "latitude": 36.5054,
-      "longitude": -81.119
-    },
-    {
-      "id": "brm_20251229",
-      "title": "Hart Square Foundation &#8211; Community Square Dance",
-      "date": "2025-12-29T19:00:00",
-      "location": "Blue Ridge Area, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "brm_20251230",
-      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
+      "title": "Alleghany Jubilee",
       "date": "2025-12-30T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -112,7 +79,7 @@
     },
     {
       "id": "brm_20251231",
-      "title": "Wednesday Open Mic At The Reeves",
+      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
       "date": "2025-12-31T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -123,7 +90,7 @@
     },
     {
       "id": "brm_20260101",
-      "title": "Community Jam &#8211; Crown Restaurant",
+      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
       "date": "2026-01-01T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -145,7 +112,7 @@
     },
     {
       "id": "brm_20260103",
-      "title": "Alleghany Jubilee",
+      "title": "Hart Square Foundation &#8211; Community Square Dance",
       "date": "2026-01-03T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -167,7 +134,7 @@
     },
     {
       "id": "brm_20260120",
-      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
+      "title": "Wednesday Open Mic At The Reeves",
       "date": "2026-01-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -210,8 +177,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2025-12-29T06:00:10.116621",
-  "total_events": 19,
+  "last_updated": "2025-12-30T00:25:58.747804",
+  "total_events": 16,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
