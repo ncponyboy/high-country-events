@@ -23,17 +23,6 @@
       "longitude": -81.499
     },
     {
-      "id": "brm_20251230",
-      "title": "Alleghany Jubilee",
-      "date": "2025-12-30T19:00:00",
-      "location": "Blue Ridge Area, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "obw_20251231",
       "title": "Live Music at Old Barn Winery",
       "date": "2025-12-31T18:00:00",
@@ -112,8 +101,19 @@
     },
     {
       "id": "brm_20260105",
-      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
+      "title": "Alleghany Jubilee",
       "date": "2026-01-05T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "brm_20260106",
+      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
+      "date": "2026-01-06T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
@@ -156,7 +156,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "Hart Square Foundation &#8211; Community Square Dance",
+      "title": "Alleghany Jubilee",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -177,7 +177,7 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2025-12-30T14:34:01.297212",
+  "last_updated": "2025-12-30T21:31:54.800492",
   "total_events": 16,
   "sources": [
     "High Country Host",
