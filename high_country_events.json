@@ -1,30 +1,8 @@
 {
   "events": [
     {
-      "id": "fn_20251206",
-      "title": "Festival Event",
-      "date": "2025-12-06T10:00:00",
-      "location": "Alleghany County, NC",
-      "description": "",
-      "source": "FestivalNet",
-      "url": "https://festivalnet.com/Alleghany-County-Fair-Committee/calendar",
-      "latitude": 36.4905,
-      "longitude": -81.1701
-    },
-    {
-      "id": "obw_20251231",
-      "title": "Live Music at Old Barn Winery",
-      "date": "2025-12-31T18:00:00",
-      "location": "Old Barn Winery, Sparta NC",
-      "description": "Live music featuring local and regional artists",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/live-music",
-      "latitude": 36.5054,
-      "longitude": -81.119
-    },
-    {
       "id": "brm_20260101",
-      "title": "Weekly Jam Sessions At The Jones House",
+      "title": "Asheville Community Square Dance",
       "date": "2026-01-01T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -57,7 +35,7 @@
     },
     {
       "id": "brm_20260103",
-      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
+      "title": "Alleghany Jubilee",
       "date": "2026-01-03T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -90,7 +68,7 @@
     },
     {
       "id": "brm_20260106",
-      "title": "Wednesday Open Mic At The Reeves",
+      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
       "date": "2026-01-06T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -112,7 +90,7 @@
     },
     {
       "id": "brm_20260120",
-      "title": "Community Jam &#8211; Crown Restaurant",
+      "title": "Alleghany Jubilee",
       "date": "2026-01-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -166,8 +144,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2025-12-31T20:58:20.592679",
-  "total_events": 15,
+  "last_updated": "2026-01-01T01:38:20.020798",
+  "total_events": 13,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
