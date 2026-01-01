@@ -2,7 +2,7 @@
   "events": [
     {
       "id": "brm_20260101",
-      "title": "Asheville Community Square Dance",
+      "title": "Weekly Jam Sessions At The Jones House",
       "date": "2026-01-01T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -57,7 +57,7 @@
     },
     {
       "id": "brm_20260105",
-      "title": "Alleghany Jubilee",
+      "title": "Old-Time Jam At Turgua Brewing",
       "date": "2026-01-05T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -68,8 +68,19 @@
     },
     {
       "id": "brm_20260106",
-      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
+      "title": "Alleghany Jubilee",
       "date": "2026-01-06T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "brm_20260107",
+      "title": "Alleghany Jubilee",
+      "date": "2026-01-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
@@ -123,7 +134,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
+      "title": "Community Jam &#8211; Crown Restaurant",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -144,8 +155,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2026-01-01T01:47:25.233449",
-  "total_events": 13,
+  "last_updated": "2026-01-01T06:00:09.655454",
+  "total_events": 14,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
