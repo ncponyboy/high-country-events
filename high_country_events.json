@@ -1,9 +1,9 @@
 {
   "events": [
     {
-      "id": "brm_20260101",
-      "title": "Weekly Jam Sessions At The Jones House",
-      "date": "2026-01-01T19:00:00",
+      "id": "brm_20260102",
+      "title": "Alleghany Jubilee",
+      "date": "2026-01-02T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
@@ -57,7 +57,7 @@
     },
     {
       "id": "brm_20260105",
-      "title": "Old-Time Jam At Turgua Brewing",
+      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
       "date": "2026-01-05T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -68,7 +68,7 @@
     },
     {
       "id": "brm_20260106",
-      "title": "Alleghany Jubilee",
+      "title": "Wednesday Open Mic At The Reeves",
       "date": "2026-01-06T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -79,8 +79,19 @@
     },
     {
       "id": "brm_20260107",
-      "title": "Alleghany Jubilee",
+      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
       "date": "2026-01-07T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "brm_20260108",
+      "title": "Asheville Community Square Dance",
+      "date": "2026-01-08T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
@@ -134,7 +145,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "Community Jam &#8211; Crown Restaurant",
+      "title": "Alleghany Jubilee",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -155,8 +166,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2026-01-01T09:00:23.149058",
-  "total_events": 14,
+  "last_updated": "2026-01-02T06:00:10.192817",
+  "total_events": 15,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
