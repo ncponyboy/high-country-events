@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "brm_20260102",
-      "title": "Alleghany Jubilee",
-      "date": "2026-01-02T19:00:00",
-      "location": "Blue Ridge Area, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "obw_20260103",
       "title": "Live Music at Old Barn Winery",
       "date": "2026-01-03T18:00:00",
@@ -57,7 +46,7 @@
     },
     {
       "id": "brm_20260105",
-      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
+      "title": "Alleghany Jubilee",
       "date": "2026-01-05T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -68,7 +57,7 @@
     },
     {
       "id": "brm_20260106",
-      "title": "Wednesday Open Mic At The Reeves",
+      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
       "date": "2026-01-06T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -79,7 +68,7 @@
     },
     {
       "id": "brm_20260107",
-      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
+      "title": "Wednesday Open Mic At The Reeves",
       "date": "2026-01-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -166,8 +155,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2026-01-02T07:28:12.788020",
-  "total_events": 15,
+  "last_updated": "2026-01-03T04:43:56.084502",
+  "total_events": 14,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
