@@ -12,19 +12,30 @@
       "longitude": -81.119
     },
     {
-      "id": "brm_20260104",
-      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
-      "date": "2026-01-04T19:00:00",
-      "location": "Blue Ridge Area, NC",
+      "id": "hch_20260103_1",
+      "title": "The Carolina Comedy Magic Parlor",
+      "date": "2026-01-03T19:00:00",
+      "location": "Mysterium Escape Adventure, Downtown Boone",
       "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "hch_20260103_0",
+      "title": "King Street Indoor Market",
+      "date": "2026-01-03T22:00:00",
+      "location": "Agricultural Conference Center, Downtown Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
     {
       "id": "brm_20260105",
-      "title": "Country And Blues Jam At The Reeves",
+      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
       "date": "2026-01-05T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -35,7 +46,7 @@
     },
     {
       "id": "brm_20260106",
-      "title": "Christian Harmony Sing &#8211; Asheville Nc",
+      "title": "Country And Blues Jam At The Reeves",
       "date": "2026-01-06T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -46,7 +57,7 @@
     },
     {
       "id": "brm_20260107",
-      "title": "Community Jam &#8211; Crown Restaurant",
+      "title": "Christian Harmony Sing &#8211; Asheville Nc",
       "date": "2026-01-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -57,7 +68,7 @@
     },
     {
       "id": "brm_20260108",
-      "title": "Weekly Jam Sessions At The Jones House",
+      "title": "Community Jam &#8211; Crown Restaurant",
       "date": "2026-01-08T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -155,8 +166,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2026-01-04T10:08:34.158233",
-  "total_events": 14,
+  "last_updated": "2026-01-05T06:00:11.703458",
+  "total_events": 15,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
