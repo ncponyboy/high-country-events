@@ -12,28 +12,6 @@
       "longitude": -81.119
     },
     {
-      "id": "hch_20260103_1",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-01-03T19:00:00",
-      "location": "Mysterium Escape Adventure, Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20260103_0",
-      "title": "King Street Indoor Market",
-      "date": "2026-01-03T22:00:00",
-      "location": "Agricultural Conference Center, Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "brm_20260105",
       "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
       "date": "2026-01-05T19:00:00",
@@ -166,8 +144,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2026-01-05T06:00:11.703458",
-  "total_events": 15,
+  "last_updated": "2026-01-05T07:52:09.342907",
+  "total_events": 13,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
