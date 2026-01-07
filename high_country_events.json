@@ -23,17 +23,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "hch_20260109_1",
-      "title": "Todd Old Time Community Dance",
-      "date": "2026-01-09T18:00:00",
-      "location": "Todd Merchantile, Todd",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "brm_20260109",
       "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
       "date": "2026-01-09T19:00:00",
@@ -41,17 +30,6 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20260109_0",
-      "title": "A Fleetwood Mac Experience",
-      "date": "2026-01-09T19:30:00",
-      "location": "Appalachian Theatre, Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -67,17 +45,6 @@
       "longitude": -81.119
     },
     {
-      "id": "hch_20260110_4",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-01-10T19:00:00",
-      "location": "Mysterium Escape Adventure, Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "brm_20260110",
       "title": "Christian Harmony Sing &#8211; Asheville Nc",
       "date": "2026-01-10T19:00:00",
@@ -85,28 +52,6 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20260110_2",
-      "title": "Lamb Cuddles",
-      "date": "2026-01-10T21:30:00",
-      "location": "Agricultural Conference Center, Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20260110_3",
-      "title": "King Street Indoor Market",
-      "date": "2026-01-10T22:00:00",
-      "location": "Agricultural Conference Center, Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -177,8 +122,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2026-01-07T08:45:01.267496",
-  "total_events": 16,
+  "last_updated": "2026-01-07T13:23:19.043991",
+  "total_events": 11,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
