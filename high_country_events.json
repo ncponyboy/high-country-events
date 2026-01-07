@@ -1,52 +1,8 @@
 {
   "events": [
     {
-      "id": "obw_20260103",
-      "title": "Live Music at Old Barn Winery",
-      "date": "2026-01-03T18:00:00",
-      "location": "Old Barn Winery, Sparta NC",
-      "description": "Live music featuring local and regional artists",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/live-music",
-      "latitude": 36.5054,
-      "longitude": -81.119
-    },
-    {
-      "id": "hch_20260103_1",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-01-03T19:00:00",
-      "location": "Mysterium Escape Adventure, Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "hch_20260103_0",
-      "title": "King Street Indoor Market",
-      "date": "2026-01-03T22:00:00",
-      "location": "Agricultural Conference Center, Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "brm_20260106",
-      "title": "Wednesday Open Mic At The Reeves",
-      "date": "2026-01-06T19:00:00",
-      "location": "Blue Ridge Area, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "brm_20260107",
-      "title": "Christian Harmony Sing &#8211; Asheville Nc",
+      "title": "Community Jam &#8211; Crown Restaurant",
       "date": "2026-01-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -57,7 +13,7 @@
     },
     {
       "id": "brm_20260108",
-      "title": "Community Jam &#8211; Crown Restaurant",
+      "title": "Weekly Jam Sessions At The Jones House",
       "date": "2026-01-08T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -67,8 +23,19 @@
       "longitude": -81.6746
     },
     {
+      "id": "hch_20260109_1",
+      "title": "Todd Old Time Community Dance",
+      "date": "2026-01-09T18:00:00",
+      "location": "Todd Merchantile, Todd",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "brm_20260109",
-      "title": "Mountain Music Old Time Jam At Trailside Brewing Company",
+      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
       "date": "2026-01-09T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -78,13 +45,68 @@
       "longitude": -81.6746
     },
     {
+      "id": "hch_20260109_0",
+      "title": "A Fleetwood Mac Experience",
+      "date": "2026-01-09T19:30:00",
+      "location": "Appalachian Theatre, Downtown Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "obw_20260110",
+      "title": "Live Music at Old Barn Winery",
+      "date": "2026-01-10T18:00:00",
+      "location": "Old Barn Winery, Sparta NC",
+      "description": "Live music featuring local and regional artists",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/live-music",
+      "latitude": 36.5054,
+      "longitude": -81.119
+    },
+    {
+      "id": "hch_20260110_4",
+      "title": "The Carolina Comedy Magic Parlor",
+      "date": "2026-01-10T19:00:00",
+      "location": "Mysterium Escape Adventure, Downtown Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "brm_20260110",
-      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
+      "title": "Country And Blues Jam At The Reeves",
       "date": "2026-01-10T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "hch_20260110_2",
+      "title": "Lamb Cuddles",
+      "date": "2026-01-10T21:30:00",
+      "location": "Agricultural Conference Center, Downtown Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "hch_20260110_3",
+      "title": "King Street Indoor Market",
+      "date": "2026-01-10T22:00:00",
+      "location": "Agricultural Conference Center, Downtown Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -101,7 +123,7 @@
     },
     {
       "id": "brm_20260120",
-      "title": "Country And Blues Jam At The Reeves",
+      "title": "Christian Harmony Sing &#8211; Asheville Nc",
       "date": "2026-01-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -134,7 +156,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "Alleghany Jubilee",
+      "title": "Wednesday Open Mic At The Reeves",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -155,8 +177,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2026-01-06T06:00:13.583282",
-  "total_events": 14,
+  "last_updated": "2026-01-07T06:00:08.576769",
+  "total_events": 16,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
