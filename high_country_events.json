@@ -1,19 +1,8 @@
 {
   "events": [
     {
-      "id": "brm_20260107",
-      "title": "Country And Blues Jam At The Reeves",
-      "date": "2026-01-07T19:00:00",
-      "location": "Blue Ridge Area, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "brm_20260108",
-      "title": "Weekly Jam Sessions At The Jones House",
+      "title": "Community Jam &#8211; Crown Restaurant",
       "date": "2026-01-08T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -79,7 +68,7 @@
     },
     {
       "id": "brm_20260110",
-      "title": "Christian Harmony Sing &#8211; Asheville Nc",
+      "title": "Country And Blues Jam At The Reeves",
       "date": "2026-01-10T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -123,7 +112,7 @@
     },
     {
       "id": "brm_20260120",
-      "title": "Community Jam &#8211; Crown Restaurant",
+      "title": "Christian Harmony Sing &#8211; Asheville Nc",
       "date": "2026-01-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -177,8 +166,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2026-01-07T16:34:43.859347",
-  "total_events": 16,
+  "last_updated": "2026-01-08T06:00:08.762604",
+  "total_events": 15,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
