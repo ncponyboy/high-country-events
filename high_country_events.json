@@ -2,7 +2,7 @@
   "events": [
     {
       "id": "brm_20260108",
-      "title": "Community Jam &#8211; Crown Restaurant",
+      "title": "Weekly Jam Sessions At The Jones House",
       "date": "2026-01-08T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -24,7 +24,7 @@
     },
     {
       "id": "brm_20260109",
-      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
+      "title": "Community Jam &#8211; Crown Restaurant",
       "date": "2026-01-09T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -68,7 +68,7 @@
     },
     {
       "id": "brm_20260110",
-      "title": "Country And Blues Jam At The Reeves",
+      "title": "Alleghany Jubilee",
       "date": "2026-01-10T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -100,6 +100,39 @@
       "longitude": -81.6746
     },
     {
+      "id": "brm_20260111",
+      "title": "Story Treasures: Gems Of The Present And Past",
+      "date": "2026-01-11T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "brm_20260112",
+      "title": "Bluegrass At The Rock: The Malpass Brothers",
+      "date": "2026-01-12T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "brm_20260113",
+      "title": "Mcdowell County Square Dance",
+      "date": "2026-01-13T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "ac_20260120",
       "title": "Community Event",
       "date": "2026-01-20T19:00:00",
@@ -112,7 +145,7 @@
     },
     {
       "id": "brm_20260120",
-      "title": "Christian Harmony Sing &#8211; Asheville Nc",
+      "title": "Alleghany Jubilee",
       "date": "2026-01-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -145,7 +178,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "Wednesday Open Mic At The Reeves",
+      "title": "Christian Harmony Sing &#8211; Asheville Nc",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -166,8 +199,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2026-01-08T06:00:08.762604",
-  "total_events": 15,
+  "last_updated": "2026-01-08T12:24:45.037958",
+  "total_events": 18,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
