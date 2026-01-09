@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "brm_20260108",
-      "title": "Weekly Jam Sessions At The Jones House",
-      "date": "2026-01-08T19:00:00",
-      "location": "Blue Ridge Area, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "hch_20260109_1",
       "title": "Todd Old Time Community Dance",
       "date": "2026-01-09T18:00:00",
@@ -101,7 +90,7 @@
     },
     {
       "id": "brm_20260111",
-      "title": "Story Treasures: Gems Of The Present And Past",
+      "title": "Alleghany Jubilee",
       "date": "2026-01-11T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -112,7 +101,7 @@
     },
     {
       "id": "brm_20260112",
-      "title": "Bluegrass At The Rock: The Malpass Brothers",
+      "title": "Story Treasures: Gems Of The Present And Past",
       "date": "2026-01-12T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -123,7 +112,7 @@
     },
     {
       "id": "brm_20260113",
-      "title": "Mcdowell County Square Dance",
+      "title": "Weekly Jam Sessions At The Jones House",
       "date": "2026-01-13T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -145,7 +134,7 @@
     },
     {
       "id": "brm_20260120",
-      "title": "Alleghany Jubilee",
+      "title": "Mcdowell County Square Dance",
       "date": "2026-01-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -199,8 +188,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2026-01-08T16:33:14.129795",
-  "total_events": 18,
+  "last_updated": "2026-01-08T21:05:54.194245",
+  "total_events": 17,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
