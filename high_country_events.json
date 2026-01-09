@@ -13,7 +13,7 @@
     },
     {
       "id": "brm_20260109",
-      "title": "Community Jam &#8211; Crown Restaurant",
+      "title": "Alleghany Jubilee",
       "date": "2026-01-09T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -57,7 +57,7 @@
     },
     {
       "id": "brm_20260110",
-      "title": "Alleghany Jubilee",
+      "title": "Old Farmer&#8217;S Ball English Country Dance",
       "date": "2026-01-10T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -101,7 +101,7 @@
     },
     {
       "id": "brm_20260112",
-      "title": "Story Treasures: Gems Of The Present And Past",
+      "title": "Alleghany Jubilee",
       "date": "2026-01-12T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -112,8 +112,30 @@
     },
     {
       "id": "brm_20260113",
-      "title": "Weekly Jam Sessions At The Jones House",
+      "title": "Stecoah Stories &#038; Seeds Speaker Series",
       "date": "2026-01-13T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "brm_20260114",
+      "title": "Ballad Night At The Old Marshall Jail Hotel",
+      "date": "2026-01-14T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "brm_20260115",
+      "title": "Story Treasures: Gems Of The Present And Past",
+      "date": "2026-01-15T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
@@ -134,7 +156,7 @@
     },
     {
       "id": "brm_20260120",
-      "title": "Mcdowell County Square Dance",
+      "title": "Bluegrass At The Rock: The Malpass Brothers",
       "date": "2026-01-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -167,7 +189,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "Christian Harmony Sing &#8211; Asheville Nc",
+      "title": "Alleghany Jubilee",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -188,8 +210,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2026-01-08T21:05:54.194245",
-  "total_events": 17,
+  "last_updated": "2026-01-09T05:35:48.054647",
+  "total_events": 19,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
