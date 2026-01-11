@@ -79,7 +79,7 @@
     },
     {
       "id": "brm_20260112",
-      "title": "Alleghany Jubilee",
+      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
       "date": "2026-01-12T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -90,7 +90,7 @@
     },
     {
       "id": "brm_20260113",
-      "title": "Stecoah Stories &#038; Seeds Speaker Series",
+      "title": "Zuma Coffee Bluegrass Jam Session",
       "date": "2026-01-13T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -101,7 +101,7 @@
     },
     {
       "id": "brm_20260114",
-      "title": "Ballad Night At The Old Marshall Jail Hotel",
+      "title": "Contra Dance In Franklin, Nc",
       "date": "2026-01-14T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -112,8 +112,19 @@
     },
     {
       "id": "brm_20260115",
-      "title": "Bluegrass At The Rock: The Malpass Brothers",
+      "title": "Carolina Gospel Association Presents: The Isaacs",
       "date": "2026-01-15T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "brm_20260116",
+      "title": "Stecoah Stories &#038; Seeds Speaker Series",
+      "date": "2026-01-16T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
@@ -145,7 +156,7 @@
     },
     {
       "id": "brm_20260120",
-      "title": "Old Farmer&#8217;S Ball English Country Dance",
+      "title": "Ballad Night At The Old Marshall Jail Hotel",
       "date": "2026-01-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -200,7 +211,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "Story Treasures: Gems Of The Present And Past",
+      "title": "Alleghany Jubilee",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -221,8 +232,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2026-01-11T06:00:08.937878",
-  "total_events": 20,
+  "last_updated": "2026-01-11T17:56:39.374027",
+  "total_events": 21,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
