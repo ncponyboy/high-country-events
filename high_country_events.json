@@ -67,19 +67,8 @@
       "longitude": -81.6746
     },
     {
-      "id": "brm_20260111",
-      "title": "Alleghany Jubilee",
-      "date": "2026-01-11T19:00:00",
-      "location": "Blue Ridge Area, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "brm_20260112",
-      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
+      "title": "Stecoah Stories &#038; Seeds Speaker Series",
       "date": "2026-01-12T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -123,7 +112,7 @@
     },
     {
       "id": "brm_20260116",
-      "title": "Stecoah Stories &#038; Seeds Speaker Series",
+      "title": "Weekly Jam Sessions At The Jones House",
       "date": "2026-01-16T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -144,6 +133,17 @@
       "longitude": -81.119
     },
     {
+      "id": "brm_20260117",
+      "title": "Ballad Night At The Old Marshall Jail Hotel",
+      "date": "2026-01-17T19:00:00",
+      "location": "Blue Ridge Area, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "ac_20260120",
       "title": "Community Event",
       "date": "2026-01-20T19:00:00",
@@ -156,7 +156,7 @@
     },
     {
       "id": "brm_20260120",
-      "title": "Ballad Night At The Old Marshall Jail Hotel",
+      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
       "date": "2026-01-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -232,7 +232,7 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2026-01-11T17:56:39.374027",
+  "last_updated": "2026-01-12T06:00:14.430676",
   "total_events": 21,
   "sources": [
     "High Country Host",
