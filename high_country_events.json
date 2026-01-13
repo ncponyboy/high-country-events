@@ -1,19 +1,8 @@
 {
   "events": [
     {
-      "id": "brm_20260112",
-      "title": "Stecoah Stories &#038; Seeds Speaker Series",
-      "date": "2026-01-12T19:00:00",
-      "location": "Blue Ridge Area, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "brm_20260113",
-      "title": "Zuma Coffee Bluegrass Jam Session",
+      "title": "Ballad Night At The Old Marshall Jail Hotel",
       "date": "2026-01-13T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -112,7 +101,7 @@
     },
     {
       "id": "brm_20260117",
-      "title": "Ballad Night At The Old Marshall Jail Hotel",
+      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
       "date": "2026-01-17T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -167,7 +156,7 @@
     },
     {
       "id": "brm_20260120",
-      "title": "Wednesday Night Bluegrass At The Ugly Dog Pub",
+      "title": "Zuma Coffee Bluegrass Jam Session",
       "date": "2026-01-20T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -255,7 +244,7 @@
     },
     {
       "id": "brm_20260307",
-      "title": "Alleghany Jubilee",
+      "title": "Stecoah Stories &#038; Seeds Speaker Series",
       "date": "2026-03-07T19:00:00",
       "location": "Blue Ridge Area, NC",
       "description": "",
@@ -276,8 +265,8 @@
       "longitude": -81.499
     }
   ],
-  "last_updated": "2026-01-12T17:59:55.030596",
-  "total_events": 25,
+  "last_updated": "2026-01-13T06:00:15.296427",
+  "total_events": 24,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
