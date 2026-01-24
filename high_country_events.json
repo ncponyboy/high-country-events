@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "id": "d672bb2287fe",
-      "title": "High Country Event",
-      "date": "2026-01-23T19:00:00",
-      "location": "High Country, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "fa455629ebcc",
-      "title": "West Jefferson Event",
-      "date": "2026-01-23T19:00:00",
-      "location": "West Jefferson, NC",
-      "description": "",
-      "source": "AllEvents West Jefferson",
-      "url": "https://allevents.in/west-jefferson-nc/all",
-      "latitude": 36.4004,
-      "longitude": -81.4926
-    },
-    {
-      "id": "bd0a9a4111c2",
-      "title": "Music Event",
-      "date": "2026-01-23T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
       "id": "10fe4d278f7f",
       "title": "High Country Event",
       "date": "2026-01-24T19:00:00",
@@ -364,8 +331,8 @@
       "longitude": -81.5001
     }
   ],
-  "last_updated": "2026-01-23T12:25:24.247752",
-  "total_events": 33,
+  "last_updated": "2026-01-24T06:00:08.652568",
+  "total_events": 30,
   "sources": [
     "High Country Host",
     "FestivalNet",
