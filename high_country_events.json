@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "10fe4d278f7f",
-      "title": "High Country Event",
-      "date": "2026-01-24T19:00:00",
-      "location": "High Country, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "6b0c1f5a44fd",
-      "title": "Music Event",
-      "date": "2026-01-24T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
       "id": "396898671be4",
       "title": "West Jefferson Event",
       "date": "2026-01-25T19:00:00",
@@ -89,9 +67,20 @@
       "longitude": -81.4926
     },
     {
-      "id": "050575e20d96",
-      "title": "Music Event",
+      "id": "6cf6307f7e8f",
+      "title": "That\u2019s My JAM Benefit Concert",
       "date": "2026-01-29T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "938c496f72f0",
+      "title": "Music Event",
+      "date": "2026-01-30T19:00:00",
       "location": "Blue Ridge, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
@@ -122,6 +111,17 @@
       "longitude": -81.4264
     },
     {
+      "id": "a8a615b50795",
+      "title": "Music Event",
+      "date": "2026-01-31T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "bf6f47798e5f",
       "title": "West Jefferson Event",
       "date": "2026-02-01T19:00:00",
@@ -140,6 +140,17 @@
       "description": "",
       "source": "Stay Blue Ridge",
       "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "f0041c35a406",
+      "title": "Music Event",
+      "date": "2026-02-01T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
       "latitude": 36.4458,
       "longitude": -81.4264
     },
@@ -331,8 +342,8 @@
       "longitude": -81.5001
     }
   ],
-  "last_updated": "2026-01-24T12:31:38.224121",
-  "total_events": 30,
+  "last_updated": "2026-01-25T06:00:09.061956",
+  "total_events": 31,
   "sources": [
     "High Country Host",
     "FestivalNet",
