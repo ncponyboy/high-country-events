@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "4a09ccc97d32",
-      "title": "Music Event",
-      "date": "2026-01-27T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
       "id": "496f7887fff8",
       "title": "Music Event",
       "date": "2026-01-28T19:00:00",
@@ -353,8 +342,8 @@
       "longitude": -81.5001
     }
   ],
-  "last_updated": "2026-01-27T18:58:56.944516",
-  "total_events": 32,
+  "last_updated": "2026-01-27T21:43:49.863864",
+  "total_events": 31,
   "sources": [
     "High Country Host",
     "FestivalNet",
