@@ -155,6 +155,17 @@
       "longitude": -81.4264
     },
     {
+      "id": "7b5ce1d3ec7a",
+      "title": "Music Event",
+      "date": "2026-02-03T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "41cd7f122711",
       "title": "West Jefferson Event",
       "date": "2026-02-07T19:00:00",
@@ -342,8 +353,8 @@
       "longitude": -81.5001
     }
   ],
-  "last_updated": "2026-01-28T13:13:07.810846",
-  "total_events": 31,
+  "last_updated": "2026-01-28T18:32:39.963166",
+  "total_events": 32,
   "sources": [
     "High Country Host",
     "FestivalNet",
