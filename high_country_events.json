@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "id": "95189804d87d",
-      "title": "High Country Event",
-      "date": "2026-01-29T19:00:00",
-      "location": "High Country, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "203a404ea226",
-      "title": "West Jefferson Event",
-      "date": "2026-01-29T19:00:00",
-      "location": "West Jefferson, NC",
-      "description": "",
-      "source": "AllEvents West Jefferson",
-      "url": "https://allevents.in/west-jefferson-nc/all",
-      "latitude": 36.4004,
-      "longitude": -81.4926
-    },
-    {
-      "id": "050575e20d96",
-      "title": "Music Event",
-      "date": "2026-01-29T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
       "id": "f0634070a88b",
       "title": "High Country Event",
       "date": "2026-01-30T19:00:00",
@@ -144,9 +111,9 @@
       "longitude": -81.4264
     },
     {
-      "id": "7b5ce1d3ec7a",
+      "id": "5f6a5096e056",
       "title": "Music Event",
-      "date": "2026-02-03T19:00:00",
+      "date": "2026-02-05T19:00:00",
       "location": "Blue Ridge, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
@@ -195,6 +162,17 @@
       "description": "Live music event",
       "source": "Old Barn Winery",
       "url": "https://oldbarnwinery.com/live-music",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "7a6f4025b332",
+      "title": "February 2026",
+      "date": "2026-02-20T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
       "latitude": 36.4458,
       "longitude": -81.4264
     },
@@ -331,8 +309,8 @@
       "longitude": -81.5001
     }
   ],
-  "last_updated": "2026-01-29T13:31:04.669783",
-  "total_events": 30,
+  "last_updated": "2026-01-30T06:00:09.569997",
+  "total_events": 28,
   "sources": [
     "High Country Host",
     "FestivalNet",
