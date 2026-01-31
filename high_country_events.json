@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "f0634070a88b",
-      "title": "High Country Event",
-      "date": "2026-01-30T19:00:00",
-      "location": "High Country, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "938c496f72f0",
-      "title": "Music Event",
-      "date": "2026-01-30T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
       "id": "027e01ccf06e",
       "title": "High Country Event",
       "date": "2026-01-31T19:00:00",
@@ -296,21 +274,10 @@
       "url": "https://festivalnet.com/fairs-and-festivals?state_local=&start_date_month=&city_local=&miles=25&zip=28663",
       "latitude": 36.4905,
       "longitude": -81.1701
-    },
-    {
-      "id": "966b92f8bbf8",
-      "title": "Chamber Event",
-      "date": "2026-04-20T19:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe Chamber",
-      "url": "https://ashechamber.com/calendar.php?caltype=2",
-      "latitude": 36.4298,
-      "longitude": -81.5001
     }
   ],
-  "last_updated": "2026-01-30T11:21:34.806628",
-  "total_events": 28,
+  "last_updated": "2026-01-31T06:00:07.557010",
+  "total_events": 25,
   "sources": [
     "High Country Host",
     "FestivalNet",
