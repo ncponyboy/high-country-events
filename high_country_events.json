@@ -1,50 +1,6 @@
 {
   "events": [
     {
-      "id": "027e01ccf06e",
-      "title": "High Country Event",
-      "date": "2026-01-31T19:00:00",
-      "location": "High Country, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "50cdfd5ff653",
-      "title": "Events in Deep Gap",
-      "date": "2026-01-31T19:00:00",
-      "location": "West Jefferson, NC",
-      "description": "",
-      "source": "AllEvents West Jefferson",
-      "url": "https://allevents.in/west-jefferson-nc/all",
-      "latitude": 36.4004,
-      "longitude": -81.4926
-    },
-    {
-      "id": "afc6934ef567",
-      "title": "Kruger Brothers in Concert",
-      "date": "2026-01-31T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Stay Blue Ridge",
-      "url": "https://www.stayblueridge.com/events-list",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "a8a615b50795",
-      "title": "Music Event",
-      "date": "2026-01-31T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
       "id": "bf6f47798e5f",
       "title": "West Jefferson Event",
       "date": "2026-02-01T19:00:00",
@@ -56,8 +12,8 @@
       "longitude": -81.4926
     },
     {
-      "id": "2236bb4cac7c",
-      "title": "Kruger Brothers in Concert",
+      "id": "68ad4de5064c",
+      "title": "Kruger Brothers Sunday Matinee",
       "date": "2026-02-01T19:00:00",
       "location": "Blue Ridge, NC",
       "description": "",
@@ -89,6 +45,28 @@
       "longitude": -81.4264
     },
     {
+      "id": "7b5ce1d3ec7a",
+      "title": "Music Event",
+      "date": "2026-02-03T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "bca08632e1b7",
+      "title": "Music Event",
+      "date": "2026-02-04T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "5f6a5096e056",
       "title": "Music Event",
       "date": "2026-02-05T19:00:00",
@@ -111,6 +89,17 @@
       "longitude": -81.4926
     },
     {
+      "id": "4a824c0b6b1c",
+      "title": "Music Event",
+      "date": "2026-02-07T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "1ec7b7afebde",
       "title": "West Jefferson Event",
       "date": "2026-02-12T19:00:00",
@@ -131,6 +120,17 @@
       "url": "https://www.stayblueridge.com/events-list",
       "latitude": 36.4458,
       "longitude": -81.4264
+    },
+    {
+      "id": "828117a1d267",
+      "title": "Chamber Event",
+      "date": "2026-02-20T19:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=2",
+      "latitude": 36.4298,
+      "longitude": -81.5001
     },
     {
       "id": "1004901a1ef7",
@@ -274,10 +274,21 @@
       "url": "https://festivalnet.com/fairs-and-festivals?state_local=&start_date_month=&city_local=&miles=25&zip=28663",
       "latitude": 36.4905,
       "longitude": -81.1701
+    },
+    {
+      "id": "966b92f8bbf8",
+      "title": "Chamber Event",
+      "date": "2026-04-20T19:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=2",
+      "latitude": 36.4298,
+      "longitude": -81.5001
     }
   ],
-  "last_updated": "2026-01-31T06:00:07.557010",
-  "total_events": 25,
+  "last_updated": "2026-02-01T06:00:06.834476",
+  "total_events": 26,
   "sources": [
     "High Country Host",
     "FestivalNet",
