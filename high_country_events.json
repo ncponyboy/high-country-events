@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "id": "bf6f47798e5f",
-      "title": "West Jefferson Event",
-      "date": "2026-02-01T19:00:00",
-      "location": "West Jefferson, NC",
-      "description": "",
-      "source": "AllEvents West Jefferson",
-      "url": "https://allevents.in/west-jefferson-nc/all",
-      "latitude": 36.4004,
-      "longitude": -81.4926
-    },
-    {
-      "id": "68ad4de5064c",
-      "title": "Kruger Brothers Sunday Matinee",
-      "date": "2026-02-01T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Stay Blue Ridge",
-      "url": "https://www.stayblueridge.com/events-list",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "f0041c35a406",
-      "title": "Music Event",
-      "date": "2026-02-01T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
       "id": "bc44658d3b02",
       "title": "Music Event",
       "date": "2026-02-02T19:00:00",
@@ -78,6 +45,17 @@
       "longitude": -81.4264
     },
     {
+      "id": "bfaf6c4ce1f8",
+      "title": "Music Event",
+      "date": "2026-02-06T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "41cd7f122711",
       "title": "West Jefferson Event",
       "date": "2026-02-07T19:00:00",
@@ -103,6 +81,17 @@
       "id": "1ec7b7afebde",
       "title": "West Jefferson Event",
       "date": "2026-02-12T19:00:00",
+      "location": "West Jefferson, NC",
+      "description": "",
+      "source": "AllEvents West Jefferson",
+      "url": "https://allevents.in/west-jefferson-nc/all",
+      "latitude": 36.4004,
+      "longitude": -81.4926
+    },
+    {
+      "id": "e0fa0b298405",
+      "title": "West Jefferson Event",
+      "date": "2026-02-13T19:00:00",
       "location": "West Jefferson, NC",
       "description": "",
       "source": "AllEvents West Jefferson",
@@ -199,6 +188,17 @@
       "longitude": -81.5001
     },
     {
+      "id": "fc03f3e6b4fc",
+      "title": "West Jefferson Event",
+      "date": "2026-03-26T19:00:00",
+      "location": "West Jefferson, NC",
+      "description": "",
+      "source": "AllEvents West Jefferson",
+      "url": "https://allevents.in/west-jefferson-nc/all",
+      "latitude": 36.4004,
+      "longitude": -81.4926
+    },
+    {
       "id": "b807032a2fa7",
       "title": "West Jefferson Event",
       "date": "2026-03-28T19:00:00",
@@ -285,10 +285,21 @@
       "url": "https://ashechamber.com/calendar.php?caltype=2",
       "latitude": 36.4298,
       "longitude": -81.5001
+    },
+    {
+      "id": "0e0fbe358607",
+      "title": "Soulshine N' Sunshine Hippie Fest",
+      "date": "2026-05-02T19:00:00",
+      "location": "Alleghany County, NC",
+      "description": "",
+      "source": "FestivalNet",
+      "url": "https://festivalnet.com/fairs-and-festivals?state_local=&start_date_month=&city_local=&miles=25&zip=28663",
+      "latitude": 36.4905,
+      "longitude": -81.1701
     }
   ],
-  "last_updated": "2026-02-01T07:11:42.248477",
-  "total_events": 26,
+  "last_updated": "2026-02-02T06:00:11.062864",
+  "total_events": 27,
   "sources": [
     "High Country Host",
     "FestivalNet",
