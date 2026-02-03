@@ -23,17 +23,6 @@
       "longitude": -81.4264
     },
     {
-      "id": "5212c821f666",
-      "title": "High Country Event",
-      "date": "2026-02-05T19:00:00",
-      "location": "High Country, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "5f6a5096e056",
       "title": "Music Event",
       "date": "2026-02-05T19:00:00",
@@ -45,17 +34,6 @@
       "longitude": -81.4264
     },
     {
-      "id": "1658bc35489f",
-      "title": "High Country Event",
-      "date": "2026-02-06T19:00:00",
-      "location": "High Country, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "bfaf6c4ce1f8",
       "title": "Music Event",
       "date": "2026-02-06T19:00:00",
@@ -65,17 +43,6 @@
       "url": "https://www.blueridgemusicnc.com/events/",
       "latitude": 36.4458,
       "longitude": -81.4264
-    },
-    {
-      "id": "eb8b0d89cb99",
-      "title": "High Country Event",
-      "date": "2026-02-07T19:00:00",
-      "location": "High Country, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "41cd7f122711",
@@ -320,8 +287,8 @@
       "longitude": -81.1701
     }
   ],
-  "last_updated": "2026-02-03T06:00:10.196726",
-  "total_events": 29,
+  "last_updated": "2026-02-03T10:18:27.258195",
+  "total_events": 26,
   "sources": [
     "High Country Host",
     "FestivalNet",
