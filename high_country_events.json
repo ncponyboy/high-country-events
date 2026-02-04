@@ -1,70 +1,15 @@
 {
   "events": [
     {
-      "id": "bca08632e1b7",
-      "title": "Music Event",
+      "id": "ec6b5fd265f7",
+      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
       "date": "2026-02-04T19:00:00",
-      "location": "Blue Ridge, NC",
+      "location": "The Ugly Dog Pub, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/events/",
       "latitude": 36.4458,
       "longitude": -81.4264
-    },
-    {
-      "id": "5212c821f666",
-      "title": "High Country Event",
-      "date": "2026-02-05T19:00:00",
-      "location": "High Country, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "5f6a5096e056",
-      "title": "Music Event",
-      "date": "2026-02-05T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "1658bc35489f",
-      "title": "High Country Event",
-      "date": "2026-02-06T19:00:00",
-      "location": "High Country, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "bfaf6c4ce1f8",
-      "title": "Music Event",
-      "date": "2026-02-06T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "eb8b0d89cb99",
-      "title": "High Country Event",
-      "date": "2026-02-07T19:00:00",
-      "location": "High Country, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "41cd7f122711",
@@ -78,10 +23,10 @@
       "longitude": -81.4926
     },
     {
-      "id": "4a824c0b6b1c",
-      "title": "Music Event",
-      "date": "2026-02-07T19:00:00",
-      "location": "Blue Ridge, NC",
+      "id": "d07864a9aae3",
+      "title": "Events Search and Views Navigation",
+      "date": "2026-02-08T19:00:00",
+      "location": "The Ugly Dog Pub, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/events/",
@@ -147,34 +92,12 @@
       "id": "1004901a1ef7",
       "title": "Live Music",
       "date": "2026-02-20T19:00:00",
-      "location": "Old Barn Winery",
+      "location": "Old Barn Winery, Mount Airy, NC",
       "description": "Live music event",
       "source": "Old Barn Winery",
       "url": "https://oldbarnwinery.com/live-music",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "7a6f4025b332",
-      "title": "February 2026",
-      "date": "2026-02-20T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "ec935f86aedb",
-      "title": "Music Event",
-      "date": "2026-03-07T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
+      "latitude": 36.4993,
+      "longitude": -80.6073
     },
     {
       "id": "f3af98166d90",
@@ -188,8 +111,8 @@
       "longitude": -81.4926
     },
     {
-      "id": "839f83c530e1",
-      "title": "Whitetop Mountain Maple Festival",
+      "id": "3f74b012728d",
+      "title": "Festival Event",
       "date": "2026-03-20T19:00:00",
       "location": "Alleghany County, NC",
       "description": "",
@@ -320,16 +243,15 @@
       "longitude": -81.1701
     }
   ],
-  "last_updated": "2026-02-04T09:29:56.247808",
-  "total_events": 29,
+  "last_updated": "2026-02-04T10:02:26.613606",
+  "total_events": 22,
   "sources": [
     "High Country Host",
+    "Blue Ridge Music NC",
     "FestivalNet",
     "Ashe Chamber",
     "AllEvents West Jefferson",
     "Stay Blue Ridge",
-    "Old Barn Winery",
-    "Blue Ridge Music NC"
-  ],
-  "note": "Disabled sources: Alleghany Chamber, Alleghany Arts Council, AmericanTowns sites (JavaScript loading or outdated cached data)"
+    "Old Barn Winery"
+  ]
 }
