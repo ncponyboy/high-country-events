@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "7b5ce1d3ec7a",
-      "title": "Music Event",
-      "date": "2026-02-03T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
       "id": "bca08632e1b7",
       "title": "Music Event",
       "date": "2026-02-04T19:00:00",
@@ -92,6 +81,17 @@
       "id": "4a824c0b6b1c",
       "title": "Music Event",
       "date": "2026-02-07T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "68554329b59d",
+      "title": "Music Event",
+      "date": "2026-02-08T19:00:00",
       "location": "Blue Ridge, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
@@ -320,7 +320,7 @@
       "longitude": -81.1701
     }
   ],
-  "last_updated": "2026-02-03T10:23:42.298951",
+  "last_updated": "2026-02-04T06:00:06.715068",
   "total_events": 29,
   "sources": [
     "High Country Host",
