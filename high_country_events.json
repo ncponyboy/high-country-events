@@ -1,6 +1,28 @@
 {
   "events": [
     {
+      "id": "e6e15cd5653b",
+      "title": "Annual Old-Time Fiddler\u2019s Convention",
+      "date": "2026-02-06T19:00:00",
+      "location": "Plemmons Student Union at Appalachian State University, 263 Locust Street, Boone, NC",
+      "description": "The Fiddler's Convention is an annual celebration of traditional music and craftsmanship that brings together musicians, instrument makers, and music enthusiasts. Each year, the event features a vibra...",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/annual-old-time-fiddlers-convention/2026-02-06/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "b4189450766a",
+      "title": "North Carolina A&T Fellowship Gospel Choir",
+      "date": "2026-02-06T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "The Surry Arts Council and the African American Historical and Genealogical Society host the North Carolina A&T Fellowship Gospel Choir at the Andy Griffith Playhouse. About the Choir: The mission [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/north-carolina-at-fellowship-gospel-choir/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "4fad30847c69",
       "title": "JERRY G",
       "date": "2026-02-07T13:00:00",
@@ -10,6 +32,83 @@
       "url": "https://oldbarnwinery.com/events-calendar",
       "latitude": 36.4025,
       "longitude": -81.4928
+    },
+    {
+      "id": "73bce6b5c49d",
+      "title": "WPAQ 78th Birthday Celebration",
+      "date": "2026-02-07T17:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "The WPAQ 78th Birthday Celebration will take place on February 7, 2026, at the Historic Earle Theatre & Old-Time Music Heritage Hall in Mount Airy, NC. The event is free [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/wpaq-75th-birthday-celebration/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "e8adbe9b40e3",
+      "title": "Annual Old-Time Fiddler\u2019s Convention",
+      "date": "2026-02-07T19:00:00",
+      "location": "Plemmons Student Union at Appalachian State University, 263 Locust Street, Boone, NC",
+      "description": "The Fiddler's Convention is an annual celebration of traditional music and craftsmanship that brings together musicians, instrument makers, and music enthusiasts. Each year, the event features a vibra...",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/annual-old-time-fiddlers-convention/2026-02-07/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "0788d26db468",
+      "title": "Alleghany Jubilee",
+      "date": "2026-02-07T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "If you love to flatfoot, clog, square dance, or just tap your foot to old-time mountain music, the Alleghany Jubilee is where you want to be! The Jubilee is located [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-02-07/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "53e2232a83ad",
+      "title": "Asheville Community Square Dance",
+      "date": "2026-02-07T19:00:00",
+      "location": "Haw Creek Commons, 315 Old Haw Creek Road, Asheville, NC",
+      "description": "\ud835\uddd6\ud835\uddfc\ud835\uddfa\ud835\uddf2 \ud835\uddfc\ud835\ude02\ud835\ude01 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\uddee \ud835\uddfb\ud835\uddf6\ud835\uddf4\ud835\uddf5\ud835\ude01 \ud835\uddfc\ud835\uddf3 \ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddfa\ud835\ude02\ud835\uddfb\ud835\uddf6\ud835\ude01\ud835\ude06 \ud835\ude00\ud835\uddfc\ud835\uddf0\ud835\uddf6\ud835\uddee\ud835\uddf9 \ud835\uddf1\ud835\uddee\ud835\uddfb\ud835\uddf0\ud835\uddf2, \ud835\uddfa\ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddf0, \ud835\uddf9\ud835\uddee\ud835\ude02\ud835\uddf4\ud835\uddf5\ud835\ude00, \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddd9\ud835\udde8\ud835\udde1! All dances will be taught. Beginner and family-friendly! In addition to old-time square dances, there will be [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/asheville-community-square-dance/2026-02-07/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "381d76ca516e",
+      "title": "Bluegrass at the Rock: Darin & Brooke Aldridge",
+      "date": "2026-02-07T19:00:00",
+      "location": "Old Rock School, 400 West Main Street, Valdese, NC",
+      "description": "The Old Rock School in Valdese, North Carolina, has gained national recognition for its renowned bluegrass concerts. The 500-seat auditorium is the perfect place to hear all of your favorites. [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/bluegrass-at-the-rock-darin-brooke-aldridge/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "e22b32c745d9",
+      "title": "Old Farmer\u2019s Ball English Country Dance",
+      "date": "2026-02-08T16:00:00",
+      "location": "Harvest House Community Center, 205 Kenilworth Rd., Asheville, NC",
+      "description": "Old Farmer\u2019s Ball hosts family dances and waltzes at the Harvest House Community Center. Our mission is to bring joy to our community by cultivating folk and social dance and [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/old-farmers-ball-english-country-dance/2026-02-08/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "6418a326ade7",
+      "title": "Stecoah Stories & Seeds Speaker Series",
+      "date": "2026-02-11T11:00:00",
+      "location": "Stecoah Valley Cultural Arts Center, 121 Schoolhouse Road, Robbinsville, NC",
+      "description": "Stecoah Valley Cultural Arts Center announces a local storytelling series occurring every other Wednesday throughout the winter. Speakers include Kim Hainge (God's Gardens), Randy Collins (NC Cooperat...",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/stecoah-stories-seeds-speaker-series/2026-02-11/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
     },
     {
       "id": "cde10a047735",
@@ -23,24 +122,13 @@
       "longitude": -81.4928
     },
     {
-      "id": "7e7607714733",
-      "title": "Events Search and Views Navigation",
-      "date": "2026-02-11T19:00:00",
-      "location": "the Crown Restaurant. From, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "c487060ab1b6",
-      "title": "Music Event",
-      "date": "2026-02-11T19:00:00",
+      "id": "233b23535cdb",
+      "title": "Ballad Night at the Old Marshall Jail Hotel",
+      "date": "2026-02-11T18:00:00",
       "location": "Blue Ridge, NC",
-      "description": "",
+      "description": "The Old Marshall Jail Ballad Swap is an incredible opportunity to immerse yourself in our Appalachian Heritage. This unique event, hosted by Josh Copus, Donna Ray Norton, Sheila Kay Adams, [\u2026]",
       "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/events/",
+      "url": "https://www.blueridgemusicnc.com/event/ballad-night-at-the-old-marshall-jail-hotel/2026-02-11/",
       "latitude": 36.4458,
       "longitude": -81.4264
     },
@@ -199,8 +287,8 @@
       "longitude": -81.1701
     }
   ],
-  "last_updated": "2026-02-05T20:43:48.805309",
-  "total_events": 18,
+  "last_updated": "2026-02-05T20:46:55.727807",
+  "total_events": 26,
   "sources": [
     "High Country Host",
     "FestivalNet",
