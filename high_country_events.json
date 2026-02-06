@@ -133,6 +133,17 @@
       "longitude": -81.4264
     },
     {
+      "id": "38443afd8553",
+      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
+      "date": "2026-02-11T18:00:00",
+      "location": "294 South 4th Street, Highlands, NC",
+      "description": "We have bluegrass at The Ugly Dog Pub, 294 S. 4th St. in Highlands, on Wednesday nights featuring Nitrograss (Charles Wood on Banjo and various well-known artists) plays two sets [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-02-11/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "6852cca77079",
       "title": "COOKIE DECORATING",
       "date": "2026-02-12T17:00:00",
@@ -142,6 +153,17 @@
       "url": "https://oldbarnwinery.com/events-calendar",
       "latitude": 36.4025,
       "longitude": -81.4928
+    },
+    {
+      "id": "7d67a57d20a1",
+      "title": "Christian Harmony Sing \u2013 Asheville NC",
+      "date": "2026-02-12T18:00:00",
+      "location": "First Presbyterian Church, 40 Church Street, Asheville, NC",
+      "description": "Please join us for our twice-monthly Christian Harmony Sing held the Second and Fourth Thursdays of every month from 6:30PM - 8:30PM. First Presbyterian Church, 40 Church Street, Asheville, NC [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-02-12/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
     },
     {
       "id": "cf59e019bbcc",
@@ -186,43 +208,10 @@
       "url": "https://www.stayblueridge.com/events-list",
       "latitude": 36.4458,
       "longitude": -81.4264
-    },
-    {
-      "id": "828117a1d267",
-      "title": "Chamber Event",
-      "date": "2026-02-20T19:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe Chamber",
-      "url": "https://ashechamber.com/calendar.php?caltype=1",
-      "latitude": 36.4298,
-      "longitude": -81.5001
-    },
-    {
-      "id": "35c99387f872",
-      "title": "Chamber Event",
-      "date": "2026-03-20T19:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe Chamber",
-      "url": "https://ashechamber.com/calendar.php?caltype=1",
-      "latitude": 36.4298,
-      "longitude": -81.5001
-    },
-    {
-      "id": "966b92f8bbf8",
-      "title": "Chamber Event",
-      "date": "2026-04-20T19:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe Chamber",
-      "url": "https://ashechamber.com/calendar.php?caltype=1",
-      "latitude": 36.4298,
-      "longitude": -81.5001
     }
   ],
-  "last_updated": "2026-02-06T06:00:04.317550",
-  "total_events": 20,
+  "last_updated": "2026-02-06T09:21:33.858956",
+  "total_events": 19,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
