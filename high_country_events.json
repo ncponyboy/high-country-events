@@ -45,6 +45,17 @@
       "longitude": -81.4264
     },
     {
+      "id": "0074dfdf3ace",
+      "title": "Appalachian Church Fundraising Dinner",
+      "date": "2026-02-07T18:00:00",
+      "location": "Appalachian Church, 787 Ray Taylor Rd, West Jeffers...",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4298,
+      "longitude": -81.5001
+    },
+    {
       "id": "e8adbe9b40e3",
       "title": "Annual Old-Time Fiddler\u2019s Convention",
       "date": "2026-02-07T19:00:00",
@@ -177,6 +188,17 @@
       "longitude": -81.4928
     },
     {
+      "id": "986ff89a9671",
+      "title": "Ashe County Library Blood Drive",
+      "date": "2026-02-14T10:00:00",
+      "location": "Ashe County Public Library - Co...",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4298,
+      "longitude": -81.5001
+    },
+    {
       "id": "c6431fbe18e6",
       "title": "SCOTT CARTER",
       "date": "2026-02-14T13:00:00",
@@ -208,10 +230,54 @@
       "url": "https://www.stayblueridge.com/events-list",
       "latitude": 36.4458,
       "longitude": -81.4264
+    },
+    {
+      "id": "cc95904b04f7",
+      "title": "2nd Annual Ashe County Children's Art Crawl",
+      "date": "2026-03-13T16:00:00",
+      "location": "Florence Thomas, Ashe Arts & Do..., Downtown, West Jefferson",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4298,
+      "longitude": -81.5001
+    },
+    {
+      "id": "0bf806e92606",
+      "title": "The New River Polar Plunge",
+      "date": "2026-03-21T08:00:00",
+      "location": "Zaloo's Canoes, 3874 NC Hwy 16 S, Jefferson",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4298,
+      "longitude": -81.5001
+    },
+    {
+      "id": "102731ee4b86",
+      "title": "Appalachian Folk Medicine with Rebecca Beyer",
+      "date": "2026-04-18T10:00:00",
+      "location": "Turtle Island Preserve, 2683 Little Laurel Road, Boone,...",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4298,
+      "longitude": -81.5001
+    },
+    {
+      "id": "6535a2d5b068",
+      "title": "Statewide Star Party",
+      "date": "2026-04-24T19:00:00",
+      "location": "Mount Jefferson State Natural A..., 1481 Mt Jefferson Rd, West Jeff...",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4298,
+      "longitude": -81.5001
     }
   ],
-  "last_updated": "2026-02-06T09:30:13.295664",
-  "total_events": 19,
+  "last_updated": "2026-02-06T09:34:53.816850",
+  "total_events": 25,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
