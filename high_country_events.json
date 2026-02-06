@@ -1,26 +1,26 @@
 {
   "events": [
     {
-      "id": "c84fe7c0b0fd",
-      "title": "Live Music",
-      "date": "2026-02-07T19:00:00",
-      "location": "Old Barn Winery",
-      "description": "Live music event",
+      "id": "4fad30847c69",
+      "title": "JERRY G",
+      "date": "2026-02-07T13:00:00",
+      "location": "Old Barn Winery, West Jefferson, NC",
+      "description": "Jerry Graybeal, from Ashe County, NC, picked up the guitar at 12 and developed a unique style. A skilled guitarist and vocalist, he plays classic & southern rock, country, and pop. After 30 years in F...",
       "source": "Old Barn Winery",
       "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.4458,
-      "longitude": -81.4264
+      "latitude": 36.4025,
+      "longitude": -81.4928
     },
     {
-      "id": "f0b72f3734b5",
-      "title": "Live Music",
-      "date": "2026-02-11T19:00:00",
-      "location": "Old Barn Winery",
-      "description": "Live music event",
+      "id": "cde10a047735",
+      "title": "OBW BOOK CLUB",
+      "date": "2026-02-11T17:00:00",
+      "location": "Old Barn Winery, West Jefferson, NC",
+      "description": "Join us for Old Barn Winery's book club meeting where we will discuss the book \"The Book Club for Troublesome Women\" by Marie Bostwick.",
       "source": "Old Barn Winery",
       "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.4458,
-      "longitude": -81.4264
+      "latitude": 36.4025,
+      "longitude": -81.4928
     },
     {
       "id": "7e7607714733",
@@ -45,37 +45,48 @@
       "longitude": -81.4264
     },
     {
-      "id": "44d4341b011e",
-      "title": "Live Music",
-      "date": "2026-02-12T19:00:00",
-      "location": "Old Barn Winery",
-      "description": "Live music event",
+      "id": "6852cca77079",
+      "title": "COOKIE DECORATING",
+      "date": "2026-02-12T17:00:00",
+      "location": "Old Barn Winery, West Jefferson, NC",
+      "description": "Learn from a pro how to decorate six delicious cookies for Valentine's day.",
       "source": "Old Barn Winery",
       "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.4458,
-      "longitude": -81.4264
+      "latitude": 36.4025,
+      "longitude": -81.4928
     },
     {
-      "id": "6fb6751beab4",
-      "title": "Live Music",
-      "date": "2026-02-13T19:00:00",
-      "location": "Old Barn Winery",
-      "description": "Live music event",
+      "id": "cf59e019bbcc",
+      "title": "CLARA VEE",
+      "date": "2026-02-13T13:00:00",
+      "location": "Old Barn Winery, West Jefferson, NC",
+      "description": "Meet Clara Vee - always ready to light up the stage! With a degree in musical theater and a heart set on performance, she kicked off her career entertaining in the sunny Florida Keys. From making wave...",
       "source": "Old Barn Winery",
       "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.4458,
-      "longitude": -81.4264
+      "latitude": 36.4025,
+      "longitude": -81.4928
     },
     {
-      "id": "781bd1acd377",
-      "title": "Live Music",
-      "date": "2026-02-14T19:00:00",
-      "location": "Old Barn Winery",
-      "description": "Live music event",
+      "id": "c6431fbe18e6",
+      "title": "SCOTT CARTER",
+      "date": "2026-02-14T13:00:00",
+      "location": "Old Barn Winery, West Jefferson, NC",
+      "description": "From the coastal town of Wilmington, NC and now local to Boone, Scott brings a wide range of musical influences. From Sturgill Simpson, Tyler Childers, Turnpike Troubadours, 90's country mixed with Cl...",
       "source": "Old Barn Winery",
       "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.4458,
-      "longitude": -81.4264
+      "latitude": 36.4025,
+      "longitude": -81.4928
+    },
+    {
+      "id": "bed8a4457693",
+      "title": "EDWARD MAIN",
+      "date": "2026-02-15T13:00:00",
+      "location": "Old Barn Winery, West Jefferson, NC",
+      "description": "Join us for live music presented by local musician, Edward Main. Based out in Tennessee, Main travels to local venues from all over the high country ranging from dive bars and restaurants to vineyards...",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.4025,
+      "longitude": -81.4928
     },
     {
       "id": "20a4752a440b",
@@ -89,17 +100,6 @@
       "longitude": -81.4264
     },
     {
-      "id": "38625a548e7e",
-      "title": "Live Music",
-      "date": "2026-02-15T19:00:00",
-      "location": "Old Barn Winery",
-      "description": "Live music event",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
       "id": "828117a1d267",
       "title": "Chamber Event",
       "date": "2026-02-20T19:00:00",
@@ -109,17 +109,6 @@
       "url": "https://ashechamber.com/calendar.php?caltype=2",
       "latitude": 36.4298,
       "longitude": -81.5001
-    },
-    {
-      "id": "1004901a1ef7",
-      "title": "Live Music",
-      "date": "2026-02-20T19:00:00",
-      "location": "Old Barn Winery",
-      "description": "Live music event",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.4458,
-      "longitude": -81.4264
     },
     {
       "id": "3f74b012728d",
@@ -210,8 +199,8 @@
       "longitude": -81.1701
     }
   ],
-  "last_updated": "2026-02-05T20:40:35.698594",
-  "total_events": 19,
+  "last_updated": "2026-02-05T20:43:48.805309",
+  "total_events": 18,
   "sources": [
     "High Country Host",
     "FestivalNet",
