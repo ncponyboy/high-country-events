@@ -199,17 +199,6 @@
       "longitude": -81.5001
     },
     {
-      "id": "3f74b012728d",
-      "title": "Festival Event",
-      "date": "2026-03-20T19:00:00",
-      "location": "Alleghany County, NC",
-      "description": "",
-      "source": "FestivalNet",
-      "url": "https://festivalnet.com/fairs-and-festivals?state_local=&start_date_month=&city_local=&miles=25&zip=28663",
-      "latitude": 36.4905,
-      "longitude": -81.1701
-    },
-    {
       "id": "35c99387f872",
       "title": "Chamber Event",
       "date": "2026-03-20T19:00:00",
@@ -221,50 +210,6 @@
       "longitude": -81.5001
     },
     {
-      "id": "1f833cee0d5d",
-      "title": "Festival Event",
-      "date": "2026-03-29T19:00:00",
-      "location": "Alleghany County, NC",
-      "description": "",
-      "source": "FestivalNet",
-      "url": "https://festivalnet.com/fairs-and-festivals?state_local=&start_date_month=&city_local=&miles=25&zip=28663",
-      "latitude": 36.4905,
-      "longitude": -81.1701
-    },
-    {
-      "id": "d4e18f50c004",
-      "title": "Festival Event",
-      "date": "2026-04-05T19:00:00",
-      "location": "Alleghany County, NC",
-      "description": "",
-      "source": "FestivalNet",
-      "url": "https://festivalnet.com/fairs-and-festivals?state_local=&start_date_month=&city_local=&miles=25&zip=28663",
-      "latitude": 36.4905,
-      "longitude": -81.1701
-    },
-    {
-      "id": "5c7ccedb0f0a",
-      "title": "Festival Event",
-      "date": "2026-04-11T19:00:00",
-      "location": "Alleghany County, NC",
-      "description": "",
-      "source": "FestivalNet",
-      "url": "https://festivalnet.com/fairs-and-festivals?state_local=&start_date_month=&city_local=&miles=25&zip=28663",
-      "latitude": 36.4905,
-      "longitude": -81.1701
-    },
-    {
-      "id": "aaedd1fb2a60",
-      "title": "Festival Event",
-      "date": "2026-04-20T19:00:00",
-      "location": "Alleghany County, NC",
-      "description": "",
-      "source": "FestivalNet",
-      "url": "https://festivalnet.com/fairs-and-festivals?state_local=&start_date_month=&city_local=&miles=25&zip=28663",
-      "latitude": 36.4905,
-      "longitude": -81.1701
-    },
-    {
       "id": "966b92f8bbf8",
       "title": "Chamber Event",
       "date": "2026-04-20T19:00:00",
@@ -274,24 +219,12 @@
       "url": "https://ashechamber.com/calendar.php?caltype=2",
       "latitude": 36.4298,
       "longitude": -81.5001
-    },
-    {
-      "id": "e2948c5ca149",
-      "title": "Festival Event",
-      "date": "2026-05-02T19:00:00",
-      "location": "Alleghany County, NC",
-      "description": "",
-      "source": "FestivalNet",
-      "url": "https://festivalnet.com/fairs-and-festivals?state_local=&start_date_month=&city_local=&miles=25&zip=28663",
-      "latitude": 36.4905,
-      "longitude": -81.1701
     }
   ],
-  "last_updated": "2026-02-05T20:46:55.727807",
-  "total_events": 26,
+  "last_updated": "2026-02-05T20:51:10.790100",
+  "total_events": 20,
   "sources": [
     "High Country Host",
-    "FestivalNet",
     "Ashe Chamber",
     "AmericanTowns Ashe",
     "Stay Blue Ridge",
