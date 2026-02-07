@@ -298,11 +298,22 @@
       "longitude": -81.5001
     },
     {
-      "id": "c6431fbe18e6",
+      "id": "04e9a2dd60ef",
       "title": "SCOTT CARTER",
-      "date": "2026-02-14T13:00:00",
+      "date": "2026-02-14T12:00:00",
       "location": "Old Barn Winery, West Jefferson, NC",
       "description": "From the coastal town of Wilmington, NC and now local to Boone, Scott brings a wide range of musical influences. From Sturgill Simpson, Tyler Childers, Turnpike Troubadours, 90's country mixed with Cl...",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.4025,
+      "longitude": -81.4928
+    },
+    {
+      "id": "09986a94b81b",
+      "title": "BRB",
+      "date": "2026-02-14T15:00:00",
+      "location": "Old Barn Winery, West Jefferson, NC",
+      "description": "BRB (Brown, Reese and Brown) Husband and wife team consisting of Jeff and Lori Brown along with fellow veteran high country musician, Greg Reese. They play all your favorite classic hits from the 70's...",
       "source": "Old Barn Winery",
       "url": "https://oldbarnwinery.com/events-calendar",
       "latitude": 36.4025,
@@ -672,8 +683,8 @@
       "longitude": -81.5065
     }
   ],
-  "last_updated": "2026-02-07T06:00:09.514376",
-  "total_events": 61,
+  "last_updated": "2026-02-07T12:24:44.079787",
+  "total_events": 62,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
