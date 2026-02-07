@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "4fad30847c69",
-      "title": "JERRY G",
-      "date": "2026-02-07T13:00:00",
-      "location": "Old Barn Winery, West Jefferson, NC",
-      "description": "Jerry Graybeal, from Ashe County, NC, picked up the guitar at 12 and developed a unique style. A skilled guitarist and vocalist, he plays classic & southern rock, country, and pop. After 30 years in F...",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.4025,
-      "longitude": -81.4928
-    },
-    {
       "id": "73bce6b5c49d",
       "title": "WPAQ 78th Birthday Celebration",
       "date": "2026-02-07T17:00:00",
@@ -683,8 +672,8 @@
       "longitude": -81.5065
     }
   ],
-  "last_updated": "2026-02-07T12:24:44.079787",
-  "total_events": 62,
+  "last_updated": "2026-02-07T14:53:38.845594",
+  "total_events": 61,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
