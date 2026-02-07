@@ -1,127 +1,6 @@
 {
   "events": [
     {
-      "id": "e6e15cd5653b",
-      "title": "Annual Old-Time Fiddler\u2019s Convention",
-      "date": "2026-02-06T19:00:00",
-      "location": "Plemmons Student Union at Appalachian State University, 263 Locust Street, Boone, NC",
-      "description": "The Fiddler's Convention is an annual celebration of traditional music and craftsmanship that brings together musicians, instrument makers, and music enthusiasts. Each year, the event features a vibra...",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/annual-old-time-fiddlers-convention/2026-02-06/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "b4189450766a",
-      "title": "North Carolina A&T Fellowship Gospel Choir",
-      "date": "2026-02-06T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "The Surry Arts Council and the African American Historical and Genealogical Society host the North Carolina A&T Fellowship Gospel Choir at the Andy Griffith Playhouse. About the Choir: The mission [\u2026]",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/north-carolina-at-fellowship-gospel-choir/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "9e1d6cf1c205",
-      "title": "Annual Old Time Fiddler's Convention",
-      "date": "2026-02-06T19:00:00",
-      "location": "Boone, NC",
-      "description": "Friday, February 06, 2026 - Saturday, February 07, 2026",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/annual-old-time-fiddlers-convention/26672/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "008873f01e41",
-      "title": "Broadway in Love",
-      "date": "2026-02-06T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/broadway-in-love/28580/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "b5a5dfc08b63",
-      "title": "First Friday Art Crawl",
-      "date": "2026-02-06T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/first-friday-art-crawl/27219/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "a9547ba9b566",
-      "title": "Lamb Cuddles",
-      "date": "2026-02-06T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/lamb-cuddles/27712/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "d345e2b81cb4",
-      "title": "App State Men's Basketball",
-      "date": "2026-02-06T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/app-state-mens-basketball/27526/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "f954f20fea2f",
-      "title": "King Street Market",
-      "date": "2026-02-06T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/king-street-market/24030/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "b026f29623c6",
-      "title": "Mill Camp Cellar Tour",
-      "date": "2026-02-06T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/mill-camp-cellar-tour/28653/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "34f655fece8b",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-02-06T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/the-carolina-comedy-magic-parlor/28493/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "f65e858efbab",
-      "title": "Arbor Shred for the Cup Big Air",
-      "date": "2026-02-06T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/arbor-shred-for-the-cup-big-air/28124/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "4fad30847c69",
       "title": "JERRY G",
       "date": "2026-02-07T13:00:00",
@@ -672,8 +551,8 @@
       "longitude": -81.5065
     }
   ],
-  "last_updated": "2026-02-06T13:15:32.181697",
-  "total_events": 61,
+  "last_updated": "2026-02-06T23:33:31.149820",
+  "total_events": 50,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
