@@ -67,6 +67,50 @@
       "longitude": -81.6746
     },
     {
+      "id": "3eff9a0c3b88",
+      "title": "An Evening in Step - Dance Series at Westglow Resort",
+      "date": "2026-02-08T19:00:00",
+      "location": "Westglow Resort, Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/an-evening-in-step-dance-series-at-westglow-resort/28629/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "bc934af26b15",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-02-08T19:00:00",
+      "location": "the Jones House, Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/old-time-jam-at-the-jones-house/27644/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "f8c577efdb77",
+      "title": "Beech Mountain Winter Music Series",
+      "date": "2026-02-08T19:00:00",
+      "location": "Beech Mountain Winter Music Series",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/beech-mountain-winter-music-series/27221/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "b02f876c028b",
+      "title": "Great Backyard Bird Count",
+      "date": "2026-02-08T19:00:00",
+      "location": "Backyard Bird Count, Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/great-backyard-bird-count/28659/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "6418a326ade7",
       "title": "Stecoah Stories & Seeds Speaker Series",
       "date": "2026-02-11T11:00:00",
@@ -331,6 +375,17 @@
       "longitude": -81.5001
     },
     {
+      "id": "9de9d6d1f41a",
+      "title": "Tweetsie Railroad Opening Day",
+      "date": "2026-04-04T19:00:00",
+      "location": "Tweetsie Railroad Opening Day Saturday, Boone, NC",
+      "description": "Saturday, April 04, 2026",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/tweetsie-railroad-opening-day/19924/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "102731ee4b86",
       "title": "Appalachian Folk Medicine with Rebecca Beyer",
       "date": "2026-04-18T10:00:00",
@@ -518,6 +573,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "455c7bc3421e",
+      "title": "Sugar Mountain Summit Crawl",
+      "date": "2026-07-04T19:00:00",
+      "location": "Sugar Mountain Summit Crawl Saturday, Boone, NC",
+      "description": "Saturday, July 04, 2026",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/sugar-mountain-summit-crawl/21549/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "d00ba84e55f4",
       "title": "Boone 4th of July Parade",
       "date": "2026-07-04T19:00:00",
@@ -536,6 +602,17 @@
       "description": "Saturday, July 04, 2026",
       "source": "Explore Boone",
       "url": "https://www.exploreboone.com/event/blowing-rocks-4th-of-july-festival/27454/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "8306dadc442f",
+      "title": "Grandfather Mountain Highland Games",
+      "date": "2026-07-09T19:00:00",
+      "location": "Grandfather Mountain Highland Games Thursday, Boone, NC",
+      "description": "Thursday, July 09, 2026 - Sunday, July 12, 2026",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/grandfather-mountain-highland-games/19721/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -617,8 +694,8 @@
       "longitude": -81.5065
     }
   ],
-  "last_updated": "2026-02-08T16:54:50.579765",
-  "total_events": 56,
+  "last_updated": "2026-02-08T18:41:09.878751",
+  "total_events": 63,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
