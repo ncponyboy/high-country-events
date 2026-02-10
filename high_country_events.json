@@ -1,116 +1,6 @@
 {
   "events": [
     {
-      "id": "e9605173ba03",
-      "title": "Lamb Cuddles",
-      "date": "2026-02-09T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/lamb-cuddles/27712/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "b8aa1febeb7b",
-      "title": "Pottery Night Out",
-      "date": "2026-02-09T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/pottery-night-out/28482/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "b60680995b69",
-      "title": "App State Women's Basketball",
-      "date": "2026-02-09T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/app-state-womens-basketball/27527/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "f2c784753ccb",
-      "title": "An Evening in Step - Dance Series at Westglow Resort",
-      "date": "2026-02-09T19:00:00",
-      "location": "Westglow Resort, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/an-evening-in-step-dance-series-at-westglow-resort/28629/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "c1a594532c07",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-02-09T19:00:00",
-      "location": "the Jones House, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/old-time-jam-at-the-jones-house/27644/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "f7b320b0c79f",
-      "title": "Beech Mountain Winter Music Series",
-      "date": "2026-02-09T19:00:00",
-      "location": "Beech Mountain Winter Music Series",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/beech-mountain-winter-music-series/27221/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "828347d14ee0",
-      "title": "Great Backyard Bird Count",
-      "date": "2026-02-09T19:00:00",
-      "location": "Backyard Bird Count, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/great-backyard-bird-count/28659/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "abe989184764",
-      "title": "President's Day Family Weekend",
-      "date": "2026-02-09T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/presidents-day-family-weekend/24205/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "369e4686576d",
-      "title": "The Art of Romance at Daingerfield\u2019s",
-      "date": "2026-02-09T19:00:00",
-      "location": "Daingerfield\u2019s, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/the-art-of-romance-at-daingerfield%e2%80%99s/28630/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "a0904bbcd18d",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-02-09T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/the-carolina-comedy-magic-parlor/28493/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "6418a326ade7",
       "title": "Stecoah Stories & Seeds Speaker Series",
       "date": "2026-02-11T11:00:00",
@@ -705,8 +595,8 @@
       "longitude": -81.5065
     }
   ],
-  "last_updated": "2026-02-09T13:03:58.284844",
-  "total_events": 64,
+  "last_updated": "2026-02-09T19:56:24.398931",
+  "total_events": 54,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
