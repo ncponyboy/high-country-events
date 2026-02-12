@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "6852cca77079",
-      "title": "COOKIE DECORATING",
-      "date": "2026-02-12T17:00:00",
-      "location": "Old Barn Winery, West Jefferson, NC",
-      "description": "Learn from a pro how to decorate six delicious cookies for Valentine's day.",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.4025,
-      "longitude": -81.4928
-    },
-    {
       "id": "7d67a57d20a1",
       "title": "Christian Harmony Sing \u2013 Asheville NC",
       "date": "2026-02-12T18:00:00",
@@ -694,8 +683,8 @@
       "longitude": -81.5065
     }
   ],
-  "last_updated": "2026-02-12T08:49:19.085310",
-  "total_events": 63,
+  "last_updated": "2026-02-12T17:19:05.007441",
+  "total_events": 62,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
