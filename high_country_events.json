@@ -1,149 +1,6 @@
 {
   "events": [
     {
-      "id": "cde10a047735",
-      "title": "OBW BOOK CLUB",
-      "date": "2026-02-11T17:00:00",
-      "location": "Old Barn Winery, West Jefferson, NC",
-      "description": "Join us for Old Barn Winery's book club meeting where we will discuss the book \"The Book Club for Troublesome Women\" by Marie Bostwick.",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.4025,
-      "longitude": -81.4928
-    },
-    {
-      "id": "233b23535cdb",
-      "title": "Ballad Night at the Old Marshall Jail Hotel",
-      "date": "2026-02-11T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "The Old Marshall Jail Ballad Swap is an incredible opportunity to immerse yourself in our Appalachian Heritage. This unique event, hosted by Josh Copus, Donna Ray Norton, Sheila Kay Adams, [\u2026]",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/ballad-night-at-the-old-marshall-jail-hotel/2026-02-11/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "38443afd8553",
-      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
-      "date": "2026-02-11T18:00:00",
-      "location": "294 South 4th Street, Highlands, NC",
-      "description": "We have bluegrass at The Ugly Dog Pub, 294 S. 4th St. in Highlands, on Wednesday nights featuring Nitrograss (Charles Wood on Banjo and various well-known artists) plays two sets [\u2026]",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-02-11/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "71532649e7df",
-      "title": "App State Women's Basketball",
-      "date": "2026-02-11T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/app-state-womens-basketball/27527/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "c9e44373db1d",
-      "title": "Lamb Cuddles",
-      "date": "2026-02-11T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/lamb-cuddles/27712/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "fd5469d8626a",
-      "title": "An Evening in Step - Dance Series at Westglow Resort",
-      "date": "2026-02-11T19:00:00",
-      "location": "Westglow Resort, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/an-evening-in-step-dance-series-at-westglow-resort/28629/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "a658303dad3f",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-02-11T19:00:00",
-      "location": "the Jones House, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/old-time-jam-at-the-jones-house/27644/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "8ee7e84e2887",
-      "title": "Beech Mountain Winter Music Series",
-      "date": "2026-02-11T19:00:00",
-      "location": "Beech Mountain Winter Music Series",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/beech-mountain-winter-music-series/27221/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "59ddd47c025e",
-      "title": "Great Backyard Bird Count",
-      "date": "2026-02-11T19:00:00",
-      "location": "Backyard Bird Count, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/great-backyard-bird-count/28659/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "e4a0a899a287",
-      "title": "President's Day Family Weekend",
-      "date": "2026-02-11T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/presidents-day-family-weekend/24205/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "5584754fb273",
-      "title": "The Art of Romance at Daingerfield\u2019s",
-      "date": "2026-02-11T19:00:00",
-      "location": "Daingerfield\u2019s, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/the-art-of-romance-at-daingerfield%e2%80%99s/28630/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "563384fa4627",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-02-11T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/the-carolina-comedy-magic-parlor/28493/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "5c4bed477e78",
-      "title": "King Street Market",
-      "date": "2026-02-11T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/king-street-market/24030/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "6852cca77079",
       "title": "COOKIE DECORATING",
       "date": "2026-02-12T17:00:00",
@@ -186,6 +43,116 @@
       "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-02-12/",
       "latitude": 36.4458,
       "longitude": -81.4264
+    },
+    {
+      "id": "fb17eb377cb6",
+      "title": "An Evening in Step - Dance Series at Westglow Resort",
+      "date": "2026-02-12T19:00:00",
+      "location": "Westglow Resort, Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/an-evening-in-step-dance-series-at-westglow-resort/28629/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "47c23db06770",
+      "title": "Lamb Cuddles",
+      "date": "2026-02-12T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/lamb-cuddles/27712/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "b587a6c8f7ac",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-02-12T19:00:00",
+      "location": "the Jones House, Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/old-time-jam-at-the-jones-house/27644/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "53dae6add16b",
+      "title": "Beech Mountain Winter Music Series",
+      "date": "2026-02-12T19:00:00",
+      "location": "Beech Mountain Winter Music Series",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/beech-mountain-winter-music-series/27221/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "0554e9589f3a",
+      "title": "Great Backyard Bird Count",
+      "date": "2026-02-12T19:00:00",
+      "location": "Backyard Bird Count, Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/great-backyard-bird-count/28659/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "7b4e1aa3a99b",
+      "title": "President's Day Family Weekend",
+      "date": "2026-02-12T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/presidents-day-family-weekend/24205/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "a4821b910a43",
+      "title": "The Art of Romance at Daingerfield\u2019s",
+      "date": "2026-02-12T19:00:00",
+      "location": "Daingerfield\u2019s, Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/the-art-of-romance-at-daingerfield%e2%80%99s/28630/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "9ad544e7bf54",
+      "title": "The Carolina Comedy Magic Parlor",
+      "date": "2026-02-12T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/the-carolina-comedy-magic-parlor/28493/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "1156d3242688",
+      "title": "App State Women's Basketball",
+      "date": "2026-02-12T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/app-state-womens-basketball/27527/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "f85759f093ef",
+      "title": "King Street Market",
+      "date": "2026-02-12T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/king-street-market/24030/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "005967ca0295",
@@ -316,6 +283,39 @@
       "description": "",
       "source": "Stay Blue Ridge",
       "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "ae999d19a0e2",
+      "title": "Stecoah Community Jam",
+      "date": "2026-02-17T17:00:00",
+      "location": "Stecoah Valley Cultural Arts Center, 121 Schoolhouse Road, Robbinsville, NC",
+      "description": "Community Jam Every 3rd Tuesday 5:30 pm to 7:30 pm Mark your calendars for the 3rd Tuesday of every month to join us for a Schoolhouse Community Jam. Bring your instruments [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/stecoah-community-jam/2026-02-17/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "98043cc46f93",
+      "title": "Earl Scruggs Center Grant Reopening",
+      "date": "2026-02-18T10:00:00",
+      "location": "The Earl Scruggs Center: Music & Stories from the American South, 103 South Lafayette Street, Shelby, NC",
+      "description": "We are excited to welcome you back for our Grand Reopening Drop-In Celebration on Wednesday, February 18, from 10:00 AM - 12:00 PM! Join us as we celebrate [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/earl-scruggs-center-grant-reopening/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "6761faac5ed5",
+      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
+      "date": "2026-02-18T18:00:00",
+      "location": "294 South 4th Street, Highlands, NC",
+      "description": "We have bluegrass at The Ugly Dog Pub, 294 S. 4th St. in Highlands, on Wednesday nights featuring Nitrograss (Charles Wood on Banjo and various well-known artists) plays two sets [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-02-18/",
       "latitude": 36.4458,
       "longitude": -81.4264
     },
@@ -694,7 +694,7 @@
       "longitude": -81.5065
     }
   ],
-  "last_updated": "2026-02-11T11:13:16.821516",
+  "last_updated": "2026-02-12T06:00:08.998952",
   "total_events": 63,
   "sources": [
     "High Country Host",
