@@ -1,149 +1,6 @@
 {
   "events": [
     {
-      "id": "7d67a57d20a1",
-      "title": "Christian Harmony Sing \u2013 Asheville NC",
-      "date": "2026-02-12T18:00:00",
-      "location": "First Presbyterian Church, 40 Church Street, Asheville, NC",
-      "description": "Please join us for our twice-monthly Christian Harmony Sing held the Second and Fourth Thursdays of every month from 6:30PM - 8:30PM. First Presbyterian Church, 40 Church Street, Asheville, NC [\u2026]",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-02-12/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "a8c925e78de0",
-      "title": "Community Jam \u2013 Crown Restaurant",
-      "date": "2026-02-12T19:00:00",
-      "location": "The Crown Restaurant, 135 Emily Ln., Brasstown, NC",
-      "description": "The Folk School sponsors the Community Jam every Thursday at the Crown Restaurant. From 7-9 p.m. folks gather around the fire to play acoustic music outside while enjoying a breathtaking [\u2026]",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-02-12/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "3c5a7787840d",
-      "title": "Weekly Jam Sessions at the Jones House",
-      "date": "2026-02-12T19:00:00",
-      "location": "Jones House Cultural Center, 604 West King Street, Boone, NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin - or whatever old-time [\u2026]",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-02-12/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "fb17eb377cb6",
-      "title": "An Evening in Step - Dance Series at Westglow Resort",
-      "date": "2026-02-12T19:00:00",
-      "location": "Westglow Resort, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/an-evening-in-step-dance-series-at-westglow-resort/28629/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "47c23db06770",
-      "title": "Lamb Cuddles",
-      "date": "2026-02-12T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/lamb-cuddles/27712/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "b587a6c8f7ac",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-02-12T19:00:00",
-      "location": "the Jones House, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/old-time-jam-at-the-jones-house/27644/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "53dae6add16b",
-      "title": "Beech Mountain Winter Music Series",
-      "date": "2026-02-12T19:00:00",
-      "location": "Beech Mountain Winter Music Series",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/beech-mountain-winter-music-series/27221/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "0554e9589f3a",
-      "title": "Great Backyard Bird Count",
-      "date": "2026-02-12T19:00:00",
-      "location": "Backyard Bird Count, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/great-backyard-bird-count/28659/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "7b4e1aa3a99b",
-      "title": "President's Day Family Weekend",
-      "date": "2026-02-12T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/presidents-day-family-weekend/24205/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "a4821b910a43",
-      "title": "The Art of Romance at Daingerfield\u2019s",
-      "date": "2026-02-12T19:00:00",
-      "location": "Daingerfield\u2019s, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/the-art-of-romance-at-daingerfield%e2%80%99s/28630/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "9ad544e7bf54",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-02-12T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/the-carolina-comedy-magic-parlor/28493/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "1156d3242688",
-      "title": "App State Women's Basketball",
-      "date": "2026-02-12T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/app-state-womens-basketball/27527/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "f85759f093ef",
-      "title": "King Street Market",
-      "date": "2026-02-12T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/king-street-market/24030/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "005967ca0295",
       "title": "Bluegrass First Class",
       "date": "2026-02-13T12:00:00",
@@ -164,6 +21,116 @@
       "url": "https://oldbarnwinery.com/events-calendar",
       "latitude": 36.4025,
       "longitude": -81.4928
+    },
+    {
+      "id": "f3b71c497904",
+      "title": "Beech Mountain Winter Music Series",
+      "date": "2026-02-13T19:00:00",
+      "location": "Beech Mountain Winter Music Series",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/beech-mountain-winter-music-series/27221/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "bdb908b7530a",
+      "title": "Great Backyard Bird Count",
+      "date": "2026-02-13T19:00:00",
+      "location": "Backyard Bird Count, Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/great-backyard-bird-count/28659/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "34898f101df2",
+      "title": "Lamb Cuddles",
+      "date": "2026-02-13T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/lamb-cuddles/27712/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "93f03945c305",
+      "title": "President's Day Family Weekend",
+      "date": "2026-02-13T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/presidents-day-family-weekend/24205/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "078dffe343c8",
+      "title": "The Art of Romance at Daingerfield\u2019s",
+      "date": "2026-02-13T19:00:00",
+      "location": "Daingerfield\u2019s, Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/the-art-of-romance-at-daingerfield%e2%80%99s/28630/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "b4c5b9ccc0a9",
+      "title": "The Carolina Comedy Magic Parlor",
+      "date": "2026-02-13T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/the-carolina-comedy-magic-parlor/28493/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "da051d4bc631",
+      "title": "App State Women's Basketball",
+      "date": "2026-02-13T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/app-state-womens-basketball/27527/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "bdaf1ea466d4",
+      "title": "King Street Market",
+      "date": "2026-02-13T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/king-street-market/24030/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "fefc6566326e",
+      "title": "Margo Price",
+      "date": "2026-02-13T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/margo-price/28468/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "948cb8afa79d",
+      "title": "Valentine's Curated Tastings",
+      "date": "2026-02-13T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/valentines-curated-tastings/28655/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "986ff89a9671",
@@ -305,6 +272,39 @@
       "description": "We have bluegrass at The Ugly Dog Pub, 294 S. 4th St. in Highlands, on Wednesday nights featuring Nitrograss (Charles Wood on Banjo and various well-known artists) plays two sets [\u2026]",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-02-18/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "074e752a76b8",
+      "title": "Zuma Coffee Bluegrass Jam Session",
+      "date": "2026-02-19T18:00:00",
+      "location": "7 North Main Street, Marshall, NC",
+      "description": "Every third Thursday evening of the month, Zuma Coffee becomes a crowded bluegrass and old-time music venue. Those who want to get a seat inside the place should arrive a [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/zuma-coffee-bluegrass-jam-session/2026-02-19/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "ccaaec8e1226",
+      "title": "Contra Dance in Franklin, NC",
+      "date": "2026-02-19T18:00:00",
+      "location": "Macon County Public Library, 149 Siler Farm Road, Franklin, NC",
+      "description": "Contra Dance \u2014 including contras, squares, rounds, and several other types of group folk dances \u2014 to live music, every Third Thursday of the month, year-round at the Macon County [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/contra-dance/2026-02-19/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "fc1d3095205e",
+      "title": "Community Jam \u2013 Crown Restaurant",
+      "date": "2026-02-19T19:00:00",
+      "location": "The Crown Restaurant, 135 Emily Ln., Brasstown, NC",
+      "description": "The Folk School sponsors the Community Jam every Thursday at the Crown Restaurant. From 7-9 p.m. folks gather around the fire to play acoustic music outside while enjoying a breathtaking [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-02-19/",
       "latitude": 36.4458,
       "longitude": -81.4264
     },
@@ -683,7 +683,7 @@
       "longitude": -81.5065
     }
   ],
-  "last_updated": "2026-02-12T17:52:21.612776",
+  "last_updated": "2026-02-13T06:00:08.137993",
   "total_events": 62,
   "sources": [
     "High Country Host",
