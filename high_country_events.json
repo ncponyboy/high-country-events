@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "005967ca0295",
-      "title": "Bluegrass First Class",
-      "date": "2026-02-13T12:00:00",
-      "location": "Crowne Plaza Resort, 1 Resort Drive Asheville, Asheville, NC",
-      "description": "We have planned another exciting Bluegrass First Class for 2026. Bring your friends and enjoy the weekend in beautiful Asheville, NC! For Hotel Reservations, contact the Crowne Plaza directly at [\u2026]",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/bluegrass-first-class/2026-02-13/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "cf59e019bbcc",
-      "title": "CLARA VEE",
-      "date": "2026-02-13T13:00:00",
-      "location": "Old Barn Winery, West Jefferson, NC",
-      "description": "Meet Clara Vee - always ready to light up the stage! With a degree in musical theater and a heart set on performance, she kicked off her career entertaining in the sunny Florida Keys. From making wave...",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.4025,
-      "longitude": -81.4928
-    },
-    {
       "id": "f3b71c497904",
       "title": "Beech Mountain Winter Music Series",
       "date": "2026-02-13T19:00:00",
@@ -683,8 +661,8 @@
       "longitude": -81.5065
     }
   ],
-  "last_updated": "2026-02-13T06:00:08.137993",
-  "total_events": 62,
+  "last_updated": "2026-02-13T16:13:15.018932",
+  "total_events": 60,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
