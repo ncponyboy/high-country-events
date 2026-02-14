@@ -1,116 +1,6 @@
 {
   "events": [
     {
-      "id": "f3b71c497904",
-      "title": "Beech Mountain Winter Music Series",
-      "date": "2026-02-13T19:00:00",
-      "location": "Beech Mountain Winter Music Series",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/beech-mountain-winter-music-series/27221/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "bdb908b7530a",
-      "title": "Great Backyard Bird Count",
-      "date": "2026-02-13T19:00:00",
-      "location": "Backyard Bird Count, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/great-backyard-bird-count/28659/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "34898f101df2",
-      "title": "Lamb Cuddles",
-      "date": "2026-02-13T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/lamb-cuddles/27712/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "93f03945c305",
-      "title": "President's Day Family Weekend",
-      "date": "2026-02-13T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/presidents-day-family-weekend/24205/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "078dffe343c8",
-      "title": "The Art of Romance at Daingerfield\u2019s",
-      "date": "2026-02-13T19:00:00",
-      "location": "Daingerfield\u2019s, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/the-art-of-romance-at-daingerfield%e2%80%99s/28630/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "b4c5b9ccc0a9",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-02-13T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/the-carolina-comedy-magic-parlor/28493/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "da051d4bc631",
-      "title": "App State Women's Basketball",
-      "date": "2026-02-13T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/app-state-womens-basketball/27527/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "bdaf1ea466d4",
-      "title": "King Street Market",
-      "date": "2026-02-13T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/king-street-market/24030/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "fefc6566326e",
-      "title": "Margo Price",
-      "date": "2026-02-13T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/margo-price/28468/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "948cb8afa79d",
-      "title": "Valentine's Curated Tastings",
-      "date": "2026-02-13T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/valentines-curated-tastings/28655/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "986ff89a9671",
       "title": "Ashe County Library Blood Drive",
       "date": "2026-02-14T10:00:00",
@@ -159,7 +49,7 @@
       "title": "Alleghany Jubilee",
       "date": "2026-02-14T19:00:00",
       "location": "Blue Ridge, NC",
-      "description": "If you love to flatfoot, clog, square dance, or just tap your foot to old-time mountain music, the Alleghany Jubilee is where you want to be! The Jubilee is located [\u2026]",
+      "description": "If you love to flatfoot, clog, square dance, or just tap your foot to old-time mountain music, the Alleghany Jubilee is where you want to be! Feb 14 - Leftover [\u2026]",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-02-14/",
       "latitude": 36.4458,
@@ -175,6 +65,116 @@
       "url": "https://www.blueridgemusicnc.com/event/zoe-cloyd-annual-valentines-concert/",
       "latitude": 36.4458,
       "longitude": -81.4264
+    },
+    {
+      "id": "acd8b038d816",
+      "title": "App State Women's Basketball",
+      "date": "2026-02-14T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/app-state-womens-basketball/27527/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "aedffc5e429d",
+      "title": "Beech Mountain Winter Music Series",
+      "date": "2026-02-14T19:00:00",
+      "location": "Beech Mountain Winter Music Series",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/beech-mountain-winter-music-series/27221/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "02e07fffe674",
+      "title": "King Street Market",
+      "date": "2026-02-14T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/king-street-market/24030/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "31ba358b65e5",
+      "title": "Lamb Cuddles",
+      "date": "2026-02-14T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/lamb-cuddles/27712/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "1e00a4be717b",
+      "title": "Margo Price",
+      "date": "2026-02-14T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/margo-price/28468/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "730893123592",
+      "title": "President's Day Family Weekend",
+      "date": "2026-02-14T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/presidents-day-family-weekend/24205/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "16e61b88dcce",
+      "title": "The Art of Romance at Daingerfield\u2019s",
+      "date": "2026-02-14T19:00:00",
+      "location": "Daingerfield\u2019s, Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/the-art-of-romance-at-daingerfield%e2%80%99s/28630/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "5cfdeffcccc0",
+      "title": "The Carolina Comedy Magic Parlor",
+      "date": "2026-02-14T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/the-carolina-comedy-magic-parlor/28493/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "c93d84cb6290",
+      "title": "Valentine's Curated Tastings",
+      "date": "2026-02-14T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/valentines-curated-tastings/28655/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "fa143c03a23e",
+      "title": "Sunday Funday at The Children's Playhouse",
+      "date": "2026-02-14T19:00:00",
+      "location": "The Children's Playhouse, Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/sunday-funday-at-the-childrens-playhouse/28508/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "43f0c5f29a15",
@@ -283,6 +283,17 @@
       "description": "The Folk School sponsors the Community Jam every Thursday at the Crown Restaurant. From 7-9 p.m. folks gather around the fire to play acoustic music outside while enjoying a breathtaking [\u2026]",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-02-19/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "f814e3cb6bc3",
+      "title": "Weekly Jam Sessions at the Jones House",
+      "date": "2026-02-19T19:00:00",
+      "location": "Jones House Cultural Center, 604 West King Street, Boone, NC",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin - or whatever old-time [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-02-19/",
       "latitude": 36.4458,
       "longitude": -81.4264
     },
@@ -661,8 +672,8 @@
       "longitude": -81.5065
     }
   ],
-  "last_updated": "2026-02-13T16:13:15.018932",
-  "total_events": 60,
+  "last_updated": "2026-02-14T05:29:46.244390",
+  "total_events": 61,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
