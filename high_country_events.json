@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "43f0c5f29a15",
-      "title": "Bluegrass First Class",
-      "date": "2026-02-15T09:00:00",
-      "location": "Crowne Plaza Resort, 1 Resort Drive Asheville, Asheville, NC",
-      "description": "We have planned another exciting Bluegrass First Class for 2026. Bring your friends and enjoy the weekend in beautiful Asheville, NC! For Hotel Reservations, contact the Crowne Plaza directly at [\u2026]",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/bluegrass-first-class/2026-02-15/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "bed8a4457693",
-      "title": "EDWARD MAIN",
-      "date": "2026-02-15T13:00:00",
-      "location": "Old Barn Winery, West Jefferson, NC",
-      "description": "Join us for live music presented by local musician, Edward Main. Based out in Tennessee, Main travels to local venues from all over the high country ranging from dive bars and restaurants to vineyards...",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.4025,
-      "longitude": -81.4928
-    },
-    {
       "id": "d5948ced9f96",
       "title": "Old Farmer\u2019s Ball Family Dance",
       "date": "2026-02-15T15:00:00",
@@ -639,8 +617,8 @@
       "longitude": -81.5065
     }
   ],
-  "last_updated": "2026-02-15T06:00:07.300180",
-  "total_events": 58,
+  "last_updated": "2026-02-15T14:54:33.716315",
+  "total_events": 56,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
