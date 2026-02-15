@@ -1,182 +1,6 @@
 {
   "events": [
     {
-      "id": "986ff89a9671",
-      "title": "Ashe County Library Blood Drive",
-      "date": "2026-02-14T10:00:00",
-      "location": "Ashe County Public Library - Co...",
-      "description": "",
-      "source": "Ashe Chamber",
-      "url": "https://ashechamber.com/calendar.php?caltype=1",
-      "latitude": 36.4298,
-      "longitude": -81.5001
-    },
-    {
-      "id": "b240a11bc0ec",
-      "title": "Bluegrass First Class",
-      "date": "2026-02-14T11:00:00",
-      "location": "Crowne Plaza Resort, 1 Resort Drive Asheville, Asheville, NC",
-      "description": "We have planned another exciting Bluegrass First Class for 2026. Bring your friends and enjoy the weekend in beautiful Asheville, NC! For Hotel Reservations, contact the Crowne Plaza directly at [\u2026]",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/bluegrass-first-class/2026-02-14/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "04e9a2dd60ef",
-      "title": "SCOTT CARTER",
-      "date": "2026-02-14T12:00:00",
-      "location": "Old Barn Winery, West Jefferson, NC",
-      "description": "From the coastal town of Wilmington, NC and now local to Boone, Scott brings a wide range of musical influences. From Sturgill Simpson, Tyler Childers, Turnpike Troubadours, 90's country mixed with Cl...",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.4025,
-      "longitude": -81.4928
-    },
-    {
-      "id": "09986a94b81b",
-      "title": "BRB",
-      "date": "2026-02-14T15:00:00",
-      "location": "Old Barn Winery, West Jefferson, NC",
-      "description": "BRB (Brown, Reese and Brown) Husband and wife team consisting of Jeff and Lori Brown along with fellow veteran high country musician, Greg Reese. They play all your favorite classic hits from the 70's...",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.4025,
-      "longitude": -81.4928
-    },
-    {
-      "id": "02e04b054ee2",
-      "title": "Alleghany Jubilee",
-      "date": "2026-02-14T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "If you love to flatfoot, clog, square dance, or just tap your foot to old-time mountain music, the Alleghany Jubilee is where you want to be! Feb 14 - Leftover [\u2026]",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-02-14/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "33ca683385ee",
-      "title": "Zoe & Cloyd Annual Valentine\u2019s Concert",
-      "date": "2026-02-14T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "Zoe & Cloyd\u2014the creative partnership of fiddler/vocalist Natalya Zoe Weinstein and multi-instrumentalist/vocalist John Cloyd Miller\u2014prove that opposites truly do attract. Hailing from two distinct mus...",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/zoe-cloyd-annual-valentines-concert/",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "acd8b038d816",
-      "title": "App State Women's Basketball",
-      "date": "2026-02-14T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/app-state-womens-basketball/27527/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "aedffc5e429d",
-      "title": "Beech Mountain Winter Music Series",
-      "date": "2026-02-14T19:00:00",
-      "location": "Beech Mountain Winter Music Series",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/beech-mountain-winter-music-series/27221/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "02e07fffe674",
-      "title": "King Street Market",
-      "date": "2026-02-14T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/king-street-market/24030/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "31ba358b65e5",
-      "title": "Lamb Cuddles",
-      "date": "2026-02-14T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/lamb-cuddles/27712/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "1e00a4be717b",
-      "title": "Margo Price",
-      "date": "2026-02-14T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/margo-price/28468/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "730893123592",
-      "title": "President's Day Family Weekend",
-      "date": "2026-02-14T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/presidents-day-family-weekend/24205/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "16e61b88dcce",
-      "title": "The Art of Romance at Daingerfield\u2019s",
-      "date": "2026-02-14T19:00:00",
-      "location": "Daingerfield\u2019s, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/the-art-of-romance-at-daingerfield%e2%80%99s/28630/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "5cfdeffcccc0",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-02-14T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/the-carolina-comedy-magic-parlor/28493/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "c93d84cb6290",
-      "title": "Valentine's Curated Tastings",
-      "date": "2026-02-14T19:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/valentines-curated-tastings/28655/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "fa143c03a23e",
-      "title": "Sunday Funday at The Children's Playhouse",
-      "date": "2026-02-14T19:00:00",
-      "location": "The Children's Playhouse, Boone, NC",
-      "description": "",
-      "source": "Explore Boone",
-      "url": "https://www.exploreboone.com/event/sunday-funday-at-the-childrens-playhouse/28508/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "43f0c5f29a15",
       "title": "Bluegrass First Class",
       "date": "2026-02-15T09:00:00",
@@ -219,6 +43,116 @@
       "url": "https://www.stayblueridge.com/events-list",
       "latitude": 36.4458,
       "longitude": -81.4264
+    },
+    {
+      "id": "7376fc49cb78",
+      "title": "Lamb Cuddles",
+      "date": "2026-02-15T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/lamb-cuddles/27712/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "520962909ea0",
+      "title": "President's Day Family Weekend",
+      "date": "2026-02-15T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/presidents-day-family-weekend/24205/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "e737a1d790ce",
+      "title": "Sunday Funday at The Children's Playhouse",
+      "date": "2026-02-15T19:00:00",
+      "location": "The Children's Playhouse, Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/sunday-funday-at-the-childrens-playhouse/28508/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "cbf49978de79",
+      "title": "The Art of Romance at Daingerfield\u2019s",
+      "date": "2026-02-15T19:00:00",
+      "location": "Daingerfield\u2019s, Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/the-art-of-romance-at-daingerfield%e2%80%99s/28630/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "4cb25164ea11",
+      "title": "Valentine's Curated Tastings",
+      "date": "2026-02-15T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/valentines-curated-tastings/28655/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "099c0a2f8a2f",
+      "title": "Yoga on the Mountain",
+      "date": "2026-02-15T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/yoga-on-the-mountain/27529/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "9e998ab9c88c",
+      "title": "Nuts about Squirrels",
+      "date": "2026-02-15T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/nuts-about-squirrels/28660/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "070e1187feb3",
+      "title": "Pottery Night Out",
+      "date": "2026-02-15T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/pottery-night-out/28482/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "b8c4ad387545",
+      "title": "An Evening in Step - Dance Series at Westglow Resort",
+      "date": "2026-02-15T19:00:00",
+      "location": "Westglow Resort, Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/an-evening-in-step-dance-series-at-westglow-resort/28629/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "fbb510b48570",
+      "title": "App State Men's Basketball",
+      "date": "2026-02-15T19:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "Explore Boone",
+      "url": "https://www.exploreboone.com/event/app-state-mens-basketball/27526/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "ae999d19a0e2",
@@ -294,6 +228,39 @@
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin - or whatever old-time [\u2026]",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-02-19/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "df61d05dbd80",
+      "title": "The Appalucians",
+      "date": "2026-02-20T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "The Appalucians play music from the mountains of Western North Carolina, featuring spirited songwriting, sublime harmonies, and a layered interplay between dobro, guitars, harmonica and banjo. The ban...",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/the-appalucians/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "b1f3a12ab1da",
+      "title": "Friends of Hot Springs NC Contra Dance",
+      "date": "2026-02-20T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "Join us on the 3rd Friday of the month in Hot Springs North Carolina, just yards from the Appalachian Trail. COMMUNITY FOLK DANCING, LIVE MUSIC! NO PARTNER NECESSARY",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/friends-of-hot-springs-nc-contra-dance/2026-02-20/",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "d27924655f7e",
+      "title": "Alleghany Jubilee",
+      "date": "2026-02-21T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "If you love to flatfoot, clog, square dance, or just tap your foot to old-time mountain music, the Alleghany Jubilee is where you want to be! Feb 14 - Leftover [\u2026]",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-02-21/",
       "latitude": 36.4458,
       "longitude": -81.4264
     },
@@ -672,8 +639,8 @@
       "longitude": -81.5065
     }
   ],
-  "last_updated": "2026-02-14T08:47:15.553608",
-  "total_events": 61,
+  "last_updated": "2026-02-15T06:00:07.300180",
+  "total_events": 58,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
