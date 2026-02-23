@@ -1,10 +1,21 @@
 {
   "events": [
     {
-      "id": "e1ce0c2cd26a",
-      "title": "Blue Ridge Music Event",
+      "id": "89e04f18f967",
+      "title": "Stecoah Stories & Seeds Speaker Series",
       "date": "2026-02-25T11:30:00",
-      "location": "Blue Ridge, NC",
+      "location": "Stecoah Valley Cultural Arts Center 121 Schoolhouse Road, Robbinsville, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/stecoah-stories-seeds-speaker-series/2026-02-25/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "6a8674ad86ec",
+      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
+      "date": "2026-02-25T18:30:00",
+      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-02-25/",
@@ -12,13 +23,13 @@
       "longitude": -81.6746
     },
     {
-      "id": "2e5742e0150c",
-      "title": "Blue Ridge Music Event",
+      "id": "6317c0aa8875",
+      "title": "Christian Harmony Sing \u2013 Asheville NC",
       "date": "2026-02-26T18:30:00",
-      "location": "Blue Ridge, NC",
+      "location": "First Presbyterian Church 40 Church Street, Asheville, NC, United States",
       "description": "",
       "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-02-25/",
+      "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-02-26/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -30,6 +41,28 @@
       "description": "",
       "source": "High Country Host",
       "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "08268092b0da",
+      "title": "Community Jam \u2013 Crown Restaurant",
+      "date": "2026-02-26T19:00:00",
+      "location": "The Crown Restaurant 135 Emily Ln., Brasstown, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-02-26/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "f3f5d5e6a897",
+      "title": "Weekly Jam Sessions at the Jones House",
+      "date": "2026-02-26T19:00:00",
+      "location": "Jones House Cultural Center 604 West King Street, Boone, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-02-26/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -67,13 +100,13 @@
       "longitude": -81.6746
     },
     {
-      "id": "e4276be2024d",
-      "title": "Blue Ridge Music Event",
+      "id": "20b34a95f230",
+      "title": "Square Dance Brevard",
       "date": "2026-02-27T19:00:00",
-      "location": "Blue Ridge, NC",
+      "location": "Grace Brevard Church American Legion Hall 55 East Jordan St., Brevard, NC, United States",
       "description": "",
       "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-02-25/",
+      "url": "https://www.blueridgemusicnc.com/event/square-dance-brevard/2026-02-27/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -100,13 +133,35 @@
       "longitude": -81.119
     },
     {
-      "id": "85bf9ab141e5",
-      "title": "Blue Ridge Music Event",
+      "id": "3bda02013a15",
+      "title": "Annual Asheville Winter Bluegrass",
       "date": "2026-02-28T17:00:00",
-      "location": "Blue Ridge, NC",
+      "location": "One World Brewing 520 Haywood Road, Asheville, NC, United States",
       "description": "",
       "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-02-25/",
+      "url": "https://www.blueridgemusicnc.com/event/annual-asheville-winter-bluegrass/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "d91fa3c23e77",
+      "title": "Arts in Appalachia : Storytelling with Paul Strickland",
+      "date": "2026-02-28T18:00:00",
+      "location": "Cherokee County Arts Council 33 Valley River Avenue, Murphy, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/arts-in-appalachia-storytelling-with-paul-strickland/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "92a0d4fcb883",
+      "title": "Tommy Jarrell Birthday Concert and Dance",
+      "date": "2026-02-28T18:30:00",
+      "location": "The Earle Theatre 142 North Main Street, Mount Airy, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/tommy-jarrell-birthday-concert-and-dance/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -122,13 +177,13 @@
       "longitude": -81.6746
     },
     {
-      "id": "437accee03e2",
-      "title": "Concert / Performance, Dance",
+      "id": "2a204801ef0f",
+      "title": "Alleghany Jubilee",
       "date": "2026-02-28T19:00:00",
-      "location": "Blue Ridge, NC",
+      "location": "Alleghany Jubilee 562 N. Sparta Parkway, Sparta, NC, United States",
       "description": "",
       "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/tommy-jarrell-birthday-concert-and-dance/",
+      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-02-28/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -142,6 +197,17 @@
       "url": "https://www.stayblueridge.com/events-list",
       "latitude": 36.4458,
       "longitude": -81.4264
+    },
+    {
+      "id": "f55452866c1f",
+      "title": "Carson Peters and Iron Mountain",
+      "date": "2026-02-28T20:00:00",
+      "location": "Muddy Creek Cafe & Music Hall Sparta 60 South Main St., Sparta, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/carson-peters-and-iron-mountain/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "edc7ce00cf26",
@@ -716,8 +782,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2026-02-23T18:18:07.290188",
-  "total_events": 65,
+  "last_updated": "2026-02-23T18:20:34.715620",
+  "total_events": 71,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
