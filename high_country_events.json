@@ -188,6 +188,17 @@
       "longitude": -81.119
     },
     {
+      "id": "611827969365",
+      "title": "2nd Annual Ashe County Children's Art Crawl",
+      "date": "2026-03-13T10:00:00",
+      "location": "Downtown, West Jefferson",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "a9fe2dbee98d",
       "title": "Meltdown Games",
       "date": "2026-03-14T10:00:00",
@@ -210,6 +221,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "3e58358b264b",
+      "title": "The New River Polar Plunge",
+      "date": "2026-03-21T10:00:00",
+      "location": "3874 NC Hwy 16 S, Jefferson",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "9f48ec9114a9",
       "title": "Schaefer Center For The Performing Arts - 733 Rivers Street, Boone, Nc 28607 |",
       "date": "2026-03-21T19:30:00",
@@ -219,6 +241,17 @@
       "url": "https://www.stayblueridge.com/events-list",
       "latitude": 36.4458,
       "longitude": -81.4264
+    },
+    {
+      "id": "52e045f8bf99",
+      "title": "Exit Laughing",
+      "date": "2026-03-26T10:00:00",
+      "location": "962 Mount Jefferson Road, West ...",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "86d157018a79",
@@ -243,6 +276,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "102731ee4b86",
+      "title": "Appalachian Folk Medicine with Rebecca Beyer",
+      "date": "2026-04-18T10:00:00",
+      "location": "2683 Little Laurel Road, Boone,...",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "0fa117162ff1",
       "title": "Schaefer Center For The Performing Arts - 733 Rivers Street, Boone, Nc 28607 |",
       "date": "2026-04-18T19:30:00",
@@ -263,6 +307,17 @@
       "url": "https://www.exploreboone.com/event/merlefest/18972/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "97254bf304d9",
+      "title": "Statewide Star Party",
+      "date": "2026-04-24T10:00:00",
+      "location": "1481 Mt Jefferson Rd, West Jeff...",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "f5972a2f708f",
@@ -287,6 +342,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "e49e9888beef",
+      "title": "Wildheart Women",
+      "date": "2026-05-14T10:00:00",
+      "location": "2683 Little Laurel Road, Boone,...",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "7ac929425515",
       "title": "Art in the Park",
       "date": "2026-05-16T10:00:00",
@@ -309,6 +375,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "35e649d0bb2e",
+      "title": "Mending:  A Sewing Survival Intensive",
+      "date": "2026-05-23T10:00:00",
+      "location": "2683 Little Laurel Road, Boone,...",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "8b1814b92ced",
       "title": "Rhododendron Rambles",
       "date": "2026-05-23T10:00:00",
@@ -318,6 +395,28 @@
       "url": "https://www.exploreboone.com/event/rhododendron-rambles/27232/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "4e8aa1172dd5",
+      "title": "Save The Date New River Canoe Race Returns",
+      "date": "2026-05-30T10:00:00",
+      "location": "3874 NC-16, Jefferson, NC 28640",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
+      "id": "df13708b3af5",
+      "title": "Cooking Over Fire",
+      "date": "2026-05-30T10:00:00",
+      "location": "2683 Little Laurel Road, Boone,...",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "6a7b5eb1aa60",
@@ -439,6 +538,17 @@
       "url": "https://www.exploreboone.com/event/grandfather-mountain-highland-games/19721/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "e0cc4a228020",
+      "title": "Camp Med Summer Program",
+      "date": "2026-07-13T10:00:00",
+      "location": "200 Hospital Avenue, Jefferson",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "ea1d259972f1",
@@ -606,8 +716,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2026-02-23T14:44:36.243399",
-  "total_events": 55,
+  "last_updated": "2026-02-23T14:51:43.528885",
+  "total_events": 65,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
