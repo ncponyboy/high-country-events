@@ -56,6 +56,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "ef92b00b3c5b",
+      "title": "Ashe Civic Center - 962 Mount Jefferson Road |",
+      "date": "2026-02-26T19:30:00",
+      "location": "Starts: 7:30 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "aa995bf84a0f",
       "title": "Boone Docs Film Festival",
       "date": "2026-02-27T10:00:00",
@@ -111,6 +122,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "43d2005fcba3",
+      "title": "Ashe Civic Center - 962 Mount Jefferson Road |",
+      "date": "2026-02-28T19:30:00",
+      "location": "Starts: 7:30 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "122cdac5a83b",
       "title": "High Country Event",
       "date": "2026-02-28T22:00:00",
@@ -131,6 +153,17 @@
       "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "3eaa1a99daa8",
+      "title": "Ashe Civic Center - 962 Mount Jefferson Road |",
+      "date": "2026-03-01T14:00:00",
+      "location": "Starts: 2:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
     },
     {
       "id": "f957afbf479b",
@@ -177,6 +210,28 @@
       "longitude": -81.6746
     },
     {
+      "id": "9f48ec9114a9",
+      "title": "Schaefer Center For The Performing Arts - 733 Rivers Street, Boone, Nc 28607 |",
+      "date": "2026-03-21T19:30:00",
+      "location": "Starts: 7:30 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "86d157018a79",
+      "title": "Schaefer Center For The Performing Arts - 733 Rivers Street, Boone, Nc 28607 |",
+      "date": "2026-04-02T10:00:00",
+      "location": "Starts: 10:00 AM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "832fa178e533",
       "title": "Tweetsie Railroad Opening Day",
       "date": "2026-04-04T10:00:00",
@@ -188,6 +243,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "0fa117162ff1",
+      "title": "Schaefer Center For The Performing Arts - 733 Rivers Street, Boone, Nc 28607 |",
+      "date": "2026-04-18T19:30:00",
+      "location": "Starts: 7:30 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "28deb7c27969",
       "title": "MerleFest",
       "date": "2026-04-23T10:00:00",
@@ -197,6 +263,17 @@
       "url": "https://www.exploreboone.com/event/merlefest/18972/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "f5972a2f708f",
+      "title": "Schaefer Center For The Performing Arts - 733 Rivers Street, Boone, Nc 28607 |",
+      "date": "2026-04-24T19:30:00",
+      "location": "Starts: 7:30 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
     },
     {
       "id": "3ce2c4947ead",
@@ -529,8 +606,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2026-02-23T14:16:56.286037",
-  "total_events": 48,
+  "last_updated": "2026-02-23T14:30:54.129582",
+  "total_events": 55,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
