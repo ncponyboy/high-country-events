@@ -1,30 +1,30 @@
 {
   "events": [
     {
-      "id": "317d933be6ae",
-      "title": "Storytelling",
+      "id": "a29b92add7a3",
+      "title": "February 2026",
       "date": "2026-02-25T11:30:00",
       "location": "Blue Ridge, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/arts-in-appalachia-storytelling-with-paul-strickland/",
+      "url": "https://www.blueridgemusicnc.com/events/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
     {
-      "id": "2691b2cdb2c4",
-      "title": "Concert / Performance",
+      "id": "94f034705df5",
+      "title": "See site for ticket prices.",
       "date": "2026-02-25T18:30:00",
       "location": "Blue Ridge, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/tommy-jarrell-birthday-concert-and-dance/",
+      "url": "https://www.blueridgemusicnc.com/events/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
     {
-      "id": "787d20963176",
-      "title": "Singing Session",
+      "id": "0de45331c1fa",
+      "title": "294 South 4th Street, Highlands, NC, United States",
       "date": "2026-02-26T18:30:00",
       "location": "Blue Ridge, NC",
       "description": "",
@@ -45,13 +45,24 @@
       "longitude": -81.6746
     },
     {
-      "id": "543891e21dd0",
-      "title": "Jam Session",
+      "id": "fed6e3fbe2f5",
+      "title": "40 Church Street, Asheville, NC, United States",
       "date": "2026-02-26T19:00:00",
       "location": "Blue Ridge, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/listen-and-learn/jam-etiquette/",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "ca5c1ca50b4b",
+      "title": "Free",
+      "date": "2026-02-26T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -122,24 +133,35 @@
       "longitude": -81.119
     },
     {
-      "id": "280a68610727",
-      "title": "Concert / Performance, Dance",
+      "id": "5322bca7a92d",
+      "title": "55 East Jordan St., Brevard, NC, United States",
       "date": "2026-02-28T17:00:00",
       "location": "Blue Ridge, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/tommy-jarrell-birthday-concert-and-dance/",
+      "url": "https://www.blueridgemusicnc.com/events/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
     {
-      "id": "0017ff0c908f",
-      "title": "Storytelling",
+      "id": "69858b50fb51",
+      "title": "$20 \u2013 $25",
       "date": "2026-02-28T18:00:00",
       "location": "Blue Ridge, NC",
       "description": "",
       "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/arts-in-appalachia-storytelling-with-paul-strickland/",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "b303625bf33f",
+      "title": "33 Valley River Avenue, Murphy, NC, United States",
+      "date": "2026-02-28T18:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -155,6 +177,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "17d466c5a72f",
+      "title": "Featured",
+      "date": "2026-02-28T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "43d2005fcba3",
       "title": "Ashe Civic Center - 962 Mount Jefferson Road |",
       "date": "2026-02-28T19:30:00",
@@ -164,6 +197,17 @@
       "url": "https://www.stayblueridge.com/events-list",
       "latitude": 36.4458,
       "longitude": -81.4264
+    },
+    {
+      "id": "938b93fc734f",
+      "title": "See website for ticket prices.",
+      "date": "2026-02-28T20:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "edc7ce00cf26",
@@ -738,8 +782,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2026-02-23T18:08:16.659552",
-  "total_events": 67,
+  "last_updated": "2026-02-23T18:12:27.076420",
+  "total_events": 71,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
