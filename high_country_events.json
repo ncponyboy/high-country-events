@@ -34,10 +34,10 @@
       "longitude": -81.6746
     },
     {
-      "id": "ceb7c832dde8",
-      "title": "High Country Event",
+      "id": "8663b79be1ca",
+      "title": "Red Hot Chili Pipers",
       "date": "2026-02-26T19:00:00",
-      "location": "Jones House Community Center, NC",
+      "location": "Appalachian Theatre, NC",
       "description": "",
       "source": "High Country Host",
       "url": "https://highcountryhost.com/High-Country-Events-Calendar",
@@ -67,6 +67,17 @@
       "longitude": -81.4264
     },
     {
+      "id": "97439422452d",
+      "title": "Old Time Jam",
+      "date": "2026-02-26T22:00:00",
+      "location": "Jones House Community Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "aa995bf84a0f",
       "title": "Boone Docs Film Festival",
       "date": "2026-02-27T10:00:00",
@@ -85,6 +96,17 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/events/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "fb234dc787b6",
+      "title": "King Street Indoor Market",
+      "date": "2026-02-28T13:00:00",
+      "location": "Agricultural Conference Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -122,6 +144,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "31e89f3721ac",
+      "title": "Kruger Brothers In Concert",
+      "date": "2026-02-28T19:00:00",
+      "location": "Ashe Civic Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "43d2005fcba3",
       "title": "Ashe Civic Center - 962 Mount Jefferson Road |",
       "date": "2026-02-28T19:30:00",
@@ -133,19 +166,8 @@
       "longitude": -81.4264
     },
     {
-      "id": "122cdac5a83b",
-      "title": "High Country Event",
-      "date": "2026-02-28T22:00:00",
-      "location": "Agricultural Conference Center, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "a297084ce0b1",
-      "title": "High Country Event",
+      "id": "edc7ce00cf26",
+      "title": "Boon Docs Art Walk",
       "date": "2026-03-01T12:00:00",
       "location": "Boone Greenway/ Watauga Arts Council",
       "description": "",
@@ -716,8 +738,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2026-02-23T14:51:43.528885",
-  "total_events": 65,
+  "last_updated": "2026-02-23T18:08:16.659552",
+  "total_events": 67,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
