@@ -34,17 +34,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "8663b79be1ca",
-      "title": "Red Hot Chili Pipers",
-      "date": "2026-02-26T19:00:00",
-      "location": "Appalachian Theatre, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "08268092b0da",
       "title": "Community Jam \u2013 Crown Restaurant",
       "date": "2026-02-26T19:00:00",
@@ -78,17 +67,6 @@
       "longitude": -81.4264
     },
     {
-      "id": "97439422452d",
-      "title": "Old Time Jam",
-      "date": "2026-02-26T22:00:00",
-      "location": "Jones House Community Center, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "aa995bf84a0f",
       "title": "Boone Docs Film Festival",
       "date": "2026-02-27T10:00:00",
@@ -107,17 +85,6 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/square-dance-brevard/2026-02-27/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "fb234dc787b6",
-      "title": "King Street Indoor Market",
-      "date": "2026-02-28T13:00:00",
-      "location": "Agricultural Conference Center, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -166,17 +133,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "31e89f3721ac",
-      "title": "Kruger Brothers In Concert",
-      "date": "2026-02-28T19:00:00",
-      "location": "Ashe Civic Center, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "2a204801ef0f",
       "title": "Alleghany Jubilee",
       "date": "2026-02-28T19:00:00",
@@ -206,17 +162,6 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/carson-peters-and-iron-mountain/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "edc7ce00cf26",
-      "title": "Boon Docs Art Walk",
-      "date": "2026-03-01T12:00:00",
-      "location": "Boone Greenway/ Watauga Arts Council",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -309,10 +254,32 @@
       "longitude": -81.4264
     },
     {
+      "id": "265495aa7ec9",
+      "title": "Worthy is the Lamb",
+      "date": "2026-03-26T10:00:00",
+      "location": "787 Ray Taylor Road, West Jeffe...",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "52e045f8bf99",
       "title": "Exit Laughing",
       "date": "2026-03-26T10:00:00",
       "location": "962 Mount Jefferson Road, West ...",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=1",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
+      "id": "b5f2e8da881a",
+      "title": "Worthy is the Lamb",
+      "date": "2026-04-01T10:00:00",
+      "location": "787 Ray Taylor Road, West Jeffe...",
       "description": "",
       "source": "Ashe Chamber",
       "url": "https://ashechamber.com/calendar.php?caltype=1",
@@ -782,8 +749,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2026-02-24T08:00:05.846187",
-  "total_events": 71,
+  "last_updated": "2026-02-24T12:21:32.453480",
+  "total_events": 68,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
