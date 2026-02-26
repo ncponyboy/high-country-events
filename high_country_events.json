@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "id": "89e04f18f967",
-      "title": "Stecoah Stories & Seeds Speaker Series",
-      "date": "2026-02-25T11:30:00",
-      "location": "Stecoah Valley Cultural Arts Center 121 Schoolhouse Road, Robbinsville, NC, United States",
-      "description": "February 25 @ 11:30 am - 1:30 pm Recurring",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/stecoah-stories-seeds-speaker-series/2026-02-25/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "7b1440a44b39",
-      "title": "The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture",
-      "date": "2026-02-25T11:30:00",
-      "location": "The Earle Theatre 142 North Main Street, Mount Airy, NC, United States",
-      "description": "February 25 @ 11:30 am - 1:30 pm Recurring",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/the-winter-ramble-a-celebration-of-traditional-american-mountain-music-and-culture/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "6a8674ad86ec",
-      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
-      "date": "2026-02-25T18:30:00",
-      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
-      "description": "February 25 @ 6:30 pm - 9:30 pm Recurring",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-02-25/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "12bbf138830e",
       "title": "Tannahill Weavers",
       "date": "2026-02-26T10:00:00",
@@ -52,6 +19,17 @@
       "description": "February 26 @ 6:30 pm - 8:30 pm Recurring",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-02-26/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "6e903a597305",
+      "title": "The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture",
+      "date": "2026-02-26T18:30:00",
+      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
+      "description": "February 26 @ 6:30 pm - 8:30 pm Recurring",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/the-winter-ramble-a-celebration-of-traditional-american-mountain-music-and-culture/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -210,6 +188,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "29dfb2a3bf73",
+      "title": "Edward Main",
+      "date": "2026-02-28T12:30:00",
+      "location": "Old Barn Winery, Sparta NC",
+      "description": "Join us for live music presented by local musician, Edward Main. Based out in Tennessee, Main travels to local venues from all over the high country ranging from dive bars and restaurants to vineyards",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.5054,
+      "longitude": -81.119
+    },
+    {
       "id": "fb234dc787b6",
       "title": "King Street Indoor Market",
       "date": "2026-02-28T13:00:00",
@@ -219,17 +208,6 @@
       "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "464c18681b07",
-      "title": "Edward Main",
-      "date": "2026-02-28T13:00:00",
-      "location": "Old Barn Winery, Sparta NC",
-      "description": "Join us for live music presented by local musician, Edward Main. Based out in Tennessee, Main travels to local venues from all over the high country ranging from dive bars and restaurants to vineyards",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.5054,
-      "longitude": -81.119
     },
     {
       "id": "3bda02013a15",
@@ -371,6 +349,28 @@
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-03-02/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "9abc2b86ec32",
+      "title": "Old-Time Jam at Turgua Brewing",
+      "date": "2026-03-03T17:30:00",
+      "location": "Turgua Brewing Co. 3131 Cane Creek Road, Fairview, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/old-time-jam-at-turgua-brewing/2026-03-03/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "315e33805982",
+      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
+      "date": "2026-03-04T18:30:00",
+      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-03-04/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1871,7 +1871,7 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-02-25T09:28:49.229428",
+  "last_updated": "2026-02-26T08:00:15.349152",
   "total_events": 170,
   "sources": [
     "High Country Host",
