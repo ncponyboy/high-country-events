@@ -1,116 +1,6 @@
 {
   "events": [
     {
-      "id": "12bbf138830e",
-      "title": "Tannahill Weavers",
-      "date": "2026-02-26T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/tannahill-weavers/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "6317c0aa8875",
-      "title": "Christian Harmony Sing \u2013 Asheville NC",
-      "date": "2026-02-26T18:30:00",
-      "location": "First Presbyterian Church 40 Church Street, Asheville, NC, United States",
-      "description": "February 26 @ 6:30 pm - 8:30 pm Recurring",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-02-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "6e903a597305",
-      "title": "The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture",
-      "date": "2026-02-26T18:30:00",
-      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
-      "description": "February 26 @ 6:30 pm - 8:30 pm Recurring",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/the-winter-ramble-a-celebration-of-traditional-american-mountain-music-and-culture/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "8663b79be1ca",
-      "title": "Red Hot Chili Pipers",
-      "date": "2026-02-26T19:00:00",
-      "location": "Appalachian Theatre, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "08268092b0da",
-      "title": "Community Jam \u2013 Crown Restaurant",
-      "date": "2026-02-26T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "February 26 @ 7:00 pm - 9:00 pm Recurring",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-02-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "f3f5d5e6a897",
-      "title": "Weekly Jam Sessions at the Jones House",
-      "date": "2026-02-26T19:00:00",
-      "location": "Jones House Cultural Center 604 West King Street, Boone, NC, United States",
-      "description": "February 26 @ 7:00 pm - 10:00 pm Recurring",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-02-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "6dce1203f7f2",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-02-26T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-02-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "ef92b00b3c5b",
-      "title": "Ashe Civic Center - 962 Mount Jefferson Road |",
-      "date": "2026-02-26T19:30:00",
-      "location": "Starts: 7:30 PM",
-      "description": "",
-      "source": "Stay Blue Ridge",
-      "url": "https://www.stayblueridge.com/events-list",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "a3be8d634549",
-      "title": "The Red Hot Chilli Pipers",
-      "date": "2026-02-26T19:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "Bagpipes with attitude, drums with a Scottish accent, and a show so hot it carries a health warning!",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/the-red-hot-chilli-pipers",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "97439422452d",
-      "title": "Old Time Jam",
-      "date": "2026-02-26T22:00:00",
-      "location": "Jones House Community Center, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "27d1cccdab7f",
       "title": "5th Annual Boone Docs Film Festival",
       "date": "2026-02-27T14:00:00",
@@ -140,6 +30,17 @@
       "description": "Live Music: Gary McCoullough At SouthEnd Brewing Company",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/live-music-gary-mccoullough-2/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "ebfc0831095b",
+      "title": "The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture",
+      "date": "2026-02-27T19:00:00",
+      "location": "Jones House Cultural Center 604 West King Street, Boone, NC, United States",
+      "description": "Concert / Performance, Festival February 27 - March 1 The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture Various Locations Hendersonville, NC, United States Enjoy a we",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/the-winter-ramble-a-celebration-of-traditional-american-mountain-music-and-culture/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -375,6 +276,28 @@
       "longitude": -81.6746
     },
     {
+      "id": "2428ffcfe83d",
+      "title": "Community Jam \u2013 Crown Restaurant",
+      "date": "2026-03-05T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "The Crown Restaurant 135 Emily Ln., Brasstown, NC, United States",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-03-05/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "4faaf061421b",
+      "title": "Weekly Jam Sessions at the Jones House",
+      "date": "2026-03-05T19:00:00",
+      "location": "Jones House Cultural Center 604 West King Street, Boone, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-03-05/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "c5c942b00255",
       "title": "No Man\u2019s Land Film Festival",
       "date": "2026-03-05T19:00:00",
@@ -428,6 +351,17 @@
       "url": "https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-show-radio-show-sheets-family-band/",
       "latitude": 36.4332,
       "longitude": -81.499
+    },
+    {
+      "id": "ad1cd00926e3",
+      "title": "Alleghany Jubilee",
+      "date": "2026-03-07T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "Featured March 7 @ 7:00 pm - 9:30 pm Recurring",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-03-07/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "0419e1b95a3d",
@@ -892,6 +826,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "9f3c3bc0a7c1",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-04-17T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-17/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "0fa117162ff1",
       "title": "Schaefer Center For The Performing Arts - 733 Rivers Street, Boone, Nc 28607 |",
       "date": "2026-04-18T19:30:00",
@@ -912,6 +857,17 @@
       "url": "https://ashecountyarts.org/event/terra/",
       "latitude": 36.4332,
       "longitude": -81.499
+    },
+    {
+      "id": "bf7663d08bb3",
+      "title": "Weekly Trivia @ South End",
+      "date": "2026-04-20T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-20/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "51c21e29a60e",
@@ -1011,6 +967,17 @@
       "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-23/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "1b816d3f47ee",
+      "title": "Shawn Camp - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-23T19:00:00",
+      "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
+      "description": "Shawn Camp Camp began playing guitar as a small child, growing up outside Perryville, Arkansas. Mandolin and fiddle followed, all before he could drive. He remembers dreaming of melodies, waking up, a",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.572886,
+      "longitude": -80.851589
     },
     {
       "id": "15e7a126af05",
@@ -1156,6 +1123,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "217f0270199e",
+      "title": "An Evening With Steep Canyon Rangers - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-13T19:00:00",
+      "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
+      "description": "Steep Canyon Rangers Hailing from both the Appalachian and Piedmont regions of North Carolina, Steep Canyon Rangers have long held traditional bluegrass paramount, while possessing an exceptional abil",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.572886,
+      "longitude": -80.851589
+    },
+    {
       "id": "aff735552698",
       "title": "Wycliffe Gordon",
       "date": "2026-06-13T19:30:00",
@@ -1277,6 +1255,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "3605040a1536",
+      "title": "Chatham Rabbits - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-15T19:00:00",
+      "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
+      "description": "Trey Hensley GRAMMY\u00ae Award-winning musician and singer/songwriter Trey Hensley has made a lasting mark across the bluegrass, Americana, folk and roots music worlds. He has been referred to as \u201cNashvil",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.572886,
+      "longitude": -80.851589
+    },
+    {
       "id": "275a2f1a5318",
       "title": "Watauga County Farmers\u2019 Market to Celebrate Hispanic Heritage Day with Q\u2019Pasa Appalachia",
       "date": "2026-08-27T10:00:00",
@@ -1319,6 +1308,17 @@
       "url": "https://www.hcpress.com/announcements/boone-united-methodist-church-fall-bazaar-2025.html",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "345dc484ce39",
+      "title": "Chatham Rabbits - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-05T19:00:00",
+      "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
+      "description": "Chatham Rabbits There is something warm and instantly familiar about roots duo Chatham Rabbits. Partners in music and life, Austin and Sarah McCombie blend their personal histories through deft songwr",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.572886,
+      "longitude": -80.851589
     },
     {
       "id": "007b5575c1e9",
@@ -1871,7 +1871,7 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-02-26T08:00:15.349152",
+  "last_updated": "2026-02-27T08:00:19.248582",
   "total_events": 170,
   "sources": [
     "High Country Host",
