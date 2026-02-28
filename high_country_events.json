@@ -1,72 +1,6 @@
 {
   "events": [
     {
-      "id": "27d1cccdab7f",
-      "title": "5th Annual Boone Docs Film Festival",
-      "date": "2026-02-27T14:00:00",
-      "location": "Appalachian Theatre, 559 W. King Street, Boone, 28067, United States",
-      "description": "The 2026 Boone Docs Film Festival, celebrates it\u2019s 5th year of showcasing short documentaries focused on the people who live and work in Appalachia.",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/5th-annual-boone-docs-film-festival/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "d2dad7851f73",
-      "title": "A Beast Touch the Mountain",
-      "date": "2026-02-27T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "AppState University Speakers Forum, High Country Humanities & Boone Docs Film Festival present filmmaker James Mottern and his film \u201cA Beast Touch the Mountain\u201d.",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/a-beast-touch-the-mountain",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "59fc2c60037c",
-      "title": "Live Music: Gary McCoullough",
-      "date": "2026-02-27T18:00:00",
-      "location": "SouthEnd Brewing Co., 747 W King Street, Boone, 28607, United States",
-      "description": "Live Music: Gary McCoullough At SouthEnd Brewing Company",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/live-music-gary-mccoullough-2/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "ebfc0831095b",
-      "title": "The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture",
-      "date": "2026-02-27T19:00:00",
-      "location": "Jones House Cultural Center 604 West King Street, Boone, NC, United States",
-      "description": "Concert / Performance, Festival February 27 - March 1 The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture Various Locations Hendersonville, NC, United States Enjoy a we",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/the-winter-ramble-a-celebration-of-traditional-american-mountain-music-and-culture/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "20b34a95f230",
-      "title": "Square Dance Brevard",
-      "date": "2026-02-27T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "February 27 @ 7:00 pm - 9:00 pm Recurring",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/square-dance-brevard/2026-02-27/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "2be2f7382165",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-02-27T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-02-27/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "b4abdf3cb1fb",
       "title": "Wordkeepers",
       "date": "2026-02-28T10:00:00",
@@ -107,6 +41,17 @@
       "description": "",
       "source": "High Country Host",
       "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "7ade7388e11f",
+      "title": "The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture",
+      "date": "2026-02-28T17:00:00",
+      "location": "Haw Creek Commons 315 Old Haw Creek Road, Asheville, NC, United States",
+      "description": "Concert / Performance, Festival February 27 - March 1 The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture Various Locations Hendersonville, NC, United States Enjoy a we",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/the-winter-ramble-a-celebration-of-traditional-american-mountain-music-and-culture/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -353,6 +298,17 @@
       "longitude": -81.499
     },
     {
+      "id": "91f68d554518",
+      "title": "Ashe Civic Center - 962 Mount Jefferson Road |",
+      "date": "2026-03-07T11:00:00",
+      "location": "Starts: 11:00 AM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "ad1cd00926e3",
       "title": "Alleghany Jubilee",
       "date": "2026-03-07T19:00:00",
@@ -360,6 +316,17 @@
       "description": "Featured March 7 @ 7:00 pm - 9:30 pm Recurring",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-03-07/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "13aed5f11144",
+      "title": "Asheville Community Square Dance",
+      "date": "2026-03-07T19:00:00",
+      "location": "Haw Creek Commons 315 Old Haw Creek Road, Asheville, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/asheville-community-square-dance/2026-03-07/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -373,6 +340,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/thegrascals",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "38e4fc54ce26",
+      "title": "Boondocks Brew Haus Event Center & Brewery - 302 S Jefferson Ave West Jefferson, Nc 28694 |",
+      "date": "2026-03-07T20:00:00",
+      "location": "Starts: 8:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
     },
     {
       "id": "768b04645b1e",
@@ -430,6 +408,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "35dcf7c4e10b",
+      "title": "Ashe Civic Center - 962 Mount Jefferson Road |",
+      "date": "2026-03-12T19:30:00",
+      "location": "Starts: 7:30 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "925d1a10fde5",
       "title": "Ashe County Children's Art Crawl",
       "date": "2026-03-13T10:00:00",
@@ -439,6 +428,17 @@
       "url": "https://ashecountyarts.org/event/ashe-county-childrens-art-crawl/",
       "latitude": 36.4332,
       "longitude": -81.499
+    },
+    {
+      "id": "d8f5825b5243",
+      "title": "Florence Thomas, Ashe Arts & Dough Ridge Pottery Downtown, West Jefferson |",
+      "date": "2026-03-13T16:00:00",
+      "location": "Starts: 4:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
     },
     {
       "id": "abe031979446",
@@ -483,6 +483,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/beanstalk-southern-hospitality-6w2js-5d55s",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "bec4cabf72b3",
+      "title": "Boondocks Brew Haus Event Center & Brewery - 302 S Jefferson Ave West Jefferson, Nc 28694 |",
+      "date": "2026-03-14T20:00:00",
+      "location": "Starts: 8:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
     },
     {
       "id": "19457f6e1ba7",
@@ -560,6 +571,17 @@
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-03-20/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "ef5a28e0885c",
+      "title": "Zaloo'S Canoes 3874 Nc Hwy 16 S, Jefferson, Nc |",
+      "date": "2026-03-21T08:00:00",
+      "location": "Starts: 8:00 AM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
     },
     {
       "id": "e4e3da1f1fd1",
@@ -648,6 +670,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/girl-climber",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "7ec96b849cfd",
+      "title": "Boondocks Brew Haus Event Center & Brewery - 302 S Jefferson Ave West Jefferson, Nc 28694 |",
+      "date": "2026-03-28T20:00:00",
+      "location": "Starts: 8:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
     },
     {
       "id": "6c3fd68479c0",
@@ -870,6 +903,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "f65f5250f563",
+      "title": "Give Back Day at Come Back Shack",
+      "date": "2026-04-21T10:30:00",
+      "location": "Come Back Shack, 767 W King Street, Boone, N, 28607, United States",
+      "description": "Join us for Give Back Day at Come Back Shack! Visit our Downtown Boone and Blowing Rock Rd locations anytime from 10:30AM \u2013 9PM and 20% of ALL sales will go to Watauga County Schools to eliminate stud",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/give-back-day-at-come-back-shack/2026-04-21/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "51c21e29a60e",
       "title": "Colossus: The Forbin Project (1970)",
       "date": "2026-04-21T18:00:00",
@@ -879,6 +923,39 @@
       "url": "https://www.apptheatre.org/events-and-tickets/colossus-forbin-project",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "cd739be57e3e",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-04-23T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-23/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "e93de26ed72d",
+      "title": "Mount Jefferson State Natural Are 1481 Mt Jefferson Rd, West Jefferson |",
+      "date": "2026-04-24T19:00:00",
+      "location": "Starts: 7:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "f1f8c4b7d44c",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-04-24T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-24/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "f5972a2f708f",
@@ -903,6 +980,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "cfc32e5dd63b",
+      "title": "Wilkes Community College - Wilkes Campus 1328 S Collegiate Dr, Wilkesboro |",
+      "date": "2026-04-26T09:30:00",
+      "location": "Starts: 9:30 AM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "f25016900d56",
       "title": "Gather at the Table for the Arts: Fundraiser at Craft Bistro",
       "date": "2026-04-26T10:00:00",
@@ -912,6 +1000,17 @@
       "url": "https://ashecountyarts.org/event/craft/",
       "latitude": 36.4332,
       "longitude": -81.499
+    },
+    {
+      "id": "bec84b22081a",
+      "title": "Weekly Trivia @ South End",
+      "date": "2026-04-27T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-27/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "e9d453d5eb2b",
@@ -1673,17 +1772,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "dcd182184c27",
-      "title": "A Christmas Carol by Candlelight",
-      "date": "2026-12-20T13:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "An Appalachian Holiday Tradition",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-3gm3n-lc4lh-xp4p5-lxlwg-hx4fb",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "79f67901cc97",
       "title": "Chosen Road\u2019s Appalachian Christmas",
       "date": "2026-12-20T18:00:00",
@@ -1871,8 +1959,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-02-27T08:00:19.248582",
-  "total_events": 170,
+  "last_updated": "2026-02-28T08:00:22.321310",
+  "total_events": 178,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
