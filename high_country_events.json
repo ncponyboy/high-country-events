@@ -1,149 +1,6 @@
 {
   "events": [
     {
-      "id": "b4abdf3cb1fb",
-      "title": "Wordkeepers",
-      "date": "2026-02-28T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/wordkeepers-2/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "1035460a792f",
-      "title": "5th Annual Boone Docs Film Festival",
-      "date": "2026-02-28T11:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "The 2026 Boone Docs Film Festival, celebrates it\u2019s 5th year of showcasing short documentaries focused on the people who live and work in Appalachia.",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/boone-docs-2026",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "29dfb2a3bf73",
-      "title": "Edward Main",
-      "date": "2026-02-28T12:30:00",
-      "location": "Old Barn Winery, Sparta NC",
-      "description": "Join us for live music presented by local musician, Edward Main. Based out in Tennessee, Main travels to local venues from all over the high country ranging from dive bars and restaurants to vineyards",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.5054,
-      "longitude": -81.119
-    },
-    {
-      "id": "fb234dc787b6",
-      "title": "King Street Indoor Market",
-      "date": "2026-02-28T13:00:00",
-      "location": "Agricultural Conference Center, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "7ade7388e11f",
-      "title": "The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture",
-      "date": "2026-02-28T17:00:00",
-      "location": "Haw Creek Commons 315 Old Haw Creek Road, Asheville, NC, United States",
-      "description": "Concert / Performance, Festival February 27 - March 1 The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture Various Locations Hendersonville, NC, United States Enjoy a we",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/the-winter-ramble-a-celebration-of-traditional-american-mountain-music-and-culture/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "3bda02013a15",
-      "title": "Annual Asheville Winter Bluegrass",
-      "date": "2026-02-28T17:00:00",
-      "location": "One World Brewing 520 Haywood Road, Asheville, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/annual-asheville-winter-bluegrass/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "d91fa3c23e77",
-      "title": "Arts in Appalachia : Storytelling with Paul Strickland",
-      "date": "2026-02-28T18:00:00",
-      "location": "Cherokee County Arts Council 33 Valley River Avenue, Murphy, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/arts-in-appalachia-storytelling-with-paul-strickland/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "6b2c5621f8b5",
-      "title": "Live Music: Klee Liles",
-      "date": "2026-02-28T18:00:00",
-      "location": "SouthEnd Brewing Co., 747 W King Street, Boone, 28607, United States",
-      "description": "Live Music: Klee Liles At SouthEnd Brewing Company",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/live-music-timothy-chandler-hicks/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "92a0d4fcb883",
-      "title": "Tommy Jarrell Birthday Concert and Dance",
-      "date": "2026-02-28T18:30:00",
-      "location": "The Earle Theatre 142 North Main Street, Mount Airy, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/tommy-jarrell-birthday-concert-and-dance/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "31e89f3721ac",
-      "title": "Kruger Brothers In Concert",
-      "date": "2026-02-28T19:00:00",
-      "location": "Ashe Civic Center, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "2a204801ef0f",
-      "title": "Alleghany Jubilee",
-      "date": "2026-02-28T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "Featured February 28 @ 7:00 pm - 9:30 pm Recurring",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-02-28/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "43d2005fcba3",
-      "title": "Ashe Civic Center - 962 Mount Jefferson Road |",
-      "date": "2026-02-28T19:30:00",
-      "location": "Starts: 7:30 PM",
-      "description": "",
-      "source": "Stay Blue Ridge",
-      "url": "https://www.stayblueridge.com/events-list",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "f55452866c1f",
-      "title": "Carson Peters and Iron Mountain",
-      "date": "2026-02-28T20:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "Muddy Creek Cafe & Music Hall Sparta 60 South Main St., Sparta, NC, United States",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/carson-peters-and-iron-mountain/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "fe821dbcf092",
       "title": "Kruger Brothers Sunday Matinee",
       "date": "2026-03-01T10:00:00",
@@ -195,6 +52,17 @@
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-03-02/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "ee22bf017a5d",
+      "title": "The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture",
+      "date": "2026-03-03T17:30:00",
+      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
+      "description": "Concert / Performance, Festival February 27 - March 1 The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture Various Locations Hendersonville, NC, United States Enjoy a we",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/the-winter-ramble-a-celebration-of-traditional-american-mountain-music-and-culture/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -342,6 +210,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "43e9e8b20a8d",
+      "title": "Bluegrass at the Rock: Appalachian Road Show",
+      "date": "2026-03-07T19:30:00",
+      "location": "Old Rock School 400 West Main Street, Valdese, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/bluegrass-at-the-rock-appalachian-road-show/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "38e4fc54ce26",
       "title": "Boondocks Brew Haus Event Center & Brewery - 302 S Jefferson Ave West Jefferson, Nc 28694 |",
       "date": "2026-03-07T20:00:00",
@@ -351,6 +230,17 @@
       "url": "https://www.stayblueridge.com/events-list",
       "latitude": 36.4458,
       "longitude": -81.4264
+    },
+    {
+      "id": "70c3ee96fbb2",
+      "title": "Old Farmer\u2019s Ball English Country Dance",
+      "date": "2026-03-08T16:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "Harvest House Community Center 205 Kenilworth Rd., Asheville, NC, United States",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/old-farmers-ball-english-country-dance/2026-03-08/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "768b04645b1e",
@@ -364,6 +254,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "f53890f053a4",
+      "title": "Stecoah Stories & Seeds Speaker Series",
+      "date": "2026-03-11T11:30:00",
+      "location": "Stecoah Valley Cultural Arts Center 121 Schoolhouse Road, Robbinsville, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/stecoah-stories-seeds-speaker-series/2026-03-11/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "d0aaf903e24e",
       "title": "Obw Book Club",
       "date": "2026-03-11T17:30:00",
@@ -373,6 +274,28 @@
       "url": "https://oldbarnwinery.com/events-calendar",
       "latitude": 36.5054,
       "longitude": -81.119
+    },
+    {
+      "id": "6d97611a640d",
+      "title": "Ballad Night at the Old Marshall Jail Hotel",
+      "date": "2026-03-11T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "Featured March 11 @ 6:00 pm - 8:00 pm Recurring",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/ballad-night-at-the-old-marshall-jail-hotel/2026-03-11/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "766f7fe57ac2",
+      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
+      "date": "2026-03-11T18:30:00",
+      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-03-11/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "55191b5eab44",
@@ -1009,6 +932,28 @@
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-27/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "fa57ddfc54d1",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-04-30T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-30/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "8fb46dba561e",
+      "title": "The Art of Walking",
+      "date": "2026-05-01T15:00:00",
+      "location": "The Turchin Center for the Visual Arts, 423 W. King Street, Boone, N, 28608, United States",
+      "description": "The Art of Walking Boone Greenway and Kennedy Trail First Fridays, 3:00-4:30pm A 3-mile loop with an art theme to complement the First Friday Art Crawl in Boone on the first Friday of each month. No e",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/the-art-of-walking/2026-05-01/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1772,17 +1717,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "79f67901cc97",
-      "title": "Chosen Road\u2019s Appalachian Christmas",
-      "date": "2026-12-20T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "An unforgettable evening of music and inspiration. Featuring performances by Chosen Road, The Sound, Scotty Inman, and Declaration Worship, this event promises a soul-stirring blend of bluegrass and w",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/chosen-road-appalachian-christmas",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "8c3808cb3987",
       "title": "A Christmas Carol by Candlelight",
       "date": "2026-12-21T18:00:00",
@@ -1959,8 +1893,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-02-28T08:00:22.321310",
-  "total_events": 178,
+  "last_updated": "2026-03-01T08:00:20.415275",
+  "total_events": 172,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
