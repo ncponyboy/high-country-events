@@ -639,6 +639,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "43f0c04cdcca",
+      "title": "Alleghany Arts Council Meet and Greet",
+      "date": "2026-03-27T19:00:00",
+      "location": "\\nLaconia Ale Works\\n433 N Main St, Sparta, NC 28675\\n",
+      "description": "Please join us for a no-host happy hour at Laconia Brewing on Friday, March 27 from 4:30 to 6 p.m. Our new Executive Director, Kalin Allen, and the rest of the board members of the Alleghany Arts Council will be there. Find our more about our programs, and opportunities to get more involved with the...",
+      "source": "Alleghany Arts Council",
+      "url": "https://www.alleghanyartscouncil.org\\\"https://www.alleghanyartscouncil.org/events/alleghany-arts-council-meet-and-greet/\\\"",
+      "latitude": 36.4905,
+      "longitude": -81.1701
+    },
+    {
       "id": "e9163d5a8e94",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-03-27T19:00:00",
@@ -1849,8 +1860,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-02T13:52:53.920454",
-  "total_events": 168,
+  "last_updated": "2026-03-02T14:04:00.306959",
+  "total_events": 169,
   "sources": [
     "High Country Host",
     "Alleghany Chamber",
