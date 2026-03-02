@@ -12,17 +12,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "ee22bf017a5d",
-      "title": "The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture",
-      "date": "2026-03-03T17:30:00",
-      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
-      "description": "Concert / Performance, Festival February 27 - March 1 The Winter Ramble: A Celebration of Traditional American Mountain Music and Culture Various Locations Hendersonville, NC, United States Enjoy a we",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/the-winter-ramble-a-celebration-of-traditional-american-mountain-music-and-culture/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "9abc2b86ec32",
       "title": "Old-Time Jam at Turgua Brewing",
       "date": "2026-03-03T17:30:00",
@@ -351,6 +340,17 @@
       "url": "https://ashecountyarts.org/event/lightwire-theatres-dino-light/",
       "latitude": 36.4332,
       "longitude": -81.499
+    },
+    {
+      "id": "2fe91fe664d9",
+      "title": "Christian Harmony Sing \u2013 Asheville NC",
+      "date": "2026-03-12T18:30:00",
+      "location": "First Presbyterian Church 40 Church Street, Asheville, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-03-12/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "2f3926e39b16",
@@ -1123,6 +1123,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "4d01f14747b9",
+      "title": "Saloon Studios - 313 Old West Road, West Jefferson, Nc 28694 |",
+      "date": "2026-06-20T19:00:00",
+      "location": "Starts: 7:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "4dd2e1d5636f",
       "title": "Boonerang International Parade of Nations",
       "date": "2026-06-21T12:00:00",
@@ -1132,6 +1143,28 @@
       "url": "https://www.boonerangfest.com",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "d48a36ab1fb7",
+      "title": "Saloon Studios - 313 Old West Road, West Jefferson, Nc 28694 |",
+      "date": "2026-06-26T19:00:00",
+      "location": "Starts: 7:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
+      "id": "330db7882c42",
+      "title": "Saloon Studios - 313 Old West Road, West Jefferson, Nc 28694 |",
+      "date": "2026-07-11T19:00:00",
+      "location": "Starts: 7:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
     },
     {
       "id": "a8e83768547b",
@@ -1156,6 +1189,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "ae758f17fa65",
+      "title": "Saloon Studios - 313 Old West Road, West Jefferson, Nc 28694 |",
+      "date": "2026-07-25T19:00:00",
+      "location": "Starts: 7:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "2588216a9571",
       "title": "Animal Enrichment Day",
       "date": "2026-07-29T19:00:00",
@@ -1176,6 +1220,17 @@
       "url": "https://grandfather.com/event/sunrise-at-the-swinging-bridge/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "3dfae32770cb",
+      "title": "Saloon Studios - 313 Old West Road, West Jefferson, Nc 28694 |",
+      "date": "2026-08-08T19:00:00",
+      "location": "Starts: 7:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
     },
     {
       "id": "912f224f694c",
@@ -1209,6 +1264,17 @@
       "url": "https://www.hcpress.com/announcements/watauga-county-farmers-market-to-celebrate-hispanic-heritage-day-with-qpasa-appalachia.html",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "e4bd13020e81",
+      "title": "Saloon Studios - 313 Old West Road, West Jefferson, Nc 28694 |",
+      "date": "2026-08-29T19:00:00",
+      "location": "Starts: 7:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
     },
     {
       "id": "46e835ae7ecc",
@@ -1783,10 +1849,14 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-02T08:00:22.324140",
-  "total_events": 162,
+  "last_updated": "2026-03-02T13:48:56.694733",
+  "total_events": 168,
   "sources": [
     "High Country Host",
+    "Alleghany Chamber",
+    "Alleghany Arts Council",
+    "AmericanTowns Alleghany",
+    "AmericanTowns Ashe",
     "Ashe Chamber",
     "Stay Blue Ridge",
     "Old Barn Winery",
