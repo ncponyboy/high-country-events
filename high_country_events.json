@@ -1,54 +1,10 @@
 {
   "events": [
     {
-      "id": "fe821dbcf092",
-      "title": "Kruger Brothers Sunday Matinee",
-      "date": "2026-03-01T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/kruger-brothers-sunday-matinee/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "edc7ce00cf26",
-      "title": "Boon Docs Art Walk",
-      "date": "2026-03-01T12:00:00",
-      "location": "Boone Greenway/ Watauga Arts Council",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "3eaa1a99daa8",
-      "title": "Ashe Civic Center - 962 Mount Jefferson Road |",
-      "date": "2026-03-01T14:00:00",
-      "location": "Starts: 2:00 PM",
-      "description": "",
-      "source": "Stay Blue Ridge",
-      "url": "https://www.stayblueridge.com/events-list",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "f957afbf479b",
-      "title": "Those 3 Guys",
-      "date": "2026-03-01T14:00:00",
-      "location": "Old Barn Winery, Sparta NC",
-      "description": "\u201cPeople ask about our song choices all the time \u2014 they\u2019re all over the place! We\u2019re a little scattered, and that\u2019s the fun of it. We all grew up here, went to the same high school, but life took us in",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.5054,
-      "longitude": -81.119
-    },
-    {
       "id": "8b632b5da1eb",
       "title": "Weekly Trivia @ South End",
       "date": "2026-03-02T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-03-02/",
@@ -125,10 +81,21 @@
       "id": "5fd6da7a5a5d",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-03-05T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-03-05/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "0a9c491571de",
+      "title": "Old Time Jam",
+      "date": "2026-03-05T22:00:00",
+      "location": "Jones House Community Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -144,6 +111,39 @@
       "longitude": -81.6746
     },
     {
+      "id": "b4d25f1a3f0e",
+      "title": "Blue Ridge Art Walk",
+      "date": "2026-03-06T16:00:00",
+      "location": "Boone Greenway",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "ee6d16d76ca5",
+      "title": "A Minecraft Movie (2025)",
+      "date": "2026-03-06T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/aminecraftmovie",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "a320e28a680c",
+      "title": "First Friday Art Crawl",
+      "date": "2026-03-06T19:00:00",
+      "location": "Downtown Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "e96227f48e8e",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-03-06T19:00:00",
@@ -155,15 +155,15 @@
       "longitude": -81.6746
     },
     {
-      "id": "2b11c38ec311",
+      "id": "0b16fa726e08",
       "title": "580 WKSK LIVE Old Time and Bluegrass Show Radio Show: Sheets Family Band",
-      "date": "2026-03-07T10:00:00",
-      "location": "Ashe County, NC",
+      "date": "2026-03-07T11:00:00",
+      "location": "Ashe Civic Center, NC",
       "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-show-radio-show-sheets-family-band/",
-      "latitude": 36.4332,
-      "longitude": -81.499
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "91f68d554518",
@@ -175,6 +175,39 @@
       "url": "https://www.stayblueridge.com/events-list",
       "latitude": 36.4458,
       "longitude": -81.4264
+    },
+    {
+      "id": "028ab71ce07a",
+      "title": "King Street Indoor Market",
+      "date": "2026-03-07T13:00:00",
+      "location": "Agricultural Conference Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "fbf060b6e0f3",
+      "title": "The Grascals",
+      "date": "2026-03-07T19:00:00",
+      "location": "Appalachian Theatre, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "5df8526cbb92",
+      "title": "The Carolina Comedy Magic Parlor",
+      "date": "2026-03-07T19:00:00",
+      "location": "Mysterium Escape Adventure, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "ad1cd00926e3",
@@ -199,17 +232,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "0419e1b95a3d",
-      "title": "The Grascals",
-      "date": "2026-03-07T19:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "A blend of modern traditional bluegrass, gospel, and country influences, matched with world-class musicianship and an unshakable love for the genre, The Grascals are among the most respected and endur",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/thegrascals",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "43e9e8b20a8d",
       "title": "Bluegrass at the Rock: Appalachian Road Show",
       "date": "2026-03-07T19:30:00",
@@ -232,6 +254,28 @@
       "longitude": -81.4264
     },
     {
+      "id": "6c21948d860b",
+      "title": "Flannel Fest",
+      "date": "2026-03-07T22:00:00",
+      "location": "Appalachian Mountain Brewery, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "3c9757fbd4d0",
+      "title": "Boone Winter Farmers Market",
+      "date": "2026-03-08T10:00:00",
+      "location": "\u200bWatauga County Agricultural Conference Center, 252 Poplar Grove RD, Boone, NC, 28607, United States",
+      "description": "\u200b*Please note: we are an all-weather market. In most cases, we will be open in rain, snow, or ice. For up-to-date information on our rare market closures, please follow us on Facebook @KingStreetMkt a",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/boone-winter-farmers-market/2026-03-08/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "70c3ee96fbb2",
       "title": "Old Farmer\u2019s Ball English Country Dance",
       "date": "2026-03-08T16:00:00",
@@ -246,7 +290,7 @@
       "id": "768b04645b1e",
       "title": "Weekly Trivia @ South End",
       "date": "2026-03-09T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-03-09/",
@@ -323,7 +367,7 @@
       "id": "234684045ef4",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-03-12T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-03-12/",
@@ -430,6 +474,17 @@
       "longitude": -81.499
     },
     {
+      "id": "53517a915cb7",
+      "title": "Boone Winter Farmers Market",
+      "date": "2026-03-15T10:00:00",
+      "location": "\u200bWatauga County Agricultural Conference Center, 252 Poplar Grove RD, Boone, NC, 28607, United States",
+      "description": "\u200b*Please note: we are an all-weather market. In most cases, we will be open in rain, snow, or ice. For up-to-date information on our rare market closures, please follow us on Facebook @KingStreetMkt a",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/boone-winter-farmers-market/2026-03-15/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "8e0612bdbdc6",
       "title": "Rakish",
       "date": "2026-03-15T19:00:00",
@@ -444,7 +499,7 @@
       "id": "2ecbbc5033cb",
       "title": "Weekly Trivia @ South End",
       "date": "2026-03-16T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-03-16/",
@@ -452,10 +507,21 @@
       "longitude": -81.6746
     },
     {
+      "id": "c7d13395ea72",
+      "title": "International Story Time: Stories from Spanish and Mayan Traditions",
+      "date": "2026-03-19T15:30:00",
+      "location": "Watuaga County Public Library, 140 Queen Street, Boone, NC, 28607, United States",
+      "description": "Appalachian State University\u2019s Department of Languages, Literatures, and Cultures and High Country Humanities \u2013 in collaboration with the Watauga County Public Library \u2013 is pleased to present \u201cInterna",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/international-story-time-stories-from-spanish-and-mayan-traditions/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "3112c477f897",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-03-19T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-03-19/",
@@ -529,10 +595,21 @@
       "longitude": -81.4264
     },
     {
+      "id": "83425e4cc3f8",
+      "title": "Boone Winter Farmers Market",
+      "date": "2026-03-22T10:00:00",
+      "location": "\u200bWatauga County Agricultural Conference Center, 252 Poplar Grove RD, Boone, NC, 28607, United States",
+      "description": "\u200b*Please note: we are an all-weather market. In most cases, we will be open in rain, snow, or ice. For up-to-date information on our rare market closures, please follow us on Facebook @KingStreetMkt a",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/boone-winter-farmers-market/2026-03-22/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "df5c0c23144f",
       "title": "Weekly Trivia @ South End",
       "date": "2026-03-23T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-03-23/",
@@ -554,7 +631,7 @@
       "id": "b916ea0b6210",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-03-26T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-03-26/",
@@ -628,17 +705,6 @@
       "longitude": -81.6752
     },
     {
-      "id": "51978f3cb935",
-      "title": "Weekly Trivia @ South End",
-      "date": "2026-03-30T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-03-30/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "86d157018a79",
       "title": "Schaefer Center For The Performing Arts - 733 Rivers Street, Boone, Nc 28607 |",
       "date": "2026-04-02T10:00:00",
@@ -648,61 +714,6 @@
       "url": "https://www.stayblueridge.com/events-list",
       "latitude": 36.4458,
       "longitude": -81.4264
-    },
-    {
-      "id": "ad130f6d1b6d",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-04-02T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-02/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "12f0e8c7fd85",
-      "title": "The Art of Walking",
-      "date": "2026-04-03T15:00:00",
-      "location": "The Turchin Center for the Visual Arts, 423 W. King Street, Boone, N, 28608, United States",
-      "description": "The Art of Walking Boone Greenway and Kennedy Trail First Fridays, 3:00-4:30pm A 3-mile loop with an art theme to complement the First Friday Art Crawl in Boone on the first Friday of each month. No e",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/the-art-of-walking/2026-04-03/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "00927634b438",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-04-03T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-03/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "ef45e807612b",
-      "title": "Weekly Trivia @ South End",
-      "date": "2026-04-06T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-06/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "840f0c58a628",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-04-09T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-09/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "098655c2f137",
@@ -738,28 +749,6 @@
       "longitude": -81.6752
     },
     {
-      "id": "5fabd6f94f14",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-04-10T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-10/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "1ec048f1edda",
-      "title": "Weekly Trivia @ South End",
-      "date": "2026-04-13T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-13/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "31da97f58151",
       "title": "Boonerang: Battle of the Bands - Night 2",
       "date": "2026-04-16T19:00:00",
@@ -769,28 +758,6 @@
       "url": "https://www.apptheatre.org/events-and-tickets/boonerang-botb1-t63h8",
       "latitude": 36.2157,
       "longitude": -81.6752
-    },
-    {
-      "id": "81b33fccbedc",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-04-16T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-16/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "9f3c3bc0a7c1",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-04-17T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-17/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "0fa117162ff1",
@@ -815,28 +782,6 @@
       "longitude": -81.499
     },
     {
-      "id": "bf7663d08bb3",
-      "title": "Weekly Trivia @ South End",
-      "date": "2026-04-20T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-20/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "f65f5250f563",
-      "title": "Give Back Day at Come Back Shack",
-      "date": "2026-04-21T10:30:00",
-      "location": "Come Back Shack, 767 W King Street, Boone, N, 28607, United States",
-      "description": "Join us for Give Back Day at Come Back Shack! Visit our Downtown Boone and Blowing Rock Rd locations anytime from 10:30AM \u2013 9PM and 20% of ALL sales will go to Watauga County Schools to eliminate stud",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/give-back-day-at-come-back-shack/2026-04-21/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "51c21e29a60e",
       "title": "Colossus: The Forbin Project (1970)",
       "date": "2026-04-21T18:00:00",
@@ -848,17 +793,6 @@
       "longitude": -81.6752
     },
     {
-      "id": "cd739be57e3e",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-04-23T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-23/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "e93de26ed72d",
       "title": "Mount Jefferson State Natural Are 1481 Mt Jefferson Rd, West Jefferson |",
       "date": "2026-04-24T19:00:00",
@@ -868,17 +802,6 @@
       "url": "https://www.stayblueridge.com/events-list",
       "latitude": 36.4458,
       "longitude": -81.4264
-    },
-    {
-      "id": "f1f8c4b7d44c",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-04-24T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-24/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "f5972a2f708f",
@@ -923,39 +846,6 @@
       "url": "https://ashecountyarts.org/event/craft/",
       "latitude": 36.4332,
       "longitude": -81.499
-    },
-    {
-      "id": "bec84b22081a",
-      "title": "Weekly Trivia @ South End",
-      "date": "2026-04-27T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-27/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "fa57ddfc54d1",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-04-30T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-30/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "8fb46dba561e",
-      "title": "The Art of Walking",
-      "date": "2026-05-01T15:00:00",
-      "location": "The Turchin Center for the Visual Arts, 423 W. King Street, Boone, N, 28608, United States",
-      "description": "The Art of Walking Boone Greenway and Kennedy Trail First Fridays, 3:00-4:30pm A 3-mile loop with an art theme to complement the First Friday Art Crawl in Boone on the first Friday of each month. No e",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/the-art-of-walking/2026-05-01/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "e9d453d5eb2b",
@@ -1893,8 +1783,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-01T08:00:20.415275",
-  "total_events": 172,
+  "last_updated": "2026-03-02T08:00:22.324140",
+  "total_events": 162,
   "sources": [
     "High Country Host",
     "Ashe Chamber",
