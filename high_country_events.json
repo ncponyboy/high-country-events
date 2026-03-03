@@ -1,61 +1,6 @@
 {
   "events": [
     {
-      "id": "8b632b5da1eb",
-      "title": "Weekly Trivia @ South End",
-      "date": "2026-03-02T19:00:00",
-      "location": "NC",
-      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-03-02/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "9abc2b86ec32",
-      "title": "Old-Time Jam at Turgua Brewing",
-      "date": "2026-03-03T17:30:00",
-      "location": "Turgua Brewing Co. 3131 Cane Creek Road, Fairview, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/old-time-jam-at-turgua-brewing/2026-03-03/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "315e33805982",
-      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
-      "date": "2026-03-04T18:30:00",
-      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-03-04/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "2428ffcfe83d",
-      "title": "Community Jam \u2013 Crown Restaurant",
-      "date": "2026-03-05T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "The Crown Restaurant 135 Emily Ln., Brasstown, NC, United States",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-03-05/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "4faaf061421b",
-      "title": "Weekly Jam Sessions at the Jones House",
-      "date": "2026-03-05T19:00:00",
-      "location": "Jones House Cultural Center 604 West King Street, Boone, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-03-05/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "c5c942b00255",
       "title": "No Man\u2019s Land Film Festival",
       "date": "2026-03-05T19:00:00",
@@ -78,17 +23,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "0a9c491571de",
-      "title": "Old Time Jam",
-      "date": "2026-03-05T22:00:00",
-      "location": "Jones House Community Center, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "e724a529dbda",
       "title": "The Art of Walking",
       "date": "2026-03-06T15:00:00",
@@ -100,13 +34,13 @@
       "longitude": -81.6746
     },
     {
-      "id": "b4d25f1a3f0e",
-      "title": "Blue Ridge Art Walk",
-      "date": "2026-03-06T16:00:00",
-      "location": "Boone Greenway",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "id": "6b9a6adac8ac",
+      "title": "First Friday Art Crawl",
+      "date": "2026-03-06T17:00:00",
+      "location": "NC",
+      "description": "https://www.watauga-arts.org/first-friday-art-crawls",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-2/2026-03-06/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -122,17 +56,6 @@
       "longitude": -81.6752
     },
     {
-      "id": "a320e28a680c",
-      "title": "First Friday Art Crawl",
-      "date": "2026-03-06T19:00:00",
-      "location": "Downtown Boone",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "e96227f48e8e",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-03-06T19:00:00",
@@ -144,15 +67,15 @@
       "longitude": -81.6746
     },
     {
-      "id": "0b16fa726e08",
+      "id": "2b11c38ec311",
       "title": "580 WKSK LIVE Old Time and Bluegrass Show Radio Show: Sheets Family Band",
-      "date": "2026-03-07T11:00:00",
-      "location": "Ashe Civic Center, NC",
+      "date": "2026-03-07T10:00:00",
+      "location": "Ashe County, NC",
       "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-show-radio-show-sheets-family-band/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "91f68d554518",
@@ -166,70 +89,15 @@
       "longitude": -81.4264
     },
     {
-      "id": "028ab71ce07a",
-      "title": "King Street Indoor Market",
-      "date": "2026-03-07T13:00:00",
-      "location": "Agricultural Conference Center, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "fbf060b6e0f3",
+      "id": "0419e1b95a3d",
       "title": "The Grascals",
       "date": "2026-03-07T19:00:00",
-      "location": "Appalachian Theatre, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "5df8526cbb92",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-03-07T19:00:00",
-      "location": "Mysterium Escape Adventure, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "ad1cd00926e3",
-      "title": "Alleghany Jubilee",
-      "date": "2026-03-07T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "Featured March 7 @ 7:00 pm - 9:30 pm Recurring",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-03-07/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "13aed5f11144",
-      "title": "Asheville Community Square Dance",
-      "date": "2026-03-07T19:00:00",
-      "location": "Haw Creek Commons 315 Old Haw Creek Road, Asheville, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/asheville-community-square-dance/2026-03-07/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "43e9e8b20a8d",
-      "title": "Bluegrass at the Rock: Appalachian Road Show",
-      "date": "2026-03-07T19:30:00",
-      "location": "Old Rock School 400 West Main Street, Valdese, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/bluegrass-at-the-rock-appalachian-road-show/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "A blend of modern traditional bluegrass, gospel, and country influences, matched with world-class musicianship and an unshakable love for the genre, The Grascals are among the most respected and endur",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/thegrascals",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "38e4fc54ce26",
@@ -243,17 +111,6 @@
       "longitude": -81.4264
     },
     {
-      "id": "6c21948d860b",
-      "title": "Flannel Fest",
-      "date": "2026-03-07T22:00:00",
-      "location": "Appalachian Mountain Brewery, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "3c9757fbd4d0",
       "title": "Boone Winter Farmers Market",
       "date": "2026-03-08T10:00:00",
@@ -261,17 +118,6 @@
       "description": "\u200b*Please note: we are an all-weather market. In most cases, we will be open in rain, snow, or ice. For up-to-date information on our rare market closures, please follow us on Facebook @KingStreetMkt a",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/boone-winter-farmers-market/2026-03-08/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "70c3ee96fbb2",
-      "title": "Old Farmer\u2019s Ball English Country Dance",
-      "date": "2026-03-08T16:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "Harvest House Community Center 205 Kenilworth Rd., Asheville, NC, United States",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/old-farmers-ball-english-country-dance/2026-03-08/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -287,17 +133,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "f53890f053a4",
-      "title": "Stecoah Stories & Seeds Speaker Series",
-      "date": "2026-03-11T11:30:00",
-      "location": "Stecoah Valley Cultural Arts Center 121 Schoolhouse Road, Robbinsville, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/stecoah-stories-seeds-speaker-series/2026-03-11/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "d0aaf903e24e",
       "title": "Obw Book Club",
       "date": "2026-03-11T17:30:00",
@@ -309,28 +144,6 @@
       "longitude": -81.119
     },
     {
-      "id": "6d97611a640d",
-      "title": "Ballad Night at the Old Marshall Jail Hotel",
-      "date": "2026-03-11T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "Featured March 11 @ 6:00 pm - 8:00 pm Recurring",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/ballad-night-at-the-old-marshall-jail-hotel/2026-03-11/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "766f7fe57ac2",
-      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
-      "date": "2026-03-11T18:30:00",
-      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-03-11/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "55191b5eab44",
       "title": "Lightwire Theatre's Dino-Light",
       "date": "2026-03-12T10:00:00",
@@ -340,17 +153,6 @@
       "url": "https://ashecountyarts.org/event/lightwire-theatres-dino-light/",
       "latitude": 36.4332,
       "longitude": -81.499
-    },
-    {
-      "id": "2fe91fe664d9",
-      "title": "Christian Harmony Sing \u2013 Asheville NC",
-      "date": "2026-03-12T18:30:00",
-      "location": "First Presbyterian Church 40 Church Street, Asheville, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-03-12/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "2f3926e39b16",
@@ -1013,6 +815,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "749821db666e",
+      "title": "Saloon Studios - 313 Old West Road, West Jefferson, Nc 28694 |",
+      "date": "2026-05-30T19:00:00",
+      "location": "Starts: 7:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "49ae25e5d7de",
       "title": "Rhododendron Ramble",
       "date": "2026-05-31T13:00:00",
@@ -1033,6 +846,17 @@
       "url": "https://grandfather.com/event/nature-photography-weekend/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "8b483d1a93bd",
+      "title": "Saloon Studios - 313 Old West Road, West Jefferson, Nc 28694 |",
+      "date": "2026-06-06T19:00:00",
+      "location": "Starts: 7:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
     },
     {
       "id": "8ebd604398de",
@@ -1365,6 +1189,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "2d6c2da3ba5a",
+      "title": "Saloon Studios - 313 Old West Road, West Jefferson, Nc 28694 |",
+      "date": "2026-09-12T19:00:00",
+      "location": "Starts: 7:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
+    },
+    {
       "id": "2e9f8d84d339",
       "title": "55th-Annual Girl Scout Day",
       "date": "2026-09-12T19:00:00",
@@ -1462,6 +1297,17 @@
       "url": "https://grandfather.com/event/creatures-of-night/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "e208ad48c3d9",
+      "title": "Saloon Studios - 313 Old West Road, West Jefferson, Nc 28694 |",
+      "date": "2026-09-26T19:00:00",
+      "location": "Starts: 7:00 PM",
+      "description": "",
+      "source": "Stay Blue Ridge",
+      "url": "https://www.stayblueridge.com/events-list",
+      "latitude": 36.4458,
+      "longitude": -81.4264
     },
     {
       "id": "b2e85ad5f105",
@@ -1858,11 +1704,23 @@
       "url": "https://www.apptheatre.org/events-and-tickets/the-princess-bride-xtrjk",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "3873f3587ac9",
+      "title": "The Amazing Adventures of Kavalier & Clay",
+      "date": "2027-02-01T13:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "Music by Mason Bates / Libretto by Gene Scheer / Based on the Book by Michael Chabon",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/amazing-adventures-kavelier-clay",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-02T14:04:00.306959",
-  "total_events": 169,
+  "last_updated": "2026-03-03T08:01:11.022424",
+  "total_events": 156,
   "sources": [
+    "Manual Events",
     "High Country Host",
     "Alleghany Chamber",
     "Alleghany Arts Council",
