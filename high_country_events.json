@@ -1,6 +1,39 @@
 {
   "events": [
     {
+      "id": "315e33805982",
+      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
+      "date": "2026-03-04T18:30:00",
+      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-03-04/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "2428ffcfe83d",
+      "title": "Community Jam \u2013 Crown Restaurant",
+      "date": "2026-03-05T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "The Crown Restaurant 135 Emily Ln., Brasstown, NC, United States",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-03-05/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "4faaf061421b",
+      "title": "Weekly Jam Sessions at the Jones House",
+      "date": "2026-03-05T19:00:00",
+      "location": "Jones House Cultural Center 604 West King Street, Boone, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-03-05/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "c5c942b00255",
       "title": "No Man\u2019s Land Film Festival",
       "date": "2026-03-05T19:00:00",
@@ -23,6 +56,28 @@
       "longitude": -81.6746
     },
     {
+      "id": "0a9c491571de",
+      "title": "Old Time Jam",
+      "date": "2026-03-05T22:00:00",
+      "location": "Jones House Community Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "a1dd13e31061",
+      "title": "Clara Vee",
+      "date": "2026-03-06T13:00:00",
+      "location": "Old Barn Winery, Sparta NC",
+      "description": "Meet Clara Vee - always ready to light up the stage! With a degree in musical theater and a heart set on performance, she kicked off her career entertaining in the sunny Florida Keys. From making wave",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.5054,
+      "longitude": -81.119
+    },
+    {
       "id": "e724a529dbda",
       "title": "The Art of Walking",
       "date": "2026-03-06T15:00:00",
@@ -34,13 +89,13 @@
       "longitude": -81.6746
     },
     {
-      "id": "6b9a6adac8ac",
-      "title": "First Friday Art Crawl",
-      "date": "2026-03-06T17:00:00",
-      "location": "NC",
-      "description": "https://www.watauga-arts.org/first-friday-art-crawls",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-2/2026-03-06/",
+      "id": "b4d25f1a3f0e",
+      "title": "Blue Ridge Art Walk",
+      "date": "2026-03-06T16:00:00",
+      "location": "Boone Greenway",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -56,6 +111,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "a320e28a680c",
+      "title": "First Friday Art Crawl",
+      "date": "2026-03-06T19:00:00",
+      "location": "Downtown Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "e96227f48e8e",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-03-06T19:00:00",
@@ -67,15 +133,15 @@
       "longitude": -81.6746
     },
     {
-      "id": "2b11c38ec311",
+      "id": "0b16fa726e08",
       "title": "580 WKSK LIVE Old Time and Bluegrass Show Radio Show: Sheets Family Band",
-      "date": "2026-03-07T10:00:00",
-      "location": "Ashe County, NC",
+      "date": "2026-03-07T11:00:00",
+      "location": "Ashe Civic Center, NC",
       "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-show-radio-show-sheets-family-band/",
-      "latitude": 36.4332,
-      "longitude": -81.499
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "91f68d554518",
@@ -89,15 +155,81 @@
       "longitude": -81.4264
     },
     {
-      "id": "0419e1b95a3d",
+      "id": "028ab71ce07a",
+      "title": "King Street Indoor Market",
+      "date": "2026-03-07T13:00:00",
+      "location": "Agricultural Conference Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "58d63b725c5b",
+      "title": "Little Horse",
+      "date": "2026-03-07T13:00:00",
+      "location": "Old Barn Winery, Sparta NC",
+      "description": "Little Horse is a local band blending rock and country favorites from the \u201960s and beyond. Formed from bluegrass jams at Phipps General Store, they bring mountain roots and classic hits to every perfo",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.5054,
+      "longitude": -81.119
+    },
+    {
+      "id": "fbf060b6e0f3",
       "title": "The Grascals",
       "date": "2026-03-07T19:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "A blend of modern traditional bluegrass, gospel, and country influences, matched with world-class musicianship and an unshakable love for the genre, The Grascals are among the most respected and endur",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/thegrascals",
-      "latitude": 36.2157,
-      "longitude": -81.6752
+      "location": "Appalachian Theatre, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "5df8526cbb92",
+      "title": "The Carolina Comedy Magic Parlor",
+      "date": "2026-03-07T19:00:00",
+      "location": "Mysterium Escape Adventure, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "ad1cd00926e3",
+      "title": "Alleghany Jubilee",
+      "date": "2026-03-07T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "Featured March 7 @ 7:00 pm - 9:30 pm Recurring",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-03-07/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "13aed5f11144",
+      "title": "Asheville Community Square Dance",
+      "date": "2026-03-07T19:00:00",
+      "location": "Haw Creek Commons 315 Old Haw Creek Road, Asheville, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/asheville-community-square-dance/2026-03-07/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "43e9e8b20a8d",
+      "title": "Bluegrass at the Rock: Appalachian Road Show",
+      "date": "2026-03-07T19:30:00",
+      "location": "Old Rock School 400 West Main Street, Valdese, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/bluegrass-at-the-rock-appalachian-road-show/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "38e4fc54ce26",
@@ -111,6 +243,17 @@
       "longitude": -81.4264
     },
     {
+      "id": "6c21948d860b",
+      "title": "Flannel Fest",
+      "date": "2026-03-07T22:00:00",
+      "location": "Appalachian Mountain Brewery, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "3c9757fbd4d0",
       "title": "Boone Winter Farmers Market",
       "date": "2026-03-08T10:00:00",
@@ -118,6 +261,28 @@
       "description": "\u200b*Please note: we are an all-weather market. In most cases, we will be open in rain, snow, or ice. For up-to-date information on our rare market closures, please follow us on Facebook @KingStreetMkt a",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/boone-winter-farmers-market/2026-03-08/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "e43fb268ba86",
+      "title": "Savannah Grace",
+      "date": "2026-03-08T14:00:00",
+      "location": "Old Barn Winery, Sparta NC",
+      "description": "Savannah Grace blends contemporary worship with singer-songwriter style, delivering heartfelt lyrics and soulful vocals. A worship leader of 14+ years, she performs services and acoustic sets while re",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.5054,
+      "longitude": -81.119
+    },
+    {
+      "id": "70c3ee96fbb2",
+      "title": "Old Farmer\u2019s Ball English Country Dance",
+      "date": "2026-03-08T16:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "Harvest House Community Center 205 Kenilworth Rd., Asheville, NC, United States",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/old-farmers-ball-english-country-dance/2026-03-08/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -133,15 +298,70 @@
       "longitude": -81.6746
     },
     {
-      "id": "d0aaf903e24e",
-      "title": "Obw Book Club",
-      "date": "2026-03-11T17:30:00",
+      "id": "93dfbe7e503b",
+      "title": "Boone Shape Note Singing",
+      "date": "2026-03-10T18:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "St. Paul's Episcopal Church 170 Council Street, Boone, North Carolina",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/boone-shape-note-singing/2026-03-10/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "f53890f053a4",
+      "title": "Stecoah Stories & Seeds Speaker Series",
+      "date": "2026-03-11T11:30:00",
+      "location": "Stecoah Valley Cultural Arts Center 121 Schoolhouse Road, Robbinsville, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/stecoah-stories-seeds-speaker-series/2026-03-11/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "ebfbccabac08",
+      "title": "Book Club",
+      "date": "2026-03-11T14:00:00",
       "location": "Old Barn Winery, Sparta NC",
-      "description": "Join us for Old Barn Winery's book club meeting where we will discuss the book \"The Correspondents\" by Virginia Evans.",
+      "description": "Join us at Old Barn Winery for our monthly book club meeting on Wednesday, March 11 at 5:30. We will be discussing the book \u201cThe Correspondent\u201d by Virginia Evans. Feel free to bring a snack to share, ",
       "source": "Old Barn Winery",
       "url": "https://oldbarnwinery.com/events-calendar",
       "latitude": 36.5054,
       "longitude": -81.119
+    },
+    {
+      "id": "7a34d46ab39c",
+      "title": "Live Music at Old Barn Winery",
+      "date": "2026-03-11T14:00:00",
+      "location": "Old Barn Winery, Sparta NC",
+      "description": "",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.5054,
+      "longitude": -81.119
+    },
+    {
+      "id": "6d97611a640d",
+      "title": "Ballad Night at the Old Marshall Jail Hotel",
+      "date": "2026-03-11T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "Featured March 11 @ 6:00 pm - 8:00 pm Recurring",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/ballad-night-at-the-old-marshall-jail-hotel/2026-03-11/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "766f7fe57ac2",
+      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
+      "date": "2026-03-11T18:30:00",
+      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-03-11/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "55191b5eab44",
@@ -153,6 +373,17 @@
       "url": "https://ashecountyarts.org/event/lightwire-theatres-dino-light/",
       "latitude": 36.4332,
       "longitude": -81.499
+    },
+    {
+      "id": "2fe91fe664d9",
+      "title": "Christian Harmony Sing \u2013 Asheville NC",
+      "date": "2026-03-12T18:30:00",
+      "location": "First Presbyterian Church 40 Church Street, Asheville, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-03-12/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "2f3926e39b16",
@@ -199,6 +430,17 @@
       "longitude": -81.499
     },
     {
+      "id": "7aa992ac59f2",
+      "title": "Freddie Blevins",
+      "date": "2026-03-13T13:00:00",
+      "location": "Old Barn Winery, Sparta NC",
+      "description": "Freddie Blevins brings country favorites and classic \u201970s and \u201980s rock to the stage, delivering familiar songs and good-time energy that keep audiences singing along.",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.5054,
+      "longitude": -81.119
+    },
+    {
       "id": "d8f5825b5243",
       "title": "Florence Thomas, Ashe Arts & Dough Ridge Pottery Downtown, West Jefferson |",
       "date": "2026-03-13T16:00:00",
@@ -241,6 +483,17 @@
       "url": "https://grandfather.com/event/sunrise-at-the-swinging-bridge-2/",
       "latitude": 36.0979,
       "longitude": -81.814
+    },
+    {
+      "id": "420ca1dbceb5",
+      "title": "Scott Carter",
+      "date": "2026-03-14T13:00:00",
+      "location": "Old Barn Winery, Sparta NC",
+      "description": "From the coastal town of Wilmington, NC and now local to Boone, Scott brings a wide range of musical influences. From Sturgill Simpson, Tyler Childers, Turnpike Troubadors, 90s country mixed with Clas",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.5054,
+      "longitude": -81.119
     },
     {
       "id": "01fd0a7fae60",
@@ -287,6 +540,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "390d14b994c0",
+      "title": "Live Music at Old Barn Winery",
+      "date": "2026-03-15T14:00:00",
+      "location": "Old Barn Winery, Sparta NC",
+      "description": "BRB (Brown, Reese & Brown) features Jeff & Lori Brown with Greg Reese performing favorite hits from the \u201970s through today, plus a few originals. Their fun, upbeat shows keep audiences singing along.",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.5054,
+      "longitude": -81.119
+    },
+    {
       "id": "8e0612bdbdc6",
       "title": "Rakish",
       "date": "2026-03-15T19:00:00",
@@ -307,6 +571,17 @@
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-03-16/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "9a6e8d3492ee",
+      "title": "Boone Area Chamber of Commerce - 4 Under 40 Awards",
+      "date": "2026-03-18T17:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "A decade of recognizing the top talent and leadership of young professionals in the High Country.",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/bacc-4under40",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "c7d13395ea72",
@@ -340,6 +615,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/ocms",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "81c849b09178",
+      "title": "Joseph Hasty & Centerpiece",
+      "date": "2026-03-20T13:00:00",
+      "location": "Old Barn Winery, Sparta NC",
+      "description": "Performing classic jazz, swing tunes, show tunes and other standards, Centerpiece Jazz plays all of your favorites. From Miles & Monk, Duke Ellington, Louis Armstrong & Ella to Antonio Carlos Jobim, C",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.5054,
+      "longitude": -81.119
     },
     {
       "id": "c8de4b8c055e",
@@ -386,6 +672,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "df432212c032",
+      "title": "Those 3 Guys",
+      "date": "2026-03-21T13:00:00",
+      "location": "Old Barn Winery, Sparta NC",
+      "description": "\u201cPeople ask about our song choices all the time \u2014 they\u2019re all over the place! We\u2019re a little scattered, and that\u2019s the fun of it. We all grew up here, went to the same high school, but life took us in",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.5054,
+      "longitude": -81.119
+    },
+    {
       "id": "9f48ec9114a9",
       "title": "Schaefer Center For The Performing Arts - 733 Rivers Street, Boone, Nc 28607 |",
       "date": "2026-03-21T19:30:00",
@@ -406,6 +703,17 @@
       "url": "https://downtownboonenc.com/eventinfo/boone-winter-farmers-market/2026-03-22/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "97d82c65b789",
+      "title": "Jerry G",
+      "date": "2026-03-22T14:00:00",
+      "location": "Old Barn Winery, Sparta NC",
+      "description": "Ashe County native Jerry Graybeal delivers classic and southern rock, country, and pop favorites. After decades performing along the East Coast, he\u2019s back home in the Blue Ridge sharing his music with",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.5054,
+      "longitude": -81.119
     },
     {
       "id": "df5c0c23144f",
@@ -439,6 +747,17 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-03-26/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "fa9165246791",
+      "title": "Mark Bumgarner",
+      "date": "2026-03-27T13:00:00",
+      "location": "Old Barn Winery, Sparta NC",
+      "description": "Mark\u2019s music is \u201cpure Southern Americana.\u201d A solo artist since 2005, he\u2019s also toured with bands like Nashville\u2019s Jubal Foster and emcees events including MerleFest, the nation\u2019s largest Americana and",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.5054,
+      "longitude": -81.119
     },
     {
       "id": "43f0c04cdcca",
@@ -1717,8 +2036,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-03T08:01:11.022424",
-  "total_events": 156,
+  "last_updated": "2026-03-04T08:01:09.556069",
+  "total_events": 185,
   "sources": [
     "Manual Events",
     "High Country Host",
