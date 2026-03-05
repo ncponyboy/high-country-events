@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "315e33805982",
-      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
-      "date": "2026-03-04T18:30:00",
-      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-03-04/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "2428ffcfe83d",
       "title": "Community Jam \u2013 Crown Restaurant",
       "date": "2026-03-05T19:00:00",
@@ -382,6 +371,17 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-03-12/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "16a173c7327b",
+      "title": "Community Jam \u2013 Crown Restaurant",
+      "date": "2026-03-12T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "The Crown Restaurant 135 Emily Ln., Brasstown, NC, United States",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-03-12/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -2036,7 +2036,7 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-04T08:01:09.556069",
+  "last_updated": "2026-03-05T08:01:10.577473",
   "total_events": 185,
   "sources": [
     "Manual Events",
