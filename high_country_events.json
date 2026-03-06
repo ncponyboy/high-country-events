@@ -1,61 +1,6 @@
 {
   "events": [
     {
-      "id": "2428ffcfe83d",
-      "title": "Community Jam \u2013 Crown Restaurant",
-      "date": "2026-03-05T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "The Crown Restaurant 135 Emily Ln., Brasstown, NC, United States",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-03-05/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "4faaf061421b",
-      "title": "Weekly Jam Sessions at the Jones House",
-      "date": "2026-03-05T19:00:00",
-      "location": "Jones House Cultural Center 604 West King Street, Boone, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-03-05/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "c5c942b00255",
-      "title": "No Man\u2019s Land Film Festival",
-      "date": "2026-03-05T19:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "Supporting Girls on the Run of the High Country",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/girls-on-the-run-nmlff",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "5fd6da7a5a5d",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-03-05T19:00:00",
-      "location": "NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-03-05/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "0a9c491571de",
-      "title": "Old Time Jam",
-      "date": "2026-03-05T22:00:00",
-      "location": "Jones House Community Center, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "a1dd13e31061",
       "title": "Clara Vee",
       "date": "2026-03-06T13:00:00",
@@ -386,6 +331,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "98ff5c25d8f4",
+      "title": "Weekly Jam Sessions at the Jones House",
+      "date": "2026-03-12T19:00:00",
+      "location": "Jones House Cultural Center 604 West King Street, Boone, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-03-12/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "2f3926e39b16",
       "title": "\u201cSouthern Hospitality\u201d",
       "date": "2026-03-12T19:00:00",
@@ -470,6 +426,17 @@
       "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-03-13/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "a9033f7b843f",
+      "title": "Michael Reno Harrell",
+      "date": "2026-03-13T19:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "Monte Vista Hotel 308 W State St, Black Mountain, NC, United States",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/michael-reno-harrell-3/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -826,6 +793,17 @@
       "longitude": -81.499
     },
     {
+      "id": "db248f648ecf",
+      "title": "Boone Winter Farmers Market",
+      "date": "2026-03-29T10:00:00",
+      "location": "\u200bWatauga County Agricultural Conference Center, 252 Poplar Grove RD, Boone, NC, 28607, United States",
+      "description": "\u200b*Please note: we are an all-weather market. In most cases, we will be open in rain, snow, or ice. For up-to-date information on our rare market closures, please follow us on Facebook @KingStreetMkt a",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/boone-winter-farmers-market/2026-03-29/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "7ef4d8cced2f",
       "title": "\u201cAre You Ready For It?\u201d - A Taylor Experience",
       "date": "2026-03-29T18:00:00",
@@ -890,6 +868,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/boonerang-botb1-t63h8",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "6ce0f2a67dd8",
+      "title": "Spring Fest: Arts & Crafts for Kids of All Ages",
+      "date": "2026-04-18T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/springfest26/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "0fa117162ff1",
@@ -2036,8 +2025,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-05T08:01:10.577473",
-  "total_events": 185,
+  "last_updated": "2026-03-06T08:01:10.224650",
+  "total_events": 184,
   "sources": [
     "Manual Events",
     "High Country Host",
