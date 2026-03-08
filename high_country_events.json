@@ -1,127 +1,6 @@
 {
   "events": [
     {
-      "id": "0b16fa726e08",
-      "title": "580 WKSK LIVE Old Time and Bluegrass Show Radio Show: Sheets Family Band",
-      "date": "2026-03-07T11:00:00",
-      "location": "Ashe Civic Center, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "91f68d554518",
-      "title": "Ashe Civic Center - 962 Mount Jefferson Road |",
-      "date": "2026-03-07T11:00:00",
-      "location": "Starts: 11:00 AM",
-      "description": "",
-      "source": "Stay Blue Ridge",
-      "url": "https://www.stayblueridge.com/events-list",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "028ab71ce07a",
-      "title": "King Street Indoor Market",
-      "date": "2026-03-07T13:00:00",
-      "location": "Agricultural Conference Center, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "58d63b725c5b",
-      "title": "Little Horse",
-      "date": "2026-03-07T13:00:00",
-      "location": "Old Barn Winery, Sparta NC",
-      "description": "Little Horse is a local band blending rock and country favorites from the \u201960s and beyond. Formed from bluegrass jams at Phipps General Store, they bring mountain roots and classic hits to every perfo",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.5054,
-      "longitude": -81.119
-    },
-    {
-      "id": "fbf060b6e0f3",
-      "title": "The Grascals",
-      "date": "2026-03-07T19:00:00",
-      "location": "Appalachian Theatre, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "5df8526cbb92",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-03-07T19:00:00",
-      "location": "Mysterium Escape Adventure, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "ad1cd00926e3",
-      "title": "Alleghany Jubilee",
-      "date": "2026-03-07T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "Featured March 7 @ 7:00 pm - 9:30 pm Recurring",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-03-07/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "13aed5f11144",
-      "title": "Asheville Community Square Dance",
-      "date": "2026-03-07T19:00:00",
-      "location": "Haw Creek Commons 315 Old Haw Creek Road, Asheville, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/asheville-community-square-dance/2026-03-07/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "43e9e8b20a8d",
-      "title": "Bluegrass at the Rock: Appalachian Road Show",
-      "date": "2026-03-07T19:30:00",
-      "location": "Old Rock School 400 West Main Street, Valdese, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/bluegrass-at-the-rock-appalachian-road-show/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "38e4fc54ce26",
-      "title": "Boondocks Brew Haus Event Center & Brewery - 302 S Jefferson Ave West Jefferson, Nc 28694 |",
-      "date": "2026-03-07T20:00:00",
-      "location": "Starts: 8:00 PM",
-      "description": "",
-      "source": "Stay Blue Ridge",
-      "url": "https://www.stayblueridge.com/events-list",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "6c21948d860b",
-      "title": "Flannel Fest",
-      "date": "2026-03-07T22:00:00",
-      "location": "Appalachian Mountain Brewery, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "3c9757fbd4d0",
       "title": "Boone Winter Farmers Market",
       "date": "2026-03-08T10:00:00",
@@ -408,6 +287,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "b9405b2a1d83",
+      "title": "Alleghany Jubilee",
+      "date": "2026-03-14T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "Featured March 14 @ 7:00 pm - 9:30 pm Recurring",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-03-14/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "bec4cabf72b3",
       "title": "Boondocks Brew Haus Event Center & Brewery - 302 S Jefferson Ave West Jefferson, Nc 28694 |",
       "date": "2026-03-14T20:00:00",
@@ -450,6 +340,28 @@
       "url": "https://oldbarnwinery.com/events-calendar",
       "latitude": 36.5054,
       "longitude": -81.119
+    },
+    {
+      "id": "ca6105ef68ab",
+      "title": "Old Farmer\u2019s Ball Family Dance",
+      "date": "2026-03-15T15:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "Harvest House Community Center 205 Kenilworth Rd., Asheville, NC, United States",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/old-farmers-ball-family-dance/2026-03-15/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "21965d63c62e",
+      "title": "Warren Wilson Monthly Singing",
+      "date": "2026-03-15T15:00:00",
+      "location": "Warren Wilson College 701 Warren Wilson Road, Swannanoa, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/warren-wilson-monthly-singing/2026-03-15/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "8e0612bdbdc6",
@@ -811,6 +723,17 @@
       "description": "https://www.watauga-arts.org/first-friday-art-crawls",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-2/2026-04-03/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "00927634b438",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-04-03T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-03/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1893,28 +1816,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "8c3808cb3987",
-      "title": "A Christmas Carol by Candlelight",
-      "date": "2026-12-21T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "An Appalachian Holiday Tradition",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-3gm3n-lc4lh-xp4p5-lxlwg-lx5gt",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "42614cfb4e07",
-      "title": "Jack\u2019s Jolly Jaunt: Tim Burton\u2019s The Nightmare Before Christmas (1993)",
-      "date": "2026-12-22T19:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "Join in Jack\u2019s Jolly Jaunt this Holiday Season!",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/jacks-jolly-jaunt-nightmarebeforechristmas",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "1ac18c31ea80",
       "title": "\u201cHome Alone\u201d",
       "date": "2026-12-23T18:00:00",
@@ -2089,10 +1990,21 @@
       "url": "https://www.apptheatre.org/events-and-tickets/tsm-killer-of-sheep",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "41e6b518c24c",
+      "title": "Broadway in Love",
+      "date": "2027-02-06T19:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "Prepare to be swept off your feet by Broadway in Love, the concert experience that\u2019s been exhilarating audiences around the country.",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/broadway-in-love",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-07T08:01:13.741953",
-  "total_events": 190,
+  "last_updated": "2026-03-08T08:00:32.026202",
+  "total_events": 182,
   "sources": [
     "Manual Events",
     "High Country Host",
