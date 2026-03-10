@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "768b04645b1e",
-      "title": "Weekly Trivia @ South End",
-      "date": "2026-03-09T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-03-09/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "93dfbe7e503b",
       "title": "Boone Shape Note Singing",
       "date": "2026-03-10T18:30:00",
@@ -100,6 +89,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "b9a1782415c5",
+      "title": "Dino Light With Live Wire Theatre",
+      "date": "2026-03-12T19:00:00",
+      "location": "Ashe Civic Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "16a173c7327b",
       "title": "Community Jam \u2013 Crown Restaurant",
       "date": "2026-03-12T19:00:00",
@@ -155,6 +155,28 @@
       "longitude": -81.4264
     },
     {
+      "id": "3627e98d2036",
+      "title": "Old Time Jam",
+      "date": "2026-03-12T22:00:00",
+      "location": "Jones House Community Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "b30608b1289c",
+      "title": "Concerts at Union Mills Learning Center",
+      "date": "2026-03-13T06:00:00",
+      "location": "Union Mills Learning Center 6495 Hudlow Road, Union Mills, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/concerts-at-union-mills/2026-03-13/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "925d1a10fde5",
       "title": "Ashe County Children's Art Crawl",
       "date": "2026-03-13T10:00:00",
@@ -186,6 +208,17 @@
       "url": "https://www.stayblueridge.com/events-list",
       "latitude": 36.4458,
       "longitude": -81.4264
+    },
+    {
+      "id": "907f3923e968",
+      "title": "Todd Community Dance",
+      "date": "2026-03-13T18:00:00",
+      "location": "Todd Merchantile, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "abe031979446",
@@ -221,6 +254,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "91bb87c1bfe8",
+      "title": "Sunrise At Grandfather",
+      "date": "2026-03-14T06:00:00",
+      "location": "Grandfather Mountain, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "eb7b83c6213b",
       "title": "Sunrise at the Swinging Bridge",
       "date": "2026-03-14T06:30:00",
@@ -230,6 +274,17 @@
       "url": "https://grandfather.com/event/sunrise-at-the-swinging-bridge-2/",
       "latitude": 36.0979,
       "longitude": -81.814
+    },
+    {
+      "id": "6ef666b574fc",
+      "title": "King Street Indoor Market",
+      "date": "2026-03-14T13:00:00",
+      "location": "Agricultural Conference Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "420ca1dbceb5",
@@ -252,6 +307,28 @@
       "url": "https://www.apptheatre.org/events-and-tickets/beanstalk-southern-hospitality-6w2js-5d55s",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "6ba3eca11189",
+      "title": "Mountaincon",
+      "date": "2026-03-14T17:00:00",
+      "location": "Watauga County High School, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "62c55fd39095",
+      "title": "The Carolina Comedy Magic Parlor",
+      "date": "2026-03-14T19:00:00",
+      "location": "Mysterium Escape Adventure, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "b9405b2a1d83",
@@ -331,15 +408,15 @@
       "longitude": -81.6746
     },
     {
-      "id": "8e0612bdbdc6",
+      "id": "463528e9e1a7",
       "title": "Rakish",
       "date": "2026-03-15T19:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "Rooted in tradition with an ear toward the future, contemporary folk duo Rakish embody earnest musical exploration.",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/rakish",
-      "latitude": 36.2157,
-      "longitude": -81.6752
+      "location": "Appalachian Theatre, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "2ecbbc5033cb",
@@ -353,15 +430,15 @@
       "longitude": -81.6746
     },
     {
-      "id": "7e8467c233cf",
-      "title": "Stecoah Community Jam",
-      "date": "2026-03-17T17:30:00",
-      "location": "Stecoah Valley Cultural Arts Center 121 Schoolhouse Road, Robbinsville, NC, United States",
+      "id": "72512ac08bf0",
+      "title": "NC Playwrights Forum: Virtual",
+      "date": "2026-03-18T10:00:00",
+      "location": "Ashe County, NC",
       "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/stecoah-community-jam/2026-03-17/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/nc-playwrights-forum/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "9a6e8d3492ee",
@@ -723,6 +800,17 @@
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-06/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "840f0c58a628",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-04-09T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-09/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1264,6 +1352,17 @@
       "url": "https://www.stayblueridge.com/events-list",
       "latitude": 36.4458,
       "longitude": -81.4264
+    },
+    {
+      "id": "b274dc2ad602",
+      "title": "Doc & Rosa Lee Watson MusicFest",
+      "date": "2026-07-17T19:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "Featuring The Kody Norris Show, The Kruger Brothers and Blue Highway!",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/doc-rosalee-watson-musicfest2026",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "a8e83768547b",
@@ -1992,8 +2091,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-09T08:00:32.459050",
-  "total_events": 181,
+  "last_updated": "2026-03-10T08:00:33.696614",
+  "total_events": 190,
   "sources": [
     "Manual Events",
     "High Country Host",
