@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "93dfbe7e503b",
-      "title": "Boone Shape Note Singing",
-      "date": "2026-03-10T18:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "St. Paul's Episcopal Church 170 Council Street, Boone, North Carolina",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/boone-shape-note-singing/2026-03-10/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "f53890f053a4",
       "title": "Stecoah Stories & Seeds Speaker Series",
       "date": "2026-03-11T11:30:00",
@@ -430,6 +419,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "7e8467c233cf",
+      "title": "Stecoah Community Jam",
+      "date": "2026-03-17T17:30:00",
+      "location": "Stecoah Valley Cultural Arts Center 121 Schoolhouse Road, Robbinsville, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/stecoah-community-jam/2026-03-17/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "72512ac08bf0",
       "title": "NC Playwrights Forum: Virtual",
       "date": "2026-03-18T10:00:00",
@@ -505,6 +505,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/puppy-pals-live",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "dde70142b4f2",
+      "title": "March 2026",
+      "date": "2026-03-20T19:00:00",
+      "location": "Sparta, NC",
+      "description": "Filters",
+      "source": "Alleghany Chamber",
+      "url": "https://www.alleghanycountychamber.com/events/communityeventscalendar",
+      "latitude": 36.4905,
+      "longitude": -81.1701
     },
     {
       "id": "e9e4b6dd861e",
@@ -648,6 +659,17 @@
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-03-27/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "259ebb563369",
+      "title": "Toy Sheep Microcinema: THE CRAMPS AND THE MUTANTS: THE NAPA STATE TAPES",
+      "date": "2026-03-27T20:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "An evening of PUNK film and live music with the Karloffs.",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/tsm-killer-of-sheep-ga6n9",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "0ce4e2b60de7",
@@ -2091,8 +2113,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-10T08:00:33.696614",
-  "total_events": 190,
+  "last_updated": "2026-03-11T08:00:30.980760",
+  "total_events": 192,
   "sources": [
     "Manual Events",
     "High Country Host",
