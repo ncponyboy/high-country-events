@@ -1,61 +1,6 @@
 {
   "events": [
     {
-      "id": "f53890f053a4",
-      "title": "Stecoah Stories & Seeds Speaker Series",
-      "date": "2026-03-11T11:30:00",
-      "location": "Stecoah Valley Cultural Arts Center 121 Schoolhouse Road, Robbinsville, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/stecoah-stories-seeds-speaker-series/2026-03-11/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "ebfbccabac08",
-      "title": "Book Club",
-      "date": "2026-03-11T14:00:00",
-      "location": "Old Barn Winery, Sparta NC",
-      "description": "Join us at Old Barn Winery for our monthly book club meeting on Wednesday, March 11 at 5:30. We will be discussing the book \u201cThe Correspondent\u201d by Virginia Evans. Feel free to bring a snack to share, ",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.5054,
-      "longitude": -81.119
-    },
-    {
-      "id": "7a34d46ab39c",
-      "title": "Live Music at Old Barn Winery",
-      "date": "2026-03-11T14:00:00",
-      "location": "Old Barn Winery, Sparta NC",
-      "description": "",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.5054,
-      "longitude": -81.119
-    },
-    {
-      "id": "6d97611a640d",
-      "title": "Ballad Night at the Old Marshall Jail Hotel",
-      "date": "2026-03-11T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "Featured March 11 @ 6:00 pm - 8:00 pm Recurring",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/ballad-night-at-the-old-marshall-jail-hotel/2026-03-11/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "766f7fe57ac2",
-      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
-      "date": "2026-03-11T18:30:00",
-      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-03-11/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "55191b5eab44",
       "title": "Lightwire Theatre's Dino-Light",
       "date": "2026-03-12T10:00:00",
@@ -452,6 +397,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "34ab69daad8f",
+      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
+      "date": "2026-03-18T18:30:00",
+      "location": "The Ugly Dog Pub 294 South 4th Street, Highlands, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-03-18/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "c7d13395ea72",
       "title": "International Story Time: Stories from Spanish and Mayan Traditions",
       "date": "2026-03-19T15:30:00",
@@ -459,6 +415,28 @@
       "description": "Appalachian State University\u2019s Department of Languages, Literatures, and Cultures and High Country Humanities \u2013 in collaboration with the Watauga County Public Library \u2013 is pleased to present \u201cInterna",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/international-story-time-stories-from-spanish-and-mayan-traditions/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "4d5d072a6262",
+      "title": "Zuma Coffee Bluegrass Jam Session",
+      "date": "2026-03-19T18:00:00",
+      "location": "Zuma Coffee 7 North Main Street, Marshall, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/zuma-coffee-bluegrass-jam-session/2026-03-19/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "b0915a29c44c",
+      "title": "Contra Dance in Franklin, NC",
+      "date": "2026-03-19T18:30:00",
+      "location": "Macon County Public Library 149 Siler Farm Road, Franklin, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/contra-dance/2026-03-19/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -2113,8 +2091,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-11T08:00:30.980760",
-  "total_events": 192,
+  "last_updated": "2026-03-12T08:00:30.940858",
+  "total_events": 190,
   "sources": [
     "Manual Events",
     "High Country Host",
