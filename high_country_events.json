@@ -1,116 +1,6 @@
 {
   "events": [
     {
-      "id": "55191b5eab44",
-      "title": "Lightwire Theatre's Dino-Light",
-      "date": "2026-03-12T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/lightwire-theatres-dino-light/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "2fe91fe664d9",
-      "title": "Christian Harmony Sing \u2013 Asheville NC",
-      "date": "2026-03-12T18:30:00",
-      "location": "First Presbyterian Church 40 Church Street, Asheville, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-03-12/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "b9a1782415c5",
-      "title": "Dino Light With Live Wire Theatre",
-      "date": "2026-03-12T19:00:00",
-      "location": "Ashe Civic Center, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "16a173c7327b",
-      "title": "Community Jam \u2013 Crown Restaurant",
-      "date": "2026-03-12T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "The Crown Restaurant 135 Emily Ln., Brasstown, NC, United States",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-03-12/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "98ff5c25d8f4",
-      "title": "Weekly Jam Sessions at the Jones House",
-      "date": "2026-03-12T19:00:00",
-      "location": "Jones House Cultural Center 604 West King Street, Boone, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-03-12/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "2f3926e39b16",
-      "title": "\u201cSouthern Hospitality\u201d",
-      "date": "2026-03-12T19:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "A Southern-Fried Hometown Comedy.",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/beanstalk-southern-hospitality",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "234684045ef4",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-03-12T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-03-12/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "35dcf7c4e10b",
-      "title": "Ashe Civic Center - 962 Mount Jefferson Road |",
-      "date": "2026-03-12T19:30:00",
-      "location": "Starts: 7:30 PM",
-      "description": "",
-      "source": "Stay Blue Ridge",
-      "url": "https://www.stayblueridge.com/events-list",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "3627e98d2036",
-      "title": "Old Time Jam",
-      "date": "2026-03-12T22:00:00",
-      "location": "Jones House Community Center, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "b30608b1289c",
-      "title": "Concerts at Union Mills Learning Center",
-      "date": "2026-03-13T06:00:00",
-      "location": "Union Mills Learning Center 6495 Hudlow Road, Union Mills, NC, United States",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/concerts-at-union-mills/2026-03-13/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "925d1a10fde5",
       "title": "Ashe County Children's Art Crawl",
       "date": "2026-03-13T10:00:00",
@@ -437,6 +327,39 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/contra-dance/2026-03-19/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "858c4b422bf6",
+      "title": "Carolina Gospel Association Presents: The Freemans",
+      "date": "2026-03-19T19:00:00",
+      "location": "Don Gibson Theatre 318 South Washington Street, Shelby, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/carolina-gospel-association-presents-the-freemans/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "cd97854104e2",
+      "title": "Community Jam \u2013 Crown Restaurant",
+      "date": "2026-03-19T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "The Crown Restaurant 135 Emily Ln., Brasstown, NC, United States",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-03-19/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "d7c695b18b02",
+      "title": "Weekly Jam Sessions at the Jones House",
+      "date": "2026-03-19T19:00:00",
+      "location": "Jones House Cultural Center 604 West King Street, Boone, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-03-19/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -848,6 +771,28 @@
       "longitude": -81.6752
     },
     {
+      "id": "5fabd6f94f14",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-04-10T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-10/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "1ec048f1edda",
+      "title": "Weekly Trivia @ South End",
+      "date": "2026-04-13T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-13/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "31da97f58151",
       "title": "Boonerang: Battle of the Bands - Night 2",
       "date": "2026-04-16T19:00:00",
@@ -998,6 +943,17 @@
       "description": "Music by Pyotr Ilyich Tchaikovsky & Libretto by Alexander Pushkin",
       "source": "Appalachian Theatre",
       "url": "https://www.apptheatre.org/events-and-tickets/eugene-onegin",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "f804862b84c4",
+      "title": "Landon Talks",
+      "date": "2026-05-19T19:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "Sponsored by Mast General Store",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/landon-talks",
       "latitude": 36.2157,
       "longitude": -81.6752
     },
@@ -2091,8 +2047,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-12T08:00:30.940858",
-  "total_events": 190,
+  "last_updated": "2026-03-13T08:00:35.106857",
+  "total_events": 186,
   "sources": [
     "Manual Events",
     "High Country Host",
