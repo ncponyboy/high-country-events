@@ -1,94 +1,6 @@
 {
   "events": [
     {
-      "id": "925d1a10fde5",
-      "title": "Ashe County Children's Art Crawl",
-      "date": "2026-03-13T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/ashe-county-childrens-art-crawl/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "7aa992ac59f2",
-      "title": "Freddie Blevins",
-      "date": "2026-03-13T13:00:00",
-      "location": "Old Barn Winery, Sparta NC",
-      "description": "Freddie Blevins brings country favorites and classic \u201970s and \u201980s rock to the stage, delivering familiar songs and good-time energy that keep audiences singing along.",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.5054,
-      "longitude": -81.119
-    },
-    {
-      "id": "d8f5825b5243",
-      "title": "Florence Thomas, Ashe Arts & Dough Ridge Pottery Downtown, West Jefferson |",
-      "date": "2026-03-13T16:00:00",
-      "location": "Starts: 4:00 PM",
-      "description": "",
-      "source": "Stay Blue Ridge",
-      "url": "https://www.stayblueridge.com/events-list",
-      "latitude": 36.4458,
-      "longitude": -81.4264
-    },
-    {
-      "id": "907f3923e968",
-      "title": "Todd Community Dance",
-      "date": "2026-03-13T18:00:00",
-      "location": "Todd Merchantile, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "abe031979446",
-      "title": "\u201cSouthern Hospitality\u201d",
-      "date": "2026-03-13T19:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "A Southern-Fried Hometown Comedy.",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/beanstalk-southern-hospitality-6w2js",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "75ef58950b5e",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-03-13T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-03-13/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "a9033f7b843f",
-      "title": "Michael Reno Harrell",
-      "date": "2026-03-13T19:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "Monte Vista Hotel 308 W State St, Black Mountain, NC, United States",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/michael-reno-harrell-3/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "91bb87c1bfe8",
-      "title": "Sunrise At Grandfather",
-      "date": "2026-03-14T06:00:00",
-      "location": "Grandfather Mountain, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "eb7b83c6213b",
       "title": "Sunrise at the Swinging Bridge",
       "date": "2026-03-14T06:30:00",
@@ -386,6 +298,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "752272ef1d33",
+      "title": "Concerts at Union Mills Learning Center",
+      "date": "2026-03-20T06:00:00",
+      "location": "Union Mills Learning Center 6495 Hudlow Road, Union Mills, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/concerts-at-union-mills/2026-03-20/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "81c849b09178",
       "title": "Joseph Hasty & Centerpiece",
       "date": "2026-03-20T13:00:00",
@@ -408,17 +331,6 @@
       "longitude": -81.6752
     },
     {
-      "id": "dde70142b4f2",
-      "title": "March 2026",
-      "date": "2026-03-20T19:00:00",
-      "location": "Sparta, NC",
-      "description": "Filters",
-      "source": "Alleghany Chamber",
-      "url": "https://www.alleghanycountychamber.com/events/communityeventscalendar",
-      "latitude": 36.4905,
-      "longitude": -81.1701
-    },
-    {
       "id": "e9e4b6dd861e",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-03-20T19:00:00",
@@ -426,6 +338,17 @@
       "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-03-20/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "73bf8c04766e",
+      "title": "Friends of Hot Springs NC Contra Dance",
+      "date": "2026-03-20T19:30:00",
+      "location": "Pine Hall 64 S. Spring Street, Hot Springs, NC, United States",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/friends-of-hot-springs-nc-contra-dance/2026-03-20/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -802,6 +725,28 @@
       "url": "https://www.apptheatre.org/events-and-tickets/boonerang-botb1-t63h8",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "81b33fccbedc",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-04-16T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-16/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "9f3c3bc0a7c1",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-04-17T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-17/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "6ce0f2a67dd8",
@@ -2045,10 +1990,21 @@
       "url": "https://www.apptheatre.org/events-and-tickets/bgt2026",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "2d64806a958c",
+      "title": "\u201cSinners\u201d (2025)",
+      "date": "2027-02-12T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "\"You keep dancing with the devil, one day he's gonna follow you home.\"",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/sinners",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-13T08:00:35.106857",
-  "total_events": 186,
+  "last_updated": "2026-03-14T08:00:32.218540",
+  "total_events": 182,
   "sources": [
     "Manual Events",
     "High Country Host",
