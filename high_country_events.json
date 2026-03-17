@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "7e8467c233cf",
-      "title": "Stecoah Community Jam",
-      "date": "2026-03-17T17:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/stecoah-community-jam/2026-03-17/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "72512ac08bf0",
       "title": "NC Playwrights Forum: Virtual",
       "date": "2026-03-18T10:00:00",
@@ -1761,8 +1750,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-17T17:02:24.438750",
-  "total_events": 160,
+  "last_updated": "2026-03-17T22:24:15.427876",
+  "total_events": 159,
   "sources": [
     "Manual Events",
     "High Country Host",
