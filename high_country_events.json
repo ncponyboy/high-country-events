@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "2ecbbc5033cb",
-      "title": "Weekly Trivia @ South End",
-      "date": "2026-03-16T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-03-16/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "7e8467c233cf",
       "title": "Stecoah Community Jam",
       "date": "2026-03-17T17:30:00",
@@ -19,6 +8,17 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/stecoah-community-jam/2026-03-17/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "9716fa5a0496",
+      "title": "St Patricks Day Fun",
+      "date": "2026-03-17T18:00:00",
+      "location": "The Old Store, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -65,6 +65,17 @@
       "url": "https://downtownboonenc.com/eventinfo/international-story-time-stories-from-spanish-and-mayan-traditions/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "ae71019c4f09",
+      "title": "Florence Thomas Class",
+      "date": "2026-03-19T17:30:00",
+      "location": "Old Barn Winery, Sparta NC",
+      "description": "Come join us at Old Barn Winery for a fun and creative evening making your own 1\u2019 x 1\u2019 Barn Quilt! Participants will choose up to three colors to personalize their design.\u00a0All materials are provided, ",
+      "source": "Old Barn Winery",
+      "url": "https://oldbarnwinery.com/events-calendar",
+      "latitude": 36.5054,
+      "longitude": -81.119
     },
     {
       "id": "4d5d072a6262",
@@ -144,6 +155,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "ea5633ffe032",
+      "title": "Old Time Jam",
+      "date": "2026-03-19T22:00:00",
+      "location": "Jones House Community Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "752272ef1d33",
       "title": "Concerts at Union Mills Learning Center",
       "date": "2026-03-20T06:00:00",
@@ -166,15 +188,15 @@
       "longitude": -81.119
     },
     {
-      "id": "c8de4b8c055e",
-      "title": "Puppy Pals LIVE",
-      "date": "2026-03-20T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "A family fun action-packed show where adopted and rescued dogs perform spectacular stunts and breathtaking feats.",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/puppy-pals-live",
-      "latitude": 36.2157,
-      "longitude": -81.6752
+      "id": "52a1dac22e47",
+      "title": "Puppy Pals Live",
+      "date": "2026-03-20T19:00:00",
+      "location": "Appalachian Theatre, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "e9e4b6dd861e",
@@ -206,6 +228,17 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/sam-bush/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "04cb92fd95bb",
+      "title": "New River Polar Plunge",
+      "date": "2026-03-21T08:00:00",
+      "location": "Zaloo\u2019s Canoes, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -243,6 +276,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "31ca730b13a6",
+      "title": "King Street Indoor Market",
+      "date": "2026-03-21T13:00:00",
+      "location": "Agricultural Conference Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "df432212c032",
       "title": "Those 3 Guys",
       "date": "2026-03-21T13:00:00",
@@ -252,6 +296,17 @@
       "url": "https://oldbarnwinery.com/events-calendar",
       "latitude": 36.5054,
       "longitude": -81.119
+    },
+    {
+      "id": "2d5e40931a91",
+      "title": "The Carolina Comedy Magic Parlor",
+      "date": "2026-03-21T19:00:00",
+      "location": "Mysterium Escape Adventure, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "e558ac6cd962",
@@ -725,6 +780,17 @@
       "url": "https://www.stayblueridge.com/events-list",
       "latitude": 36.4458,
       "longitude": -81.4264
+    },
+    {
+      "id": "f1f8c4b7d44c",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-04-24T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-24/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "f5972a2f708f",
@@ -1904,8 +1970,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-16T08:00:32.222313",
-  "total_events": 173,
+  "last_updated": "2026-03-17T08:00:35.366957",
+  "total_events": 179,
   "sources": [
     "Manual Events",
     "High Country Host",
