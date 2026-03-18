@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "id": "9a6e8d3492ee",
-      "title": "Boone Area Chamber of Commerce - 4 Under 40 Awards",
-      "date": "2026-03-18T17:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/bacc-4under40",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "34ab69daad8f",
-      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
-      "date": "2026-03-18T18:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-03-18/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "6b909d261c20",
-      "title": "NC Playwrights Forum: Virtual",
-      "date": "2026-03-18T18:30:00",
-      "location": "NC",
-      "description": "Presenting the all-zoom NC Playwrights Forum 6:30 pm \u2013 8:30 pm Sponsored by Ashe County Arts Council Join in this virtual forum for both actors and playwrights from across North Carolina! This monthly",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/nc-playwrights-forum/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
       "id": "c7d13395ea72",
       "title": "International Story Time: Stories from Spanish and Mayan Traditions",
       "date": "2026-03-19T15:30:00",
@@ -1772,8 +1739,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-18T16:57:09.471651",
-  "total_events": 161,
+  "last_updated": "2026-03-18T22:24:48.373574",
+  "total_events": 158,
   "sources": [
     "Manual Events",
     "High Country Host",
