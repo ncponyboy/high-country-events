@@ -243,6 +243,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "0a4590bcc160",
+      "title": "Allison de Groot & Tatiana Hargreaves",
+      "date": "2026-03-21T19:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/allison-de-groot-tatiana-hargreaves/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "83425e4cc3f8",
       "title": "Boone Winter Farmers Market",
       "date": "2026-03-22T10:00:00",
@@ -1563,17 +1574,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "7c7269e0bdf8",
-      "title": "New Year\u2019s Eve @ The AppTheatre with Thurston Howell",
-      "date": "2026-12-31T20:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/nye-2026-thurston-howell",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "15453e7b59a5",
       "title": "When Harry Met Sally(1989)",
       "date": "2027-01-02T18:00:00",
@@ -1750,7 +1750,7 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-17T22:24:15.427876",
+  "last_updated": "2026-03-18T11:51:14.870632",
   "total_events": 159,
   "sources": [
     "Manual Events",
