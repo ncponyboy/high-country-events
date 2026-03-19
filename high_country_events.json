@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "c7d13395ea72",
-      "title": "International Story Time: Stories from Spanish and Mayan Traditions",
-      "date": "2026-03-19T15:30:00",
-      "location": "Watuaga County Public Library, 140 Queen Street, Boone, NC, 28607, United States",
-      "description": "Appalachian State University\u2019s Department of Languages, Literatures, and Cultures and High Country Humanities \u2013 in collaboration with the Watauga County Public Library \u2013 is pleased to present \u201cInterna",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/international-story-time-stories-from-spanish-and-mayan-traditions/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "ae71019c4f09",
       "title": "Florence Thomas Class",
       "date": "2026-03-19T17:30:00",
@@ -648,6 +637,17 @@
       "url": "https://ashecountyarts.org/event/craft/",
       "latitude": 36.4332,
       "longitude": -81.499
+    },
+    {
+      "id": "bec84b22081a",
+      "title": "Weekly Trivia @ South End",
+      "date": "2026-04-27T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-27/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "e9d453d5eb2b",
@@ -1574,17 +1574,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "15453e7b59a5",
-      "title": "When Harry Met Sally(1989)",
-      "date": "2027-01-02T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/when-harry-met-sally",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "3e86855f480c",
       "title": "StevieMac - A Fleetwood Mac & Stevie Nicks Experience",
       "date": "2027-01-09T19:30:00",
@@ -1750,8 +1739,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-19T11:41:15.961215",
-  "total_events": 159,
+  "last_updated": "2026-03-19T16:55:49.283508",
+  "total_events": 158,
   "sources": [
     "Manual Events",
     "High Country Host",
