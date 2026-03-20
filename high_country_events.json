@@ -1,50 +1,6 @@
 {
   "events": [
     {
-      "id": "c8de4b8c055e",
-      "title": "Puppy Pals LIVE",
-      "date": "2026-03-20T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/puppy-pals-live",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "e9e4b6dd861e",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-03-20T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-03-20/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "73bf8c04766e",
-      "title": "Friends of Hot Springs NC Contra Dance",
-      "date": "2026-03-20T19:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/friends-of-hot-springs-nc-contra-dance/2026-03-20/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "b10fc923f29b",
-      "title": "Sam Bush",
-      "date": "2026-03-20T20:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/sam-bush/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "d5a550936b12",
       "title": "Weekend Workshop in Storytelling",
       "date": "2026-03-21T09:00:00",
@@ -617,6 +573,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "7aa64acbb3d4",
+      "title": "First Friday Art Crawl",
+      "date": "2026-05-01T17:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "https://www.watauga-arts.org/first-friday-art-crawls",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-2/2026-05-01/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "e9d453d5eb2b",
       "title": "IF4 International Fly Fishing Film Festival",
       "date": "2026-05-01T19:00:00",
@@ -626,6 +593,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/if426",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "0f7b6f2ab259",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-05-01T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-05-01/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "b3a1e0c7da6d",
@@ -703,17 +681,6 @@
       "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-23/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
-    },
-    {
-      "id": "1b816d3f47ee",
-      "title": "Shawn Camp - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-05-23T19:00:00",
-      "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
-      "description": "Shawn Camp Camp began playing guitar as a small child, growing up outside Perryville, Arkansas. Mandolin and fiddle followed, all before he could drive. He remembers dreaming of melodies, waking up, a",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.572886,
-      "longitude": -80.851589
     },
     {
       "id": "15e7a126af05",
@@ -912,17 +879,6 @@
       "url": "https://grandfather.com/event/by-night2/",
       "latitude": 36.0979,
       "longitude": -81.814
-    },
-    {
-      "id": "217f0270199e",
-      "title": "An Evening With Steep Canyon Rangers - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-06-13T19:00:00",
-      "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
-      "description": "Steep Canyon Rangers Hailing from both the Appalachian and Piedmont regions of North Carolina, Steep Canyon Rangers have long held traditional bluegrass paramount, while possessing an exceptional abil",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.572886,
-      "longitude": -80.851589
     },
     {
       "id": "aff735552698",
@@ -1211,17 +1167,6 @@
       "longitude": -81.8462718
     },
     {
-      "id": "3605040a1536",
-      "title": "Chatham Rabbits - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-08-15T19:00:00",
-      "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
-      "description": "Trey Hensley GRAMMY\u00ae Award-winning musician and singer/songwriter Trey Hensley has made a lasting mark across the bluegrass, Americana, folk and roots music worlds. He has been referred to as \u201cNashvil",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.572886,
-      "longitude": -80.851589
-    },
-    {
       "id": "772449936956",
       "title": "Grandfather by Night: Twilight Hike",
       "date": "2026-08-21T19:30:00",
@@ -1286,17 +1231,6 @@
       "url": "https://www.hcpress.com/announcements/boone-united-methodist-church-fall-bazaar-2025.html",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "345dc484ce39",
-      "title": "Chatham Rabbits - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-09-05T19:00:00",
-      "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
-      "description": "Chatham Rabbits There is something warm and instantly familiar about roots duo Chatham Rabbits. Partners in music and life, Austin and Sarah McCombie blend their personal histories through deft songwr",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.572886,
-      "longitude": -80.851589
     },
     {
       "id": "007b5575c1e9",
@@ -1695,8 +1629,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-20T16:40:46.218241",
-  "total_events": 154,
+  "last_updated": "2026-03-20T22:19:32.736839",
+  "total_events": 148,
   "sources": [
     "Manual Events",
     "High Country Host",
