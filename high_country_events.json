@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "e558ac6cd962",
-      "title": "Alleghany Jubilee",
-      "date": "2026-03-21T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-03-21/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "0a4590bcc160",
-      "title": "Allison de Groot & Tatiana Hargreaves",
-      "date": "2026-03-21T19:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/allison-de-groot-tatiana-hargreaves/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "e7e731e19efb",
       "title": "Weekend Workshop in Storytelling",
       "date": "2026-03-22T09:00:00",
@@ -155,6 +133,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "c3003ca39a66",
+      "title": "Weekly Jam Sessions at the Jones House",
+      "date": "2026-03-26T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-03-26/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "ba9159573751",
       "title": "Boonerang: Battle of the Bands - Night 1",
       "date": "2026-03-26T19:00:00",
@@ -186,6 +175,17 @@
       "url": "https://oldbarnwinery.com/events-calendar",
       "latitude": 36.5054,
       "longitude": -81.119
+    },
+    {
+      "id": "5e71b94f3f49",
+      "title": "Big Hero 6 (2014)",
+      "date": "2026-03-27T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/big-here-6",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "43f0c04cdcca",
@@ -602,6 +602,17 @@
       "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-05-01/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "de626ed85945",
+      "title": "Weekly Trivia @ South End",
+      "date": "2026-05-04T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-05-04/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1673,8 +1684,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-21T16:26:42.111874",
-  "total_events": 152,
+  "last_updated": "2026-03-21T22:15:30.364065",
+  "total_events": 153,
   "sources": [
     "Manual Events",
     "High Country Host",
