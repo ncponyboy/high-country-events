@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "e4e3da1f1fd1",
-      "title": "Tristan und Isolde",
-      "date": "2026-03-21T12:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/tristan-und-isolde",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "df432212c032",
-      "title": "Those 3 Guys",
-      "date": "2026-03-21T13:00:00",
-      "location": "Old Barn Winery, Sparta NC",
-      "description": "\u201cPeople ask about our song choices all the time \u2014 they\u2019re all over the place! We\u2019re a little scattered, and that\u2019s the fun of it. We all grew up here, went to the same high school, but life took us in",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.5054,
-      "longitude": -81.119
-    },
-    {
       "id": "e558ac6cd962",
       "title": "Alleghany Jubilee",
       "date": "2026-03-21T19:00:00",
@@ -1695,8 +1673,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-21T11:29:18.922861",
-  "total_events": 154,
+  "last_updated": "2026-03-21T16:26:42.111874",
+  "total_events": 152,
   "sources": [
     "Manual Events",
     "High Country Host",
