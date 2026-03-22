@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "83425e4cc3f8",
-      "title": "Boone Winter Farmers Market",
-      "date": "2026-03-22T10:00:00",
-      "location": "\u200bWatauga County Agricultural Conference Center, 252 Poplar Grove RD, Boone, NC, 28607, United States",
-      "description": "\u200b*Please note: we are an all-weather market. In most cases, we will be open in rain, snow, or ice. For up-to-date information on our rare market closures, please follow us on Facebook @KingStreetMkt a",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/boone-winter-farmers-market/2026-03-22/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "97d82c65b789",
-      "title": "Jerry G",
-      "date": "2026-03-22T14:00:00",
-      "location": "Old Barn Winery, Sparta NC",
-      "description": "Ashe County native Jerry Graybeal delivers classic and southern rock, country, and pop favorites. After decades performing along the East Coast, he\u2019s back home in the Blue Ridge sharing his music with",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.5054,
-      "longitude": -81.119
-    },
-    {
       "id": "146758b242dd",
       "title": "Old Farmer\u2019s Ball English Country Dance",
       "date": "2026-03-22T16:00:00",
@@ -637,6 +615,17 @@
       "url": "https://www.alleghanyartscouncil.org/events/taste-of-the-arts-presents-decorative-breads-for-mothers-day/",
       "latitude": 36.4905,
       "longitude": -81.1701
+    },
+    {
+      "id": "f342d87d7059",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-05-07T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-07/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "aff256e34aad",
@@ -1706,8 +1695,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-22T11:30:03.165848",
-  "total_events": 155,
+  "last_updated": "2026-03-22T16:27:39.067280",
+  "total_events": 154,
   "sources": [
     "Manual Events",
     "High Country Host",
