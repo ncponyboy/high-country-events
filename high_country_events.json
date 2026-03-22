@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "146758b242dd",
-      "title": "Old Farmer\u2019s Ball English Country Dance",
-      "date": "2026-03-22T16:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/old-farmers-ball-english-country-dance/2026-03-22/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "df5c0c23144f",
       "title": "Weekly Trivia @ South End",
       "date": "2026-03-23T19:00:00",
@@ -221,6 +210,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "a517d6820021",
+      "title": "Alleghany Jubilee",
+      "date": "2026-03-28T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-03-28/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "53767a4054c3",
       "title": "Girl Climber",
       "date": "2026-03-28T19:00:00",
@@ -272,6 +272,17 @@
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-03-30/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "aca70c173b39",
+      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
+      "date": "2026-04-01T18:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-04-01/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1530,17 +1541,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "f501328a6934",
-      "title": "Mountaineer Laughs! featuring Dale Jones",
-      "date": "2027-01-16T19:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/mountaineer-laughs-11626",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "b3dbcebb2b9f",
       "title": "Toy Sheep Microcinema: Oh, Canada!",
       "date": "2027-01-16T20:30:00",
@@ -1695,7 +1695,7 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-22T16:27:39.067280",
+  "last_updated": "2026-03-22T22:16:32.666341",
   "total_events": 154,
   "sources": [
     "Manual Events",
