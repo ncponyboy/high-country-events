@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "e7e731e19efb",
-      "title": "Weekend Workshop in Storytelling",
-      "date": "2026-03-22T09:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/weekend-workshop-in-storytelling/2026-03-22/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "83425e4cc3f8",
       "title": "Boone Winter Farmers Market",
       "date": "2026-03-22T10:00:00",
@@ -199,6 +188,17 @@
       "longitude": -81.1701
     },
     {
+      "id": "7452f16bb337",
+      "title": "Square Dance Brevard",
+      "date": "2026-03-27T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/square-dance-brevard/2026-03-27/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "e9163d5a8e94",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-03-27T19:00:00",
@@ -230,6 +230,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/knitflix-sleepless-in-seattle-mm7ab",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "107770567d25",
+      "title": "Zoe & Cloyd Workshop and Concert",
+      "date": "2026-03-28T16:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/zoe-cloyd-workshop-and-concert/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "53767a4054c3",
@@ -1682,10 +1693,21 @@
       "url": "https://www.apptheatre.org/events-and-tickets/apps-botb",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "65040d05946a",
+      "title": "Tuba Skinny",
+      "date": "2027-02-20T19:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/tuba-skinny",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-21T22:15:30.364065",
-  "total_events": 153,
+  "last_updated": "2026-03-22T11:30:03.165848",
+  "total_events": 155,
   "sources": [
     "Manual Events",
     "High Country Host",
