@@ -650,6 +650,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "c60bdc11a238",
+      "title": "Kids and Family Fun Day (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-16T12:00:00",
+      "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
+      "description": "This free event is open to all ages and includes performances, booths, an instrument \u201cpetting zoo,\u201d scavenger hunt, art activities, and more. Youth bands will perform throughout the event. * 12-12:45 ",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "8aef26fd5a0d",
       "title": "Eugene Onegin",
       "date": "2026-05-16T13:00:00",
@@ -1717,8 +1728,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-23T11:49:16.905464",
-  "total_events": 156,
+  "last_updated": "2026-03-23T16:55:30.439394",
+  "total_events": 157,
   "sources": [
     "Manual Events",
     "High Country Host",
