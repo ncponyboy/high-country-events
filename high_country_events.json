@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "df5c0c23144f",
-      "title": "Weekly Trivia @ South End",
-      "date": "2026-03-23T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-03-23/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "1d64253945a4",
-      "title": "Darren Nicholson Band Square Dance Party",
-      "date": "2026-03-23T20:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/darren-nicholson-band-square-dance-party/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "65f17a758497",
       "title": "Boone Shape Note Singing",
       "date": "2026-03-24T18:30:00",
@@ -635,6 +613,17 @@
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-07/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "f7ef1be324f5",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-05-08T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-05-08/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1728,8 +1717,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-23T16:55:30.439394",
-  "total_events": 157,
+  "last_updated": "2026-03-23T22:22:31.371074",
+  "total_events": 156,
   "sources": [
     "Manual Events",
     "High Country Host",
