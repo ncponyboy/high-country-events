@@ -265,6 +265,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "b839a244c9c0",
+      "title": "Community Jam \u2013 Crown Restaurant",
+      "date": "2026-04-02T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-04-02/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "ad130f6d1b6d",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-04-02T19:00:00",
@@ -1717,8 +1728,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-23T22:22:31.371074",
-  "total_events": 156,
+  "last_updated": "2026-03-24T11:50:01.029573",
+  "total_events": 157,
   "sources": [
     "Manual Events",
     "High Country Host",
