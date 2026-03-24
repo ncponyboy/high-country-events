@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "65f17a758497",
-      "title": "Boone Shape Note Singing",
-      "date": "2026-03-24T18:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/boone-shape-note-singing/2026-03-24/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "1023f330e818",
       "title": "Stecoah Stories & Seeds Speaker Series",
       "date": "2026-03-25T11:30:00",
@@ -1728,8 +1717,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-24T16:57:56.894422",
-  "total_events": 157,
+  "last_updated": "2026-03-24T22:21:50.303422",
+  "total_events": 156,
   "sources": [
     "Manual Events",
     "High Country Host",
