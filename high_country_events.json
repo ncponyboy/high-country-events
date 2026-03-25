@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "id": "6fb8795c64a7",
-      "title": "Tai Chi Fan",
-      "date": "2026-03-25T13:00:00",
-      "location": "Dragon Phoenix, 51 North Merrimon Ave, Woodfin, NC",
-      "description": "&lt;p&gt;The Tai Chi Fan class includes a short Flying Rainbow Single Fan form, partner work showing the martial application of the fans when they are used as a weapon, and ... &lt;a title=&quot;Tai C",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/tai-chi-fan/2026-03-25/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "ef6d48e58adc",
-      "title": "Small Group Weightlifting Class",
-      "date": "2026-03-25T13:00:00",
-      "location": "Jungle Gym Asheville, 30 Davenport Rd, Asheville",
-      "description": "&lt;p&gt;A small group resistance training session using barbells, dumbbells, and kettlebells to develop strength and muscle. Learn proper technique while getting progressively stronger each week.&lt;",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/small-group-weightlifting-class/2026-03-25/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "14d54cda2ff7",
-      "title": "Staying Grounded in Shaky Times",
-      "date": "2026-03-25T14:00:00",
-      "location": "AmeriHealth Caritas North Carolina Wellness and Opportunity Center, 216 Asheland Ave, Asheville, NC",
-      "description": "&lt;p&gt;A spiritual practice, support, and discussion group for seekers. It will explore a variety of spiritual practices including meditation, breath-work, meditative movement and more.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/staying-grounded-in-shaky-times/2026-03-25/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
       "id": "2b859ac8ed1f",
       "title": "Weaverville Tailgate Market",
       "date": "2026-03-25T15:00:00",
@@ -67,6 +34,17 @@
       "longitude": -82.5515
     },
     {
+      "id": "3b0ecaf2e4c4",
+      "title": "Chill Your Chug",
+      "date": "2026-03-25T15:30:00.576000",
+      "location": "The Hop, 56 Patton Avenue, Asheville, NC, 28801",
+      "description": "On Wednesday, 3/25 from open to close at ALL LOCATIONS bring in your favorite CLEAN and DRY tumbler and Chill Your Chug!&nbsp;",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/chill-your-chug",
+      "latitude": 35.5943996,
+      "longitude": -82.5539019
+    },
+    {
       "id": "3abc6c1a0da2",
       "title": "Black Cat Tales: Story Time w/Cats",
       "date": "2026-03-25T16:00:00",
@@ -74,6 +52,72 @@
       "description": "&lt;p&gt;Families with children age 7 &amp; under are invited to relax in the cat lounge and listen to a cat-centric book surrounded by our resident panthers.&lt;/p&gt;\\n",
       "source": "Mountain Xpress",
       "url": "https://mountainx.com/event/black-cat-tales-story-time-w-cats/2026-03-25/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "69cde1c4efbb",
+      "title": "Kitty-Oke",
+      "date": "2026-03-25T16:00:00",
+      "location": "Haiku, 26 Sweeten Creek Rd, Asheville",
+      "description": "&lt;p&gt;Haiku opens its indoor and outdoor garden spaces for midweek Bar Nights featuring cocktails, relaxed seating, fire tables, and rotating monthly programming designed for locals looking to unwi",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/kitty-oke/2026-03-25/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "0c6f281dbeda",
+      "title": "Kids Over Corporations Mass Meeting",
+      "date": "2026-03-25T17:00:00",
+      "location": "Union Hall at the Asheville Mall, 3 S Tunnel Rd, Asheville",
+      "description": "&lt;p&gt;Coworkers and the community come together take back control of public dollars, hold politicians accountable to families instead of donors, and finally put our kids first in this mass meeting.",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/kids-over-corporations-mass-meeting/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "b2b154f46e13",
+      "title": "Jamie Ager Meet &#038; Greet",
+      "date": "2026-03-25T17:00:00",
+      "location": "Oak and Grist Distilling Co., 1556 Grovestone Rd, Black Mountain",
+      "description": "&lt;p&gt;Get a chance to chat with the fourth-generation family farmer from fairview about how he plans to represent western North Carolina. Tickets are free but space is limited so please ... &lt;a t",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/jamie-ager-meet-greet/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "708e975c0e7a",
+      "title": "Board Game Night",
+      "date": "2026-03-25T17:00:00",
+      "location": "Hi-Wire RAD Beer Garden, 284 Lyman St, Asheville, NC",
+      "description": "&lt;p&gt;An open and casual game night featuring an assortment of board games available to play. Guests are welcome to bring their own games to share.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/board-game-night/2026-03-25/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "307a592c7306",
+      "title": "Old-time Jam",
+      "date": "2026-03-25T17:00:00",
+      "location": "Jack of the Wood Pub, 95 Patton Ave, Asheville, NC",
+      "description": "&lt;p&gt;Enjoy an evening of old-time mountain and folk music.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/old-time-jam/2026-03-25/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "a77267db7dd7",
+      "title": "The Candleers",
+      "date": "2026-03-25T17:30:00",
+      "location": "Eluvium Brewing, 11 Florida Ave, Weaverville, NC",
+      "description": "&lt;p&gt;Playing John Prine and Americana tunes.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/the-candleers-2/2026-03-25/",
       "latitude": 35.5951,
       "longitude": -82.5515
     },
@@ -87,6 +131,17 @@
       "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-03-25/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "77ba79998a77",
+      "title": "All Things Equal: The Life & Trials of Ruth Bader Ginsburg",
+      "date": "2026-03-26T00:00:00.086000",
+      "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
+      "description": "The \u201cNotorious RBG\u201d comes to life in this witty, moving portrait of Justice Ruth Bader Ginsburg. From breaking barriers and fighting for women\u2019s rights to standing strong on a divided Supreme Court, R",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/all-things-equal-the-life-trials-of-ruth-bader-ginsburg",
+      "latitude": 35.5943438,
+      "longitude": -82.5511352
     },
     {
       "id": "3f1a2126d2cc",
@@ -287,6 +342,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "dbe811fd8ab3",
+      "title": "The Hop & Bop Puppet Party",
+      "date": "2026-03-29T19:00:00.922000",
+      "location": "S&amp;W Food Hall, 56 Patton Avenue, Asheville, NC, 28801",
+      "description": "Join us for a joyful afternoon of puppets, parade energy, and plenty of food and sweet treats.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/the-hop-bop-puppet-party",
+      "latitude": 35.5943996,
+      "longitude": -82.5539019
+    },
+    {
       "id": "51978f3cb935",
       "title": "Weekly Trivia @ South End",
       "date": "2026-03-30T19:00:00",
@@ -441,6 +507,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "eac094df7151",
+      "title": "Between Walls and Windows",
+      "date": "2026-04-10T23:00:00.985000",
+      "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
+      "description": "This immersive performance moves through vignettes of intimacy, distance, and unease, evoking the sensations of being young, observed, and on the verge of something unnamed.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/between-walls-and-windows",
+      "latitude": 35.5943438,
+      "longitude": -82.5511352
+    },
+    {
       "id": "1ec048f1edda",
       "title": "Weekly Trivia @ South End",
       "date": "2026-04-13T19:00:00",
@@ -450,6 +527,17 @@
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-13/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "77ea7015ae43",
+      "title": "State of Downtown",
+      "date": "2026-04-14T15:00:00.979000",
+      "location": "Asheville, NC",
+      "description": "The State of Downtown is the Asheville Downtown Association\u2019s annual meeting bringing together Downtown stakeholders, business leaders, and community partners for a comprehensive look at the year ahea",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/state-of-downtown-2",
+      "latitude": 35.5951,
+      "longitude": -82.5515
     },
     {
       "id": "31da97f58151",
@@ -483,6 +571,50 @@
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-17/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "ed9fa933a45c",
+      "title": "Downtown After 5 | April",
+      "date": "2026-04-17T21:00:00.367000",
+      "location": "Pack Square Park, 80 Court Plaza, Asheville, NC, 28801",
+      "description": "Join us at Pack Square Park for Stomp &amp; Holler Night\u2014an evening of foot-stomping music, local flavors, handcrafted goods, and the lively spirit of Asheville.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/downtown-after-5-april-kdkd8",
+      "latitude": 35.5956631,
+      "longitude": -82.5490674
+    },
+    {
+      "id": "429e053dde8a",
+      "title": "Reginald Golden and the Reginald Golden Singers: Stony the Road",
+      "date": "2026-04-17T23:00:00.513000",
+      "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
+      "description": "Inspired by James Weldon Johnson\u2019s Lift Every Voice and Sing, this powerful musical suite by composer Reginald Golden blends jazz, blues, gospel, folk, and spirituals. Each movement honors both the st",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/reginald-golden-and-the-reginald-golden-singers-stony-the-road",
+      "latitude": 35.5943438,
+      "longitude": -82.5511352
+    },
+    {
+      "id": "50e703d77a8a",
+      "title": "Drag Brunch Fundraiser for Youth OUTright",
+      "date": "2026-04-18T15:00:00.653000",
+      "location": "Banks Ave Bar, 32 Banks Avenue, Asheville, NC, 28801",
+      "description": "The award-winning Asheville Drag Brunch is back with another spectacular Saturday brunch on Saturday, April 18, 2026 at Banks Ave. Bar. Shows are at 11:00 a.m. and 1:00 p.m. Expect big performances, b",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/drag-brunch-fundraiser-for-youth-outright",
+      "latitude": 35.589068,
+      "longitude": -82.5533289
+    },
+    {
+      "id": "9cfcf5dd1fc1",
+      "title": "Italian Bred",
+      "date": "2026-04-19T00:00:00.787000",
+      "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
+      "description": "Candice Guardino\u2019s hit comedy&nbsp;Italian Bred&nbsp;is coming to Asheville\u2019s Wortham Arts for&nbsp;one night only. After sold-out runs in NYC, Chicago, and LA, Candice brings her unforgettable solo s",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/italian-bred",
+      "latitude": 35.5943438,
+      "longitude": -82.5511352
     },
     {
       "id": "bf7663d08bb3",
@@ -628,6 +760,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "c49301c2249b",
+      "title": "Member Mixer - Marketing & Growth for Downtown Businesses",
+      "date": "2026-05-04T20:00:00.583000",
+      "location": "Third Room, 46 Wall Street, Asheville, NC, 28801",
+      "description": "Marketing and business growth experts will share practical strategies to help Downtown businesses increase visibility, attract customers, and scale sustainably. Topics include branding, digital market",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/member-mixer-marketing-growth-for-downtown-businesses",
+      "latitude": 35.5944374,
+      "longitude": -82.55597519999999
+    },
+    {
       "id": "b3a1e0c7da6d",
       "title": "Taste of the Arts presents Decorative Breads for Mother\u2019s Day",
       "date": "2026-05-05T19:00:00",
@@ -670,6 +813,17 @@
       "url": "https://grandfather.com/event/service-learning-nonnative-species/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "f741c7c7a8a0",
+      "title": "Downtown After 5 | May",
+      "date": "2026-05-15T21:00:00.827000",
+      "location": "Pack Square Park, 80 Court Plaza, Asheville, NC, 28801",
+      "description": "Dance the night away at Pack Square Park for Latin Dance Night! Headliner La Sonora Carolina and flamenco guitarist Ulisse Rotoli bring the rhythm. Enjoy toe-tapping music, local eats, handcrafted goo",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/downtown-after-5-april-6sr5p",
+      "latitude": 35.5956631,
+      "longitude": -82.5490674
     },
     {
       "id": "c60bdc11a238",
@@ -1002,6 +1156,17 @@
       "longitude": -81.814
     },
     {
+      "id": "f6f42123c435",
+      "title": "Downtown After 5 | June",
+      "date": "2026-06-19T21:00:00.725000",
+      "location": "Pack Square Park, 80 Court Plaza, Asheville, NC, 28801",
+      "description": "Celebrate Juneteenth at Pack Square Park with Downtown After 5! Enjoy soulful music from headliner Kanika Moore and Reggie Headen &amp; the Nite Time Noon. Visit the marketplace in The Block, grab foo",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/downtown-after-5-april-kdkd8-w2b29",
+      "latitude": 35.5956631,
+      "longitude": -82.5490674
+    },
+    {
       "id": "38b910936425",
       "title": "Mindfulness and Well-being Series: Yoga on the Mountain: Grounded and Grateful",
       "date": "2026-06-20T10:00:00",
@@ -1066,6 +1231,17 @@
       "source": "Saloon Studios",
       "latitude": 36.3551,
       "longitude": -81.5065
+    },
+    {
+      "id": "4da3d7fdb113",
+      "title": "Independence Day Block Party",
+      "date": "2026-07-04T21:00:00.853000",
+      "location": "Asheville, NC",
+      "description": "Join us for a day of free family fun with the Amazing Air Dogs, live music, local vendors, and, of course, a fireworks show!",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/independence-day-block-party-jxbdg-2y9m7",
+      "latitude": 35.588556,
+      "longitude": -82.5546897
     },
     {
       "id": "b274dc2ad602",
@@ -1167,6 +1343,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "1ad67bcbd259",
+      "title": "Member Mixer - Building a Sustainable and Inclusive Asheville",
+      "date": "2026-08-03T20:00:00.552000",
+      "location": "Revival, 66 Asheland Avenue, Asheville, NC, 28801",
+      "description": "A discussion exploring housing through the lenses of urban planning, community development, finance, sustainability, homelessness, and affordable housing. Speakers will examine how thoughtful planning",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/member-mixer-building-a-sustainable-and-inclusive-asheville",
+      "latitude": 35.5917821,
+      "longitude": -82.555861
+    },
+    {
       "id": "13dbfef41740",
       "title": "Adult Field Course: Fungi in the Cloud Forest",
       "date": "2026-08-06T10:00:00",
@@ -1253,6 +1440,17 @@
       "url": "https://grandfather.com/event/by-night5/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "c0e4f7cb3d59",
+      "title": "Downtown After 5 | August",
+      "date": "2026-08-21T21:00:00.695000",
+      "location": "Pack Square Park, 80 Court Plaza, Asheville, NC, 28801",
+      "description": "Experience New Orleans Night at Pack Square Park with Downtown After 5! Headliner J &amp; The Causeways, Bayou Diesel, and the Asheville Second Line bring Mardi Gras energy and music. Enjoy the on-sit",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/downtown-after-5-april-6sr5p-btfae",
+      "latitude": 35.5956631,
+      "longitude": -82.5490674
     },
     {
       "id": "275a2f1a5318",
@@ -1508,6 +1706,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "7924e406b68b",
+      "title": "Asheville Oktoberfest",
+      "date": "2026-10-03T17:00:00.281000",
+      "location": "Pack Square Park, 80 Court Plaza, Asheville, NC, 28801",
+      "description": "Join us for a festive gathering featuring 20+ local breweries, cideries, wineries, and distilleries. Indulge in delicious German-style cuisine from local food vendors and dance along to German tunes.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/oktoberfest-7x65p-h728z",
+      "latitude": 35.595745,
+      "longitude": -82.549016
+    },
+    {
       "id": "cbd8e4649214",
       "title": "AppleFEST at the Watauga County Farmers\u2019 Market \u2013 Saturday, October 4th",
       "date": "2026-10-04T10:00:00",
@@ -1550,6 +1759,28 @@
       "url": "https://www.hcpress.com/sports/this-year-challenge-your-ski-and-snowboarding-buddies-to-some-racing-this-winter.html",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "ed8444ffe464",
+      "title": "Member Mixer - Reflecting & Looking Ahead",
+      "date": "2026-11-02T21:00:00.295000",
+      "location": "Asheville, NC",
+      "description": "A year-end gathering to reflect on key discussions, insights, and outcomes from the year. This informal forum provides an opportunity to share takeaways, celebrate progress, strengthen connections, an",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/member-mixer-reflecting-looking-ahead",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "ea74449b5b16",
+      "title": "Asheville Holiday Parade",
+      "date": "2026-11-21T16:00:00.054000",
+      "location": "Asheville, NC",
+      "description": "Downtown Asheville\u2019s Holiday Parade is back on Saturday, November 21 from 11 AM \u2013 2 PM.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/asheville-holiday-parade-wkskc",
+      "latitude": 35.5951,
+      "longitude": -82.5515
     },
     {
       "id": "10c94070b442",
@@ -1739,8 +1970,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-25T14:10:29.908046",
-  "total_events": 158,
+  "last_updated": "2026-03-25T16:59:54.410812",
+  "total_events": 179,
   "sources": [
     "Manual Events",
     "High Country Host",
@@ -1757,6 +1988,7 @@
     "Boonerang Festival",
     "NPS Blue Ridge Pkwy",
     "Eventbrite",
+    "Downtown Asheville",
     "Mountain Xpress",
     "Eventbrite Asheville"
   ]
