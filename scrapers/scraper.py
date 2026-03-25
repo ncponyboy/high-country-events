@@ -1559,6 +1559,237 @@ async def scrape_eventbrite(session: aiohttp.ClientSession) -> List[Dict]:
 
 
 # ─────────────────────────────────────────────
+# Mountain Xpress — Asheville alt-weekly community calendar
+# Uses The Events Calendar (Tribe) REST API — no auth required
+# ─────────────────────────────────────────────
+async def scrape_mountain_xpress(session: aiohttp.ClientSession) -> List[Dict]:
+    log_info("Scraping Mountain Xpress (Asheville)...")
+    events = []
+    source_name = "Mountain Xpress"
+    AVL_LAT, AVL_LON = 35.5951, -82.5515
+    cutoff = datetime.now() - timedelta(hours=2)
+
+    def _parse_jsonld_events(html: str, fallback_url: str) -> List[Dict]:
+        """Parse schema.org Event JSON-LD blocks out of a rendered events page."""
+        found = []
+        seen = set()
+        jsonld_matches = re.findall(
+            r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+            html, re.DOTALL | re.IGNORECASE
+        )
+        for jsonld_str in jsonld_matches:
+            try:
+                data = json.loads(jsonld_str.strip())
+                items = data if isinstance(data, list) else [data]
+                for item in items:
+                    if not isinstance(item, dict) or 'Event' not in item.get('@type', ''):
+                        continue
+                    title_text = clean_text(item.get('name', ''))
+                    if not title_text or len(title_text) < 4:
+                        continue
+                    start_date = item.get('startDate', '')
+                    if not start_date:
+                        continue
+                    try:
+                        dt_clean = re.sub(r'[+-]\d{2}:\d{2}$', '', start_date)
+                        event_date = datetime.strptime(dt_clean[:16], '%Y-%m-%dT%H:%M')
+                    except Exception:
+                        continue
+                    if event_date < cutoff:
+                        continue
+                    location = "Asheville, NC"
+                    lat, lon = AVL_LAT, AVL_LON
+                    loc_obj = item.get('location', {})
+                    if isinstance(loc_obj, dict):
+                        venue_name = clean_text(loc_obj.get('name', ''))
+                        addr_obj = loc_obj.get('address', {})
+                        if isinstance(addr_obj, dict):
+                            parts = [p for p in [venue_name,
+                                                  addr_obj.get('streetAddress', ''),
+                                                  addr_obj.get('addressLocality', ''),
+                                                  addr_obj.get('addressRegion', '')] if p]
+                            if parts:
+                                location = ', '.join(parts)[:120]
+                        elif venue_name:
+                            location = venue_name
+                    key = f"{title_text.lower()}_{event_date.date()}"
+                    if key in seen:
+                        continue
+                    seen.add(key)
+                    found.append({
+                        "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                        "title": title_text,
+                        "date": event_date.isoformat(),
+                        "location": location,
+                        "description": clean_text(item.get('description', ''))[:200],
+                        "source": source_name,
+                        "url": item.get('url', fallback_url),
+                        "latitude": lat,
+                        "longitude": lon,
+                    })
+            except Exception:
+                continue
+        return found
+
+    try:
+        # Try the Tribe REST API first (fast, no JS needed — blocked by Cloudflare on some hosts)
+        api_url = "https://mountainx.com/wp-json/tribe/events/v1/events"
+        api_headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "application/json",
+        }
+        api_ok = False
+        try:
+            async with session.get(api_url, params={"page": 1, "per_page": 50,
+                                                     "start_date": datetime.now().strftime("%Y-%m-%d"),
+                                                     "status": "publish"},
+                                   headers=api_headers,
+                                   timeout=aiohttp.ClientTimeout(total=15)) as resp:
+                if resp.status == 200:
+                    data = await resp.json(content_type=None)
+                    page_events = data.get("events", [])
+                    for item in page_events:
+                        title_text = clean_text(item.get("title", ""))
+                        start_raw = item.get("start_date", "")
+                        if not title_text or not start_raw:
+                            continue
+                        try:
+                            event_date = datetime.strptime(start_raw, "%Y-%m-%d %H:%M:%S")
+                        except ValueError:
+                            continue
+                        if event_date < cutoff:
+                            continue
+                        venue = item.get("venue", {})
+                        if isinstance(venue, dict) and venue.get("city"):
+                            city = venue.get("city", "Asheville")
+                            state = venue.get("stateprovince", "NC")
+                            parts = [p for p in [clean_text(venue.get("venue", "")),
+                                                  clean_text(venue.get("address", "")),
+                                                  f"{city}, {state}"] if p]
+                            location = ", ".join(parts)[:120]
+                            lat = float(venue.get("lat") or AVL_LAT)
+                            lon = float(venue.get("lng") or AVL_LON)
+                        else:
+                            location, lat, lon = "Asheville, NC", AVL_LAT, AVL_LON
+                        events.append({
+                            "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                            "title": title_text,
+                            "date": event_date.isoformat(),
+                            "location": location,
+                            "description": clean_text(item.get("description", ""))[:200],
+                            "source": source_name,
+                            "url": item.get("url", api_url),
+                            "latitude": lat,
+                            "longitude": lon,
+                        })
+                    api_ok = bool(events)
+        except Exception:
+            pass
+
+        # Fall back to Geekflare headless render + JSON-LD parsing
+        if not api_ok:
+            log_info("  → REST API blocked, trying Geekflare render...")
+            page_url = "https://mountainx.com/events/list/"
+            html = await fetch_with_geekflare(page_url, session)
+            if html and len(html) > 1000:
+                events = _parse_jsonld_events(html, page_url)
+            else:
+                log_warn("  ⚠ Mountain Xpress: Geekflare unavailable or no content")
+
+        log_info(f"  ✓ Found {len(events)} Mountain Xpress events")
+
+    except Exception as e:
+        log_error(f"  ✗ Mountain Xpress error: {e}")
+
+    return events
+
+
+# ─────────────────────────────────────────────
+# Eventbrite — Asheville area
+# Same JSON-LD approach as the existing Eventbrite scraper
+# ─────────────────────────────────────────────
+async def scrape_eventbrite_asheville(session: aiohttp.ClientSession) -> List[Dict]:
+    log_info("Scraping Eventbrite events near Asheville, NC...")
+    events = []
+    source_name = "Eventbrite Asheville"
+    # Asheville, NC coordinates
+    AVL_LAT, AVL_LON = 35.5951, -82.5515
+    urls = [
+        "https://www.eventbrite.com/d/nc--asheville/events/",
+        "https://www.eventbrite.com/d/nc--asheville/all-events/",
+    ]
+    try:
+        cutoff = datetime.now() - timedelta(hours=2)
+        seen = set()
+        for url in urls:
+            html = await fetch_url(url, session)
+            if not html or len(html) < 1000 or any(x in html for x in ['Verify you are a human', 'cf-challenge', 'Just a moment']):
+                html = await fetch_with_geekflare(url, session)
+            if not html or len(html) < 1000:
+                continue
+            jsonld_matches = re.findall(
+                r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+                html, re.DOTALL | re.IGNORECASE
+            )
+            for jsonld_str in jsonld_matches:
+                try:
+                    data = json.loads(jsonld_str.strip())
+                    items = data if isinstance(data, list) else [data]
+                    for item in items:
+                        if not isinstance(item, dict) or 'Event' not in item.get('@type', ''):
+                            continue
+                        title_text = clean_text(item.get('name', ''))
+                        if not title_text or len(title_text) < 4:
+                            continue
+                        start_date = item.get('startDate', '')
+                        if not start_date:
+                            continue
+                        try:
+                            dt_clean = re.sub(r'[+-]\d{2}:\d{2}$', '', start_date)
+                            event_date = datetime.strptime(dt_clean[:16], '%Y-%m-%dT%H:%M')
+                        except Exception:
+                            continue
+                        if event_date < cutoff:
+                            continue
+                        location = "Asheville, NC"
+                        loc_obj = item.get('location', {})
+                        if isinstance(loc_obj, dict):
+                            venue_name = clean_text(loc_obj.get('name', ''))
+                            addr_obj = loc_obj.get('address', {})
+                            if isinstance(addr_obj, dict):
+                                parts = [p for p in [venue_name, addr_obj.get('streetAddress', ''), addr_obj.get('addressLocality', ''), addr_obj.get('addressRegion', '')] if p]
+                                if parts:
+                                    location = ', '.join(parts)[:100]
+                            elif venue_name:
+                                location = venue_name
+                        key = f"{title_text.lower()}_{event_date.date()}"
+                        if key in seen:
+                            continue
+                        seen.add(key)
+                        events.append({
+                            "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                            "title": title_text,
+                            "date": event_date.isoformat(),
+                            "location": location,
+                            "description": clean_text(item.get('description', ''))[:200],
+                            "source": source_name,
+                            "url": item.get('url', url),
+                            "latitude": AVL_LAT,
+                            "longitude": AVL_LON,
+                        })
+                except Exception:
+                    continue
+            if events:
+                log_info(f"  ✓ Found {len(events)} Eventbrite Asheville events")
+                break
+        if not events:
+            log_warn("  ⚠ Eventbrite Asheville: no events found")
+    except Exception as e:
+        log_error(f"  ✗ Eventbrite Asheville error: {e}")
+    return events
+
+
+# ─────────────────────────────────────────────
 # Manual Events — reads manual_events.json from repo root
 # ─────────────────────────────────────────────
 def load_manual_events() -> List[Dict]:
@@ -1625,19 +1856,20 @@ async def main():
         ("Alleghany Chamber",       scrape_alleghany_chamber),
         ("Alleghany Arts Council",  scrape_alleghany_arts),
         ("AmericanTowns Alleghany", scrape_americantowns_alleghany),
-        ("AmericanTowns Ashe",      scrape_americantowns_ashe),
-        ("Ashe Chamber",            scrape_ashe_chamber),
+        # Ashe County scrapers removed — sources were unreliable
         ("Stay Blue Ridge",         scrape_stay_blue_ridge),
         ("Old Barn Winery",         scrape_old_barn_winery),
         ("Blue Ridge Music NC",     scrape_blue_ridge_music),
         ("High Country Press",      scrape_explore_boone),
         ("Appalachian Theatre",     scrape_appalachian_theatre),
-        ("Ashe County Arts",        scrape_ashe_county_arts),
         ("Downtown Boone",          scrape_downtown_boone),
         ("Grandfather Mountain",    scrape_grandfather_mountain),
         ("Boonerang Festival",      scrape_boonerang),
         ("NPS Blue Ridge Pkwy",     scrape_nps_blueridge),
         ("Eventbrite",              scrape_eventbrite),
+        # Asheville sources
+        ("Mountain Xpress",         scrape_mountain_xpress),
+        ("Eventbrite Asheville",    scrape_eventbrite_asheville),
     ]
 
     async with aiohttp.ClientSession() as session:
