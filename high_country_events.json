@@ -1,6 +1,83 @@
 {
   "events": [
     {
+      "id": "6fb8795c64a7",
+      "title": "Tai Chi Fan",
+      "date": "2026-03-25T13:00:00",
+      "location": "Dragon Phoenix, 51 North Merrimon Ave, Woodfin, NC",
+      "description": "&lt;p&gt;The Tai Chi Fan class includes a short Flying Rainbow Single Fan form, partner work showing the martial application of the fans when they are used as a weapon, and ... &lt;a title=&quot;Tai C",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/tai-chi-fan/2026-03-25/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "ef6d48e58adc",
+      "title": "Small Group Weightlifting Class",
+      "date": "2026-03-25T13:00:00",
+      "location": "Jungle Gym Asheville, 30 Davenport Rd, Asheville",
+      "description": "&lt;p&gt;A small group resistance training session using barbells, dumbbells, and kettlebells to develop strength and muscle. Learn proper technique while getting progressively stronger each week.&lt;",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/small-group-weightlifting-class/2026-03-25/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "14d54cda2ff7",
+      "title": "Staying Grounded in Shaky Times",
+      "date": "2026-03-25T14:00:00",
+      "location": "AmeriHealth Caritas North Carolina Wellness and Opportunity Center, 216 Asheland Ave, Asheville, NC",
+      "description": "&lt;p&gt;A spiritual practice, support, and discussion group for seekers. It will explore a variety of spiritual practices including meditation, breath-work, meditative movement and more.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/staying-grounded-in-shaky-times/2026-03-25/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "2b859ac8ed1f",
+      "title": "Weaverville Tailgate Market",
+      "date": "2026-03-25T15:00:00",
+      "location": "Weaverville Tailgate Market, 60 Lake Shore Dr, Asheville",
+      "description": "&lt;p&gt;This market features a selection of fresh, locally grown produce, grass fed beef, pork, chicken, eggs, cheese, baked goods, artisan bread, eclectic handmade goodies, garden and landscaping pl",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/weaverville-tailgate-market/2026-03-25/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "87e5382ef946",
+      "title": "RAD Farmers Market",
+      "date": "2026-03-25T15:00:00",
+      "location": "New Belgium Brewing Co., 21 Craven St, Asheville, NC 28806, Asheville, NC",
+      "description": "&lt;p&gt;A year-round weekly market featuring local fruits vegetables, meats, bread, honey, eggs, pastries, flowers, crafts and more. SNAP, Double SNAP, &amp; Farmers Market Prescriptions accepted her",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/rad-farmers-market/2026-03-25/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "8e673b357cb8",
+      "title": "Buncombe County Hosting Property Appeals Clinics",
+      "date": "2026-03-25T15:30:00",
+      "location": "Enka-Candler Public Library, 1404 Sand Hill Rd, Candler",
+      "description": "&lt;p&gt;To help answer questions about property values, connect owners to tax relief programs, and help navigate the appeals process, Buncombe County Property Assessment staff and volunteer real esta",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/buncombe-county-hosting-property-appeals-clinics-2/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "3abc6c1a0da2",
+      "title": "Black Cat Tales: Story Time w/Cats",
+      "date": "2026-03-25T16:00:00",
+      "location": "House of Black Cat Magic, 841 Haywood Rd., Asheville, NC",
+      "description": "&lt;p&gt;Families with children age 7 &amp; under are invited to relax in the cat lounge and listen to a cat-centric book surrounded by our resident panthers.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/black-cat-tales-story-time-w-cats/2026-03-25/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
       "id": "6876687613e9",
       "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
       "date": "2026-03-25T18:30:00",
@@ -188,17 +265,6 @@
       "longitude": -81.6752
     },
     {
-      "id": "6c3fd68479c0",
-      "title": "Ed Perzel Chamber Music Series: Erinys Quartet",
-      "date": "2026-03-29T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/erinys/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "db248f648ecf",
       "title": "Boone Winter Farmers Market",
       "date": "2026-03-29T10:00:00",
@@ -353,28 +419,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "098655c2f137",
-      "title": "Ola Belle Reed Songwriters Retreat",
-      "date": "2026-04-10T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/ola-belle-reed-songwriters-retreat-2/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "5d91da947926",
-      "title": "Ola Belle Reed Songwriters in Concert",
-      "date": "2026-04-10T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/ola-belle-reed-songwriters-in-concert/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "ce4fa1e4921a",
       "title": "Zootopia (2016)",
       "date": "2026-04-10T17:00:00",
@@ -441,28 +485,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "6ce0f2a67dd8",
-      "title": "Spring Fest: Arts & Crafts for Kids of All Ages",
-      "date": "2026-04-18T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/springfest26/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "b003f69ce053",
-      "title": "Ed Perzel Chamber Music Series: Terra String Quartet",
-      "date": "2026-04-19T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/terra/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "bf7663d08bb3",
       "title": "Weekly Trivia @ South End",
       "date": "2026-04-20T19:00:00",
@@ -527,17 +549,6 @@
       "url": "https://grandfather.com/event/sounds-of-nature-kids-music-day/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
-    },
-    {
-      "id": "f25016900d56",
-      "title": "Gather at the Table for the Arts: Fundraiser at Craft Bistro",
-      "date": "2026-04-26T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/craft/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "bec84b22081a",
@@ -692,17 +703,6 @@
       "url": "https://www.apptheatre.org/events-and-tickets/landon-talks",
       "latitude": 36.2157,
       "longitude": -81.6752
-    },
-    {
-      "id": "13f3db77c095",
-      "title": "Ashe Community Singers Concert",
-      "date": "2026-05-22T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/ashe-community-singers/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "c7004c0fb492",
@@ -1739,7 +1739,7 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-25T14:00:00.972497",
+  "last_updated": "2026-03-25T14:10:29.908046",
   "total_events": 158,
   "sources": [
     "Manual Events",
@@ -1747,18 +1747,17 @@
     "Alleghany Chamber",
     "Alleghany Arts Council",
     "AmericanTowns Alleghany",
-    "AmericanTowns Ashe",
-    "Ashe Chamber",
     "Stay Blue Ridge",
     "Old Barn Winery",
     "Blue Ridge Music NC",
     "High Country Press",
     "Appalachian Theatre",
-    "Ashe County Arts",
     "Downtown Boone",
     "Grandfather Mountain",
     "Boonerang Festival",
     "NPS Blue Ridge Pkwy",
-    "Eventbrite"
+    "Eventbrite",
+    "Mountain Xpress",
+    "Eventbrite Asheville"
   ]
 }
