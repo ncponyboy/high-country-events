@@ -1865,6 +1865,252 @@ async def scrape_eventbrite_asheville(session: aiohttp.ClientSession) -> List[Di
 
 
 # ─────────────────────────────────────────────
+# AVL Today (6AM City) — CitySpark calendar API, no auth required
+# POST https://portal.cityspark.com/api/events/GetEvents/AVLT
+# ─────────────────────────────────────────────
+async def scrape_avl_today(session: aiohttp.ClientSession) -> List[Dict]:
+    log_info("Scraping AVL Today (6AM City / CitySpark)...")
+    events = []
+    source_name = "AVL Today"
+    AVL_LAT, AVL_LON = 35.5951, -82.5515
+    cutoff = datetime.now() - timedelta(hours=2)
+
+    api_url = "https://portal.cityspark.com/api/events/GetEvents/AVLT"
+    today = datetime.now().strftime("%Y-%m-%d")
+    end_date = (datetime.now() + timedelta(days=60)).strftime("%Y-%m-%d")
+
+    payload = {
+        "ppid": 9219,
+        "start": today,
+        "end": end_date,
+        "lat": AVL_LAT,
+        "lng": AVL_LON,
+        "distance": 25,
+        "labels": [],
+        "skip": 0,
+    }
+    headers = {
+        "Content-Type": "application/json",
+        "Origin": "https://avltoday.6amcity.com",
+        "Referer": "https://avltoday.6amcity.com/events/",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    }
+
+    try:
+        seen = set()
+        # CitySpark paginates via "skip"; fetch up to 3 pages (300 events max)
+        for page in range(3):
+            payload["skip"] = page * 100
+            try:
+                async with session.post(api_url, json=payload, headers=headers, timeout=aiohttp.ClientTimeout(total=20)) as resp:
+                    if resp.status != 200:
+                        log_warn(f"  ⚠ AVL Today CitySpark API returned {resp.status}")
+                        break
+                    data = await resp.json(content_type=None)
+            except Exception as e:
+                log_warn(f"  ⚠ AVL Today request failed: {e}")
+                break
+
+            items = data if isinstance(data, list) else data.get("Events", data.get("events", []))
+            if not items:
+                break
+
+            for item in items:
+                try:
+                    title_text = clean_text(item.get("Name") or item.get("name", ""))
+                    if not title_text or len(title_text) < 4:
+                        continue
+
+                    start_raw = item.get("StartLocal") or item.get("startDate") or item.get("Start", "")
+                    if not start_raw:
+                        continue
+                    try:
+                        dt_clean = re.sub(r'[+-]\d{2}:\d{2}$|Z$', '', str(start_raw))
+                        event_date = datetime.strptime(dt_clean[:16], "%Y-%m-%dT%H:%M")
+                    except Exception:
+                        continue
+                    if event_date < cutoff:
+                        continue
+
+                    key = f"{title_text.lower()}_{event_date.date()}"
+                    if key in seen:
+                        continue
+                    seen.add(key)
+
+                    # Location
+                    venue = clean_text(item.get("Venue") or item.get("venue", ""))
+                    city_state = clean_text(item.get("CityState") or item.get("cityState", "Asheville, NC"))
+                    address = clean_text(item.get("Address") or item.get("address", ""))
+                    loc_parts = [p for p in [venue, address, city_state] if p]
+                    location = ", ".join(loc_parts)[:120] if loc_parts else "Asheville, NC"
+
+                    lat = item.get("latitude") or item.get("Latitude") or AVL_LAT
+                    lon = item.get("longitude") or item.get("Longitude") or AVL_LON
+
+                    description = clean_text(item.get("Description") or item.get("description", ""))[:200]
+                    event_url = item.get("TicketUrl") or item.get("ticketUrl") or item.get("Url") or item.get("url", "")
+
+                    events.append({
+                        "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                        "title": title_text,
+                        "date": event_date.isoformat(),
+                        "location": location,
+                        "description": description,
+                        "source": source_name,
+                        "url": event_url,
+                        "latitude": float(lat),
+                        "longitude": float(lon),
+                    })
+                except Exception:
+                    continue
+
+            if len(items) < 100:
+                break  # last page
+
+        log_info(f"  ✓ Found {len(events)} AVL Today events")
+
+    except Exception as e:
+        log_error(f"  ✗ AVL Today error: {e}")
+
+    return events
+
+
+# ─────────────────────────────────────────────
+# AllEvents.in Asheville — JSON-LD Event schema from paginated HTML
+# URL: https://allevents.in/asheville/all?page=N
+# No auth, no CAPTCHA — Cloudflare allows requests with browser UA
+# ─────────────────────────────────────────────
+async def scrape_allevents_asheville(session: aiohttp.ClientSession) -> List[Dict]:
+    log_info("Scraping AllEvents.in (Asheville)...")
+    events = []
+    source_name = "AllEvents Asheville"
+    AVL_LAT, AVL_LON = 35.5951, -82.5515
+    cutoff = datetime.now() - timedelta(hours=2)
+    base_url = "https://allevents.in/asheville/all"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+    }
+
+    try:
+        seen = set()
+
+        for page in range(1, 6):  # pages 1–5, ~14–17 events each = up to ~85 events
+            url = base_url if page == 1 else f"{base_url}?page={page}"
+            try:
+                html = await fetch_url(url, session, extra_headers=headers)
+            except Exception as e:
+                log_warn(f"  ⚠ AllEvents page {page} fetch error: {e}")
+                break
+
+            if not html or len(html) < 500:
+                log_warn(f"  ⚠ AllEvents page {page}: empty response")
+                break
+
+            # Cloudflare challenge check
+            if any(x in html for x in ['cf-challenge', 'Just a moment', 'Verify you are human']):
+                log_warn(f"  ⚠ AllEvents page {page}: Cloudflare challenge, trying Geekflare...")
+                html = await fetch_with_geekflare(url, session)
+                if not html or len(html) < 500:
+                    break
+
+            # Extract all JSON-LD blocks
+            jsonld_matches = re.findall(
+                r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+                html, re.DOTALL | re.IGNORECASE
+            )
+
+            page_count = 0
+            for jsonld_str in jsonld_matches:
+                try:
+                    data = json.loads(jsonld_str.strip())
+                    items = data if isinstance(data, list) else [data]
+                    for item in items:
+                        if not isinstance(item, dict):
+                            continue
+                        item_type = item.get("@type", "")
+                        if isinstance(item_type, list):
+                            if not any("Event" in t for t in item_type):
+                                continue
+                        elif "Event" not in item_type:
+                            continue
+
+                        title_text = clean_text(item.get("name", ""))
+                        if not title_text or len(title_text) < 4:
+                            continue
+
+                        start_date = item.get("startDate", "")
+                        if not start_date:
+                            continue
+                        try:
+                            dt_clean = re.sub(r'[+-]\d{2}:\d{2}$|Z$', '', str(start_date))
+                            event_date = datetime.strptime(dt_clean[:16], "%Y-%m-%dT%H:%M")
+                        except Exception:
+                            try:
+                                event_date = datetime.strptime(str(start_date)[:10], "%Y-%m-%d")
+                            except Exception:
+                                continue
+                        if event_date < cutoff:
+                            continue
+
+                        key = f"{title_text.lower()}_{event_date.date()}"
+                        if key in seen:
+                            continue
+                        seen.add(key)
+
+                        # Location from schema.org Place/PostalAddress
+                        location = "Asheville, NC"
+                        lat, lon = AVL_LAT, AVL_LON
+                        loc_obj = item.get("location", {})
+                        if isinstance(loc_obj, dict):
+                            venue_name = clean_text(loc_obj.get("name", ""))
+                            addr_obj = loc_obj.get("address", {})
+                            if isinstance(addr_obj, dict):
+                                street = clean_text(addr_obj.get("streetAddress", ""))
+                                city = clean_text(addr_obj.get("addressLocality", ""))
+                                region = clean_text(addr_obj.get("addressRegion", ""))
+                                parts = [p for p in [venue_name, street, city, region] if p]
+                                if parts:
+                                    location = ", ".join(parts)[:120]
+                            elif venue_name:
+                                location = venue_name
+                            geo = loc_obj.get("geo", {})
+                            if isinstance(geo, dict):
+                                lat = geo.get("latitude", AVL_LAT)
+                                lon = geo.get("longitude", AVL_LON)
+
+                        description = clean_text(item.get("description", ""))[:200]
+                        event_url = item.get("url", url)
+
+                        events.append({
+                            "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                            "title": title_text,
+                            "date": event_date.isoformat(),
+                            "location": location,
+                            "description": description,
+                            "source": source_name,
+                            "url": event_url,
+                            "latitude": float(lat),
+                            "longitude": float(lon),
+                        })
+                        page_count += 1
+                except Exception:
+                    continue
+
+            if page_count == 0:
+                log_info(f"  ✓ AllEvents: no more events on page {page}, stopping")
+                break
+
+        log_info(f"  ✓ Found {len(events)} AllEvents Asheville events")
+
+    except Exception as e:
+        log_error(f"  ✗ AllEvents Asheville error: {e}")
+
+    return events
+
+
+# ─────────────────────────────────────────────
 # Manual Events — reads manual_events.json from repo root
 # ─────────────────────────────────────────────
 def load_manual_events() -> List[Dict]:
@@ -1946,6 +2192,8 @@ async def main():
         ("Downtown Asheville",      scrape_downtown_asheville),
         ("Mountain Xpress",         scrape_mountain_xpress),
         ("Eventbrite Asheville",    scrape_eventbrite_asheville),
+        ("AVL Today",               scrape_avl_today),
+        ("AllEvents Asheville",     scrape_allevents_asheville),
     ]
 
     async with aiohttp.ClientSession() as session:
