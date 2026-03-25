@@ -111,6 +111,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "48920f5f2623",
+      "title": "Brevard Square Dance",
+      "date": "2026-03-27T17:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/square-dance-brevard/2026-03-27/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "43f0c04cdcca",
       "title": "Alleghany Arts Council Meet and Greet",
       "date": "2026-03-27T19:00:00",
@@ -120,17 +131,6 @@
       "url": "https://www.alleghanyartscouncil.org/events/alleghany-arts-council-meet-and-greet/",
       "latitude": 36.4905,
       "longitude": -81.1701
-    },
-    {
-      "id": "7452f16bb337",
-      "title": "Square Dance Brevard",
-      "date": "2026-03-27T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/square-dance-brevard/2026-03-27/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "e9163d5a8e94",
@@ -265,6 +265,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "55d6b72f5e20",
+      "title": "Weekly Jam Sessions at the Jones House",
+      "date": "2026-04-02T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-04-02/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "ad130f6d1b6d",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-04-02T19:00:00",
@@ -298,6 +309,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "76d1f816be8d",
+      "title": "The Passion of the Christ (2004)",
+      "date": "2026-04-03T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/the-passion-of-the-christ",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "00927634b438",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-04-03T19:00:00",
@@ -307,6 +329,17 @@
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-03/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "cdf534f643d6",
+      "title": "The Prince of Egypt (1998)",
+      "date": "2026-04-04T14:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/the-prince-of-egypt",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "ef45e807612b",
@@ -1717,8 +1750,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-24T22:21:50.303422",
-  "total_events": 156,
+  "last_updated": "2026-03-25T11:47:33.746852",
+  "total_events": 159,
   "sources": [
     "Manual Events",
     "High Country Host",
