@@ -1,127 +1,6 @@
 {
   "events": [
     {
-      "id": "3abc6c1a0da2",
-      "title": "Black Cat Tales: Story Time w/Cats",
-      "date": "2026-03-25T16:00:00",
-      "location": "House of Black Cat Magic, 841 Haywood Rd., Asheville, NC",
-      "description": "&lt;p&gt;Families with children age 7 &amp; under are invited to relax in the cat lounge and listen to a cat-centric book surrounded by our resident panthers.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/black-cat-tales-story-time-w-cats/2026-03-25/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "69cde1c4efbb",
-      "title": "Kitty-Oke",
-      "date": "2026-03-25T16:00:00",
-      "location": "Haiku, 26 Sweeten Creek Rd, Asheville",
-      "description": "&lt;p&gt;Haiku opens its indoor and outdoor garden spaces for midweek Bar Nights featuring cocktails, relaxed seating, fire tables, and rotating monthly programming designed for locals looking to unwi",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/kitty-oke/2026-03-25/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "0c6f281dbeda",
-      "title": "Kids Over Corporations Mass Meeting",
-      "date": "2026-03-25T17:00:00",
-      "location": "Union Hall at the Asheville Mall, 3 S Tunnel Rd, Asheville",
-      "description": "&lt;p&gt;Coworkers and the community come together take back control of public dollars, hold politicians accountable to families instead of donors, and finally put our kids first in this mass meeting.",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/kids-over-corporations-mass-meeting/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "b2b154f46e13",
-      "title": "Jamie Ager Meet &#038; Greet",
-      "date": "2026-03-25T17:00:00",
-      "location": "Oak and Grist Distilling Co., 1556 Grovestone Rd, Black Mountain",
-      "description": "&lt;p&gt;Get a chance to chat with the fourth-generation family farmer from fairview about how he plans to represent western North Carolina. Tickets are free but space is limited so please ... &lt;a t",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/jamie-ager-meet-greet/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "708e975c0e7a",
-      "title": "Board Game Night",
-      "date": "2026-03-25T17:00:00",
-      "location": "Hi-Wire RAD Beer Garden, 284 Lyman St, Asheville, NC",
-      "description": "&lt;p&gt;An open and casual game night featuring an assortment of board games available to play. Guests are welcome to bring their own games to share.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/board-game-night/2026-03-25/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "307a592c7306",
-      "title": "Old-time Jam",
-      "date": "2026-03-25T17:00:00",
-      "location": "Jack of the Wood Pub, 95 Patton Ave, Asheville, NC",
-      "description": "&lt;p&gt;Enjoy an evening of old-time mountain and folk music.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/old-time-jam/2026-03-25/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "a77267db7dd7",
-      "title": "The Candleers",
-      "date": "2026-03-25T17:30:00",
-      "location": "Eluvium Brewing, 11 Florida Ave, Weaverville, NC",
-      "description": "&lt;p&gt;Playing John Prine and Americana tunes.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/the-candleers-2/2026-03-25/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "62c779dd1f56",
-      "title": "Fundamentals of Bellydance: Take up Space",
-      "date": "2026-03-25T17:30:00",
-      "location": "The Well, 3 Louisiana Avenue, Asheville",
-      "description": "&lt;p&gt;Each month will feature technique focus and work on developing a deep relationship with that skill. The technique focus for March is external movements. Beginner friendly, drop ins welcome.&l",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/fundamentals-of-bellydance-take-up-space/2026-03-25/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "e9a2e22746b8",
-      "title": "PBS NC &#038; WCU Present: A Sacred Thread",
-      "date": "2026-03-25T17:30:00",
-      "location": "WCU Bardo Arts Center, 199 Centennial Dr, Cullowhee",
-      "description": "&lt;p&gt;A special screening of the new documentary &quot;A Sacred Thread&quot; exploring the Snowbird Cherokee\\'s fight to preserve their language and culture.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/pbs-nc-wcu-present-a-sacred-thread/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "d64664aad919",
-      "title": "Asheville Board Game Club Meetup",
-      "date": "2026-03-25T17:30:00",
-      "location": "Well Played Board Game Caf\u00e9, 162 Coxe Ave, 101, Asheville, NC",
-      "description": "&lt;p&gt;Love tabletop games or want to learn something new? Join our weekly public meetup for a fun, casual evening of board games, card games, and great company. We play a ... &lt;a title=&quot;Ashe",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/asheville-board-game-club-meetup-2/2026-03-25/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "6876687613e9",
-      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
-      "date": "2026-03-25T18:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-03-25/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "54f7845411f7",
       "title": "Taste of Asheville 2026",
       "date": "2026-03-26T00:00:00",
@@ -3202,8 +3081,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-25T17:46:40.413563",
-  "total_events": 291,
+  "last_updated": "2026-03-25T22:26:57.536066",
+  "total_events": 280,
   "sources": [
     "Manual Events",
     "High Country Host",
