@@ -1559,6 +1559,81 @@ async def scrape_eventbrite(session: aiohttp.ClientSession) -> List[Dict]:
 
 
 # ─────────────────────────────────────────────
+# Downtown Asheville — Squarespace JSON API, no auth required
+# URL: https://www.ashevilledowntown.org/events?format=json
+# ─────────────────────────────────────────────
+async def scrape_downtown_asheville(session: aiohttp.ClientSession) -> List[Dict]:
+    log_info("Scraping Downtown Asheville events...")
+    events = []
+    source_name = "Downtown Asheville"
+    url = "https://www.ashevilledowntown.org/events?format=json"
+    AVL_LAT, AVL_LON = 35.5951, -82.5515
+    cutoff = datetime.now() - timedelta(hours=2)
+
+    try:
+        html = await fetch_url(url, session, extra_headers={"Accept": "application/json"})
+        if not html:
+            log_warn("  ⚠ Downtown Asheville: no response")
+            return events
+
+        data = json.loads(html)
+        items = data.get("upcoming", data.get("items", []))
+
+        for item in items:
+            try:
+                title_text = clean_text(item.get("title", ""))
+                if not title_text or len(title_text) < 4:
+                    continue
+
+                # startDate is a Unix timestamp in milliseconds
+                ts = item.get("startDate")
+                if not ts:
+                    continue
+                event_date = datetime.fromtimestamp(int(ts) / 1000)
+                if event_date < cutoff:
+                    continue
+
+                # Location from Squarespace location object
+                loc_obj = item.get("location") or {}
+                venue = clean_text(loc_obj.get("addressTitle", ""))
+                addr1 = clean_text(loc_obj.get("addressLine1", ""))
+                addr2 = clean_text(loc_obj.get("addressLine2", ""))
+                lat = loc_obj.get("mapLat") or AVL_LAT
+                lon = loc_obj.get("mapLng") or AVL_LON
+                # mapLat/mapLng can default to NYC (40.72) if not set — fall back
+                if abs(float(lat) - 40.72) < 0.1:
+                    lat, lon = AVL_LAT, AVL_LON
+                location_parts = [p for p in [venue, addr1, addr2] if p]
+                location = ", ".join(location_parts)[:120] if location_parts else "Asheville, NC"
+
+                description = clean_text(item.get("excerpt", ""))[:200]
+                event_url = item.get("fullUrl", "")
+                if event_url and not event_url.startswith("http"):
+                    event_url = "https://www.ashevilledowntown.org" + event_url
+
+                events.append({
+                    "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                    "title": title_text,
+                    "date": event_date.isoformat(),
+                    "location": location,
+                    "description": description,
+                    "source": source_name,
+                    "url": event_url,
+                    "latitude": float(lat),
+                    "longitude": float(lon),
+                })
+            except Exception:
+                continue
+
+        log_info(f"  ✓ Found {len(events)} Downtown Asheville events")
+
+    except Exception as e:
+        log_error(f"  ✗ Downtown Asheville error: {e}")
+
+    return events
+
+
+# ─────────────────────────────────────────────
 # Mountain Xpress — Asheville alt-weekly community calendar
 # Uses The Events Calendar (Tribe) REST API — no auth required
 # ─────────────────────────────────────────────
@@ -1868,6 +1943,7 @@ async def main():
         ("NPS Blue Ridge Pkwy",     scrape_nps_blueridge),
         ("Eventbrite",              scrape_eventbrite),
         # Asheville sources
+        ("Downtown Asheville",      scrape_downtown_asheville),
         ("Mountain Xpress",         scrape_mountain_xpress),
         ("Eventbrite Asheville",    scrape_eventbrite_asheville),
     ]
