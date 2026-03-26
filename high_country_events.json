@@ -1,61 +1,6 @@
 {
   "events": [
     {
-      "id": "54f7845411f7",
-      "title": "Taste of Asheville 2026",
-      "date": "2026-03-26T00:00:00",
-      "location": "16 Fernihurst Dr, Asheville, NC 28801, United States, 16 Fernihurst Dr, Asheville, NC 28801, United States, Asheville, N",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/taste-of-asheville-2026/200029761794024",
-      "latitude": 35.571781,
-      "longitude": -82.556198
-    },
-    {
-      "id": "3f2aa77390e8",
-      "title": "ANATOMICA: A Comedy About Meat, Bones, &amp; The Skin You\u2019re In (Asheville)",
-      "date": "2026-03-26T00:00:00",
-      "location": "LEAF Global Arts, 19 Eagle Street, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/anatomica-a-comedy-about-meat-bones-and-the-skin-you\u2019re-in-asheville/100001985588399353",
-      "latitude": 35.593891,
-      "longitude": -82.550316
-    },
-    {
-      "id": "cd7e38e98920",
-      "title": "Standup Comedy Contest",
-      "date": "2026-03-26T00:00:00",
-      "location": "PULP, 101 Biltmore Ave, Asheville, NC 28801-3640, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/standup-comedy-contest/200029792505922",
-      "latitude": 35.591488,
-      "longitude": -82.55114
-    },
-    {
-      "id": "4e995ff89676",
-      "title": "Emo Night Karaoke Asheville",
-      "date": "2026-03-26T00:00:00",
-      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/emo-night-karaoke-asheville/200029068271935",
-      "latitude": 35.588348,
-      "longitude": -82.553902
-    },
-    {
-      "id": "77ba79998a77",
-      "title": "All Things Equal: The Life & Trials of Ruth Bader Ginsburg",
-      "date": "2026-03-26T00:00:00.086000",
-      "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
-      "description": "The \u201cNotorious RBG\u201d comes to life in this witty, moving portrait of Justice Ruth Bader Ginsburg. From breaking barriers and fighting for women\u2019s rights to standing strong on a divided Supreme Court, R",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/all-things-equal-the-life-trials-of-ruth-bader-ginsburg",
-      "latitude": 35.5943438,
-      "longitude": -82.5511352
-    },
-    {
       "id": "3f1a2126d2cc",
       "title": "Old-Time Jam at the Reeves",
       "date": "2026-03-26T17:30:00",
@@ -496,6 +441,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "ef352d6dea57",
+      "title": "Alleghany Jubilee",
+      "date": "2026-04-04T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-04-04/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "4f1153b5e39d",
       "title": "Juvenile\u2019s Boiling with The 400 Degreez Band",
       "date": "2026-04-05T00:00:00",
@@ -692,6 +648,17 @@
       "url": "https://www.ashevilledowntown.org/events/state-of-downtown-2",
       "latitude": 35.5951,
       "longitude": -82.5515
+    },
+    {
+      "id": "e859cb29474d",
+      "title": "Allie X in Asheville",
+      "date": "2026-04-16T00:00:00",
+      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "8905976a2469",
@@ -1495,17 +1462,6 @@
       "url": "https://allevents.in/asheville/josh-ritter-in-asheville/3300029685842207",
       "latitude": 35.595058,
       "longitude": -82.551483
-    },
-    {
-      "id": "c07a6d17a3c3",
-      "title": "Michael Gungor (Acoustic Evening)",
-      "date": "2026-05-22T00:00:00",
-      "location": "185 Clingman Avenue Asheville, NC 28801-3207, 185 Clingman Ave Ext, Asheville, NC 28801, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/michael-gungor-acoustic-evening/200029856666721",
-      "latitude": 35.587059,
-      "longitude": -82.56443
     },
     {
       "id": "66afb66d1469",
@@ -3081,8 +3037,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-25T22:26:57.536066",
-  "total_events": 280,
+  "last_updated": "2026-03-26T11:54:30.499315",
+  "total_events": 276,
   "sources": [
     "Manual Events",
     "High Country Host",
