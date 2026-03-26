@@ -1,72 +1,6 @@
 {
   "events": [
     {
-      "id": "3f1a2126d2cc",
-      "title": "Old-Time Jam at the Reeves",
-      "date": "2026-03-26T17:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/old-time-jam-at-the-reeves-2/2026-03-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "25a53dc67b90",
-      "title": "Christian Harmony Sing \u2013 Asheville NC",
-      "date": "2026-03-26T18:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-03-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "1124a25a86e9",
-      "title": "Community Jam \u2013 Crown Restaurant",
-      "date": "2026-03-26T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-03-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "c3003ca39a66",
-      "title": "Weekly Jam Sessions at the Jones House",
-      "date": "2026-03-26T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-03-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "ba9159573751",
-      "title": "Boonerang: Battle of the Bands - Night 1",
-      "date": "2026-03-26T19:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/boonerang-botb1",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "b916ea0b6210",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-03-26T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-03-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "6181da3ea8a4",
       "title": "Moon Walker's Wasteland Country Tour",
       "date": "2026-03-27T00:00:00",
@@ -639,17 +573,6 @@
       "longitude": -82.5515
     },
     {
-      "id": "e859cb29474d",
-      "title": "Allie X in Asheville",
-      "date": "2026-04-16T00:00:00",
-      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "8905976a2469",
       "title": "THE MOTH Presents: Asheville StorySLAM - &quot;SUS&quot; at The Grey Eagle",
       "date": "2026-04-16T00:00:00",
@@ -791,17 +714,6 @@
       "url": "https://allevents.in/asheville/5th-annual-ayurvedic-institute-open-house/200029856655427",
       "latitude": 35.601871,
       "longitude": -82.550812
-    },
-    {
-      "id": "4cbfdf27697e",
-      "title": "St. Paul &amp; The Broken Bones - 18+",
-      "date": "2026-04-18T00:00:00",
-      "location": "The Orange Peel, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/st-paul-and-the-broken-bones-18/210007218722729",
-      "latitude": 35.594799,
-      "longitude": -82.557198
     },
     {
       "id": "50e703d77a8a",
@@ -1035,6 +947,17 @@
       "longitude": -82.564362
     },
     {
+      "id": "7ec4d7aa8249",
+      "title": "Growing In The Mountains",
+      "date": "2026-05-01T00:00:00",
+      "location": "570 Brevard Rd, Asheville, NC, 570 NC-191, Asheville, NC 28806-2305, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/growing-in-the-mountains/200029680074825",
+      "latitude": 35.554359,
+      "longitude": -82.599258
+    },
+    {
       "id": "8fb46dba561e",
       "title": "The Art of Walking",
       "date": "2026-05-01T15:00:00",
@@ -1189,17 +1112,6 @@
       "longitude": -82.55597519999999
     },
     {
-      "id": "0e12ba7bc0ae",
-      "title": "Ryan Montbleau (solo) at The Grey Eagle",
-      "date": "2026-05-07T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/ryan-montbleau-solo-at-the-grey-eagle/200029785081702",
-      "latitude": 35.587063,
-      "longitude": -82.564362
-    },
-    {
       "id": "f342d87d7059",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-05-07T19:00:00",
@@ -1277,6 +1189,17 @@
       "longitude": -82.566277
     },
     {
+      "id": "de7193aa277d",
+      "title": "Weekly Trivia @ South End",
+      "date": "2026-05-11T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-05-11/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "ee92de15980c",
       "title": "Napalm Death + Deadguy",
       "date": "2026-05-12T00:00:00",
@@ -1341,6 +1264,17 @@
       "url": "https://allevents.in/asheville/curren$y-in-asheville/3300029668270301",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "6135e532bd92",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-05-14T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-14/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "592465b43814",
@@ -1440,6 +1374,17 @@
       "url": "https://allevents.in/asheville/josh-ritter-in-asheville/3300029685842207",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "c07a6d17a3c3",
+      "title": "Michael Gungor (Acoustic Evening)",
+      "date": "2026-05-22T00:00:00",
+      "location": "185 Clingman Avenue Asheville, NC 28801-3207, 185 Clingman Ave Ext, Asheville, NC 28801, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/michael-gungor-acoustic-evening/200029856666721",
+      "latitude": 35.587059,
+      "longitude": -82.56443
     },
     {
       "id": "66afb66d1469",
@@ -2025,17 +1970,6 @@
       "longitude": -81.5065
     },
     {
-      "id": "3f4c3e5b755e",
-      "title": "HENRY CHO: THE EMPTY NEST TOUR",
-      "date": "2026-06-27T00:00:00",
-      "location": "The Orange Peel, 101 Biltmore ave,Asheville,NC,United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/henry-cho-the-empty-nest-tour/200029856672651",
-      "latitude": 35.591415,
-      "longitude": -82.551147
-    },
-    {
       "id": "70735cf84e88",
       "title": "2026 AVL Independence Day 5k",
       "date": "2026-07-04T00:00:00",
@@ -2300,8 +2234,8 @@
       "longitude": -81.8462718
     },
     {
-      "id": "3605040a1536",
-      "title": "Chatham Rabbits - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
+      "id": "edec2555d883",
+      "title": "Trey Hensley - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-08-15T19:00:00",
       "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
       "description": "Trey Hensley GRAMMY\u00ae Award-winning musician and singer/songwriter Trey Hensley has made a lasting mark across the bluegrass, Americana, folk and roots music worlds. He has been referred to as \u201cNashvil",
@@ -3004,8 +2938,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-26T16:58:10.995648",
-  "total_events": 273,
+  "last_updated": "2026-03-26T22:19:12.211486",
+  "total_events": 267,
   "sources": [
     "Manual Events",
     "High Country Host",
