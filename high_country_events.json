@@ -111,17 +111,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "43f0c04cdcca",
-      "title": "Alleghany Arts Council Meet and Greet",
-      "date": "2026-03-27T19:00:00",
-      "location": "Laconia Ale Works433 N Main St, Sparta, NC 28675",
-      "description": "Please join us for a no-host happy hour at Laconia Brewing on Friday, March 27 from 4:30 to 6 p.m. Our new Executive Director, Kalin Allen, and the rest of the board members of the Alleghany Arts Council will be there. Find our more about our programs, and opportunities to get more involved with the...",
-      "source": "Alleghany Arts Council",
-      "url": "https://www.alleghanyartscouncil.org/events/alleghany-arts-council-meet-and-greet/",
-      "latitude": 36.4905,
-      "longitude": -81.1701
-    },
-    {
       "id": "e9163d5a8e94",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-03-27T19:00:00",
@@ -1198,17 +1187,6 @@
       "url": "https://www.ashevilledowntown.org/events/member-mixer-marketing-growth-for-downtown-businesses",
       "latitude": 35.5944374,
       "longitude": -82.55597519999999
-    },
-    {
-      "id": "b3a1e0c7da6d",
-      "title": "Taste of the Arts presents Decorative Breads for Mother\u2019s Day",
-      "date": "2026-05-05T19:00:00",
-      "location": "Becca's Backwoods Bean21 N Main St, Sparta, NC 28675",
-      "description": "Celebrate Mom (or treat yourself!) with a hands-on morning of flour, flavor, and floral designs. In this specialized workshop, we move beyond the basic loaf to turn crusts into canvases. Whether you\u2019re a seasoned baker or a total beginner, you\u2019ll leave with the skills to produce rich, decorative, and naturally risen bread. You will leave...",
-      "source": "Alleghany Arts Council",
-      "url": "https://www.alleghanyartscouncil.org/events/taste-of-the-arts-presents-decorative-breads-for-mothers-day/",
-      "latitude": 36.4905,
-      "longitude": -81.1701
     },
     {
       "id": "0e12ba7bc0ae",
@@ -2784,17 +2762,6 @@
       "longitude": -82.5515
     },
     {
-      "id": "ff0be396dc33",
-      "title": "Hawthorne Heights",
-      "date": "2026-11-03T00:00:00",
-      "location": "The Orange Peel, 101 Biltmore ave,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/hawthorne-heights/200029840655908",
-      "latitude": 35.591415,
-      "longitude": -82.551147
-    },
-    {
       "id": "a18f24cd7913",
       "title": "Deer Tick",
       "date": "2026-11-05T00:00:00",
@@ -3037,8 +3004,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-26T11:54:30.499315",
-  "total_events": 276,
+  "last_updated": "2026-03-26T16:58:10.995648",
+  "total_events": 273,
   "sources": [
     "Manual Events",
     "High Country Host",
