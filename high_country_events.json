@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "fa9165246791",
-      "title": "Mark Bumgarner",
-      "date": "2026-03-27T13:00:00",
-      "location": "Old Barn Winery, Sparta NC",
-      "description": "Mark\u2019s music is \u201cpure Southern Americana.\u201d A solo artist since 2005, he\u2019s also toured with bands like Nashville\u2019s Jubal Foster and emcees events including MerleFest, the nation\u2019s largest Americana and",
-      "source": "Old Barn Winery",
-      "url": "https://oldbarnwinery.com/events-calendar",
-      "latitude": 36.5054,
-      "longitude": -81.119
-    },
-    {
       "id": "08ae7b524934",
       "title": "Big Hero 6 (2014)",
       "date": "2026-03-27T17:00:00",
@@ -188,6 +177,17 @@
       "longitude": -82.55529
     },
     {
+      "id": "bbfe83098e24",
+      "title": "Sister's Secret Habit Ice Cream Release",
+      "date": "2026-04-01T15:30:00.923000",
+      "location": "The Hop, 56 Patton Avenue, Asheville, NC, 28801",
+      "description": "Some habits are meant to be kept secret\u2026 Others eventually melt under pressure.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/easter-basket-ice-cream-release-3ssp3",
+      "latitude": 35.5943996,
+      "longitude": -82.5539019
+    },
+    {
       "id": "aca70c173b39",
       "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
       "date": "2026-04-01T18:30:00",
@@ -232,17 +232,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "8ea5514f04ea",
-      "title": "John Craigie: Spring 2026 w/ Anthony da Costa at The Grey Eagle",
-      "date": "2026-04-03T00:00:00",
-      "location": "The Grey Eagle, Grey Eagle Music Hall, 185 Clingman Ave, Asheville, NC 28801, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/john-craigie-spring-2026-w-anthony-da-costa-at-the-grey-eagle/200029427656113",
-      "latitude": 35.587063,
-      "longitude": -82.564362
-    },
-    {
       "id": "afc238303758",
       "title": "The Snozzberries w Steve Kelly at Asheville Music Hall",
       "date": "2026-04-03T00:00:00",
@@ -274,6 +263,17 @@
       "url": "https://downtownboonenc.com/eventinfo/the-art-of-walking/2026-04-03/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "fa1e83577ae9",
+      "title": "Easter Basket Ice Cream Release",
+      "date": "2026-04-03T15:30:00.923000",
+      "location": "The Hop, 56 Patton Avenue, Asheville, NC, 28801",
+      "description": "Join The Hop on Good Friday, April 3rd, for the release of a brand new seasonal flavor: Easter Basket Ice Cream",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/easter-basket-ice-cream-release",
+      "latitude": 35.5943996,
+      "longitude": -82.5539019
     },
     {
       "id": "7b3212a7d946",
@@ -494,6 +494,17 @@
       "url": "https://allevents.in/asheville/della-mae-w-love-dean-at-the-grey-eagle/200029319812919",
       "latitude": 35.587063,
       "longitude": -82.564362
+    },
+    {
+      "id": "71c319e0e145",
+      "title": "Goose in Asheville",
+      "date": "2026-04-10T00:00:00",
+      "location": "Explore Asheville Convention &amp; Visitors Bureau, Explore Asheville Convention &amp; Visitors Bureau, Asheville, NC, U",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/goose-in-asheville/3300029315792138",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "df0612b32d1b",
@@ -826,15 +837,15 @@
       "longitude": -81.6752
     },
     {
-      "id": "a0a4ca2d427c",
-      "title": "Superchunk",
-      "date": "2026-04-22T00:00:00",
-      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/superchunk/200029722041834",
-      "latitude": 35.588348,
-      "longitude": -82.553902
+      "id": "a5f5f9d9a765",
+      "title": "Liars & Believers presents Yellow Bird Chase",
+      "date": "2026-04-22T22:00:00.599000",
+      "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
+      "description": "Wortham Center presents Yellow Bird Chase on Wednesday, April 22 at 6 pm\u2014a wordless, family friendly physical comedy bursting with silliness, surprises, and theatrical imagination.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/liars-believers-presents-yellow-bird-chase",
+      "latitude": 35.5943438,
+      "longitude": -82.5511352
     },
     {
       "id": "cd739be57e3e",
@@ -3004,8 +3015,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-27T11:46:31.278210",
-  "total_events": 273,
+  "last_updated": "2026-03-27T16:52:35.899148",
+  "total_events": 274,
   "sources": [
     "Manual Events",
     "High Country Host",
