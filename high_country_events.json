@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "6181da3ea8a4",
-      "title": "Moon Walker's Wasteland Country Tour",
-      "date": "2026-03-27T00:00:00",
-      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/moon-walkers-wasteland-country-tour/200029534399757",
-      "latitude": 35.588348,
-      "longitude": -82.553902
-    },
-    {
       "id": "fa9165246791",
       "title": "Mark Bumgarner",
       "date": "2026-03-27T13:00:00",
@@ -375,6 +364,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "e1d62180b472",
+      "title": "Asheville Community Square Dance",
+      "date": "2026-04-04T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/asheville-community-square-dance/2026-04-04/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "4f1153b5e39d",
       "title": "Juvenile\u2019s Boiling with The 400 Degreez Band",
       "date": "2026-04-05T00:00:00",
@@ -430,6 +430,28 @@
       "longitude": -82.580589
     },
     {
+      "id": "3ec82fe47f08",
+      "title": "Ballad Night at the Old Marshall Jail Hotel",
+      "date": "2026-04-08T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/ballad-night-at-the-old-marshall-jail-hotel/2026-04-08/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "2f602ddac100",
+      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
+      "date": "2026-04-08T18:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-04-08/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "bd0d5a6a72e9",
       "title": "Stormy Daniels, Unicorns in the Kitchen Tour",
       "date": "2026-04-09T00:00:00",
@@ -439,6 +461,17 @@
       "url": "https://allevents.in/asheville/stormy-daniels-unicorns-in-the-kitchen-tour/100001984078546342",
       "latitude": 35.588303,
       "longitude": -82.553963
+    },
+    {
+      "id": "5439d01ccf21",
+      "title": "Christian Harmony Sing \u2013 Asheville NC",
+      "date": "2026-04-09T18:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-04-09/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "840f0c58a628",
@@ -461,17 +494,6 @@
       "url": "https://allevents.in/asheville/della-mae-w-love-dean-at-the-grey-eagle/200029319812919",
       "latitude": 35.587063,
       "longitude": -82.564362
-    },
-    {
-      "id": "71c319e0e145",
-      "title": "Goose in Asheville",
-      "date": "2026-04-10T00:00:00",
-      "location": "Explore Asheville Convention &amp; Visitors Bureau, Explore Asheville Convention &amp; Visitors Bureau, Asheville, NC, U",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/goose-in-asheville/3300029315792138",
-      "latitude": 35.595058,
-      "longitude": -82.551483
     },
     {
       "id": "df0612b32d1b",
@@ -571,6 +593,17 @@
       "url": "https://www.ashevilledowntown.org/events/state-of-downtown-2",
       "latitude": 35.5951,
       "longitude": -82.5515
+    },
+    {
+      "id": "e859cb29474d",
+      "title": "Allie X in Asheville",
+      "date": "2026-04-16T00:00:00",
+      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "8905976a2469",
@@ -714,6 +747,17 @@
       "url": "https://allevents.in/asheville/5th-annual-ayurvedic-institute-open-house/200029856655427",
       "latitude": 35.601871,
       "longitude": -82.550812
+    },
+    {
+      "id": "4cbfdf27697e",
+      "title": "St. Paul &amp; The Broken Bones - 18+",
+      "date": "2026-04-18T00:00:00",
+      "location": "The Orange Peel, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/st-paul-and-the-broken-bones-18/210007218722729",
+      "latitude": 35.594799,
+      "longitude": -82.557198
     },
     {
       "id": "50e703d77a8a",
@@ -1110,6 +1154,17 @@
       "url": "https://www.ashevilledowntown.org/events/member-mixer-marketing-growth-for-downtown-businesses",
       "latitude": 35.5944374,
       "longitude": -82.55597519999999
+    },
+    {
+      "id": "0e12ba7bc0ae",
+      "title": "Ryan Montbleau (solo) at The Grey Eagle",
+      "date": "2026-05-07T00:00:00",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/ryan-montbleau-solo-at-the-grey-eagle/200029785081702",
+      "latitude": 35.587063,
+      "longitude": -82.564362
     },
     {
       "id": "f342d87d7059",
@@ -1968,6 +2023,17 @@
       "source": "Saloon Studios",
       "latitude": 36.3551,
       "longitude": -81.5065
+    },
+    {
+      "id": "3f4c3e5b755e",
+      "title": "HENRY CHO: THE EMPTY NEST TOUR",
+      "date": "2026-06-27T00:00:00",
+      "location": "The Orange Peel, 101 Biltmore ave,Asheville,NC,United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/henry-cho-the-empty-nest-tour/200029856672651",
+      "latitude": 35.591415,
+      "longitude": -82.551147
     },
     {
       "id": "70735cf84e88",
@@ -2938,8 +3004,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-26T22:19:12.211486",
-  "total_events": 267,
+  "last_updated": "2026-03-27T11:46:31.278210",
+  "total_events": 273,
   "sources": [
     "Manual Events",
     "High Country Host",
