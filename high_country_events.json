@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "id": "08ae7b524934",
-      "title": "Big Hero 6 (2014)",
-      "date": "2026-03-27T17:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/big-here-6",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "48920f5f2623",
-      "title": "Brevard Square Dance",
-      "date": "2026-03-27T17:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/square-dance-brevard/2026-03-27/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "e9163d5a8e94",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-03-27T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-03-27/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "259ebb563369",
       "title": "Toy Sheep Microcinema: THE CRAMPS AND THE MUTANTS: THE NAPA STATE TAPES",
       "date": "2026-03-27T20:30:00",
@@ -232,6 +199,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "8ea5514f04ea",
+      "title": "John Craigie: Spring 2026 w/ Anthony da Costa at The Grey Eagle",
+      "date": "2026-04-03T00:00:00",
+      "location": "The Grey Eagle, Grey Eagle Music Hall, 185 Clingman Ave, Asheville, NC 28801, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/john-craigie-spring-2026-w-anthony-da-costa-at-the-grey-eagle/200029427656113",
+      "latitude": 35.587063,
+      "longitude": -82.564362
+    },
+    {
       "id": "afc238303758",
       "title": "The Snozzberries w Steve Kelly at Asheville Music Hall",
       "date": "2026-04-03T00:00:00",
@@ -318,17 +296,6 @@
       "url": "https://allevents.in/asheville/the-get-right-band-vinyl-release-show-hustle-souls-at-eulogy/200029690556625",
       "latitude": 35.588348,
       "longitude": -82.553902
-    },
-    {
-      "id": "6f611ec194e2",
-      "title": "Not That Innocent [2000\u2019s dance party]",
-      "date": "2026-04-04T00:00:00",
-      "location": "55 College Street, Asheville, NC, United States, North Carolina 28801, 55 College St, Asheville, NC 28801-2819, United S",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/not-that-innocent-2000\u2019s-dance-party/200029856636700",
-      "latitude": 35.5952,
-      "longitude": -82.553123
     },
     {
       "id": "b904c7df7202",
@@ -494,17 +461,6 @@
       "url": "https://allevents.in/asheville/della-mae-w-love-dean-at-the-grey-eagle/200029319812919",
       "latitude": 35.587063,
       "longitude": -82.564362
-    },
-    {
-      "id": "71c319e0e145",
-      "title": "Goose in Asheville",
-      "date": "2026-04-10T00:00:00",
-      "location": "Explore Asheville Convention &amp; Visitors Bureau, Explore Asheville Convention &amp; Visitors Bureau, Asheville, NC, U",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/goose-in-asheville/3300029315792138",
-      "latitude": 35.595058,
-      "longitude": -82.551483
     },
     {
       "id": "df0612b32d1b",
@@ -1354,6 +1310,17 @@
       "longitude": -82.555382
     },
     {
+      "id": "6d24052fb3c5",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-05-15T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-05-15/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "f741c7c7a8a0",
       "title": "Downtown After 5 | May",
       "date": "2026-05-15T21:00:00.827000",
@@ -1671,6 +1638,17 @@
       "url": "https://allevents.in/asheville/tank-and-the-bangas-the-last-balloon-tour-at-the-grey-eagle/200029856634846",
       "latitude": 35.587063,
       "longitude": -82.564362
+    },
+    {
+      "id": "483b6d550a4f",
+      "title": "Coheed &amp; Cambria w/ Cicada Rhythm",
+      "date": "2026-06-04T00:00:00",
+      "location": "The Orange Peel, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/coheed-and-cambria-w-cicada-rhythm/210003437241267",
+      "latitude": 35.594799,
+      "longitude": -82.557198
     },
     {
       "id": "555b4af16da7",
@@ -3015,8 +2993,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-27T16:52:35.899148",
-  "total_events": 274,
+  "last_updated": "2026-03-27T22:22:48.506063",
+  "total_events": 272,
   "sources": [
     "Manual Events",
     "High Country Host",
