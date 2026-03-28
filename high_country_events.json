@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "0ce4e2b60de7",
-      "title": "\u201cThe Big Sleep\u201d (1946)",
-      "date": "2026-03-28T14:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/knitflix-sleepless-in-seattle-mm7ab",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "107770567d25",
       "title": "Zoe & Cloyd Workshop and Concert",
       "date": "2026-03-28T16:00:00",
@@ -991,6 +980,17 @@
       "longitude": -82.564362
     },
     {
+      "id": "7ec4d7aa8249",
+      "title": "Growing In The Mountains",
+      "date": "2026-05-01T00:00:00",
+      "location": "570 Brevard Rd, Asheville, NC, 570 NC-191, Asheville, NC 28806-2305, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/growing-in-the-mountains/200029680074825",
+      "latitude": 35.554359,
+      "longitude": -82.599258
+    },
+    {
       "id": "8fb46dba561e",
       "title": "The Art of Walking",
       "date": "2026-05-01T15:00:00",
@@ -1077,17 +1077,6 @@
       "url": "https://allevents.in/asheville/rocky-horror-picture-show-with-unexpected-pleasures/200029856630612",
       "latitude": 35.559132,
       "longitude": -82.52179
-    },
-    {
-      "id": "10201b508f18",
-      "title": "The Nude Party w/ Tobacco City at The Grey Eagle",
-      "date": "2026-05-02T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/the-nude-party-w-tobacco-city-at-the-grey-eagle/200029100872017",
-      "latitude": 35.587063,
-      "longitude": -82.564362
     },
     {
       "id": "a692dbbf4644",
@@ -1277,6 +1266,17 @@
       "longitude": -82.564362
     },
     {
+      "id": "05d3d4352236",
+      "title": "AEW Presents Dynamite",
+      "date": "2026-05-13T00:00:00",
+      "location": "Harrah's Cherokee Center - Asheville, 87 Haywood Street,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/aew-presents-dynamite/200029856623727",
+      "latitude": 35.597683,
+      "longitude": -82.55558
+    },
+    {
       "id": "f3cc8fdae5fb",
       "title": "An Evening With Shawn Mullins at The Grey Eagle",
       "date": "2026-05-13T00:00:00",
@@ -1385,6 +1385,17 @@
       "url": "https://allevents.in/asheville/biltmore-kiwanis-classic-5k-15k-races/200029303552330",
       "latitude": 35.554756,
       "longitude": -82.58165
+    },
+    {
+      "id": "efd96e85d616",
+      "title": "Weekly Trivia @ South End",
+      "date": "2026-05-18T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-05-18/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "b93c68fdcc03",
@@ -2993,8 +3004,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-28T11:34:28.418301",
-  "total_events": 272,
+  "last_updated": "2026-03-28T16:31:41.010802",
+  "total_events": 273,
   "sources": [
     "Manual Events",
     "High Country Host",
