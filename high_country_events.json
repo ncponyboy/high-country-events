@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "id": "259ebb563369",
-      "title": "Toy Sheep Microcinema: THE CRAMPS AND THE MUTANTS: THE NAPA STATE TAPES",
-      "date": "2026-03-27T20:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/tsm-killer-of-sheep-ga6n9",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "332ce8b42cee",
-      "title": "Asheville Symphony Masterworks 5: Nightingale",
-      "date": "2026-03-28T00:00:00",
-      "location": "First Baptist Church, 5 Oak St, Asheville, NC 28801, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-symphony-masterworks-5-nightingale/80001097185608",
-      "latitude": 35.598873,
-      "longitude": -82.54744
-    },
-    {
-      "id": "d8a2ee5dc201",
-      "title": "Roast of Asheville",
-      "date": "2026-03-28T00:00:00",
-      "location": "Orange Peel, Asheville, Nc, Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/roast-of-asheville/200029849449152",
-      "latitude": 35.591503,
-      "longitude": -82.551155
-    },
-    {
       "id": "0ce4e2b60de7",
       "title": "\u201cThe Big Sleep\u201d (1946)",
       "date": "2026-03-28T14:00:00",
@@ -166,6 +133,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "92dc21b50c04",
+      "title": "KnitFlix @ The AppTheatre: Hamnet (2025)",
+      "date": "2026-04-02T17:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/knitflix-hamnet",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "b839a244c9c0",
       "title": "Community Jam \u2013 Crown Restaurant",
       "date": "2026-04-02T19:00:00",
@@ -296,6 +274,17 @@
       "url": "https://allevents.in/asheville/the-get-right-band-vinyl-release-show-hustle-souls-at-eulogy/200029690556625",
       "latitude": 35.588348,
       "longitude": -82.553902
+    },
+    {
+      "id": "6f611ec194e2",
+      "title": "Not That Innocent [2000\u2019s dance party]",
+      "date": "2026-04-04T00:00:00",
+      "location": "55 College Street, Asheville, NC, United States, North Carolina 28801, 55 College St, Asheville, NC 28801-2819, United S",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/not-that-innocent-2000\u2019s-dance-party/200029856636700",
+      "latitude": 35.5952,
+      "longitude": -82.553123
     },
     {
       "id": "b904c7df7202",
@@ -441,6 +430,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "0f3802ac8390",
+      "title": "Community Jam \u2013 Crown Restaurant",
+      "date": "2026-04-09T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-04-09/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "840f0c58a628",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-04-09T19:00:00",
@@ -461,6 +461,17 @@
       "url": "https://allevents.in/asheville/della-mae-w-love-dean-at-the-grey-eagle/200029319812919",
       "latitude": 35.587063,
       "longitude": -82.564362
+    },
+    {
+      "id": "71c319e0e145",
+      "title": "Goose in Asheville",
+      "date": "2026-04-10T00:00:00",
+      "location": "Explore Asheville Convention &amp; Visitors Bureau, Explore Asheville Convention &amp; Visitors Bureau, Asheville, NC, U",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/goose-in-asheville/3300029315792138",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "df0612b32d1b",
@@ -518,6 +529,17 @@
       "longitude": -82.564362
     },
     {
+      "id": "a1ceb2fc5a65",
+      "title": "One Battle After Another (2025)",
+      "date": "2026-04-11T17:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/one-battle-after-another",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "0c550cf1a196",
       "title": "Crowbar &amp; Eyehategod",
       "date": "2026-04-13T00:00:00",
@@ -560,17 +582,6 @@
       "url": "https://www.ashevilledowntown.org/events/state-of-downtown-2",
       "latitude": 35.5951,
       "longitude": -82.5515
-    },
-    {
-      "id": "e859cb29474d",
-      "title": "Allie X in Asheville",
-      "date": "2026-04-16T00:00:00",
-      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
-      "latitude": 35.595058,
-      "longitude": -82.551483
     },
     {
       "id": "8905976a2469",
@@ -626,6 +637,17 @@
       "url": "https://allevents.in/asheville/start-making-sense-talking-heads-tribute/200029707660611",
       "latitude": 35.594891,
       "longitude": -82.553017
+    },
+    {
+      "id": "4ab3a5b6781b",
+      "title": "This is Spinal Tap (1984)",
+      "date": "2026-04-17T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/this-is-spinal-tap",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "9f3c3bc0a7c1",
@@ -793,6 +815,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "a0a4ca2d427c",
+      "title": "Superchunk",
+      "date": "2026-04-22T00:00:00",
+      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/superchunk/200029722041834",
+      "latitude": 35.588348,
+      "longitude": -82.553902
+    },
+    {
       "id": "a5f5f9d9a765",
       "title": "Liars & Believers presents Yellow Bird Chase",
       "date": "2026-04-22T22:00:00.599000",
@@ -956,17 +989,6 @@
       "url": "https://allevents.in/asheville/an-evening-with-chris-smither-at-the-grey-eagle/200029319812711",
       "latitude": 35.587063,
       "longitude": -82.564362
-    },
-    {
-      "id": "7ec4d7aa8249",
-      "title": "Growing In The Mountains",
-      "date": "2026-05-01T00:00:00",
-      "location": "570 Brevard Rd, Asheville, NC, 570 NC-191, Asheville, NC 28806-2305, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/growing-in-the-mountains/200029680074825",
-      "latitude": 35.554359,
-      "longitude": -82.599258
     },
     {
       "id": "8fb46dba561e",
@@ -1222,17 +1244,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "ee92de15980c",
-      "title": "Napalm Death + Deadguy",
-      "date": "2026-05-12T00:00:00",
-      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/napalm-death-deadguy/200029681737203",
-      "latitude": 35.588348,
-      "longitude": -82.553902
-    },
-    {
       "id": "77f4850d98b3",
       "title": "Napalm Death, Deadguy in Asheville",
       "date": "2026-05-12T00:00:00",
@@ -1244,6 +1255,17 @@
       "longitude": -82.551483
     },
     {
+      "id": "ee92de15980c",
+      "title": "Napalm Death + Deadguy",
+      "date": "2026-05-12T00:00:00",
+      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/napalm-death-deadguy/200029681737203",
+      "latitude": 35.588348,
+      "longitude": -82.553902
+    },
+    {
       "id": "77aaa159354b",
       "title": "An Evening With Sun Kil Moon at The Grey Eagle",
       "date": "2026-05-12T00:00:00",
@@ -1253,17 +1275,6 @@
       "url": "https://allevents.in/asheville/an-evening-with-sun-kil-moon-at-the-grey-eagle/200029446318934",
       "latitude": 35.587063,
       "longitude": -82.564362
-    },
-    {
-      "id": "05d3d4352236",
-      "title": "AEW Presents Dynamite",
-      "date": "2026-05-13T00:00:00",
-      "location": "Harrah's Cherokee Center - Asheville, 87 Haywood Street,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/aew-presents-dynamite/200029856623727",
-      "latitude": 35.597683,
-      "longitude": -82.55558
     },
     {
       "id": "f3cc8fdae5fb",
@@ -1770,6 +1781,17 @@
       "url": "https://allevents.in/asheville/5th-annual-asheville-honeyfest/200029856338049",
       "latitude": 35.570568,
       "longitude": -82.498009
+    },
+    {
+      "id": "068232f5f3c4",
+      "title": "Brandi Carlile",
+      "date": "2026-06-10T00:00:00",
+      "location": "Harrah's Cherokee Center - Asheville, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/brandi-carlile/210003567038583",
+      "latitude": 35.597469,
+      "longitude": -82.55529
     },
     {
       "id": "8ebd604398de",
@@ -2399,17 +2421,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "20c87321c687",
-      "title": "Acid Bath w/ Melvins &amp; Kylesa @ Hellbender by The Orange Peel",
-      "date": "2026-09-05T00:00:00",
-      "location": "151 Thompson St, Asheville, NC 28803-1443, United States, 151 Thompson St, Asheville, NC 28803-1443, United States, Ashe",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/acid-bath-w-melvins-and-kylesa-hellbender-by-the-orange-peel/200029828024639",
-      "latitude": 35.575272,
-      "longitude": -82.52536
-    },
-    {
       "id": "345dc484ce39",
       "title": "Chatham Rabbits - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-09-05T19:00:00",
@@ -2817,28 +2828,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "b3dbcebb2b9f",
-      "title": "Toy Sheep Microcinema: Oh, Canada!",
-      "date": "2027-01-16T20:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/tsm-oh-candada",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "f6fe36f21db7",
-      "title": "NOUN Improv Comedy",
-      "date": "2027-01-17T20:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/noun-hblgs-rerfh-3nnpl",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "3dac7d5d3cfb",
       "title": "RETRO SKI - Double Feature",
       "date": "2027-01-22T18:00:00",
@@ -2991,9 +2980,20 @@
       "url": "https://www.apptheatre.org/events-and-tickets/boonerang-documentary",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "578adbec7d2a",
+      "title": "The Red Hot Chilli Pipers",
+      "date": "2027-02-26T19:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/the-red-hot-chilli-pipers",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-27T22:22:48.506063",
+  "last_updated": "2026-03-28T11:34:28.418301",
   "total_events": 272,
   "sources": [
     "Manual Events",
