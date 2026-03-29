@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "7ef4d8cced2f",
-      "title": "\u201cAre You Ready For It?\u201d - A Taylor Experience",
-      "date": "2026-03-29T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/are-you-ready-for-it-taylor-experience",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "dbe811fd8ab3",
-      "title": "The Hop & Bop Puppet Party",
-      "date": "2026-03-29T19:00:00.922000",
-      "location": "S&amp;W Food Hall, 56 Patton Avenue, Asheville, NC, 28801",
-      "description": "Join us for a joyful afternoon of puppets, parade energy, and plenty of food and sweet treats.",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/the-hop-bop-puppet-party",
-      "latitude": 35.5943996,
-      "longitude": -82.5539019
-    },
-    {
       "id": "51978f3cb935",
       "title": "Weekly Trivia @ South End",
       "date": "2026-03-30T19:00:00",
@@ -1585,6 +1563,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "5250479e0f27",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-05-28T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-28/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "a8286103f397",
       "title": "SUSTO Stringband- OFFICIAL ALBUM RELEASE SHOW",
       "date": "2026-05-29T00:00:00",
@@ -3026,8 +3015,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-29T16:32:20.810745",
-  "total_events": 275,
+  "last_updated": "2026-03-29T22:21:00.013545",
+  "total_events": 274,
   "sources": [
     "Manual Events",
     "High Country Host",
