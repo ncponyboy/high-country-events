@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "db248f648ecf",
-      "title": "Boone Winter Farmers Market",
-      "date": "2026-03-29T10:00:00",
-      "location": "\u200bWatauga County Agricultural Conference Center, 252 Poplar Grove RD, Boone, NC, 28607, United States",
-      "description": "\u200b*Please note: we are an all-weather market. In most cases, we will be open in rain, snow, or ice. For up-to-date information on our rare market closures, please follow us on Facebook @KingStreetMkt a",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/boone-winter-farmers-market/2026-03-29/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "7ef4d8cced2f",
       "title": "\u201cAre You Ready For It?\u201d - A Taylor Experience",
       "date": "2026-03-29T18:00:00",
@@ -1462,6 +1451,17 @@
       "url": "https://allevents.in/asheville/michael-gungor-acoustic-evening/200029856666721",
       "latitude": 35.587059,
       "longitude": -82.56443
+    },
+    {
+      "id": "9c0a3b2d7d6e",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-05-22T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-05-22/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "66afb66d1469",
@@ -3026,7 +3026,7 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-29T11:35:28.372187",
+  "last_updated": "2026-03-29T16:32:20.810745",
   "total_events": 275,
   "sources": [
     "Manual Events",
