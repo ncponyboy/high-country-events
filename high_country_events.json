@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "51978f3cb935",
-      "title": "Weekly Trivia @ South End",
-      "date": "2026-03-30T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-03-30/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "0ce022ead72a",
       "title": "Kinesthetic Communication with the Newborn ft Tom Myers &amp; Sister MorningStar",
       "date": "2026-03-31T00:00:00",
@@ -395,6 +384,17 @@
       "url": "https://allevents.in/asheville/della-mae-w-love-dean-at-the-grey-eagle/200029319812919",
       "latitude": 35.587063,
       "longitude": -82.564362
+    },
+    {
+      "id": "71c319e0e145",
+      "title": "Goose in Asheville",
+      "date": "2026-04-10T00:00:00",
+      "location": "Explore Asheville Convention &amp; Visitors Bureau, Explore Asheville Convention &amp; Visitors Bureau, Asheville, NC, U",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/goose-in-asheville/3300029315792138",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "df0612b32d1b",
@@ -1046,6 +1046,17 @@
       "longitude": -82.52179
     },
     {
+      "id": "10201b508f18",
+      "title": "The Nude Party w/ Tobacco City at The Grey Eagle",
+      "date": "2026-05-02T00:00:00",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/the-nude-party-w-tobacco-city-at-the-grey-eagle/200029100872017",
+      "latitude": 35.587063,
+      "longitude": -82.564362
+    },
+    {
       "id": "a692dbbf4644",
       "title": "Bluegrass &amp; Brews",
       "date": "2026-05-02T00:00:00",
@@ -1585,6 +1596,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "bf6e632a0c97",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-05-29T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-05-29/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "920aab94cbd5",
       "title": "Grandfather by Night: Twilight Hike",
       "date": "2026-05-29T20:00:00",
@@ -1695,17 +1717,6 @@
       "longitude": -82.550941
     },
     {
-      "id": "850befa42f27",
-      "title": "Hot In Herre: 2000s Dance Party",
-      "date": "2026-06-05T00:00:00",
-      "location": "The Orange Peel, 101 Biltmore ave,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/hot-in-herre-2000s-dance-party/200029856625441",
-      "latitude": 35.591415,
-      "longitude": -82.551147
-    },
-    {
       "id": "b809f5909173",
       "title": "Nature Photography Weekend",
       "date": "2026-06-05T08:00:00",
@@ -1792,6 +1803,17 @@
       "url": "https://allevents.in/asheville/5th-annual-asheville-honeyfest/200029856338049",
       "latitude": 35.570568,
       "longitude": -82.498009
+    },
+    {
+      "id": "068232f5f3c4",
+      "title": "Brandi Carlile",
+      "date": "2026-06-10T00:00:00",
+      "location": "Harrah's Cherokee Center - Asheville, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/brandi-carlile/210003567038583",
+      "latitude": 35.597469,
+      "longitude": -82.55529
     },
     {
       "id": "8ebd604398de",
@@ -2971,8 +2993,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-30T16:53:27.180122",
-  "total_events": 270,
+  "last_updated": "2026-03-30T22:25:55.567906",
+  "total_events": 272,
   "sources": [
     "Manual Events",
     "High Country Host",
