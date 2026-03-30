@@ -397,17 +397,6 @@
       "longitude": -82.564362
     },
     {
-      "id": "71c319e0e145",
-      "title": "Goose in Asheville",
-      "date": "2026-04-10T00:00:00",
-      "location": "Explore Asheville Convention &amp; Visitors Bureau, Explore Asheville Convention &amp; Visitors Bureau, Asheville, NC, U",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/goose-in-asheville/3300029315792138",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "df0612b32d1b",
       "title": "Donna De Lory",
       "date": "2026-04-10T00:00:00",
@@ -527,6 +516,17 @@
       "url": "https://www.ashevilledowntown.org/events/state-of-downtown-2",
       "latitude": 35.5951,
       "longitude": -82.5515
+    },
+    {
+      "id": "e859cb29474d",
+      "title": "Allie X in Asheville",
+      "date": "2026-04-16T00:00:00",
+      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "8905976a2469",
@@ -1044,17 +1044,6 @@
       "url": "https://allevents.in/asheville/rocky-horror-picture-show-with-unexpected-pleasures/200029856630612",
       "latitude": 35.559132,
       "longitude": -82.52179
-    },
-    {
-      "id": "10201b508f18",
-      "title": "The Nude Party w/ Tobacco City at The Grey Eagle",
-      "date": "2026-05-02T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/the-nude-party-w-tobacco-city-at-the-grey-eagle/200029100872017",
-      "latitude": 35.587063,
-      "longitude": -82.564362
     },
     {
       "id": "a692dbbf4644",
@@ -1803,17 +1792,6 @@
       "url": "https://allevents.in/asheville/5th-annual-asheville-honeyfest/200029856338049",
       "latitude": 35.570568,
       "longitude": -82.498009
-    },
-    {
-      "id": "068232f5f3c4",
-      "title": "Brandi Carlile",
-      "date": "2026-06-10T00:00:00",
-      "location": "Harrah's Cherokee Center - Asheville, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/brandi-carlile/210003567038583",
-      "latitude": 35.597469,
-      "longitude": -82.55529
     },
     {
       "id": "8ebd604398de",
@@ -2993,8 +2971,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-30T11:57:18.958652",
-  "total_events": 272,
+  "last_updated": "2026-03-30T16:53:27.180122",
+  "total_events": 270,
   "sources": [
     "Manual Events",
     "High Country Host",
