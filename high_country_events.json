@@ -529,17 +529,6 @@
       "longitude": -82.5515
     },
     {
-      "id": "e859cb29474d",
-      "title": "Allie X in Asheville",
-      "date": "2026-04-16T00:00:00",
-      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "8905976a2469",
       "title": "THE MOTH Presents: Asheville StorySLAM - &quot;SUS&quot; at The Grey Eagle",
       "date": "2026-04-16T00:00:00",
@@ -1462,6 +1451,17 @@
       "url": "https://allevents.in/asheville/asheville-memorial-day-weekend-bar-crawl-2026/100001985377635954",
       "latitude": 35.588284,
       "longitude": -82.553627
+    },
+    {
+      "id": "f559ecb03800",
+      "title": "Cole Chaney and Kyova at The Grey Eagle",
+      "date": "2026-05-23T00:00:00",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville,NC,United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/cole-chaney-and-kyova-at-the-grey-eagle/200029856631216",
+      "latitude": 35.587063,
+      "longitude": -82.564362
     },
     {
       "id": "c7004c0fb492",
@@ -2850,39 +2850,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "cbc375f4847a",
-      "title": "Django Reinhardt Birthday Celebration with The Page Brothers",
-      "date": "2027-01-23T19:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/django-reinhardt-2025",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "8d075799ec1b",
-      "title": "The Princess Bride",
-      "date": "2027-01-24T17:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/the-princess-bride-xtrjk",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "3873f3587ac9",
-      "title": "The Amazing Adventures of Kavalier & Clay",
-      "date": "2027-02-01T13:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/amazing-adventures-kavelier-clay",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "ed63d1b13fad",
       "title": "Toy Sheep Microcinema: Killer of Sheep",
       "date": "2027-02-05T18:30:00",
@@ -3013,10 +2980,21 @@
       "url": "https://www.apptheatre.org/events-and-tickets/a-beast-touch-the-mountain",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "7e2e86504036",
+      "title": "Boone Docs Film Festival",
+      "date": "2027-02-28T11:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/boone-docs-2026",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-29T22:21:00.013545",
-  "total_events": 274,
+  "last_updated": "2026-03-30T11:57:18.958652",
+  "total_events": 272,
   "sources": [
     "Manual Events",
     "High Country Host",
