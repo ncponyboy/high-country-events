@@ -705,6 +705,17 @@
       "longitude": -82.5511352
     },
     {
+      "id": "f025c233a9e9",
+      "title": "The Amazing Adventures of Kavalier & Clay",
+      "date": "2026-04-19T13:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/amazing-adventures-kavelier-clay",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "bf7663d08bb3",
       "title": "Weekly Trivia @ South End",
       "date": "2026-04-20T19:00:00",
@@ -1242,6 +1253,17 @@
       "url": "https://allevents.in/asheville/an-evening-with-shawn-mullins-at-the-grey-eagle/200029854565622",
       "latitude": 35.587063,
       "longitude": -82.564362
+    },
+    {
+      "id": "05d3d4352236",
+      "title": "AEW Presents Dynamite",
+      "date": "2026-05-13T00:00:00",
+      "location": "Harrah's Cherokee Center - Asheville, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/aew-presents-dynamite/210001249608648",
+      "latitude": 35.597469,
+      "longitude": -82.55529
     },
     {
       "id": "1d9b0b429fe0",
@@ -2762,17 +2784,6 @@
       "longitude": -82.555962
     },
     {
-      "id": "6e6680601925",
-      "title": "Wicked Spooky 5k &amp; Creepy Crawly Climb",
-      "date": "2026-10-31T00:00:00",
-      "location": "Wicked Weed Funkatorium, 147 Coxe Ave, Asheville, NC 28801-4025, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/wicked-spooky-5k-and-creepy-crawly-climb/200029118684027",
-      "latitude": 35.589199,
-      "longitude": -82.555222
-    },
-    {
       "id": "ed8444ffe464",
       "title": "Member Mixer - Reflecting & Looking Ahead",
       "date": "2026-11-02T21:00:00.295000",
@@ -2982,8 +2993,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-31T11:54:14.462636",
-  "total_events": 271,
+  "last_updated": "2026-03-31T16:54:41.296152",
+  "total_events": 272,
   "sources": [
     "Manual Events",
     "High Country Host",
