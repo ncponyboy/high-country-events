@@ -507,6 +507,17 @@
       "longitude": -82.5515
     },
     {
+      "id": "e859cb29474d",
+      "title": "Allie X in Asheville",
+      "date": "2026-04-16T00:00:00",
+      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
+      "latitude": 35.595058,
+      "longitude": -82.551483
+    },
+    {
       "id": "8905976a2469",
       "title": "THE MOTH Presents: Asheville StorySLAM - &quot;SUS&quot; at The Grey Eagle",
       "date": "2026-04-16T00:00:00",
@@ -1255,17 +1266,6 @@
       "longitude": -82.564362
     },
     {
-      "id": "05d3d4352236",
-      "title": "AEW Presents Dynamite",
-      "date": "2026-05-13T00:00:00",
-      "location": "Harrah's Cherokee Center - Asheville, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/aew-presents-dynamite/210001249608648",
-      "latitude": 35.597469,
-      "longitude": -82.55529
-    },
-    {
       "id": "1d9b0b429fe0",
       "title": "Curren$y in Asheville",
       "date": "2026-05-14T00:00:00",
@@ -1684,6 +1684,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "1761ef3f6efa",
+      "title": "Educator Workshop: Project Learning Tree",
+      "date": "2026-06-01T09:30:00",
+      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
+      "description": "NOTE: This Educator Workshop is intended specifically for educators \u2014 not the general public. Join Grandfather Mountain\u2019s Interpretation and Education staff and Matt Robinson from the Town of Beech Mo",
+      "source": "Grandfather Mountain",
+      "url": "https://grandfather.com/event/educator-workshop-project-learning-tree/",
+      "latitude": 36.0850742,
+      "longitude": -81.8462718
+    },
+    {
       "id": "033d423218dc",
       "title": "Tank and The Bangas: The Last Balloon Tour at The Grey Eagle",
       "date": "2026-06-03T00:00:00",
@@ -1968,6 +1979,17 @@
       "url": "https://www.boonerangfest.com",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "254d021126ec",
+      "title": "Squirrel Nut Zippers: Celebrating 30 Years of &quot;Hot&quot; at The Grey Eagle",
+      "date": "2026-06-19T00:00:00",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/squirrel-nut-zippers-celebrating-30-years-of-hot-at-the-grey-eagle/200029880368432",
+      "latitude": 35.587063,
+      "longitude": -82.564362
     },
     {
       "id": "1b2b179ec225",
@@ -2397,17 +2419,6 @@
       "url": "https://allevents.in/asheville/chiodos-it\u2019s-not-you-its-me-tour/200029840656111",
       "latitude": 35.591415,
       "longitude": -82.551147
-    },
-    {
-      "id": "0745b8d2c0b6",
-      "title": "Grandfather by Night: Naturalist Program",
-      "date": "2026-08-28T19:30:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Hwy, Linville, NC",
-      "description": "Explore the mountain after hours with your own personal guides during our Grandfather by Night series! You\u2019ll discover some of the park\u2019s nighttime wonders, watch a stunning sunset (weather permitting",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/by-night9/",
-      "latitude": 36.0979,
-      "longitude": -81.814
     },
     {
       "id": "8",
@@ -2993,8 +3004,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-03-31T16:54:41.296152",
-  "total_events": 272,
+  "last_updated": "2026-03-31T22:25:36.909210",
+  "total_events": 273,
   "sources": [
     "Manual Events",
     "High Country Host",
