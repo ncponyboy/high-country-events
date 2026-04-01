@@ -859,6 +859,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "61a0155b2f0a",
+      "title": "Uncommon Market",
+      "date": "2026-04-26T00:00:00",
+      "location": "1 Foundy St, Asheville, NC 28801-0146, United States, 1 Foundy St, Asheville, NC 28801-0146, United States, Asheville, N",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/uncommon-market/200029832774241",
+      "latitude": 35.577862,
+      "longitude": -82.566727
+    },
+    {
       "id": "f31cd762330d",
       "title": "Jazz Concert: SPRING",
       "date": "2026-04-27T00:00:00",
@@ -1002,17 +1013,6 @@
       "longitude": -82.550293
     },
     {
-      "id": "281892a9c96a",
-      "title": "Rocky Horror Picture Show with Unexpected Pleasures",
-      "date": "2026-05-02T00:00:00",
-      "location": "The Mule at Devil's Foot Beverage, 131 Sweeten Creek Rd, Asheville, NC 28803-1526, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/rocky-horror-picture-show-with-unexpected-pleasures/200029856630612",
-      "latitude": 35.559132,
-      "longitude": -82.52179
-    },
-    {
       "id": "10201b508f18",
       "title": "The Nude Party w/ Tobacco City at The Grey Eagle",
       "date": "2026-05-02T00:00:00",
@@ -1022,6 +1022,17 @@
       "url": "https://allevents.in/asheville/the-nude-party-w-tobacco-city-at-the-grey-eagle/200029100872017",
       "latitude": 35.587063,
       "longitude": -82.564362
+    },
+    {
+      "id": "281892a9c96a",
+      "title": "Rocky Horror Picture Show with Unexpected Pleasures",
+      "date": "2026-05-02T00:00:00",
+      "location": "The Mule at Devil's Foot Beverage, 131 Sweeten Creek Rd, Asheville, NC 28803-1526, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/rocky-horror-picture-show-with-unexpected-pleasures/200029856630612",
+      "latitude": 35.559132,
+      "longitude": -82.52179
     },
     {
       "id": "a692dbbf4644",
@@ -1055,6 +1066,17 @@
       "url": "https://allevents.in/asheville/bears-gone-phishin-fusing-the-music-of-the-grateful-dead-widespread-panic-phish/200029856626446",
       "latitude": 35.594891,
       "longitude": -82.553017
+    },
+    {
+      "id": "70ff5f02a451",
+      "title": "Eugene Onegin",
+      "date": "2026-05-02T13:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/eugene-onegin",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "bf4405fb8f5a",
@@ -1112,6 +1134,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "e9b0781f5f7b",
+      "title": "Mosaic Art Walk & Benefit",
+      "date": "2026-05-07T21:00:00.235000",
+      "location": "Downtown Asheville",
+      "description": "Mosaic Community Lifestyle Realty\u2019s Art Walk &amp; Benefit brings together Downtown Asheville galleries, artists, and nonprofits for a free evening of art, entertainment, and community. Guests can exp",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/mosaic-art-walk-benefit",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
       "id": "6715b8c59daa",
       "title": "Live Dead &amp; Brothers: An All-Star Celebration of Grateful Dead &amp; Allman Brothers at The Grey Eagle",
       "date": "2026-05-08T00:00:00",
@@ -1154,6 +1187,17 @@
       "url": "https://allevents.in/asheville/failure-w-all-under-heaven/200029699572424",
       "latitude": 35.588348,
       "longitude": -82.553902
+    },
+    {
+      "id": "62135cdec747",
+      "title": "Mother's Day Tea Party",
+      "date": "2026-05-09T00:00:00",
+      "location": "The Omni Grove Park Inn - Country Club, 290 Macon Ave, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/mothers-day-tea-party/100001982890187930",
+      "latitude": 35.619991,
+      "longitude": -82.543251
     },
     {
       "id": "aff256e34aad",
@@ -1332,17 +1376,6 @@
       "longitude": -80.850001
     },
     {
-      "id": "8aef26fd5a0d",
-      "title": "Eugene Onegin",
-      "date": "2026-05-16T13:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/eugene-onegin",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "62d57c57c643",
       "title": "Biltmore Kiwanis Classic 5k/15k Races",
       "date": "2026-05-17T00:00:00",
@@ -1456,7 +1489,7 @@
       "id": "f559ecb03800",
       "title": "Cole Chaney and Kyova at The Grey Eagle",
       "date": "2026-05-23T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville,NC,United States, Asheville, NC",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
       "url": "https://allevents.in/asheville/cole-chaney-and-kyova-at-the-grey-eagle/200029856631216",
@@ -2366,17 +2399,6 @@
       "longitude": -80.851589
     },
     {
-      "id": "5fa8e15cc00a",
-      "title": "The Wood Brothers - TWO NIGHTS (AUG 21 &amp; 22)",
-      "date": "2026-08-21T00:00:00",
-      "location": "The Orange Peel, 101 Biltmore ave,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/the-wood-brothers-two-nights-aug-21-and-22/200029882233936",
-      "latitude": 35.591415,
-      "longitude": -82.551147
-    },
-    {
       "id": "772449936956",
       "title": "Grandfather by Night: Twilight Hike",
       "date": "2026-08-21T19:30:00",
@@ -3015,8 +3037,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-01T11:55:53.140762",
-  "total_events": 274,
+  "last_updated": "2026-04-01T16:51:33.695069",
+  "total_events": 276,
   "sources": [
     "Manual Events",
     "High Country Host",
