@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "bbfe83098e24",
-      "title": "Sister's Secret Habit Ice Cream Release",
-      "date": "2026-04-01T15:30:00.923000",
-      "location": "The Hop, 56 Patton Avenue, Asheville, NC, 28801",
-      "description": "Some habits are meant to be kept secret\u2026 Others eventually melt under pressure.",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/easter-basket-ice-cream-release-3ssp3",
-      "latitude": 35.5943996,
-      "longitude": -82.5539019
-    },
-    {
-      "id": "aca70c173b39",
-      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
-      "date": "2026-04-01T18:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-04-01/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "92dc21b50c04",
       "title": "KnitFlix @ The AppTheatre: Hamnet (2025)",
       "date": "2026-04-02T17:30:00",
@@ -2817,17 +2795,6 @@
       "longitude": -82.555962
     },
     {
-      "id": "6e6680601925",
-      "title": "Wicked Spooky 5k &amp; Creepy Crawly Climb",
-      "date": "2026-10-31T00:00:00",
-      "location": "Wicked Weed Funkatorium, 147 Coxe Ave, Asheville, NC 28801-4025, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/wicked-spooky-5k-and-creepy-crawly-climb/200029118684027",
-      "latitude": 35.589199,
-      "longitude": -82.555222
-    },
-    {
       "id": "ed8444ffe464",
       "title": "Member Mixer - Reflecting & Looking Ahead",
       "date": "2026-11-02T21:00:00.295000",
@@ -3037,8 +3004,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-01T16:51:33.695069",
-  "total_events": 276,
+  "last_updated": "2026-04-01T22:28:02.184856",
+  "total_events": 273,
   "sources": [
     "Manual Events",
     "High Country Host",
