@@ -3048,6 +3048,17 @@
       "longitude": -82.553627
     },
     {
+      "id": "40f89f209448",
+      "title": "Thee Oh Sees in Asheville",
+      "date": "2026-10-27T00:00:00",
+      "location": "The Orange Peel, The Orange Peel, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/thee-oh-sees-in-asheville/3300029396866332",
+      "latitude": 35.595058,
+      "longitude": -82.551483
+    },
+    {
       "id": "bdf6ea193938",
       "title": "This Year Challenge Your Ski and Snowboarding Buddies to Some Racing This Winter",
       "date": "2026-10-29T10:00:00",
@@ -3279,8 +3290,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-03T11:35:44.500697",
-  "total_events": 298,
+  "last_updated": "2026-04-03T11:41:48.209465",
+  "total_events": 299,
   "sources": [
     "Manual Events",
     "High Country Host",
