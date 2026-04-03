@@ -12,17 +12,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "7b3212a7d946",
-      "title": "First Friday Art Crawl",
-      "date": "2026-04-03T17:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "https://www.watauga-arts.org/first-friday-art-crawls",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-2/2026-04-03/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "76d1f816be8d",
       "title": "The Passion of the Christ (2004)",
       "date": "2026-04-03T18:00:00",
@@ -34,6 +23,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "fe6ed2f59b30",
+      "title": "First Friday Art Crawl",
+      "date": "2026-04-03T19:00:00",
+      "location": "Downtown Boone",
+      "description": "https://www.watauga-arts.org/first-friday-art-crawls",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "00927634b438",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-04-03T19:00:00",
@@ -41,6 +41,39 @@
       "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-03/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "639c73dcb150",
+      "title": "Egg Eggstravaganza",
+      "date": "2026-04-04T10:00:00",
+      "location": "Family Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "f8f68793d5d5",
+      "title": "Beech Mountain Nc Hoppy Easter Party",
+      "date": "2026-04-04T11:00:00",
+      "location": "Buckeye Recreation Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "fadddd95f875",
+      "title": "King Street Indoor Market",
+      "date": "2026-04-04T13:00:00",
+      "location": "Agricultural Conference Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -65,6 +98,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/the-prince-of-egypt",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "ecafcf02c2a8",
+      "title": "The Carolina Comedy Magic Parlor",
+      "date": "2026-04-04T19:00:00",
+      "location": "Mysterium Escape Adventure, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "ef352d6dea57",
@@ -1750,8 +1794,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-03T12:59:41.225928",
-  "total_events": 159,
+  "last_updated": "2026-04-03T13:32:11.053115",
+  "total_events": 163,
   "sources": [
     "Manual Events",
     "High Country Host",
