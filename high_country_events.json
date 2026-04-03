@@ -661,17 +661,6 @@
       "longitude": -82.5515
     },
     {
-      "id": "e859cb29474d",
-      "title": "Allie X in Asheville",
-      "date": "2026-04-16T00:00:00",
-      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "8905976a2469",
       "title": "THE MOTH Presents: Asheville StorySLAM - &quot;SUS&quot; at The Grey Eagle",
       "date": "2026-04-16T00:00:00",
@@ -3290,8 +3279,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-03T11:41:48.209465",
-  "total_events": 299,
+  "last_updated": "2026-04-03T12:00:20.118670",
+  "total_events": 298,
   "sources": [
     "Manual Events",
     "High Country Host",
