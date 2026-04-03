@@ -26,6 +26,7 @@ from bs4 import BeautifulSoup
 GEEKFLARE_API_URL = "https://api.geekflare.com/webscraping"
 GEEKFLARE_API_KEY = os.environ.get("GEEKFLARE_API_KEY", "")
 NPS_API_KEY = os.environ.get("NPS_API_KEY", "")
+EVENTBRITE_API_KEY = os.environ.get("EVENTBRITE_API_KEY", "")
 
 # ─────────────────────────────────────────────
 # Fetch failure tracking
@@ -1586,6 +1587,97 @@ async def scrape_eventbrite(session: aiohttp.ClientSession) -> List[Dict]:
 
 
 # ─────────────────────────────────────────────
+# Eventbrite — Official API v3
+# ─────────────────────────────────────────────
+async def scrape_eventbrite_api(session: aiohttp.ClientSession) -> List[Dict]:
+    log_info("Scraping Eventbrite (API)...")
+    events = []
+    if not EVENTBRITE_API_KEY:
+        log_warn("  ⚠ EVENTBRITE_API_KEY not set — skipping")
+        return events
+
+    source_name = "Eventbrite"
+    api_base = "https://www.eventbriteapi.com/v3/events/search/"
+    headers = {"Authorization": f"Bearer {EVENTBRITE_API_KEY}"}
+    cutoff = datetime.now()
+    seen = set()
+
+    # Search both Boone and Asheville areas
+    searches = [
+        {"location.address": "Boone, NC", "location.within": "30mi", "lat": 36.2168, "lon": -81.6746},
+        {"location.address": "Asheville, NC", "location.within": "20mi", "lat": 35.5951, "lon": -82.5515},
+    ]
+
+    for search in searches:
+        params = {
+            "location.address": search["location.address"],
+            "location.within": search["location.within"],
+            "start_date.range_start": cutoff.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "expand": "venue",
+            "page_size": 50,
+        }
+        try:
+            async with session.get(api_base, headers=headers, params=params,
+                                   timeout=aiohttp.ClientTimeout(total=20)) as resp:
+                if resp.status == 401:
+                    log_error("  ✗ Eventbrite API: invalid token (401)")
+                    _record_fetch_failure("invalid API token")
+                    return events
+                if resp.status != 200:
+                    log_warn(f"  ⚠ Eventbrite API returned {resp.status}")
+                    continue
+                data = await resp.json(content_type=None)
+
+            for item in data.get("events", []):
+                try:
+                    title_text = clean_text(item.get("name", {}).get("text", ""))
+                    if not title_text or len(title_text) < 4:
+                        continue
+                    start_raw = item.get("start", {}).get("local", "")
+                    if not start_raw:
+                        continue
+                    event_date = datetime.strptime(start_raw[:16], "%Y-%m-%dT%H:%M")
+                    if event_date < cutoff - timedelta(hours=2):
+                        continue
+                    key = f"{title_text.lower()}_{event_date.date()}"
+                    if key in seen:
+                        continue
+                    seen.add(key)
+
+                    venue = item.get("venue") or {}
+                    addr = venue.get("address") or {}
+                    venue_name = clean_text(venue.get("name", ""))
+                    city = addr.get("city", "")
+                    region = addr.get("region", "")
+                    loc_parts = [p for p in [venue_name, city, region] if p]
+                    location = ", ".join(loc_parts) if loc_parts else search["location.address"]
+                    lat = float(venue.get("latitude") or search["lat"])
+                    lon = float(venue.get("longitude") or search["lon"])
+
+                    description = clean_text(item.get("description", {}).get("text", ""))[:200]
+                    event_url = item.get("url", "")
+
+                    events.append({
+                        "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                        "title": title_text,
+                        "date": event_date.isoformat(),
+                        "location": location,
+                        "description": description,
+                        "source": source_name,
+                        "url": event_url,
+                        "latitude": lat,
+                        "longitude": lon,
+                    })
+                except Exception:
+                    continue
+        except Exception as e:
+            log_warn(f"  ⚠ Eventbrite API search error for {search['location.address']}: {e}")
+
+    log_info(f"  ✓ Found {len(events)} Eventbrite events")
+    return events
+
+
+# ─────────────────────────────────────────────
 # Downtown Asheville — Squarespace JSON API
 # ─────────────────────────────────────────────
 async def scrape_downtown_asheville(session: aiohttp.ClientSession) -> List[Dict]:
@@ -2151,6 +2243,7 @@ async def main():
         ("Grandfather Mountain",    scrape_grandfather_mountain),
         ("Boonerang Festival",      scrape_boonerang),
         ("NPS Blue Ridge Pkwy",     scrape_nps_blueridge),
+        ("Eventbrite",              scrape_eventbrite_api),
         # Asheville sources
         ("Downtown Asheville",      scrape_downtown_asheville),
         ("Mountain Xpress",         scrape_mountain_xpress),
