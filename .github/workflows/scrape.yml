@@ -8,6 +8,9 @@ on:
     - cron: '0 22 * * *'   # 6pm EDT
   workflow_dispatch:        # Allow manual trigger from GitHub Actions tab
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
