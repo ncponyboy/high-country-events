@@ -30,9 +30,9 @@ OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "high_country_events
 MANUAL_EVENTS_FILE = os.path.join(os.path.dirname(__file__), "..", "manual_events.json")
 
 
-def log_info(msg):    print(f"[INFO]  {msg}")
-def log_warn(msg):    print(f"[WARN]  {msg}")
-def log_error(msg):   print(f"[ERROR] {msg}")
+def log_info(msg):   print(f"[INFO]  {msg}")
+def log_warn(msg):   print(f"[WARN]  {msg}")
+def log_error(msg):  print(f"[ERROR] {msg}")
 
 
 # ─────────────────────────────────────────────
