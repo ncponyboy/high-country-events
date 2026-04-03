@@ -591,154 +591,6 @@ async def scrape_alleghany_arts(session: aiohttp.ClientSession) -> List[Dict]:
     return events
 
 
-def _parse_americantowns_html(soup, source_url, source_name, lat, lon, default_location) -> List[Dict]:
-    events = []
-    event_items = (
-        soup.find_all("div", class_=lambda c: c and "event-item" in c.lower())
-        or soup.find_all("div", class_=lambda c: c and "event-card" in c.lower())
-        or soup.find_all("article", class_=lambda c: c and "event" in c.lower())
-        or soup.find_all("li", class_=lambda c: c and "event" in c.lower())
-        or soup.find_all("div", class_=lambda c: c and "event" in c.lower())
-    )
-    for item in event_items:
-        try:
-            title_el = (
-                item.find("h2") or item.find("h3") or item.find("h4")
-                or item.find(class_=lambda c: c and "title" in c.lower())
-                or item.find(class_=lambda c: c and "name" in c.lower())
-            )
-            if not title_el:
-                continue
-            title = title_el.get_text(strip=True)
-            if not title:
-                continue
-            date_el = (
-                item.find("time")
-                or item.find(class_=lambda c: c and "date" in c.lower())
-                or item.find(class_=lambda c: c and "when" in c.lower())
-            )
-            date_str = ""
-            if date_el:
-                date_str = date_el.get("datetime", "") or date_el.get_text(strip=True)
-            event_date = None
-            for fmt in ["%Y-%m-%dT%H:%M:%S", "%Y-%m-%d", "%B %d, %Y", "%b %d, %Y"]:
-                try:
-                    event_date = datetime.strptime(date_str.strip(), fmt)
-                    break
-                except ValueError:
-                    continue
-            if not event_date:
-                dm = re.search(
-                    r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2})',
-                    item.get_text(), re.IGNORECASE
-                )
-                if dm:
-                    event_date = parse_date_time(dm.group(1), dm.group(2))
-            if not event_date or event_date < datetime.now() - timedelta(hours=2):
-                continue
-            link_el = item.find("a", href=True)
-            link = link_el["href"] if link_el else source_url
-            if link and link.startswith("/"):
-                link = f"https://www.americantowns.com{link}"
-            loc_el = item.find(class_=lambda c: c and ("location" in c.lower() or "venue" in c.lower()))
-            location = loc_el.get_text(strip=True) if loc_el else default_location
-            desc_el = item.find("p")
-            description = desc_el.get_text(strip=True) if desc_el else ""
-            events.append({
-                "id": create_event_id(title, event_date.isoformat(), source_name),
-                "title": title,
-                "date": event_date.isoformat(),
-                "location": location or default_location,
-                "description": description,
-                "source": source_name,
-                "url": link,
-                "latitude": lat,
-                "longitude": lon
-            })
-        except Exception as e:
-            log_error(f"  ✗ AmericanTowns item parse error: {e}")
-            continue
-    return events
-
-
-async def scrape_americantowns_alleghany(session: aiohttp.ClientSession) -> List[Dict]:
-    log_info("Scraping AmericanTowns Alleghany (via Geekflare)...")
-    events = []
-    url = "https://www.americantowns.com/alleghany-county-nc/events/"
-    html = await fetch_with_geekflare(url, session)
-    if not html:
-        return events
-    try:
-        soup = BeautifulSoup(html, "html.parser")
-        events = _parse_americantowns_html(soup, url, "AmericanTowns Alleghany", 36.4905, -81.1701, "Alleghany County, NC")
-        if not events:
-            seen = set()
-            for month, day in re.findall(
-                r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2})',
-                html, re.IGNORECASE
-            )[:15]:
-                key = f"{month}{day}"
-                if key in seen:
-                    continue
-                seen.add(key)
-                event_date = parse_date_time(month, day)
-                if event_date and event_date >= datetime.now() - timedelta(hours=2):
-                    title = extract_title_from_html(html, html.find(f"{month} {day}"), "Local Event")
-                    events.append({
-                        "id": create_event_id(title, event_date.isoformat(), "AmericanTowns Alleghany"),
-                        "title": title,
-                        "date": event_date.isoformat(),
-                        "location": "Alleghany County, NC",
-                        "description": "",
-                        "source": "AmericanTowns Alleghany",
-                        "url": url,
-                        "latitude": 36.4905,
-                        "longitude": -81.1701
-                    })
-        log_info(f"  ✓ Found {len(events)} events")
-    except Exception as e:
-        log_error(f"  ✗ AmericanTowns Alleghany parse error: {e}")
-    return events
-
-
-async def scrape_americantowns_ashe(session: aiohttp.ClientSession) -> List[Dict]:
-    log_info("Scraping AmericanTowns Ashe (via Geekflare)...")
-    events = []
-    url = "https://www.americantowns.com/ashe-county-nc/events/"
-    html = await fetch_with_geekflare(url, session)
-    if not html:
-        return events
-    try:
-        soup = BeautifulSoup(html, "html.parser")
-        events = _parse_americantowns_html(soup, url, "AmericanTowns Ashe", 36.4332, -81.4990, "Ashe County, NC")
-        if not events:
-            seen = set()
-            for month, day in re.findall(
-                r'(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{1,2})',
-                html, re.IGNORECASE
-            )[:15]:
-                key = f"{month}{day}"
-                if key in seen:
-                    continue
-                seen.add(key)
-                event_date = parse_date_time(month, day)
-                if event_date and event_date >= datetime.now() - timedelta(hours=2):
-                    title = extract_title_from_html(html, html.find(f"{month} {day}"), "Local Event")
-                    events.append({
-                        "id": create_event_id(title, event_date.isoformat(), "AmericanTowns Ashe"),
-                        "title": title,
-                        "date": event_date.isoformat(),
-                        "location": "Ashe County, NC",
-                        "description": "",
-                        "source": "AmericanTowns Ashe",
-                        "url": url,
-                        "latitude": 36.4332,
-                        "longitude": -81.4990
-                    })
-        log_info(f"  ✓ Found {len(events)} events")
-    except Exception as e:
-        log_error(f"  ✗ AmericanTowns Ashe parse error: {e}")
-    return events
 
 
 async def scrape_ashe_chamber(session: aiohttp.ClientSession) -> List[Dict]:
@@ -817,53 +669,88 @@ async def scrape_ashe_chamber(session: aiohttp.ClientSession) -> List[Dict]:
 async def scrape_stay_blue_ridge(session: aiohttp.ClientSession) -> List[Dict]:
     log_info("Scraping Stay Blue Ridge...")
     events = []
+    base_url = "https://www.stayblueridge.com"
+    page_url = f"{base_url}/events-list"
+    cutoff = datetime.now() - timedelta(hours=2)
+    month_map = {
+        "Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4, "May": 5, "Jun": 6,
+        "Jul": 7, "Aug": 8, "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12
+    }
     try:
-        ical_url = "https://www.stayblueridge.com/events-list/?ical=1"
-        html = await fetch_url(ical_url, session)
-        if html and 'BEGIN:VCALENDAR' in html:
-            vevent_pattern = re.compile(r'BEGIN:VEVENT(.*?)END:VEVENT', re.DOTALL)
-            for vevent_match in vevent_pattern.finditer(html):
-                block = vevent_match.group(1)
-                m = re.search(r'^SUMMARY[^:]*:(.*?)(?=\r?\n[A-Z])', block, re.MULTILINE | re.DOTALL)
-                summary = m.group(1).replace('\n ', '').replace('\r\n ', '').replace('\r', '').strip() if m else ''
-                m = re.search(r'^DTSTART[^:]*:(.*?)(?=\r?\n[A-Z])', block, re.MULTILINE | re.DOTALL)
-                dtstart = m.group(1).replace('\n ', '').replace('\r\n ', '').replace('\r', '').strip() if m else ''
-                m = re.search(r'^LOCATION[^:]*:(.*?)(?=\r?\n[A-Z])', block, re.MULTILINE | re.DOTALL)
-                location = (m.group(1).replace('\n ', '').replace('\r\n ', '').replace('\r', '').strip() if m else '') or "Blue Ridge, NC"
-                m = re.search(r'^DESCRIPTION[^:]*:(.*?)(?=\r?\n[A-Z])', block, re.MULTILINE | re.DOTALL)
-                desc = m.group(1).replace('\n ', '').replace('\r\n ', '').replace('\r', '').strip() if m else ''
-                m = re.search(r'^URL[^:]*:(.*?)(?=\r?\n[A-Z])', block, re.MULTILINE | re.DOTALL)
-                url_field = (m.group(1).replace('\n ', '').replace('\r\n ', '').replace('\r', '').strip() if m else '') or ical_url
-                if not summary or not dtstart:
+        html = await fetch_with_geekflare(page_url, session)
+        if not html:
+            return events
+        soup = BeautifulSoup(html, "html.parser")
+        # Events are in a <ul> after the "Local Mtn Events" heading
+        heading = soup.find(lambda t: t.name in ["h1","h2","h3","h4"] and "event" in t.get_text(separator=" ").lower())
+        event_list = heading.find_next("ul") if heading else soup.find("ul")
+        if not event_list:
+            log_warn("  ⚠ Stay Blue Ridge: could not find event list")
+            return events
+        for li in event_list.find_all("li", recursive=False):
+            try:
+                # Title from heading
+                title_el = li.find(["h2", "h3", "h4"])
+                if not title_el:
                     continue
+                title = clean_text(title_el.get_text())
+                if not title:
+                    continue
+                # Event URL
+                link_el = li.find("a", href=True)
+                event_url = base_url + link_el["href"] if link_el and link_el["href"].startswith("/") else (link_el["href"] if link_el else page_url)
+                # Date: extract month abbreviations and day numbers from the date badge link
+                date_link = li.find("a", href=lambda h: h and "/event/" in h)
+                date_text = date_link.get_text(separator=" ").strip() if date_link else ""
+                # Parse "MMM DD" or "MMM DD MMM DD" (date range)
+                date_parts = re.findall(r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s*(\d{1,2})', date_text, re.IGNORECASE)
+                if not date_parts:
+                    continue
+                mon_str, day_str = date_parts[0]
+                mon_num = month_map.get(mon_str[:3].capitalize(), 0)
+                if not mon_num:
+                    continue
+                year = datetime.now().year
                 try:
-                    dtstart_clean = re.sub(r'[TZ]', ' ', dtstart).strip()
-                    if len(dtstart_clean) >= 15:
-                        event_date = datetime.strptime(dtstart_clean[:15], "%Y%m%d %H%M%S")
-                    else:
-                        event_date = datetime.strptime(dtstart_clean[:8], "%Y%m%d")
-                        event_date = event_date.replace(hour=19)
-                except Exception:
+                    event_date = datetime(year, mon_num, int(day_str), 19, 0)
+                    if event_date < cutoff:
+                        event_date = datetime(year + 1, mon_num, int(day_str), 19, 0)
+                except ValueError:
                     continue
-                if event_date < datetime.now() - timedelta(hours=2):
-                    continue
-                title = clean_text(summary.replace('\\n', ' ').replace('\\,', ','))
-                desc_clean = clean_text(desc.replace('\\n', ' ').replace('\\,', ','))[:200] if desc else ""
+                # Location and time from the text block after title
+                loc_time_el = title_el.find_next_sibling()
+                loc_time = clean_text(loc_time_el.get_text()) if loc_time_el else ""
+                # Parse start time if present
+                time_m = re.search(r'Starts:\s*(\d{1,2}:\d{2}\s*[APap][Mm])', loc_time)
+                if time_m:
+                    try:
+                        t = datetime.strptime(time_m.group(1).strip(), "%I:%M %p")
+                        event_date = event_date.replace(hour=t.hour, minute=t.minute)
+                    except Exception:
+                        pass
+                # Clean location (strip "| Starts:..." part)
+                location = loc_time.split("|")[0].strip() or "West Jefferson, NC"
+                # Description
+                desc_parts = []
+                for sibling in title_el.find_next_siblings():
+                    text = clean_text(sibling.get_text())
+                    if text and text != loc_time and "More Information" not in text:
+                        desc_parts.append(text)
+                description = " ".join(desc_parts)[:200]
                 events.append({
                     "id": create_event_id(title, event_date.isoformat(), "Stay Blue Ridge"),
                     "title": title,
                     "date": event_date.isoformat(),
-                    "location": clean_text(location),
-                    "description": desc_clean,
+                    "location": location,
+                    "description": description,
                     "source": "Stay Blue Ridge",
-                    "url": url_field,
+                    "url": event_url,
                     "latitude": 36.4458,
                     "longitude": -81.4264
                 })
-            if events:
-                log_info(f"  ✓ Found {len(events)} events via iCal")
-                return events
-        log_warn("  ⚠ Stay Blue Ridge: iCal unavailable or blocked")
+            except Exception:
+                continue
+        log_info(f"  ✓ Found {len(events)} Stay Blue Ridge events")
     except Exception as e:
         log_error(f"  ✗ Stay Blue Ridge error: {e}")
     return events
@@ -2227,8 +2114,6 @@ async def main():
         ("High Country Host",       scrape_high_country_host),
         ("Alleghany Chamber",       scrape_alleghany_chamber),
         ("Alleghany Arts Council",  scrape_alleghany_arts),
-        ("AmericanTowns Alleghany", scrape_americantowns_alleghany),
-        ("AmericanTowns Ashe",      scrape_americantowns_ashe),
         ("Ashe Chamber",            scrape_ashe_chamber),
         ("Stay Blue Ridge",         scrape_stay_blue_ridge),
         ("Old Barn Winery",         scrape_old_barn_winery),
