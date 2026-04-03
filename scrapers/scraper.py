@@ -674,6 +674,19 @@ async def scrape_americantowns_alleghany(session: aiohttp.ClientSession) -> List
                         "longitude": -81.1701
                     })
         log_info(f"  ✓ Found {len(events)} events")
+
+  if __name__ == "__main__":
+    import sys
+    # Force every print to show up in GitHub immediately
+    print("--- STEP 1: SCRIPT INITIALIZED ---", flush=True)
+    
+    try:
+        print("--- STEP 2: STARTING ASYNC LOOP ---", flush=True)
+        asyncio.run(main())
+        print("--- STEP 3: SCRIPT FINISHED SUCCESSFULLY ---", flush=True)
+    except Exception as e:
+        print(f"--- CRITICAL ERROR: {e} ---", file=sys.stderr, flush=True)
+        sys.exit(1)
     except Exception as e:
         log_error(f"  ✗ AmericanTowns Alleghany parse error: {e}")
     return events
