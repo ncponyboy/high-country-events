@@ -232,6 +232,17 @@
       "longitude": -82.5515
     },
     {
+      "id": "714609a72557",
+      "title": "Lauren Gunderson: Natural Shocks",
+      "date": "2026-04-03T19:30:00",
+      "location": "The BeBe Theatre, 20 Commerce St, Asheville",
+      "description": "&lt;p&gt;Natural Shocks is an immersive, 1-woman show dealing with themes of domestic violence. Starring Trinity Smith Keel as Angela, and featuring live original sound by Franklin Keel.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/lauren-gunderson-natural-shocks/2026-04-03/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
       "id": "6f611ec194e2",
       "title": "Not That Innocent [2000\u2019s dance party]",
       "date": "2026-04-04T00:00:00",
@@ -681,6 +692,17 @@
       "url": "https://www.ashevilledowntown.org/events/state-of-downtown-2",
       "latitude": 35.5951,
       "longitude": -82.5515
+    },
+    {
+      "id": "e859cb29474d",
+      "title": "Allie X in Asheville",
+      "date": "2026-04-16T00:00:00",
+      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "8905976a2469",
@@ -1220,17 +1242,6 @@
       "url": "https://allevents.in/asheville/an-evening-with-chris-smither-at-the-grey-eagle/200029319812711",
       "latitude": 35.587063,
       "longitude": -82.564362
-    },
-    {
-      "id": "7ec4d7aa8249",
-      "title": "Growing In The Mountains",
-      "date": "2026-05-01T00:00:00",
-      "location": "570 Brevard Rd, Asheville, NC, 570 NC-191, Asheville, NC 28806-2305, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/growing-in-the-mountains/200029680074825",
-      "latitude": 35.554359,
-      "longitude": -82.599258
     },
     {
       "id": "8fb46dba561e",
@@ -1781,6 +1792,17 @@
       "url": "https://allevents.in/asheville/asheville-memorial-day-weekend-bar-crawl-2026/100001985377635954",
       "latitude": 35.588284,
       "longitude": -82.553627
+    },
+    {
+      "id": "f559ecb03800",
+      "title": "Cole Chaney and Kyova at The Grey Eagle",
+      "date": "2026-05-23T00:00:00",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/cole-chaney-and-kyova-at-the-grey-eagle/200029856631216",
+      "latitude": 35.587063,
+      "longitude": -82.564362
     },
     {
       "id": "c7004c0fb492",
@@ -2452,6 +2474,17 @@
       "url": "https://allevents.in/asheville/the-big-crafty/200029820321937",
       "latitude": 35.597683,
       "longitude": -82.55558
+    },
+    {
+      "id": "13dcc5508ee6",
+      "title": "Eggy at Asheville Music Hall",
+      "date": "2026-07-17T00:00:00",
+      "location": "55 College Street, Asheville, NC, United States, North Carolina 28801, 55 College St, Asheville, NC 28801-2819, United S",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/eggy-at-asheville-music-hall/200029733212241",
+      "latitude": 35.5952,
+      "longitude": -82.553123
     },
     {
       "id": "b274dc2ad602",
@@ -3345,8 +3378,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-03T15:43:01.166357",
-  "total_events": 304,
+  "last_updated": "2026-04-03T15:46:13.343235",
+  "total_events": 307,
   "sources": [
     "Manual Events",
     "High Country Host",
