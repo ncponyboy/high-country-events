@@ -2244,7 +2244,6 @@ async def main():
         ("Grandfather Mountain",    scrape_grandfather_mountain),
         ("Boonerang Festival",      scrape_boonerang),
         ("NPS Blue Ridge Pkwy",     scrape_nps_blueridge),
-        ("Eventbrite",              scrape_eventbrite_api),
         # Asheville sources
         ("Downtown Asheville",      scrape_downtown_asheville),
         ("Mountain Xpress",         scrape_mountain_xpress),
