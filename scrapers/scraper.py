@@ -284,7 +284,7 @@ async def scrape_high_country_host(session: aiohttp.ClientSession) -> List[Dict]
     events = []
     try:
         url = "https://highcountryhost.com/High-Country-Events-Calendar"
-        html = await fetch_url(url, session)
+        html = await fetch_with_geekflare(url, session)
         if not html:
             return events
         soup = BeautifulSoup(html, 'html.parser')
