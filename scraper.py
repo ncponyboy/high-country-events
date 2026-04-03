@@ -13,7 +13,6 @@ import hashlib
 import json
 import os
 import re
-import sys
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional
 
@@ -27,20 +26,7 @@ GEEKFLARE_API_URL = "https://api.geekflare.com/webscraping"
 GEEKFLARE_API_KEY = os.environ.get("GEEKFLARE_API_KEY", "")
 NPS_API_KEY = os.environ.get("NPS_API_KEY", "")
 
-# ─────────────────────────────────────────────
-# Fetch failure tracking
-# ─────────────────────────────────────────────
-_current_source: Optional[str] = None
-_fetch_failures: Dict[str, str] = {}
-
-
-def _record_fetch_failure(reason: str) -> None:
-    if _current_source and _current_source not in _fetch_failures:
-        _fetch_failures[_current_source] = reason
-
-
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "high_country_events.json")
-
 MANUAL_EVENTS_FILE = os.path.join(os.path.dirname(__file__), "..", "manual_events.json")
 
 
@@ -138,9 +124,7 @@ async def fetch_url(url: str, session: aiohttp.ClientSession, extra_headers: dic
                 log_error(f"Error fetching {url}: {e}")
             else:
                 log_info(f"Retry for {url}")
-    _record_fetch_failure(f"could not fetch {url}")
     return None
-
 
 
 def extract_title_from_html(html: str, match_pos: int, default_title: str) -> str:
@@ -1656,19 +1640,14 @@ async def main():
         ("Eventbrite",              scrape_eventbrite),
     ]
 
-    global _current_source
     async with aiohttp.ClientSession() as session:
         for source_name, scraper_func in scrapers:
-            _current_source = source_name
             try:
                 events = await scraper_func(session)
                 all_events.extend(events)
                 print(f"  → {source_name}: {len(events)} events")
             except Exception as e:
                 log_error(f"  ✗ {source_name} failed: {e}")
-                _fetch_failures[source_name] = str(e)
-    _current_source = None
-
 
     print("\nDeduplication...")
     original_count = len(all_events)
@@ -1697,16 +1676,8 @@ async def main():
     with open(OUTPUT_FILE, "w") as f:
         json.dump(output, f, indent=2)
 
-        print(f"\n✓ Saved {len(all_events)} events to high_country_events.json")
+    print(f"\n✓ Saved {len(all_events)} events to high_country_events.json")
     print("=" * 60)
-
-    if _fetch_failures:
-        print("\n❌ SCRAPER FAILURES — these sources could not be fetched:")
-        for source, reason in _fetch_failures.items():
-            print(f"  • {source}: {reason}")
-        print("\nCheck if URLs changed or sites are down.")
-        sys.exit(1)
-
 
 
 if __name__ == "__main__":
