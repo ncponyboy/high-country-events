@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "6c0e6fd57daa",
-      "title": "Anahata Yoga",
-      "date": "2026-04-03T10:30:00",
-      "location": "Weaverville Yoga, 3-B Florida Avenue, Weaverville",
-      "description": "&lt;p&gt;A heart-centered yoga practice focusing on the Anahata chakra, led by Barbara.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/anahata-yoga/2026-04-03/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
       "id": "e7a19dc5e1d4",
       "title": "Women of the Pacific Northwest",
       "date": "2026-04-03T11:00:00",
@@ -283,6 +272,17 @@
       "description": "&lt;p&gt;Hosted and curated by Stacey Uria, Matt Peiken, Paul Dixon and George Awad, this show is all about spotlighting some of our fave improv teams in the region, all while ... &lt;a title=&quot;Ra",
       "source": "Mountain Xpress",
       "url": "https://mountainx.com/event/rage-the-stage-a-frenzied-evening-of-improv-comedy-2/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "1eee4406603f",
+      "title": "Marisa Cristina Blake",
+      "date": "2026-04-03T19:00:00",
+      "location": "Third Room, 46 Wall St., Asheville, NC",
+      "description": "&lt;p&gt;A performance of the full album &quot;Observations From the Inside Out&quot; by Marisa Blake and an incredible band.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/marisa-cristina-blake/",
       "latitude": 35.5951,
       "longitude": -82.5515
     },
@@ -3268,7 +3268,7 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-03T12:14:36.992532",
+  "last_updated": "2026-04-03T12:36:48.841092",
   "total_events": 297,
   "sources": [
     "Manual Events",
