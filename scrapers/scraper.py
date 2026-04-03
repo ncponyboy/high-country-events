@@ -39,6 +39,12 @@ def _record_fetch_failure(reason: str) -> None:
         _fetch_failures[_current_source] = reason
 
 
+def _clear_fetch_failure() -> None:
+    """Call this after a successful Geekflare fallback to cancel a prior fetch_url failure."""
+    if _current_source and _current_source in _fetch_failures:
+        del _fetch_failures[_current_source]
+
+
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "high_country_events.json")
 
 MANUAL_EVENTS_FILE = os.path.join(os.path.dirname(__file__), "..", "manual_events.json")
@@ -302,6 +308,8 @@ async def scrape_high_country_host(session: aiohttp.ClientSession) -> List[Dict]
         html = await fetch_url(url, session)
         if not html or len(html) < 500:
             html = await fetch_with_geekflare(url, session)
+            if html:
+                _clear_fetch_failure()
         if not html:
             return events
         soup = BeautifulSoup(html, 'html.parser')
@@ -1511,6 +1519,8 @@ async def scrape_eventbrite(session: aiohttp.ClientSession) -> List[Dict]:
             html = await fetch_url(url, session)
             if not html or len(html) < 1000 or any(x in html for x in ['Verify you are a human', 'cf-challenge', 'Just a moment']):
                 html = await fetch_with_geekflare(url, session)
+                if html:
+                    _clear_fetch_failure()
             if not html or len(html) < 1000:
                 continue
             jsonld_matches = re.findall(
@@ -1795,6 +1805,8 @@ async def scrape_eventbrite_asheville(session: aiohttp.ClientSession) -> List[Di
             html = await fetch_url(url, session)
             if not html or len(html) < 1000 or any(x in html for x in ['Verify you are a human', 'cf-challenge', 'Just a moment']):
                 html = await fetch_with_geekflare(url, session)
+                if html:
+                    _clear_fetch_failure()
             if not html or len(html) < 1000:
                 continue
             jsonld_matches = re.findall(
