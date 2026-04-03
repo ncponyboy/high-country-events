@@ -755,7 +755,6 @@ async def scrape_stay_blue_ridge(session: aiohttp.ClientSession) -> List[Dict]:
         log_error(f"  ✗ Stay Blue Ridge error: {e}")
     return events
 
-
 async def scrape_old_barn_winery(session: aiohttp.ClientSession) -> List[Dict]:
     log_info("Scraping Old Barn Winery...")
     events = []
