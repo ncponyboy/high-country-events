@@ -1,9 +1,6 @@
 """
 High Country Events Scraper - Updated with fixes for Alleghany Chamber and High Country Host
 """
-GEEKFLARE_API_URL = "https://api.geekflare.com/webscraping"
-GEEKFLARE_API_KEY = os.environ.get("GEEKFLARE_API_KEY", "")
-NPS_API_KEY = os.environ.get("NPS_API_KEY", "")
 
 import asyncio
 import hashlib
@@ -16,6 +13,18 @@ from typing import Dict, List, Optional
 
 import aiohttp
 from bs4 import BeautifulSoup
+
+GEEKFLARE_API_URL = "https://api.geekflare.com/webscraping"
+GEEKFLARE_API_KEY = os.environ.get("GEEKFLARE_API_KEY", "")
+NPS_API_KEY = os.environ.get("NPS_API_KEY", "")
+
+OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "high_country_events.json")
+MANUAL_EVENTS_FILE = os.path.join(os.path.dirname(__file__), "..", "manual_events.json")
+
+
+def log_info(msg):    print(f"[INFO]  {msg}")
+def log_warn(msg):    print(f"[WARN]  {msg}")
+def log_error(msg):   print(f"[ERROR] {msg}")
 
 def log_info(msg):    print(f"[INFO]  {msg}")
 def log_warn(msg):    print(f"[WARN]  {msg}")
