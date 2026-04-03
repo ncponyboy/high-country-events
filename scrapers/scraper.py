@@ -77,26 +77,25 @@ def parse_date_time(month: str, day: str, year: int = None, time_str: str = "7pm
         return None
 
 def deduplicate_events(events: List[Dict]) -> List[Dict]:
-    if not events:
-        return []
-    unique_events = []
-    for event in events:
-        is_duplicate = False
-        for existing in unique_events:
-            if event['date'][:10] != existing['date'][:10]:
-                continue
-            et = event['title'].lower().strip()
-            ext = existing['title'].lower().strip()
-            if et == ext or et in ext or ext in et:
-                is_duplicate = True
-                if len(event['title']) > len(existing['title']):
-                    existing['title'] = event['title']
-                    existing['description'] = event.get('description', '')
-                break
-        if not is_duplicate:
-            unique_events.append(event)
-    return unique_events
-
+    if not events:
+        return []
+    unique_events = []
+    for event in events:
+        is_duplicate = False
+        for existing in unique_events:
+            if event['date'][:10] != existing['date'][:10]:
+                continue
+            et = event['title'].lower().strip()
+            ext = existing['title'].lower().strip()
+            if et == ext or et in ext or ext in et:
+                is_duplicate = True
+                if len(event['title']) > len(existing['title']):
+                    existing['title'] = event['title']
+                    existing['description'] = event.get('description', '')
+                break
+        if not is_duplicate:
+            unique_events.append(event)
+    return unique_events
 
 async def fetch_url(url: str, session: aiohttp.ClientSession, extra_headers: dict = None) -> Optional[str]:
     headers = {
