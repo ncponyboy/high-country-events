@@ -39,9 +39,9 @@ def log_error(msg):   print(f"[ERROR] {msg}")
 # Helpers
 # ─────────────────────────────────────────────
 def clean_text(text: str) -> str:
-    text = re.sub(r'<[^>]+>', '', text)
-    text = re.sub(r'\s+', ' ', text)
-    return text.strip()
+    text = re.sub(r'<[^>]+>', '', text)
+    text = re.sub(r'\s+', ' ', text)
+    return text.strip()
 
 
 def create_event_id(title: str, date: str, source: str) -> str:
