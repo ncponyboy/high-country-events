@@ -14,7 +14,9 @@ from typing import Dict, List, Optional
 import aiohttp
 from bs4 import BeautifulSoup
 
-# ... [Keep existing Config, Helpers, and Geekflare API helper code from your snippet] ...
+def log_info(msg):    print(f"[INFO]  {msg}")
+def log_warn(msg):    print(f"[WARN]  {msg}")
+def log_error(msg):   print(f"[ERROR] {msg}")
 
 # ─────────────────────────────────────────────
 # Scrapers
