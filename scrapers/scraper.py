@@ -30,46 +30,41 @@ def log_error(msg):   print(f"[ERROR] {msg}")
 # Helpers
 # ─────────────────────────────────────────────
 def clean_text(text: str) -> str:
-    text = re.sub(r'<[^>]+>', '', text)
-    text = re.sub(r'\s+', ' ', text)
-    return text.strip()
-
+    text = re.sub(r'<[^>]+>', '', text)
+    text = re.sub(r'\s+', ' ', text)
+    return text.strip()
 
 def create_event_id(title: str, date: str, source: str) -> str:
-    return hashlib.md5(f"{title}_{date}_{source}".encode()).hexdigest()[:12]
-
+    return hashlib.md5(f"{title}_{date}_{source}".encode()).hexdigest()[:12]
 
 def parse_date_time(month: str, day: str, year: int = None, time_str: str = "7pm") -> Optional[datetime]:
-    try:
-        if year is None:
-            year = datetime.now().year
-        event_date = datetime.strptime(f"{month} {day} {year}", "%B %d %Y")
-        if event_date < datetime.now() - timedelta(days=30):
-            event_date = datetime.strptime(f"{month} {day} {year + 1}", "%B %d %Y")
-        hour, minute = 19, 0
-        time_lower = time_str.lower().strip()
-        if '-' in time_lower:
-            time_lower = time_lower.split('-')[0].strip()
-        time_match = re.search(r'(\d+)(?::(\d+))?\s*(am|pm)?', time_lower)
-        if time_match:
-            hour = int(time_match.group(1))
-            if time_match.group(2):
-                minute = int(time_match.group(2))
-            am_pm = time_match.group(3)
-            if am_pm == 'pm' and hour < 12:
-                hour += 12
-            elif am_pm == 'am' and hour == 12:
-                hour = 0
-            elif not am_pm and hour < 12:
-                hour += 12
-        event_date = event_date.replace(hour=hour, minute=minute)
-        if event_date > datetime.now() + timedelta(days=365):
-            return None
-        return event_date
-    except Exception as e:
-        log_error(f"Error parsing date '{month} {day} {time_str}': {e}")
-        return None
-
+    try:
+        if year is None:
+            year = datetime.now().year
+        event_date = datetime.strptime(f"{month} {day} {year}", "%B %d %Y")
+        if event_date < datetime.now() - timedelta(days=30):
+            event_date = datetime.strptime(f"{month} {day} {year + 1}", "%B %d %Y")
+        hour, minute = 19, 0
+        time_lower = time_str.lower().strip()
+        if '-' in time_lower:
+            time_lower = time_lower.split('-')[0].strip()
+        time_match = re.search(r'(\d+)(?::(\d+))?\s*(am|pm)?', time_lower)
+        if time_match:
+            hour = int(time_match.group(1))
+            if time_match.group(2):
+                minute = int(time_match.group(2))
+            am_pm = time_match.group(3)
+            if am_pm == 'pm' and hour < 12:
+                hour += 12
+            elif am_pm == 'am' and hour == 12:
+                hour = 0
+            elif not am_pm and hour < 12:
+                hour += 12
+        event_date = event_date.replace(hour=hour, minute=minute)
+        return event_date
+    except Exception as e:
+        log_error(f"Error parsing date: {e}")
+        return None
 
 def deduplicate_events(events: List[Dict]) -> List[Dict]:
     if not events:
