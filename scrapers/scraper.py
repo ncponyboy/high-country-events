@@ -1604,13 +1604,14 @@ async def scrape_eventbrite_api(session: aiohttp.ClientSession) -> List[Dict]:
 
     # Search both Boone and Asheville areas
     searches = [
-        {"location.address": "Boone, NC", "location.within": "30mi", "lat": 36.2168, "lon": -81.6746},
-        {"location.address": "Asheville, NC", "location.within": "20mi", "lat": 35.5951, "lon": -82.5515},
+        {"location.latitude": "36.2168", "location.longitude": "-81.6746", "location.within": "30mi", "lat": 36.2168, "lon": -81.6746},
+        {"location.latitude": "35.5951", "location.longitude": "-82.5515", "location.within": "20mi", "lat": 35.5951, "lon": -82.5515},
     ]
 
     for search in searches:
         params = {
-            "location.address": search["location.address"],
+            "location.latitude": search["location.latitude"],
+            "location.longitude": search["location.longitude"],
             "location.within": search["location.within"],
             "start_date.range_start": cutoff.strftime("%Y-%m-%dT%H:%M:%SZ"),
             "expand": "venue",
@@ -1671,7 +1672,7 @@ async def scrape_eventbrite_api(session: aiohttp.ClientSession) -> List[Dict]:
                 except Exception:
                     continue
         except Exception as e:
-            log_warn(f"  ⚠ Eventbrite API search error for {search['location.address']}: {e}")
+            log_warn(f"  ⚠ Eventbrite API search error for {search['location.latitude']},{search['location.longitude']}: {e}")
 
     log_info(f"  ✓ Found {len(events)} Eventbrite events")
     return events
