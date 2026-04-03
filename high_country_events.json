@@ -254,6 +254,17 @@
       "longitude": -82.5515
     },
     {
+      "id": "b6b6411c43d9",
+      "title": "UNCA Xtet Jazz Quartet",
+      "date": "2026-04-03T20:00:00",
+      "location": "Hotel Eve Jazz Club, 56 N Lexington Ave, Asheville",
+      "description": "&lt;p&gt;The UNC Asheville XTet, directed by Jacob Rodriguez, is the senior-most student jazz ensemble from the music department at University of North Carolina at Asheville.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/unca-xtet-jazz-quartet/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
       "id": "6f611ec194e2",
       "title": "Not That Innocent [2000\u2019s dance party]",
       "date": "2026-04-04T00:00:00",
@@ -813,6 +824,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/this-is-spinal-tap",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "694d774cb034",
+      "title": "The K\u00dcHL Mule Tour",
+      "date": "2026-04-17T18:00:00.280000",
+      "location": "Mast General Store, 15 Biltmore Avenue, Asheville, NC, 28801",
+      "description": "See the upgraded K\u00dcHL Mule and spring \u201cBorn in the Mountains\u201d collection at Mast Store Asheville on Friday, April 17, 2\u20135 p.m. Meet the team and explore their functional, stylish apparel.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/the-khl-mule-tour",
+      "latitude": 35.5940335,
+      "longitude": -82.5518498
     },
     {
       "id": "9f3c3bc0a7c1",
@@ -3367,8 +3389,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-03T17:06:06.775577",
-  "total_events": 306,
+  "last_updated": "2026-04-03T17:20:59.573631",
+  "total_events": 308,
   "sources": [
     "Manual Events",
     "High Country Host",
