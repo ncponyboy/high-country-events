@@ -18,6 +18,51 @@ def log_info(msg):    print(f"[INFO]  {msg}")
 def log_warn(msg):    print(f"[WARN]  {msg}")
 def log_error(msg):   print(f"[ERROR] {msg}")
 
+async def fetch_with_geekflare(url: str, session: aiohttp.ClientSession) -> Optional[str]:
+    if not GEEKFLARE_API_KEY:
+        log_warn("GEEKFLARE_API_KEY not set — skipping JS-rendered scrape")
+        return None
+    payload = {"url": url, "format": "html"}
+    headers = {"x-api-key": GEEKFLARE_API_KEY, "Content-Type": "application/json"}
+    try:
+        async with session.post(
+            GEEKFLARE_API_URL, json=payload, headers=headers,
+            timeout=aiohttp.ClientTimeout(total=45)
+        ) as response:
+            if response.status == 401:
+                log_error("Geekflare: invalid API key (401)")
+                return None
+            if response.status == 402:
+                log_error("Geekflare: out of credits (402)")
+                return None
+            if response.status not in (200, 201):
+                log_error(f"Geekflare returned {response.status} for {url}")
+                return None
+            raw = await response.text()
+            html = ""
+            try:
+                data = json.loads(raw)
+                if isinstance(data, dict):
+                    html = (
+                        data.get("data", {}).get("content", "")
+                        or data.get("data", {}).get("html", "")
+                        or data.get("result", {}).get("content", "")
+                        or data.get("result", {}).get("html", "")
+                        or data.get("content", "")
+                        or data.get("html", "")
+                        or ""
+                    )
+                if not html and not isinstance(data, dict):
+                     html = raw
+            except Exception:
+                html = raw
+            
+            log_info(f"Geekflare fetched {len(html)} chars from {url}")
+            return html
+    except Exception as e:
+        log_error(f"Geekflare fetch error for {url}: {e}")
+        return None
+
 # ─────────────────────────────────────────────
 # Scrapers
 # ─────────────────────────────────────────────
