@@ -1,6 +1,9 @@
 """
 High Country Events Scraper - Updated with fixes for Alleghany Chamber and High Country Host
 """
+Required environment variables (GitHub Secrets):
+  GEEKFLARE_API_KEY  — headless Chrome scraping API
+  NPS_API_KEY        — NPS developer API key (free at nps.gov/subjects/developer)
 
 import asyncio
 import hashlib
