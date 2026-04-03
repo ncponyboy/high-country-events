@@ -364,7 +364,7 @@ async def scrape_high_country_host(session: aiohttp.ClientSession) -> List[Dict]
 async def scrape_alleghany_chamber(session: aiohttp.ClientSession) -> List[Dict]:
     log_info("Scraping Alleghany Chamber (via Geekflare)...")
     events = []
-    url = "https://www.alleghanycountychamber.com/events/communityeventscalendar"
+    url = "https://alleghanycountychamber.memberclicks.net/index.php?option=com_mc_events&view=calendar"
     html = await fetch_with_geekflare(url, session)
     if not html:
         return events
