@@ -1222,6 +1222,17 @@
       "longitude": -82.564362
     },
     {
+      "id": "7ec4d7aa8249",
+      "title": "Growing In The Mountains",
+      "date": "2026-05-01T00:00:00",
+      "location": "570 Brevard Rd, Asheville, NC, 570 NC-191, Asheville, NC 28806-2305, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/growing-in-the-mountains/200029680074825",
+      "latitude": 35.554359,
+      "longitude": -82.599258
+    },
+    {
       "id": "8fb46dba561e",
       "title": "The Art of Walking",
       "date": "2026-05-01T15:00:00",
@@ -1770,17 +1781,6 @@
       "url": "https://allevents.in/asheville/asheville-memorial-day-weekend-bar-crawl-2026/100001985377635954",
       "latitude": 35.588284,
       "longitude": -82.553627
-    },
-    {
-      "id": "f559ecb03800",
-      "title": "Cole Chaney and Kyova at The Grey Eagle",
-      "date": "2026-05-23T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/cole-chaney-and-kyova-at-the-grey-eagle/200029856631216",
-      "latitude": 35.587063,
-      "longitude": -82.564362
     },
     {
       "id": "c7004c0fb492",
@@ -2452,17 +2452,6 @@
       "url": "https://allevents.in/asheville/the-big-crafty/200029820321937",
       "latitude": 35.597683,
       "longitude": -82.55558
-    },
-    {
-      "id": "13dcc5508ee6",
-      "title": "Eggy at Asheville Music Hall",
-      "date": "2026-07-17T00:00:00",
-      "location": "55 College Street, Asheville, NC, United States, North Carolina 28801, 55 College St, Asheville, NC 28801-2819, United S",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/eggy-at-asheville-music-hall/200029733212241",
-      "latitude": 35.5952,
-      "longitude": -82.553123
     },
     {
       "id": "b274dc2ad602",
@@ -3356,8 +3345,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-03T15:32:03.378778",
-  "total_events": 305,
+  "last_updated": "2026-04-03T15:43:01.166357",
+  "total_events": 304,
   "sources": [
     "Manual Events",
     "High Country Host",
@@ -3376,6 +3365,7 @@
     "Grandfather Mountain",
     "Boonerang Festival",
     "NPS Blue Ridge Pkwy",
+    "Eventbrite",
     "Downtown Asheville",
     "Mountain Xpress",
     "AVL Today",
