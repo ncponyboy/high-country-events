@@ -30,6 +30,7 @@ jobs:
         env:
           GEEKFLARE_API_KEY: ${{ secrets.GEEKFLARE_API_KEY }}
           NPS_API_KEY: ${{ secrets.NPS_API_KEY }}
+          EVENTBRITE_API_KEY: ${{ secrets.EVENTBRITE_API_KEY }}
         run: python scrapers/scraper.py
 
       - name: Commit and push updated JSON
