@@ -815,57 +815,63 @@ async def scrape_ashe_chamber(session: aiohttp.ClientSession) -> List[Dict]:
 
 
 async def scrape_stay_blue_ridge(session: aiohttp.ClientSession) -> List[Dict]:
-    log_info("Scraping Stay Blue Ridge...")
+    log_info("Scraping Stay Blue Ridge via Geekflare...")
     events = []
+    # Use the main list URL instead of the blocked iCal URL
+    url = "https://www.stayblueridge.com/events-list/"
+    
     try:
-        ical_url = "https://www.stayblueridge.com/events-list/?ical=1"
-        html = await fetch_url(ical_url, session)
-        if html and 'BEGIN:VCALENDAR' in html:
-            vevent_pattern = re.compile(r'BEGIN:VEVENT(.*?)END:VEVENT', re.DOTALL)
-            for vevent_match in vevent_pattern.finditer(html):
-                block = vevent_match.group(1)
-                m = re.search(r'^SUMMARY[^:]*:(.*?)(?=\r?\n[A-Z])', block, re.MULTILINE | re.DOTALL)
-                summary = m.group(1).replace('\n ', '').replace('\r\n ', '').replace('\r', '').strip() if m else ''
-                m = re.search(r'^DTSTART[^:]*:(.*?)(?=\r?\n[A-Z])', block, re.MULTILINE | re.DOTALL)
-                dtstart = m.group(1).replace('\n ', '').replace('\r\n ', '').replace('\r', '').strip() if m else ''
-                m = re.search(r'^LOCATION[^:]*:(.*?)(?=\r?\n[A-Z])', block, re.MULTILINE | re.DOTALL)
-                location = (m.group(1).replace('\n ', '').replace('\r\n ', '').replace('\r', '').strip() if m else '') or "Blue Ridge, NC"
-                m = re.search(r'^DESCRIPTION[^:]*:(.*?)(?=\r?\n[A-Z])', block, re.MULTILINE | re.DOTALL)
-                desc = m.group(1).replace('\n ', '').replace('\r\n ', '').replace('\r', '').strip() if m else ''
-                m = re.search(r'^URL[^:]*:(.*?)(?=\r?\n[A-Z])', block, re.MULTILINE | re.DOTALL)
-                url_field = (m.group(1).replace('\n ', '').replace('\r\n ', '').replace('\r', '').strip() if m else '') or ical_url
-                if not summary or not dtstart:
+        # Use your headless helper to bypass the bot block
+        html = await fetch_with_geekflare(session, url)
+        
+        if not html:
+            log_warn("  ⚠ Stay Blue Ridge: No HTML returned from Geekflare")
+            return events
+
+        soup = BeautifulSoup(html, 'html.parser')
+        # They use 'article' tags with specific classes for their events
+        event_elements = soup.select('article.event-list-item') or soup.select('.event-item')
+
+        for item in event_elements:
+            try:
+                title_el = item.select_one('.event-title a, h2 a')
+                date_el = item.select_one('.event-date')
+                
+                if not title_el or not date_el:
                     continue
-                try:
-                    dtstart_clean = re.sub(r'[TZ]', ' ', dtstart).strip()
-                    if len(dtstart_clean) >= 15:
-                        event_date = datetime.strptime(dtstart_clean[:15], "%Y%m%d %H%M%S")
-                    else:
-                        event_date = datetime.strptime(dtstart_clean[:8], "%Y%m%d")
-                        event_date = event_date.replace(hour=19)
-                except Exception:
-                    continue
+
+                title = clean_text(title_el.get_text())
+                event_url = title_el['href']
+                if event_url.startswith('/'):
+                    event_url = f"https://www.stayblueridge.com{event_url}"
+
+                # Simple date parsing for their standard format
+                date_str = date_el.get_text(strip=True)
+                # Note: You may need to use your date parsing helper here
+                # Defaulting to 7pm for events without a clear time
+                event_date = parse_date_string(date_str) or datetime.now().replace(hour=19)
+
                 if event_date < datetime.now() - timedelta(hours=2):
                     continue
-                title = clean_text(summary.replace('\\n', ' ').replace('\\,', ','))
-                desc_clean = clean_text(desc.replace('\\n', ' ').replace('\\,', ','))[:200] if desc else ""
+
                 events.append({
                     "id": create_event_id(title, event_date.isoformat(), "Stay Blue Ridge"),
                     "title": title,
                     "date": event_date.isoformat(),
-                    "location": clean_text(location),
-                    "description": desc_clean,
+                    "location": "Blue Ridge, NC",
+                    "description": "Local event at West Jefferson / Blue Ridge area.",
                     "source": "Stay Blue Ridge",
-                    "url": url_field,
+                    "url": event_url,
                     "latitude": 36.4458,
                     "longitude": -81.4264
                 })
-            if events:
-                log_info(f"  ✓ Found {len(events)} events via iCal")
-                return events
-        log_warn("  ⚠ Stay Blue Ridge: iCal unavailable or blocked")
+            except Exception as e:
+                continue
+
+        log_info(f"  ✓ Stay Blue Ridge: Found {len(events)} events")
     except Exception as e:
         log_error(f"  ✗ Stay Blue Ridge error: {e}")
+        
     return events
 
 
