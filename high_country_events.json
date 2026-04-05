@@ -1,35 +1,211 @@
 {
   "events": [
     {
-      "id": "d64d51a85a75",
-      "title": "Reggae Sunday with Chalwa",
-      "date": "2026-04-05T15:00:00",
+      "id": "8747f66b379c",
+      "title": "Expensive $hit &#038; Cooling Prongs",
+      "date": "2026-04-05T20:45:00",
+      "location": "Static Age Records, 110 N. Lexington Ave., Asheville, NC",
+      "description": "&lt;p&gt;Expensive $hit aka Paul Quattrone (of Osees) incorporates vintage electronic drum pads, samplers, and an array of distortion &amp; delay pedals mixed with acoustic drums.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/expensive-hit-cooling-prongs/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "8ef53155385f",
+      "title": "Shakedown Sunday&#8217;s",
+      "date": "2026-04-05T21:00:00",
+      "location": "The One Stop at Asheville Music Hall, 55 College St, Asheville, NC",
+      "description": "&lt;p&gt;House band set, followed by an open jam.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/__trashed-381/2026-04-05/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "d9a202555609",
+      "title": "AA &#8211; Early Birds",
+      "date": "2026-04-06T07:30:00",
+      "location": "The Episcopal Church of St. John in the Wilderness, 1895 Greenville Hwy, Flat Rock, Flat Rock, NC",
+      "description": "&lt;p&gt;Where: Library (Wed.)/, Wilderness Room (Mon. &amp; Fri.)&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/aa-early-birds/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "1cf3c918e362",
+      "title": "Social Seniors",
+      "date": "2026-04-06T09:00:00",
+      "location": "Grove Street Community Center, 36 Grove S, Asheville, NC",
+      "description": "&lt;p&gt;A social gathering for seniors to engage in various activities and connect with peers.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/social-seniors/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "a3c6e6164e3f",
+      "title": "Unrelenting: Cherokee People &#038; the American Revolution",
+      "date": "2026-04-06T09:00:00",
+      "location": "Museum of the Cherokee People, 589 Tsali Blvd, Cherokee",
+      "description": "&lt;p&gt;Featuring historic objects in conversation with works by contemporary Cherokee artists, Unrelenting delves into 250 years of Aniyvwiya innovation, adaptability, and resistance, centering Nati",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/unrelenting-cherokee-people-the-american-revolution/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "1c960c58760f",
+      "title": "Yin Yang Qigong",
+      "date": "2026-04-06T10:00:00",
+      "location": "Dragon Phoenix, 51 North Merrimon Ave, Woodfin, NC",
+      "description": "&lt;p&gt;Focused on balancing your endocrine, nervous, immune, and organ systems, Yin Yang Qigong offers lineage practices to return to your center, to be strong in your body, and to feel ... &lt;a ti",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/yin-yang-qigong/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "ca1c39585768",
+      "title": "Garden Helpline",
+      "date": "2026-04-06T10:00:00",
+      "location": "Buncombe County Extension Office, 49 Mount Carmel Rd, Ste 102, Asheville",
+      "description": "&lt;p&gt;Extension Master Gardener volunteers are here to help. Please email, call, or drop by with your gardening questions. Call 828-255-5522 or email buncombemg@gmail.com.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/garden-helpline/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "04992dc1ce2f",
+      "title": "Anahata Yoga",
+      "date": "2026-04-06T10:30:00",
+      "location": "Weaverville Yoga, 3-B Florida Avenue, Weaverville",
+      "description": "&lt;p&gt;A heart-centered yoga practice focusing on the Anahata chakra, led by Barbara.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/anahata-yoga/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "daa842484412",
+      "title": "50+ Yoga",
+      "date": "2026-04-06T12:00:00",
+      "location": "Weaverville Yoga, 3-B Florida Avenue, Weaverville",
+      "description": "&lt;p&gt;A yoga class tailored for individuals aged 50 and above, focusing on gentle movements and flexibility, taught by Barbara.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/50-yoga/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "04a18b77acce",
+      "title": "Open Art Exhibition: Transformation",
+      "date": "2026-04-06T12:00:00",
+      "location": "Flood Gallery, 802 Fairview Rd #1200, Asheville, NC",
+      "description": "&lt;p&gt;This exhibition features 25+ local artists showing multiple perspectives &amp; styles, inspired by the title\\'s theme, &quot;Transformation&quot;. Art media for this show may include ceramic,",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/open-art-exhibition-transformation/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "24246194c136",
+      "title": "Kids Kung Fu",
+      "date": "2026-04-06T16:00:00",
+      "location": "Dragon Phoenix, 51 North Merrimon Ave, Woodfin, NC",
+      "description": "&lt;p&gt;A foundational Kung Fu class for children, focusing on building confidence and discipline.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/kids-kung-fu/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "c165b3dc0336",
+      "title": "Y12SR: Yoga &#038; 12 Step Recovery",
+      "date": "2026-04-06T16:30:00",
+      "location": "AmeriHealth Caritas North Carolina Wellness and Opportunity Center, 216 Asheland Ave, Asheville, NC",
+      "description": "&lt;p&gt;Learn to deal with life\\'s stressors, substance free! Open to ANYONE especially those impacted by substance use &amp; behavioral health concerns. Join ACNC for a morning of YOGA &amp; 12 ... ",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/y12sr-yoga-12-step-recovery/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "4188460bc9bc",
+      "title": "Traditional Old Time Jam",
+      "date": "2026-04-06T17:30:00",
+      "location": "Dirty Jack&#8217;s, 23 Buxton Ave, Asheville, NC",
+      "description": "&lt;p&gt;Participate in the circle and play, or just listen to some great traditional Appalachian folk music.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/traditional-old-time-jam/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "b37a6d133a0d",
+      "title": "The Shifties Social Ride",
+      "date": "2026-04-06T18:00:00",
+      "location": "Burial South Slope, 40 Collier Ave., Asheville, NC",
+      "description": "&lt;p&gt;On the first Monday of each month, we\\'ll depart from the South Slope taproom for an hour and a half ride around town. The pace is social and the surfaces ... &lt;a title=&quot;The Shifties S",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/the-shifties-social-ride-2/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "002e3a9d31e0",
+      "title": "Cribbage",
+      "date": "2026-04-06T18:00:00",
+      "location": "Waynesville American Legion, 171 Legion Dr, Waynesville",
+      "description": "&lt;p&gt;Western North Carolina Cribbage Club meets every Monday.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/cribbage/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "8d9a0ac4c1d0",
+      "title": "Old Time Mountain Music Jam",
+      "date": "2026-04-06T18:00:00",
+      "location": "185 King Street, 185 King St, Brevard, Brevard, NC",
+      "description": "&lt;p&gt;The group rotates between old time tunes and traditional mountain songs each week.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/old-time-mountain-music-jam-2/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "663d37481f02",
+      "title": "The Compassionate Friends of Blue Ridge",
+      "date": "2026-04-06T18:00:00",
+      "location": "Abernathy Methodist Church, 1418 Patton Avenue, Ste 1722, Asheville",
+      "description": "&lt;p&gt;This meeting will be to support family members, after the loss of a child, every first Monday of every month.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/the-compassionate-friends-of-blue-ridge/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "6b48160b3309",
+      "title": "Trivia Night W/Two Bald Guys &#038; A Mic",
+      "date": "2026-04-06T18:00:00",
+      "location": "Taproom At Highland Brewing Co., 12 Old Charlotte Hwy #200, Asheville, NC 28803, Asheville, NC",
+      "description": "&lt;p&gt;Gather your friends, sharpen your wits, and get ready to compete.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/trivia-night-w-two-bald-guys-a-mic/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "b46cdc5474e6",
+      "title": "Alex Bazemore &#038; Friends",
+      "date": "2026-04-06T18:00:00",
       "location": "French Broad River Brewery, 101 Fairview Rd D, Asheville, NC 28803, Asheville, NC",
-      "description": "&lt;p&gt;Chalwa Reggae Sunday at French Broad River Brewery happens every week from 3pm-6pm! It\u2019s the perfect way to round out each weekend. You\u2019ll find yourself drifting away to the sounds of reggae ",
+      "description": "&lt;p&gt;Enjoy an evening of roots music with Alex Bazemore &amp; Friends.&lt;/p&gt;\\n",
       "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/reggae-sunday-with-chalwa-2/2026-04-05/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "cf6529736e73",
-      "title": "First Sunday &#8211; Live Music from The Highlands",
-      "date": "2026-04-05T15:30:00",
-      "location": "Archetype Brewing, 265 Haywood Rd, Asheville, NC",
-      "description": "&lt;p&gt;At 3:30 PM on the first Sunday of every month, patrons can be seen tapping their feet along to the smooth chill vibe of this group of ladies paying tribute ... &lt;a title=&quot;First Sunday ",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/second-sunday-live-music-from-the-highlands-2/2026-04-05/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "d11efdfb330d",
-      "title": "Traditional Irish Music Session",
-      "date": "2026-04-05T15:30:00",
-      "location": "Jack of the Wood Pub, 95 Patton Ave, Asheville, NC",
-      "description": "&lt;p&gt;Enjoy the Celtic-influenced sounds of talented musicians from all over WNC and beyond.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/traditional-irish-music-session/2026-04-05/",
+      "url": "https://mountainx.com/event/alex-bazemore-friends/2026-04-06/",
       "latitude": 35.5951,
       "longitude": -82.5515
     },
@@ -362,17 +538,6 @@
       "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-04-15/",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "e859cb29474d",
-      "title": "Allie X in Asheville",
-      "date": "2026-04-16T00:00:00",
-      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
-      "latitude": 35.595058,
-      "longitude": -82.551483
     },
     {
       "id": "8905976a2469",
@@ -1242,6 +1407,17 @@
       "url": "https://allevents.in/asheville/failure-w-all-under-heaven/200029699572424",
       "latitude": 35.588348,
       "longitude": -82.553902
+    },
+    {
+      "id": "62135cdec747",
+      "title": "Mother's Day Tea Party",
+      "date": "2026-05-09T00:00:00",
+      "location": "The Omni Grove Park Inn - Country Club, 290 Macon Ave, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/mothers-day-tea-party/100001982890187930",
+      "latitude": 35.619991,
+      "longitude": -82.543251
     },
     {
       "id": "aff256e34aad",
@@ -3180,8 +3356,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-05T16:34:02.320965",
-  "total_events": 289,
+  "last_updated": "2026-04-05T22:21:25.768915",
+  "total_events": 305,
   "sources": [
     "Manual Events",
     "High Country Host",
