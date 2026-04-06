@@ -1,61 +1,6 @@
 {
   "events": [
     {
-      "id": "1c960c58760f",
-      "title": "Yin Yang Qigong",
-      "date": "2026-04-06T10:00:00",
-      "location": "Dragon Phoenix, 51 North Merrimon Ave, Woodfin, NC",
-      "description": "&lt;p&gt;Focused on balancing your endocrine, nervous, immune, and organ systems, Yin Yang Qigong offers lineage practices to return to your center, to be strong in your body, and to feel ... &lt;a ti",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/yin-yang-qigong/2026-04-06/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "ca1c39585768",
-      "title": "Garden Helpline",
-      "date": "2026-04-06T10:00:00",
-      "location": "Buncombe County Extension Office, 49 Mount Carmel Rd, Ste 102, Asheville",
-      "description": "&lt;p&gt;Extension Master Gardener volunteers are here to help. Please email, call, or drop by with your gardening questions. Call 828-255-5522 or email buncombemg@gmail.com.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/garden-helpline/2026-04-06/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "04992dc1ce2f",
-      "title": "Anahata Yoga",
-      "date": "2026-04-06T10:30:00",
-      "location": "Weaverville Yoga, 3-B Florida Avenue, Weaverville",
-      "description": "&lt;p&gt;A heart-centered yoga practice focusing on the Anahata chakra, led by Barbara.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/anahata-yoga/2026-04-06/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "daa842484412",
-      "title": "50+ Yoga",
-      "date": "2026-04-06T12:00:00",
-      "location": "Weaverville Yoga, 3-B Florida Avenue, Weaverville",
-      "description": "&lt;p&gt;A yoga class tailored for individuals aged 50 and above, focusing on gentle movements and flexibility, taught by Barbara.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/50-yoga/2026-04-06/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "04a18b77acce",
-      "title": "Open Art Exhibition: Transformation",
-      "date": "2026-04-06T12:00:00",
-      "location": "Flood Gallery, 802 Fairview Rd #1200, Asheville, NC",
-      "description": "&lt;p&gt;This exhibition features 25+ local artists showing multiple perspectives &amp; styles, inspired by the title\\'s theme, &quot;Transformation&quot;. Art media for this show may include ceramic,",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/open-art-exhibition-transformation/2026-04-06/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
       "id": "24246194c136",
       "title": "Kids Kung Fu",
       "date": "2026-04-06T16:00:00",
@@ -265,6 +210,39 @@
       "longitude": -82.5515
     },
     {
+      "id": "3f33e28a5860",
+      "title": "Best Ever Karaoke",
+      "date": "2026-04-06T20:00:00",
+      "location": "Fleetwood\u2019s, 496 Haywood Rd, Asheville, NC",
+      "description": "&lt;p&gt;Join Honey (whogavethisbitchamic) for a wild night of the Best Ever Karaoke.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/best-ever-karaoke-karaoke/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "f0c4b8d33d91",
+      "title": "John Cowan w/Luke Bulla &#038; Ethan Ballinger",
+      "date": "2026-04-06T20:00:00",
+      "location": "The Grey Eagle, 185 Clingman Ave, Asheville, NC",
+      "description": "&lt;p&gt;When John Cowan and Luke Bulla perform together, their shows reflect 25 years of shared history, musical trust, and genuine friendship.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/john-cowan-w-luke-bulla-ethan-ballinger/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "a7a73f5d577e",
+      "title": "Club Rock Star Karaoke w/Grimm Morrison",
+      "date": "2026-04-06T21:00:00",
+      "location": "27 Club, 180 Patton Ave, Asheville, NC",
+      "description": "&lt;p&gt;Monday rock star karaoke with your host Grimm Morrison.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/club-rock-star-karaoke-w-grimm-morrison/2026-04-06/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
       "id": "73186336b05c",
       "title": "The Devil Wears Prada - Band Tickets",
       "date": "2026-04-07T00:00:00",
@@ -309,6 +287,17 @@
       "longitude": -82.553963
     },
     {
+      "id": "ddbb41adf994",
+      "title": "Alpaca Shearing Day",
+      "date": "2026-04-09T13:00:00",
+      "location": "Land of Milk & Honey Farm, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "5439d01ccf21",
       "title": "Christian Harmony Sing \u2013 Asheville NC",
       "date": "2026-04-09T18:30:00",
@@ -349,6 +338,17 @@
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-09/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "8897fabf6a69",
+      "title": "Old Time Jam",
+      "date": "2026-04-09T22:00:00",
+      "location": "Jones House Community Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -430,6 +430,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "56d144c2a190",
+      "title": "Old Time Community Dance",
+      "date": "2026-04-10T22:00:00",
+      "location": "Todd Merchantile, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "eac094df7151",
       "title": "Between Walls and Windows",
       "date": "2026-04-10T23:00:00.985000",
@@ -452,6 +463,39 @@
       "longitude": -82.564362
     },
     {
+      "id": "83942089b105",
+      "title": "Watauga County Farmers Market",
+      "date": "2026-04-11T12:00:00",
+      "location": "Horn in the West Parking Lot, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "f7ef528f1044",
+      "title": "Ashe County Farmers Market",
+      "date": "2026-04-11T13:00:00",
+      "location": "Backstreet Park, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "c3d7731c926d",
+      "title": "Angora Goat Shearing Day",
+      "date": "2026-04-11T14:00:00",
+      "location": "Apple Hill Farm, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "a1ceb2fc5a65",
       "title": "One Battle After Another (2025)",
       "date": "2026-04-11T17:30:00",
@@ -461,6 +505,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/one-battle-after-another",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "6e13b924a70a",
+      "title": "The Carolina Comedy Magic Parlor",
+      "date": "2026-04-11T19:00:00",
+      "location": "Mysterium Escape Adventure, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "f7672d13f729",
@@ -672,17 +727,6 @@
       "longitude": -82.553017
     },
     {
-      "id": "4cec1d31c623",
-      "title": "A.G. Hammond &amp; Ovadya",
-      "date": "2026-04-17T00:00:00",
-      "location": "520 Haywood Road, Asheville, NC, United States, North Carolina 28806, 520 US-19-BR, Asheville, NC 28806-3555, United Sta",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/ag-hammond-and-ovadya/200029885124927",
-      "latitude": 35.578339,
-      "longitude": -82.584679
-    },
-    {
       "id": "525178b13f82",
       "title": "Random Rab + Cofresi, Dobarae, &amp; Bunsen Burner at Sly Grog Lounge",
       "date": "2026-04-17T00:00:00",
@@ -692,6 +736,17 @@
       "url": "https://allevents.in/asheville/random-rab-cofresi-dobarae-and-bunsen-burner-at-sly-grog-lounge/100001470058918799",
       "latitude": 35.594261,
       "longitude": -82.562828
+    },
+    {
+      "id": "4cec1d31c623",
+      "title": "A.G. Hammond &amp; Ovadya",
+      "date": "2026-04-17T00:00:00",
+      "location": "520 Haywood Road, Asheville, NC, United States, North Carolina 28806, 520 US-19-BR, Asheville, NC 28806-3555, United Sta",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/ag-hammond-and-ovadya/200029885124927",
+      "latitude": 35.578339,
+      "longitude": -82.584679
     },
     {
       "id": "4ab3a5b6781b",
@@ -1046,17 +1101,6 @@
       "longitude": -82.553902
     },
     {
-      "id": "b0f019e07db0",
-      "title": "Grove Arcade in Bloom",
-      "date": "2026-04-25T00:00:00",
-      "location": "1 Page Ave, Asheville, NC 28801, United States, 1 Page Ave, Asheville, NC 28801, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/grove-arcade-in-bloom/200029820321734",
-      "latitude": 35.595219,
-      "longitude": -82.556297
-    },
-    {
       "id": "6a98acea381a",
       "title": "Live Nation Presents: Willie Nelson &amp; Family",
       "date": "2026-04-25T00:00:00",
@@ -1088,17 +1132,6 @@
       "url": "https://www.apptheatre.org/events-and-tickets/boone-earth-film-fest-2025-b4kx7",
       "latitude": 36.2157,
       "longitude": -81.6752
-    },
-    {
-      "id": "216fe25bc997",
-      "title": "Sounds of Nature - Kids' Music Day",
-      "date": "2026-04-25T19:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Join us for a fun-filled, nature-themed afternoon of music, where families and kids can groove to the sounds in nature! This interactive concert held in the Williams Outdoor Learning Space celebrates ",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/sounds-of-nature-kids-music-day/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
     },
     {
       "id": "61a0155b2f0a",
@@ -1343,6 +1376,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "6353ab714c71",
+      "title": "Boom-De-Ay",
+      "date": "2026-05-02T18:00:00.209000",
+      "location": "Asheville, NC",
+      "description": "The Blue Ridge Orchestra closes its 26th season with a high-energy program celebrating some of the most dynamic and percussive works in the orchestral repertoire. Led by Music Director Dr. Emily Marik",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/boom-de-ay",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
       "id": "bf4405fb8f5a",
       "title": "Cass McCombs + Band: Interior Live Oak Live at The Grey Eagle",
       "date": "2026-05-03T00:00:00",
@@ -1385,17 +1429,6 @@
       "url": "https://www.ashevilledowntown.org/events/member-mixer-marketing-growth-for-downtown-businesses",
       "latitude": 35.5944374,
       "longitude": -82.55597519999999
-    },
-    {
-      "id": "9b2be90c6dfe",
-      "title": "Asheville Cinco De Mayo Bar Crawl",
-      "date": "2026-05-05T00:00:00",
-      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-cinco-de-mayo-bar-crawl/100001356216322529",
-      "latitude": 35.588284,
-      "longitude": -82.553627
     },
     {
       "id": "0e12ba7bc0ae",
@@ -1484,17 +1517,6 @@
       "url": "https://allevents.in/asheville/mothers-day-tea-party/100001982890187930",
       "latitude": 35.619991,
       "longitude": -82.543251
-    },
-    {
-      "id": "aff256e34aad",
-      "title": "Adult Field Course: Service-Learning Course: Managing Non-native Species",
-      "date": "2026-05-09T10:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Join us to learn about non-native invasive species that can threaten our native flora and fauna and see different management strategies in action. After exploring the techniques Grandfather Mountain N",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/service-learning-nonnative-species/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
     },
     {
       "id": "66333ba2d1e9",
@@ -1794,17 +1816,6 @@
       "longitude": -81.6752
     },
     {
-      "id": "7beae1688c2c",
-      "title": "Rhododendron Ramble",
-      "date": "2026-05-23T13:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Take a daily, short, guided stroll that highlights Grandfather Mountain\u2019s rhododendron species and blooms. Included with admission. See the blooms and learn about their history, attributes and roles t",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-23/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
       "id": "1b816d3f47ee",
       "title": "Shawn Camp - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-05-23T19:00:00",
@@ -1816,50 +1827,6 @@
       "longitude": -80.851589
     },
     {
-      "id": "15e7a126af05",
-      "title": "Rhododendron Ramble",
-      "date": "2026-05-24T13:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Take a daily, short, guided stroll that highlights Grandfather Mountain\u2019s rhododendron species and blooms. Included with admission. See the blooms and learn about their history, attributes and roles t",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-24/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
-      "id": "1d28df5445a7",
-      "title": "Rhododendron Ramble",
-      "date": "2026-05-25T13:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Take a daily, short, guided stroll that highlights Grandfather Mountain\u2019s rhododendron species and blooms. Included with admission. See the blooms and learn about their history, attributes and roles t",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-25/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
-      "id": "0163a13737d8",
-      "title": "Rhododendron Ramble",
-      "date": "2026-05-26T13:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Take a daily, short, guided stroll that highlights Grandfather Mountain\u2019s rhododendron species and blooms. Included with admission. See the blooms and learn about their history, attributes and roles t",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-26/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
-      "id": "54bc502ba447",
-      "title": "Rhododendron Ramble",
-      "date": "2026-05-27T13:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Take a daily, short, guided stroll that highlights Grandfather Mountain\u2019s rhododendron species and blooms. Included with admission. See the blooms and learn about their history, attributes and roles t",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-27/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
       "id": "368aa55fa9df",
       "title": "The Wailers in Asheville",
       "date": "2026-05-28T00:00:00",
@@ -1869,17 +1836,6 @@
       "url": "https://allevents.in/asheville/the-wailers-in-asheville/3300029740457719",
       "latitude": 35.595058,
       "longitude": -82.551483
-    },
-    {
-      "id": "d15ec5fbe0a3",
-      "title": "Rhododendron Ramble",
-      "date": "2026-05-28T13:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Take a daily, short, guided stroll that highlights Grandfather Mountain\u2019s rhododendron species and blooms. Included with admission. See the blooms and learn about their history, attributes and roles t",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-28/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
     },
     {
       "id": "5250479e0f27",
@@ -1904,17 +1860,6 @@
       "longitude": -82.553123
     },
     {
-      "id": "a2baf40636de",
-      "title": "Rhododendron Ramble",
-      "date": "2026-05-29T13:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Take a daily, short, guided stroll that highlights Grandfather Mountain\u2019s rhododendron species and blooms. Included with admission. See the blooms and learn about their history, attributes and roles t",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-29/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
       "id": "bf6e632a0c97",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-05-29T19:00:00",
@@ -1924,17 +1869,6 @@
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-05-29/",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "920aab94cbd5",
-      "title": "Grandfather by Night: Twilight Hike",
-      "date": "2026-05-29T20:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Explore the mountain after hours with your own personal guides during our Grandfather by Night series! You\u2019ll discover some of the park\u2019s nighttime wonders, watch a stunning sunset (weather permitting",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/by-night-1-2/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
     },
     {
       "id": "fa4a91e7bd0e",
@@ -1959,17 +1893,6 @@
       "longitude": -81.6752
     },
     {
-      "id": "134987c32e7b",
-      "title": "Rhododendron Ramble",
-      "date": "2026-05-30T13:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Take a daily, short, guided stroll that highlights Grandfather Mountain\u2019s rhododendron species and blooms. Included with admission. See the blooms and learn about their history, attributes and roles t",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-30/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
       "id": "1",
       "title": "Shoot to Thrill",
       "date": "2026-05-30T19:00:00",
@@ -1979,28 +1902,6 @@
       "source": "Saloon Studios",
       "latitude": 36.3551,
       "longitude": -81.5065
-    },
-    {
-      "id": "49ae25e5d7de",
-      "title": "Rhododendron Ramble",
-      "date": "2026-05-31T13:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Take a daily, short, guided stroll that highlights Grandfather Mountain\u2019s rhododendron species and blooms. Included with admission. See the blooms and learn about their history, attributes and roles t",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-31/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
-      "id": "1761ef3f6efa",
-      "title": "Educator Workshop: Project Learning Tree",
-      "date": "2026-06-01T09:30:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "NOTE: This Educator Workshop is intended specifically for educators \u2014 not the general public. Join Grandfather Mountain\u2019s Interpretation and Education staff and Matt Robinson from the Town of Beech Mo",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/educator-workshop-project-learning-tree/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
     },
     {
       "id": "033d423218dc",
@@ -2067,17 +1968,6 @@
       "url": "https://allevents.in/asheville/hot-in-herre-2000s-dance-party/200029856625441",
       "latitude": 35.591415,
       "longitude": -82.551147
-    },
-    {
-      "id": "b809f5909173",
-      "title": "Nature Photography Weekend",
-      "date": "2026-06-05T08:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "This popular shutterbug weekend includes presentations from top nature photographers, hands-on field courses, a friendly contest and the rare opportunity to photograph the mountain\u2019s spectacular scene",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/nature-photography-weekend/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
     },
     {
       "id": "213906966325",
@@ -2201,28 +2091,6 @@
       "longitude": -81.6752
     },
     {
-      "id": "50fbe1311af7",
-      "title": "Animal Birthday Party",
-      "date": "2026-06-10T19:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Join us to celebrate the birthdays of our resident animals with games, contests, crafts and surprises. The park\u2019s wildlife habitat staff hosts a fun-filled afternoon for guests, as well as programs to",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/animal-birthday-party/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
-      "id": "600b39ab9bad",
-      "title": "Educator Workshop: Methods of Teaching Environmental Education",
-      "date": "2026-06-12T10:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "NOTE: This Educator Workshop is intended specifically for educators \u2014 not the general public. The focus of this 10-hour workshop is to prepare participants from a variety of educational backgrounds an",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/educator-workshop-methods/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
       "id": "d1ba3c93c766",
       "title": "Spyro Gyra",
       "date": "2026-06-12T19:30:00",
@@ -2232,17 +2100,6 @@
       "url": "https://www.apptheatre.org/events-and-tickets/hcjf-spyro-gyra",
       "latitude": 36.2157,
       "longitude": -81.6752
-    },
-    {
-      "id": "60b6db9b5032",
-      "title": "Grandfather by Night: Twilight Hike",
-      "date": "2026-06-12T20:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Hwy, Linville, NC",
-      "description": "Explore the mountain after hours with your own personal guides during our Grandfather by Night series! You\u2019ll discover some of the park\u2019s nighttime wonders, watch a stunning sunset (weather permitting",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/by-night2/",
-      "latitude": 36.0979,
-      "longitude": -81.814
     },
     {
       "id": "baa792c3f425",
@@ -2366,17 +2223,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "64cde48764b3",
-      "title": "Grandfather by Night: Naturalist Program",
-      "date": "2026-06-19T20:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Hwy, Linville, NC",
-      "description": "Explore the mountain after hours with your own personal guides during our Grandfather by Night series! You\u2019ll discover some of the park\u2019s nighttime wonders, watch a stunning sunset (weather permitting",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/by-night7/",
-      "latitude": 36.0979,
-      "longitude": -81.814
-    },
-    {
       "id": "f6f42123c435",
       "title": "Downtown After 5 | June",
       "date": "2026-06-19T21:00:00.725000",
@@ -2386,17 +2232,6 @@
       "url": "https://www.ashevilledowntown.org/events/downtown-after-5-april-kdkd8-w2b29",
       "latitude": 35.5956631,
       "longitude": -82.5490674
-    },
-    {
-      "id": "38b910936425",
-      "title": "Mindfulness and Well-being Series: Yoga on the Mountain: Grounded and Grateful",
-      "date": "2026-06-20T10:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Join Shannon Burbridge, an experienced movement instructor and educator with over 37 years of experience in the fitness and wellness field, to immerse yourself in a full day of yoga and grounding tech",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/mindfulness/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
     },
     {
       "id": "5b95240b9e05",
@@ -2452,6 +2287,17 @@
       "source": "Saloon Studios",
       "latitude": 36.3551,
       "longitude": -81.5065
+    },
+    {
+      "id": "3f4c3e5b755e",
+      "title": "HENRY CHO: THE EMPTY NEST TOUR",
+      "date": "2026-06-27T00:00:00",
+      "location": "The Orange Peel, 101 Biltmore ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/henry-cho-the-empty-nest-tour/200029856672651",
+      "latitude": 35.591415,
+      "longitude": -82.551147
     },
     {
       "id": "70735cf84e88",
@@ -2564,39 +2410,6 @@
       "longitude": -82.537384
     },
     {
-      "id": "2588216a9571",
-      "title": "Animal Enrichment Day",
-      "date": "2026-07-29T19:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "On Animal Enrichment Day, guests see firsthand how Grandfather Mountain cares for its resident animals. An enrichment is a special treat, new toy or even an unfamiliar scent given to the animals to br",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/animal-enrichment-day/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
-      "id": "e01dbefe36c7",
-      "title": "Educator Workshop: WILD About Bears",
-      "date": "2026-07-31T10:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "NOTE: This Educator Workshop is intended specifically for educators \u2014 not the general public. This workshop is open to individuals studying for the NC Environmental Education Certification or those ne",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/educator-workshop-wild-about-bear/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
-      "id": "ed1aedc54fbd",
-      "title": "Grandfather by Night: Twilight Hike",
-      "date": "2026-07-31T20:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Explore the mountain after hours with your own personal guides during our Grandfather by Night series! You\u2019ll discover some of the park\u2019s nighttime wonders, watch a stunning sunset (weather permitting",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/by-night-3/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
       "id": "60c4701256e3",
       "title": "Rhiannon Giddens, Mary Chapin Carpenter, Mavis Staples, Hurray For The Riff Raff in Asheville",
       "date": "2026-08-01T00:00:00",
@@ -2619,28 +2432,6 @@
       "longitude": -82.52536
     },
     {
-      "id": "a84e828daaa0",
-      "title": "Sunrise at the Swinging Bridge",
-      "date": "2026-08-01T06:30:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Back by popular demand, Grandfather Mountain, the not-for-profit nature park run by the Grandfather Mountain Stewardship Foundation, is offering a sunrise experience in 2026. This special event, title",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/sunrise-at-the-swinging-bridge/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
-      "id": "96921c06af11",
-      "title": "Adult Field Course: Exploring Natural Communities of Grandfather Mountain",
-      "date": "2026-08-01T10:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Join us for an in-depth exploration of the natural community types found on Grandfather Mountain. In this class, you\u2019ll learn to recognize distinct habitats by studying their characteristic flora, fau",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/adult-field-course-natural-communities/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
       "id": "1ad67bcbd259",
       "title": "Member Mixer - Building a Sustainable and Inclusive Asheville",
       "date": "2026-08-03T20:00:00.552000",
@@ -2652,28 +2443,6 @@
       "longitude": -82.555861
     },
     {
-      "id": "13dbfef41740",
-      "title": "Adult Field Course: Fungi in the Cloud Forest",
-      "date": "2026-08-06T10:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "The southern Appalachians are world-renowned for different types of fungi, from mushrooms to lichens, and are home to more than 2,000 species. Here\u2019s a chance to learn about the lifestyle and habitats",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/adult-field-course-fungi/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
-      "id": "ac1c07ff486f",
-      "title": "Grandfather by Night: Twilight Hike",
-      "date": "2026-08-07T20:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Hwy, Linville, NC",
-      "description": "Explore the mountain after hours with your own personal guides during our Grandfather by Night series! You\u2019ll discover some of the park\u2019s nighttime wonders, watch a stunning sunset (weather permitting",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/by-night4/",
-      "latitude": 36.0979,
-      "longitude": -81.814
-    },
-    {
       "id": "7",
       "title": "The Wildflowers",
       "date": "2026-08-08T19:00:00",
@@ -2683,39 +2452,6 @@
       "source": "Saloon Studios",
       "latitude": 36.3551,
       "longitude": -81.5065
-    },
-    {
-      "id": "912f224f694c",
-      "title": "Junior Naturalist Day",
-      "date": "2026-08-08T19:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Junior Naturalist Program activities throughout the day will be provided specifically for children ages 5-12, but all ages are welcome! Events are included with admission. We recommend that those plan",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/junior-naturalist-day/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
-      "id": "cd4b8dd3abb6",
-      "title": "Adult Field Course: Appalachian Woodcraft",
-      "date": "2026-08-12T10:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "The hardy settlers who made these mountains home were resourceful and made what they needed from what was at hand, and what was at hand was wood. We will examine the types of things Appalachian people",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/adult-field-course-appalachian-woodcraft/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
-      "id": "baee3aaf98b3",
-      "title": "Grandfather by Night: Naturalist Program",
-      "date": "2026-08-14T19:30:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Explore the mountain after hours with your own personal guides during our Grandfather by Night series! You\u2019ll discover some of the park\u2019s nighttime wonders, watch a stunning sunset (weather permitting",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/by-night-8/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
     },
     {
       "id": "edec2555d883",
@@ -2738,17 +2474,6 @@
       "url": "https://allevents.in/asheville/the-wood-brothers-two-nights-aug-21-and-22/200029882233936",
       "latitude": 35.591415,
       "longitude": -82.551147
-    },
-    {
-      "id": "772449936956",
-      "title": "Grandfather by Night: Twilight Hike",
-      "date": "2026-08-21T19:30:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Explore the mountain after hours with your own personal guides during our Grandfather by Night series! You\u2019ll discover some of the park\u2019s nighttime wonders, watch a stunning sunset (weather permitting",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/by-night5/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
     },
     {
       "id": "c0e4f7cb3d59",
@@ -3257,28 +2982,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "41e6b518c24c",
-      "title": "Broadway in Love",
-      "date": "2027-02-06T19:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/broadway-in-love",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "e1022b01fb00",
-      "title": "Boone\u2019s Got Talent",
-      "date": "2027-02-07T19:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/bgt2026",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "2d64806a958c",
       "title": "\u201cSinners\u201d (2025)",
       "date": "2027-02-12T18:00:00",
@@ -3422,8 +3125,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-06T11:53:04.916285",
-  "total_events": 311,
+  "last_updated": "2026-04-06T16:43:24.565555",
+  "total_events": 284,
   "sources": [
     "Manual Events",
     "High Country Host",
