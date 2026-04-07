@@ -2115,6 +2115,7 @@ async def main():
         ("Alleghany Arts Council",  scrape_alleghany_arts),
         ("Ashe Chamber",            scrape_ashe_chamber),
         ("Stay Blue Ridge",         scrape_stay_blue_ridge),
+        ("Old Barn Winery",         scrape_old_barn_winery),
         ("Blue Ridge Music NC",     scrape_blue_ridge_music),
         ("High Country Press",      scrape_explore_boone),
         ("Appalachian Theatre",     scrape_appalachian_theatre),

@@ -155,9 +155,9 @@
       "longitude": -81.6746
     },
     {
-      "id": "eac094df7151",
+      "id": "cd1c44379dae",
       "title": "Between Walls and Windows",
-      "date": "2026-04-10T23:00:00.985000",
+      "date": "2026-04-10T19:00:00.985000",
       "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
       "description": "This immersive performance moves through vignettes of intimacy, distance, and unease, evoking the sensations of being young, observed, and on the verge of something unnamed.",
       "source": "Downtown Asheville",
@@ -276,9 +276,9 @@
       "longitude": -82.554283
     },
     {
-      "id": "77ea7015ae43",
+      "id": "2d93fbb7003b",
       "title": "State of Downtown",
-      "date": "2026-04-14T15:00:00.979000",
+      "date": "2026-04-14T11:00:00.979000",
       "location": "Asheville, NC",
       "description": "The State of Downtown is the Asheville Downtown Association\u2019s annual meeting bringing together Downtown stakeholders, business leaders, and community partners for a comprehensive look at the year ahea",
       "source": "Downtown Asheville",
@@ -408,6 +408,28 @@
       "longitude": -82.562828
     },
     {
+      "id": "9996fc30a83b",
+      "title": "The K\u00dcHL Mule Tour",
+      "date": "2026-04-17T14:00:00.280000",
+      "location": "Mast General Store, 15 Biltmore Avenue, Asheville, NC, 28801",
+      "description": "The K\u00dcHL Mule, a solar-powered overland vehicle, rolls into Mast Store Asheville on Friday, April 17, 2\u20135 p.m. Stop by to check out K\u00dcHL\u2019s spring \u201cBorn in the Mountains\u201d collection and meet the team b",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/the-khl-mule-tour",
+      "latitude": 35.5940335,
+      "longitude": -82.5518498
+    },
+    {
+      "id": "9ff7e5db9e74",
+      "title": "Downtown After 5 | April",
+      "date": "2026-04-17T17:00:00.367000",
+      "location": "Pack Square Park, 80 Court Plaza, Asheville, NC, 28801",
+      "description": "Join us at Pack Square Park for Stomp &amp; Holler Night\u2014an evening of foot-stomping music, local flavors, handcrafted goods, and the lively spirit of Asheville.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/downtown-after-5-april-kdkd8",
+      "latitude": 35.5956631,
+      "longitude": -82.5490674
+    },
+    {
       "id": "4ab3a5b6781b",
       "title": "This is Spinal Tap (1984)",
       "date": "2026-04-17T18:00:00",
@@ -417,17 +439,6 @@
       "url": "https://www.apptheatre.org/events-and-tickets/this-is-spinal-tap",
       "latitude": 36.2157,
       "longitude": -81.6752
-    },
-    {
-      "id": "694d774cb034",
-      "title": "The K\u00dcHL Mule Tour",
-      "date": "2026-04-17T18:00:00.280000",
-      "location": "Mast General Store, 15 Biltmore Avenue, Asheville, NC, 28801",
-      "description": "The K\u00dcHL Mule, a solar-powered overland vehicle, rolls into Mast Store Asheville on Friday, April 17, 2\u20135 p.m. Stop by to check out K\u00dcHL\u2019s spring \u201cBorn in the Mountains\u201d collection and meet the team b",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/the-khl-mule-tour",
-      "latitude": 35.5940335,
-      "longitude": -82.5518498
     },
     {
       "id": "9f3c3bc0a7c1",
@@ -441,20 +452,9 @@
       "longitude": -81.6746
     },
     {
-      "id": "ed9fa933a45c",
-      "title": "Downtown After 5 | April",
-      "date": "2026-04-17T21:00:00.367000",
-      "location": "Pack Square Park, 80 Court Plaza, Asheville, NC, 28801",
-      "description": "Join us at Pack Square Park for Stomp &amp; Holler Night\u2014an evening of foot-stomping music, local flavors, handcrafted goods, and the lively spirit of Asheville.",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/downtown-after-5-april-kdkd8",
-      "latitude": 35.5956631,
-      "longitude": -82.5490674
-    },
-    {
-      "id": "429e053dde8a",
+      "id": "41e44f0ed2b1",
       "title": "Reginald Golden and the Reginald Golden Singers: Stony the Road",
-      "date": "2026-04-17T23:00:00.513000",
+      "date": "2026-04-17T19:00:00.513000",
       "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
       "description": "Inspired by James Weldon Johnson\u2019s Lift Every Voice and Sing, this powerful musical suite by composer Reginald Golden blends jazz, blues, gospel, folk, and spirituals. Each movement honors both the st",
       "source": "Downtown Asheville",
@@ -551,9 +551,9 @@
       "longitude": -81.499
     },
     {
-      "id": "50e703d77a8a",
+      "id": "596c03ba0143",
       "title": "Apr. 18 - Drag Brunch Fundraiser for Youth OUTright \ud83e\udd73\ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
-      "date": "2026-04-18T15:00:00.653000",
+      "date": "2026-04-18T11:00:00.653000",
       "location": "Banks Ave Bar, 32 Banks Avenue, Asheville, NC, 28801",
       "description": "",
       "source": "Downtown Asheville",
@@ -573,6 +573,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "8761121e5db6",
+      "title": "Italian Bred",
+      "date": "2026-04-18T20:00:00.787000",
+      "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
+      "description": "Candice Guardino\u2019s hit comedy&nbsp;Italian Bred&nbsp;is coming to Asheville\u2019s Wortham Arts for&nbsp;one night only. After sold-out runs in NYC, Chicago, and LA, Candice brings her unforgettable solo s",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/italian-bred",
+      "latitude": 35.5943438,
+      "longitude": -82.5511352
+    },
+    {
       "id": "6211927148e5",
       "title": "The Pearl Institute Bicycle Day Symposium at Revival (Asheville)",
       "date": "2026-04-19T00:00:00",
@@ -582,17 +593,6 @@
       "url": "https://allevents.in/asheville/the-pearl-institute-bicycle-day-symposium-at-revival-asheville/200029767027226",
       "latitude": 35.591808,
       "longitude": -82.556229
-    },
-    {
-      "id": "9cfcf5dd1fc1",
-      "title": "Italian Bred",
-      "date": "2026-04-19T00:00:00.787000",
-      "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
-      "description": "Candice Guardino\u2019s hit comedy&nbsp;Italian Bred&nbsp;is coming to Asheville\u2019s Wortham Arts for&nbsp;one night only. After sold-out runs in NYC, Chicago, and LA, Candice brings her unforgettable solo s",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/italian-bred",
-      "latitude": 35.5943438,
-      "longitude": -82.5511352
     },
     {
       "id": "b003f69ce053",
@@ -661,9 +661,9 @@
       "longitude": -82.553902
     },
     {
-      "id": "a5f5f9d9a765",
+      "id": "c2b1a348b36a",
       "title": "Liars & Believers presents Yellow Bird Chase",
-      "date": "2026-04-22T22:00:00.599000",
+      "date": "2026-04-22T18:00:00.599000",
       "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
       "description": "Wortham Center presents Yellow Bird Chase on Wednesday, April 22 at 6 pm\u2014a wordless, family friendly physical comedy bursting with silliness, surprises, and theatrical imagination.",
       "source": "Downtown Asheville",
@@ -727,8 +727,8 @@
       "longitude": -82.553017
     },
     {
-      "id": "dc09e9c25ce4",
-      "title": "The Lorax",
+      "id": "2e5da5ad7065",
+      "title": "The Lorax (2012)",
       "date": "2026-04-24T18:00:00",
       "location": "Appalachian Theatre, 559 W King St, Boone, NC",
       "description": "",
@@ -747,6 +747,17 @@
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-24/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "70f5be14bb16",
+      "title": "Karla Bonoff",
+      "date": "2026-04-24T20:00:00.361000",
+      "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
+      "description": "Singer-songwriter Karla Bonoff takes the stage with an intimate, moving performance showcasing the timeless voice behind hits made famous by legends like Linda Ronstadt and Bonnie Raitt. Known for her",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/karla-bonoff",
+      "latitude": 35.5943438,
+      "longitude": -82.5511352
     },
     {
       "id": "9cc0d6b344da",
@@ -780,17 +791,6 @@
       "url": "https://allevents.in/asheville/live-nation-presents-willie-nelson-and-family/210009137451667",
       "latitude": 35.594799,
       "longitude": -82.557198
-    },
-    {
-      "id": "da620f5f3ff4",
-      "title": "Karla Bonoff",
-      "date": "2026-04-25T00:00:00.361000",
-      "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
-      "description": "Singer-songwriter Karla Bonoff takes the stage with an intimate, moving performance showcasing the timeless voice behind hits made famous by legends like Linda Ronstadt and Bonnie Raitt. Known for her",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/karla-bonoff",
-      "latitude": 35.5943438,
-      "longitude": -82.5511352
     },
     {
       "id": "260c2750b071",
@@ -879,6 +879,17 @@
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-27/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "ab9e4cef661a",
+      "title": "Song Sung Blue (2025)",
+      "date": "2026-04-30T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/song-sung-blue",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "fa57ddfc54d1",
@@ -1068,9 +1079,9 @@
       "longitude": -81.6752
     },
     {
-      "id": "6353ab714c71",
+      "id": "b3e53d6196e3",
       "title": "Boom-De-Ay",
-      "date": "2026-05-02T18:00:00.209000",
+      "date": "2026-05-02T14:00:00.209000",
       "location": "Asheville, NC",
       "description": "The Blue Ridge Orchestra closes its 26th season with a high-energy program celebrating some of the most dynamic and percussive works in the orchestral repertoire. Led by Music Director Dr. Emily Marik",
       "source": "Downtown Asheville",
@@ -1101,6 +1112,50 @@
       "longitude": -82.571564
     },
     {
+      "id": "e026e8d79898",
+      "title": "Star Wars: A New Hope",
+      "date": "2026-05-03T14:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/starwars-new-hope",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "59b6c5635fca",
+      "title": "Star Wars: The Empire Strikes Back",
+      "date": "2026-05-03T17:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/starwars-the-empire-strikes-back",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "ecba5a84e134",
+      "title": "Member Mixer - Business Strategy &amp; Growth",
+      "date": "2026-05-04T16:00:00.583000",
+      "location": "Third Room, 46 Wall Street, Asheville, NC, 28801",
+      "description": "Join local experts from East Fork, JD Ellison &amp; Company, and Spicer Greene Jewelers for a practical session on marketing and business growth. Learn actionable strategies to boost visibility, attra",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/member-mixer-marketing-growth-for-downtown-businesses",
+      "latitude": 35.5944374,
+      "longitude": -82.55597519999999
+    },
+    {
+      "id": "3eaebaea39ce",
+      "title": "Star Wars: Return of the Jedi",
+      "date": "2026-05-04T17:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/starwars-return-of-the-jedi",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "de626ed85945",
       "title": "Weekly Trivia @ South End",
       "date": "2026-05-04T19:00:00",
@@ -1110,17 +1165,6 @@
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-05-04/",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "4a15c064303e",
-      "title": "Member Mixer - Business Strategy &amp; Growth",
-      "date": "2026-05-04T20:00:00.583000",
-      "location": "Third Room, 46 Wall Street, Asheville, NC, 28801",
-      "description": "Join local experts from East Fork, JD Ellison &amp; Company, and Spicer Greene Jewelers for a practical session on marketing and business growth. Learn actionable strategies to boost visibility, attra",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/member-mixer-marketing-growth-for-downtown-businesses",
-      "latitude": 35.5944374,
-      "longitude": -82.55597519999999
     },
     {
       "id": "9b2be90c6dfe",
@@ -1145,6 +1189,17 @@
       "longitude": -82.564362
     },
     {
+      "id": "2a3b33414d21",
+      "title": "Mosaic Art Walk & Benefit",
+      "date": "2026-05-07T17:00:00.235000",
+      "location": "Downtown Asheville",
+      "description": "Mosaic Community Lifestyle Realty\u2019s Art Walk &amp; Benefit brings together Downtown Asheville galleries, artists, and nonprofits for a free evening of art, entertainment, and community. Guests can exp",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/mosaic-art-walk-benefit",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
       "id": "f342d87d7059",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-05-07T19:00:00",
@@ -1154,17 +1209,6 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-07/",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "e9b0781f5f7b",
-      "title": "Mosaic Art Walk & Benefit",
-      "date": "2026-05-07T21:00:00.235000",
-      "location": "Downtown Asheville",
-      "description": "Mosaic Community Lifestyle Realty\u2019s Art Walk &amp; Benefit brings together Downtown Asheville galleries, artists, and nonprofits for a free evening of art, entertainment, and community. Guests can exp",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/mosaic-art-walk-benefit",
-      "latitude": 35.5951,
-      "longitude": -82.5515
     },
     {
       "id": "6715b8c59daa",
@@ -1266,17 +1310,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "77f4850d98b3",
-      "title": "Napalm Death, Deadguy in Asheville",
-      "date": "2026-05-12T00:00:00",
-      "location": "Eulogy, Eulogy, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/napalm-death-deadguy-in-asheville/3300029648464654",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "ee92de15980c",
       "title": "Napalm Death + Deadguy",
       "date": "2026-05-12T00:00:00",
@@ -1343,6 +1376,17 @@
       "longitude": -82.555382
     },
     {
+      "id": "f60ad798e3ac",
+      "title": "Downtown After 5 | May",
+      "date": "2026-05-15T17:00:00.827000",
+      "location": "Pack Square Park, 80 Court Plaza, Asheville, NC, 28801",
+      "description": "Dance the night away at Pack Square Park for Latin Dance Night! Headliner La Sonora Carolina and flamenco guitarist Ulisse Rotoli bring the rhythm. Enjoy toe-tapping music, local eats, handcrafted goo",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/downtown-after-5-april-6sr5p",
+      "latitude": 35.5956631,
+      "longitude": -82.5490674
+    },
+    {
       "id": "6d24052fb3c5",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-05-15T19:00:00",
@@ -1354,17 +1398,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "f741c7c7a8a0",
-      "title": "Downtown After 5 | May",
-      "date": "2026-05-15T21:00:00.827000",
-      "location": "Pack Square Park, 80 Court Plaza, Asheville, NC, 28801",
-      "description": "Dance the night away at Pack Square Park for Latin Dance Night! Headliner La Sonora Carolina and flamenco guitarist Ulisse Rotoli bring the rhythm. Enjoy toe-tapping music, local eats, handcrafted goo",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/downtown-after-5-april-6sr5p",
-      "latitude": 35.5956631,
-      "longitude": -82.5490674
-    },
-    {
       "id": "2724b908bb84",
       "title": "The Black Angels: Passover 2026 Tour",
       "date": "2026-05-16T00:00:00",
@@ -1374,17 +1407,6 @@
       "url": "https://allevents.in/asheville/the-black-angels-passover-2026-tour/200029825177714",
       "latitude": 35.563202,
       "longitude": -82.537148
-    },
-    {
-      "id": "c60bdc11a238",
-      "title": "Kids and Family Fun Day (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-05-16T12:00:00",
-      "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
-      "description": "This free event is open to all ages and includes performances, booths, an instrument \u201cpetting zoo,\u201d scavenger hunt, art activities, and more. Youth bands will perform throughout the event. * 12-12:45 ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
     },
     {
       "id": "62d57c57c643",
@@ -1497,6 +1519,17 @@
       "longitude": -82.570641
     },
     {
+      "id": "1833d74d6982",
+      "title": "5th Annual Downtown Asheville Memorial Day Weekend Festival of the Arts",
+      "date": "2026-05-23T00:00:00",
+      "location": "Downtown Asheville, 80 Court Plaza in Asheville, NC, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/5th-annual-downtown-asheville-memorial-day-weekend-festival-of-the-arts/100001986915653205",
+      "latitude": 35.595558,
+      "longitude": -82.549294
+    },
+    {
       "id": "70e70aa8c9fc",
       "title": "Asheville Memorial Day Weekend Bar Crawl 2026",
       "date": "2026-05-23T00:00:00",
@@ -1539,17 +1572,6 @@
       "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-23/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
-    },
-    {
-      "id": "1b816d3f47ee",
-      "title": "Shawn Camp - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-05-23T19:00:00",
-      "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
-      "description": "Shawn Camp Camp began playing guitar as a small child, growing up outside Perryville, Arkansas. Mandolin and fiddle followed, all before he could drive. He remembers dreaming of melodies, waking up, a",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.572886,
-      "longitude": -80.851589
     },
     {
       "id": "15e7a126af05",
@@ -2003,17 +2025,6 @@
       "longitude": -82.603394
     },
     {
-      "id": "217f0270199e",
-      "title": "An Evening With Steep Canyon Rangers - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-06-13T19:00:00",
-      "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
-      "description": "Steep Canyon Rangers Hailing from both the Appalachian and Piedmont regions of North Carolina, Steep Canyon Rangers have long held traditional bluegrass paramount, while possessing an exceptional abil",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.572886,
-      "longitude": -80.851589
-    },
-    {
       "id": "aff735552698",
       "title": "Wycliffe Gordon",
       "date": "2026-06-13T19:30:00",
@@ -2080,6 +2091,17 @@
       "longitude": -82.564362
     },
     {
+      "id": "4387029cff39",
+      "title": "Downtown After 5 | June",
+      "date": "2026-06-19T17:00:00.725000",
+      "location": "Pack Square Park, 80 Court Plaza, Asheville, NC, 28801",
+      "description": "Celebrate Juneteenth at Pack Square Park with Downtown After 5! Enjoy soulful music from headliner Kanika Moore and Reggie Headen &amp; the Nite Time Noon. Visit the marketplace in The Block, grab foo",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/downtown-after-5-april-kdkd8-w2b29",
+      "latitude": 35.5956631,
+      "longitude": -82.5490674
+    },
+    {
       "id": "1b2b179ec225",
       "title": "Boonerang Music & Arts Festival \u2014 Free Shows & Silent Disco",
       "date": "2026-06-19T18:00:00",
@@ -2100,17 +2122,6 @@
       "url": "https://grandfather.com/event/by-night7/",
       "latitude": 36.0979,
       "longitude": -81.814
-    },
-    {
-      "id": "f6f42123c435",
-      "title": "Downtown After 5 | June",
-      "date": "2026-06-19T21:00:00.725000",
-      "location": "Pack Square Park, 80 Court Plaza, Asheville, NC, 28801",
-      "description": "Celebrate Juneteenth at Pack Square Park with Downtown After 5! Enjoy soulful music from headliner Kanika Moore and Reggie Headen &amp; the Nite Time Noon. Visit the marketplace in The Block, grab foo",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/downtown-after-5-april-kdkd8-w2b29",
-      "latitude": 35.5956631,
-      "longitude": -82.5490674
     },
     {
       "id": "cee6a43ac080",
@@ -2212,9 +2223,9 @@
       "longitude": -82.551659
     },
     {
-      "id": "4da3d7fdb113",
+      "id": "20a594d1a775",
       "title": "Independence Day Block Party",
-      "date": "2026-07-04T21:00:00.853000",
+      "date": "2026-07-04T17:00:00.853000",
       "location": "Asheville, NC",
       "description": "Join us for a day of free family fun with the Amazing Air Dogs, live music, local vendors, and, of course, a fireworks show!",
       "source": "Downtown Asheville",
@@ -2388,9 +2399,9 @@
       "longitude": -81.8462718
     },
     {
-      "id": "c0f77451ce0e",
+      "id": "ba2f0c866449",
       "title": "Member Mixer - Housing &amp; Urban Development",
-      "date": "2026-08-03T20:00:00.552000",
+      "date": "2026-08-03T16:00:00.552000",
       "location": "Revival, 66 Asheland Avenue, Asheville, NC, 28801",
       "description": "Join the Asheville Downtown Association for a member mixer exploring housing and urban development in Downtown Asheville. This engaging discussion will cover topics like urban planning, affordability,",
       "source": "Downtown Asheville",
@@ -2465,17 +2476,6 @@
       "longitude": -81.8462718
     },
     {
-      "id": "edec2555d883",
-      "title": "Trey Hensley - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-08-15T19:00:00",
-      "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
-      "description": "Trey Hensley GRAMMY\u00ae Award-winning musician and singer/songwriter Trey Hensley has made a lasting mark across the bluegrass, Americana, folk and roots music worlds. He has been referred to as \u201cNashvil",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.572886,
-      "longitude": -80.851589
-    },
-    {
       "id": "5fa8e15cc00a",
       "title": "The Wood Brothers - TWO NIGHTS (AUG 21 &amp; 22)",
       "date": "2026-08-21T00:00:00",
@@ -2487,6 +2487,17 @@
       "longitude": -82.551147
     },
     {
+      "id": "01bfd00b6021",
+      "title": "Downtown After 5 | August",
+      "date": "2026-08-21T17:00:00.695000",
+      "location": "Pack Square Park, 80 Court Plaza, Asheville, NC, 28801",
+      "description": "Experience New Orleans Night at Pack Square Park with Downtown After 5! Headliner J &amp; The Causeways, Bayou Diesel, and the Asheville Second Line bring Mardi Gras energy and music. Enjoy the on-sit",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/downtown-after-5-april-6sr5p-btfae",
+      "latitude": 35.5956631,
+      "longitude": -82.5490674
+    },
+    {
       "id": "772449936956",
       "title": "Grandfather by Night: Twilight Hike",
       "date": "2026-08-21T19:30:00",
@@ -2496,17 +2507,6 @@
       "url": "https://grandfather.com/event/by-night5/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
-    },
-    {
-      "id": "c0e4f7cb3d59",
-      "title": "Downtown After 5 | August",
-      "date": "2026-08-21T21:00:00.695000",
-      "location": "Pack Square Park, 80 Court Plaza, Asheville, NC, 28801",
-      "description": "Experience New Orleans Night at Pack Square Park with Downtown After 5! Headliner J &amp; The Causeways, Bayou Diesel, and the Asheville Second Line bring Mardi Gras energy and music. Enjoy the on-sit",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/downtown-after-5-april-6sr5p-btfae",
-      "latitude": 35.5956631,
-      "longitude": -82.5490674
     },
     {
       "id": "275a2f1a5318",
@@ -2584,17 +2584,6 @@
       "url": "https://www.hcpress.com/announcements/boone-united-methodist-church-fall-bazaar-2025.html",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "345dc484ce39",
-      "title": "Chatham Rabbits - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-09-05T19:00:00",
-      "location": "Blue Ridge Music Center at Milepost 213 on the Blue Ridge Parkway Music Center Rd, Galax, VA 24333",
-      "description": "Chatham Rabbits There is something warm and instantly familiar about roots duo Chatham Rabbits. Partners in music and life, Austin and Sarah McCombie blend their personal histories through deft songwr",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.572886,
-      "longitude": -80.851589
     },
     {
       "id": "007b5575c1e9",
@@ -2806,9 +2795,9 @@
       "longitude": -81.6746
     },
     {
-      "id": "7924e406b68b",
+      "id": "8df1e83e65ff",
       "title": "Asheville Oktoberfest",
-      "date": "2026-10-03T17:00:00.281000",
+      "date": "2026-10-03T13:00:00.281000",
       "location": "Pack Square Park, 80 Court Plaza, Asheville, NC, 28801",
       "description": "Join us for a festive gathering featuring 20+ local breweries, cideries, wineries, and distilleries. Indulge in delicious German-style cuisine from local food vendors and dance along to German tunes.",
       "source": "Downtown Asheville",
@@ -2927,20 +2916,9 @@
       "longitude": -82.555962
     },
     {
-      "id": "6e6680601925",
-      "title": "Wicked Spooky 5k &amp; Creepy Crawly Climb",
-      "date": "2026-10-31T00:00:00",
-      "location": "Wicked Weed Funkatorium, 147 Coxe Ave, Asheville, NC 28801-4025, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/wicked-spooky-5k-and-creepy-crawly-climb/200029118684027",
-      "latitude": 35.589199,
-      "longitude": -82.555222
-    },
-    {
-      "id": "ed8444ffe464",
+      "id": "10f2d8d1ee84",
       "title": "Member Mixer - Reflecting & Looking Ahead",
-      "date": "2026-11-02T21:00:00.295000",
+      "date": "2026-11-02T16:00:00.295000",
       "location": "Asheville, NC",
       "description": "A year-end gathering to reflect on key discussions, insights, and outcomes from the year. This informal forum provides an opportunity to share takeaways, celebrate progress, strengthen connections, an",
       "source": "Downtown Asheville",
@@ -2971,9 +2949,9 @@
       "longitude": -82.551483
     },
     {
-      "id": "ea74449b5b16",
+      "id": "4a6616f9b66f",
       "title": "Asheville Holiday Parade",
-      "date": "2026-11-21T16:00:00.054000",
+      "date": "2026-11-21T11:00:00.054000",
       "location": "Asheville, NC",
       "description": "Downtown Asheville\u2019s Holiday Parade is back on Saturday, November 21 from 11 AM \u2013 2 PM.",
       "source": "Downtown Asheville",
@@ -3147,8 +3125,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-07T16:55:11.126347",
-  "total_events": 286,
+  "last_updated": "2026-04-07T18:50:39.009560",
+  "total_events": 284,
   "sources": [
     "Manual Events",
     "High Country Host",
