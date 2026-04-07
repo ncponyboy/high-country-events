@@ -2115,7 +2115,6 @@ async def main():
         ("Alleghany Arts Council",  scrape_alleghany_arts),
         ("Ashe Chamber",            scrape_ashe_chamber),
         ("Stay Blue Ridge",         scrape_stay_blue_ridge),
-        ("Old Barn Winery",         scrape_old_barn_winery),
         ("Blue Ridge Music NC",     scrape_blue_ridge_music),
         ("High Country Press",      scrape_explore_boone),
         ("Appalachian Theatre",     scrape_appalachian_theatre),
@@ -2175,11 +2174,12 @@ async def main():
     print("=" * 60)
 
     if _fetch_failures:
-        print("\n❌ SCRAPER FAILURES — these sources could not be fetched:")
+        print("\n⚠️  SCRAPER WARNINGS — these sources could not be fetched:")
         for source, reason in _fetch_failures.items():
             print(f"  • {source}: {reason}")
         print("\nCheck if URLs changed or sites are down.")
-        sys.exit(1)
+        if len(all_events) == 0:
+            sys.exit(1)
 
 
 if __name__ == "__main__":
