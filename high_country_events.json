@@ -617,17 +617,6 @@
       "longitude": -81.6752
     },
     {
-      "id": "69481093a531",
-      "title": "April 2026",
-      "date": "2026-04-20T19:00:00",
-      "location": "Sparta, NC",
-      "description": "Filters",
-      "source": "Alleghany Chamber",
-      "url": "https://www.alleghanycountychamber.com/events/communityeventscalendar",
-      "latitude": 36.4905,
-      "longitude": -81.1701
-    },
-    {
       "id": "bf7663d08bb3",
       "title": "Weekly Trivia @ South End",
       "date": "2026-04-20T19:00:00",
@@ -802,6 +791,17 @@
       "url": "https://www.ashevilledowntown.org/events/karla-bonoff",
       "latitude": 35.5943438,
       "longitude": -82.5511352
+    },
+    {
+      "id": "260c2750b071",
+      "title": "Wordkeepers",
+      "date": "2026-04-25T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/wordkeepers-2/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "f88a404cd361",
@@ -2190,6 +2190,17 @@
       "longitude": -81.5065
     },
     {
+      "id": "3f4c3e5b755e",
+      "title": "HENRY CHO: THE EMPTY NEST TOUR",
+      "date": "2026-06-27T00:00:00",
+      "location": "The Orange Peel, 101 Biltmore ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/henry-cho-the-empty-nest-tour/200029856672651",
+      "latitude": 35.591415,
+      "longitude": -82.551147
+    },
+    {
       "id": "70735cf84e88",
       "title": "2026 AVL Independence Day 5k",
       "date": "2026-07-04T00:00:00",
@@ -3136,8 +3147,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-07T11:56:45.053048",
-  "total_events": 285,
+  "last_updated": "2026-04-07T16:55:11.126347",
+  "total_events": 286,
   "sources": [
     "Manual Events",
     "High Country Host",
