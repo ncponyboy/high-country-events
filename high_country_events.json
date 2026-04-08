@@ -1,160 +1,6 @@
 {
   "events": [
     {
-      "id": "8f460e172f6a",
-      "title": "RAD Farmers Market",
-      "date": "2026-04-08T15:00:00",
-      "location": "New Belgium Brewing Co., 21 Craven St, Asheville, NC 28806, Asheville, NC",
-      "description": "&lt;p&gt;A year-round weekly market featuring local fruits vegetables, meats, bread, honey, eggs, pastries, flowers, crafts and more. SNAP, Double SNAP, &amp; Farmers Market Prescriptions accepted her",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/rad-farmers-market/2026-04-08/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "174300ccbb80",
-      "title": "Library Tour",
-      "date": "2026-04-08T15:30:00",
-      "location": "Transylvania County Library, Brevard, 212 South Gaston Street, Brevard, NC",
-      "description": "&lt;p&gt;Come check us out on a library tour! Whether you\u2019re new to our community or you\u2019re a longtime library lover, there\u2019s always plenty to discover at TCL. Join library staff ... &lt;a title=&quot",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/library-tour/2026-04-08/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "3c5437eb1e27",
-      "title": "Black Cat Tales: Story Time w/Cats",
-      "date": "2026-04-08T16:00:00",
-      "location": "House of Black Cat Magic, 841 Haywood Rd., Asheville, NC",
-      "description": "&lt;p&gt;Families with children age 7 &amp; under are invited to relax in the cat lounge and listen to a cat-centric book surrounded by our resident panthers.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/black-cat-tales-story-time-w-cats/2026-04-08/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "fbb06b80edc1",
-      "title": "Kitty-Oke",
-      "date": "2026-04-08T16:00:00",
-      "location": "Haiku, 26 Sweeten Creek Rd, Asheville",
-      "description": "&lt;p&gt;Haiku opens its indoor and outdoor garden spaces for midweek Bar Nights featuring cocktails, relaxed seating, fire tables, and rotating monthly programming designed for locals looking to unwi",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/kitty-oke/2026-04-08/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "bde86040882c",
-      "title": "Irish Session",
-      "date": "2026-04-08T17:00:00",
-      "location": "White Horse Black Mountain, 105C Montreat Road, Black Mountain, NC",
-      "description": "&lt;p&gt;In true pub fashion, White Horse Black Mountain hosts a traditional Irish-style session twice a month, on the second and fourth Wednesdays.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/irish-session/2026-04-08/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "54de8fea9793",
-      "title": "Board Game Night",
-      "date": "2026-04-08T17:00:00",
-      "location": "Hi-Wire RAD Beer Garden, 284 Lyman St, Asheville, NC",
-      "description": "&lt;p&gt;An open and casual game night featuring an assortment of board games available to play. Guests are welcome to bring their own games to share.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/board-game-night/2026-04-08/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "d88ba5ffe07d",
-      "title": "Old-time Jam",
-      "date": "2026-04-08T17:00:00",
-      "location": "Jack of the Wood Pub, 95 Patton Ave, Asheville, NC",
-      "description": "&lt;p&gt;Enjoy an evening of old-time mountain and folk music.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/old-time-jam/2026-04-08/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "341f7af3904b",
-      "title": "The Candleers",
-      "date": "2026-04-08T17:30:00",
-      "location": "Eluvium Brewing, 11 Florida Ave, Weaverville, NC",
-      "description": "&lt;p&gt;Playing John Prine and Americana tunes.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/the-candleers-2/2026-04-08/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "1a889a3a4fa7",
-      "title": "Asheville Board Game Club Meetup",
-      "date": "2026-04-08T17:30:00",
-      "location": "Well Played Board Game Caf\u00e9, 162 Coxe Ave, 101, Asheville, NC",
-      "description": "&lt;p&gt;Love tabletop games or want to learn something new? Join our weekly public meetup for a fun, casual evening of board games, card games, and great company. We play a ... &lt;a title=&quot;Ashe",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/asheville-board-game-club-meetup-2/2026-04-08/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "3ec82fe47f08",
-      "title": "Ballad Night at the Old Marshall Jail Hotel",
-      "date": "2026-04-08T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/ballad-night-at-the-old-marshall-jail-hotel/2026-04-08/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "b23c772144e3",
-      "title": "Carolina Resource Center for Eating Disorders Support Group",
-      "date": "2026-04-08T18:00:00",
-      "location": "Online, Online, NC",
-      "description": "&lt;p&gt;This support group is peer-led and facilitated by licensed therapists &amp; dietitians specializing in eating disorders. Regiser at avl.mx/es6.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/carolina-resource-center-for-eating-disorders-support-group-2/2026-04-08/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "2a7cc2786ecc",
-      "title": "WNC Parrot Head Club Meeting &#038; Phlocking",
-      "date": "2026-04-08T18:00:00",
-      "location": "Flying Squirrel Pub, 3578 Sweeten Creek Rd, Arden",
-      "description": "&lt;p&gt;The Western North Carolina Parrot Head Club are Jimmy Buffett fans that Party with a Purpose. We meet monthly to share upcoming phun events and service projects and to socialize ... &lt;a tit",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/wnc-parrot-head-club-meeting-phlocking/2026-04-08/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "f373a4947e3c",
-      "title": "Lightning Round Trivia with Marty",
-      "date": "2026-04-08T18:00:00",
-      "location": "Turgua Brewing Co., 3131 Cane Creek Rd, Fairview, Fairview, NC",
-      "description": "&lt;p&gt;Join us for an exciting evening of trivia hosted by Marty. Bring your friends and join us every Wednesday to test your knowledge of pop culture, history, geography and much ... &lt;a title=&q",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/lightning-round-trivia-with-marty/2026-04-08/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "2f602ddac100",
-      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
-      "date": "2026-04-08T18:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-04-08/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "bd0d5a6a72e9",
       "title": "Stormy Daniels, Unicorns in the Kitchen Tour",
       "date": "2026-04-09T00:00:00",
@@ -901,6 +747,17 @@
       "url": "https://allevents.in/asheville/superchunk/200029722041834",
       "latitude": 35.588348,
       "longitude": -82.553902
+    },
+    {
+      "id": "291006c770d6",
+      "title": "Chill Your Chug",
+      "date": "2026-04-22T15:30:00.462000",
+      "location": "The Hop, 56 Patton Avenue, Asheville, NC, 28801",
+      "description": "From open to close at ALL LOCATIONS bring in your favorite CLEAN and DRY tumbler and let us chill it for you!",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/chill-your-chug-1",
+      "latitude": 35.5943996,
+      "longitude": -82.5539019
     },
     {
       "id": "a5f5f9d9a765",
@@ -3444,8 +3301,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-08T16:58:54.838049",
-  "total_events": 313,
+  "last_updated": "2026-04-08T22:30:52.988502",
+  "total_events": 300,
   "sources": [
     "Manual Events",
     "High Country Host",
