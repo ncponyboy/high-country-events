@@ -1,149 +1,6 @@
 {
   "events": [
     {
-      "id": "098655c2f137",
-      "title": "Ola Belle Reed Songwriters Retreat",
-      "date": "2026-04-10T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/ola-belle-reed-songwriters-retreat-2/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "5d91da947926",
-      "title": "Ola Belle Reed Songwriters in Concert",
-      "date": "2026-04-10T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/ola-belle-reed-songwriters-in-concert/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "41cd3f113112",
-      "title": "Master of Fine Art Thesis Exhibition 2026",
-      "date": "2026-04-10T10:00:00",
-      "location": "WCU Bardo Arts Center, 199 Centennial Dr, Cullowhee",
-      "description": "&lt;p&gt;Experience the culmination of three years of intense creative study and exploration in this exhibition, highlighting artwork from graduating MFA students at the WCU Belcher College School of ",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/master-of-fine-art-thesis-exhibition-2026/2026-04-10/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "434e33566ae5",
-      "title": "Anahata Yoga",
-      "date": "2026-04-10T10:30:00",
-      "location": "Weaverville Yoga, 3-B Florida Avenue, Weaverville",
-      "description": "&lt;p&gt;A heart-centered yoga practice focusing on the Anahata chakra, led by Barbara.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/anahata-yoga/2026-04-10/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "fc95b069f14e",
-      "title": "Women of the Pacific Northwest",
-      "date": "2026-04-10T11:00:00",
-      "location": "Asheville Art Museum, 2 South Pack Square, Asheville, Asheville, NC",
-      "description": "&lt;p&gt;This exhibition celebrates the voices, visions and material mastery of female artists working today, with roots from this rich and progressive region. Gallery open Wednesday through Sunday, 1",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/women-of-the-pacific-northwest/2026-04-10/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "39132724f268",
-      "title": "Highwater: Ceramics from the Gail &#038; Brian McCarthy Collection",
-      "date": "2026-04-10T11:00:00",
-      "location": "Asheville Art Museum, 2 South Pack Square, Asheville, Asheville, NC",
-      "description": "&lt;p&gt;Highwater features ceramics from the collection of Gail &amp; Brian McCarthy, celebrating the 45-year legacy of Highwater Clays as a pillar of the ceramics community in WNC and beyond. Galler",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/highwater-ceramics-from-the-gail-brian-mccarthy-collection/2026-04-10/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "f5be5b9f9d16",
-      "title": "Dialogue: Lindenfeld &#038; Lindenfeld",
-      "date": "2026-04-10T11:00:00",
-      "location": "Black Mountain College Museum + Arts Center, 120 College St, Asheville, NC",
-      "description": "&lt;p&gt;This exhibition celebrates the works of mother-daughter artists, Lore Kadden Lindenfeld and Naomi Lindenfeld. It features clay and mixed media work of Naomi Lindenfeld as she responded to a s",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/dialogue-lindenfeld-lindenfeld/2026-04-10/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "dfe25e05df14",
-      "title": "In a New Light: American Impressionism 1870\u20131940",
-      "date": "2026-04-10T11:00:00",
-      "location": "Asheville Art Museum, 2 South Pack Square, Asheville, Asheville, NC",
-      "description": "&lt;p&gt;This exhibition explores the ways in which local artists interpreted America\u2019s rural, maritime and urban spaces and portrayed daily life using the Impressionist devices of capturing the momen",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/in-a-new-light-american-impressionism-1870-1940/2026-04-10/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "ad99fa03151b",
-      "title": "50+ Yoga",
-      "date": "2026-04-10T12:00:00",
-      "location": "Weaverville Yoga, 3-B Florida Avenue, Weaverville",
-      "description": "&lt;p&gt;A yoga class tailored for individuals aged 50 and above, focusing on gentle movements and flexibility, taught by Barbara.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/50-yoga/2026-04-10/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "0b8352409647",
-      "title": "Open Art Exhibition: Transformation",
-      "date": "2026-04-10T12:00:00",
-      "location": "Flood Gallery, 802 Fairview Rd #1200, Asheville, NC",
-      "description": "&lt;p&gt;This exhibition features 25+ local artists showing multiple perspectives &amp; styles, inspired by the title\\'s theme, &quot;Transformation&quot;. Art media for this show may include ceramic,",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/open-art-exhibition-transformation/2026-04-10/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "510feadeb634",
-      "title": "Virginia Derryberry: Private Domain",
-      "date": "2026-04-10T12:00:00",
-      "location": "Upstairs Artspace Gallery, 49 South Trade Street, Tryon",
-      "description": "&lt;p&gt;Featuring large-scale narrative figure paintings, the exhibition will explore themes of duality, transformation, and human complexity through imagery drawn from alchemy, mythology, and contem",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/virginia-derryberry-private-domain/2026-04-10/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "3e346e87b483",
-      "title": "Asheville FloDown Goose Pre-Party",
-      "date": "2026-04-10T15:00:00",
-      "location": "Asheville Music Hall, 31 Patton Ave., Asheville, NC",
-      "description": "&lt;p&gt;Goose Pre-Party Featuring Vendors.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/asheville-flodown-goose-pre-party/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "9396d7c3cd08",
-      "title": "Black Cat Tales: Story Time w/Cats",
-      "date": "2026-04-10T16:00:00",
-      "location": "House of Black Cat Magic, 841 Haywood Rd., Asheville, NC",
-      "description": "&lt;p&gt;Families with children age 7 &amp; under are invited to relax in the cat lounge and listen to a cat-centric book surrounded by our resident panthers.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/black-cat-tales-story-time-w-cats/2026-04-10/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
       "id": "ce4fa1e4921a",
       "title": "Zootopia (2016)",
       "date": "2026-04-10T17:00:00",
@@ -153,83 +10,6 @@
       "url": "https://www.apptheatre.org/events-and-tickets/zootopia",
       "latitude": 36.2157,
       "longitude": -81.6752
-    },
-    {
-      "id": "6fc769a86ead",
-      "title": "Mr Jimmy",
-      "date": "2026-04-10T17:00:00",
-      "location": "The Station Black Mountain, 100 Cherry St, Black Mountain, NC",
-      "description": "&lt;p&gt;Enjoy authentic Blues music from award winning, Chicago-bred and Asheville based guitarist, singer and songwriter Mr Jimmy.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/mr-jimmy-3/2026-04-10/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "d2e00521b5ce",
-      "title": "Patio: Sunnyside Duo",
-      "date": "2026-04-10T17:30:00",
-      "location": "The Grey Eagle, 185 Clingman Ave, Asheville, NC",
-      "description": "&lt;p&gt;Sunnyside is a musical enchantment hosted by singer-songwriter Sunnie Rae.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/patio-sunnyside-duo/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "cfedaa130db7",
-      "title": "Ashley Heath",
-      "date": "2026-04-10T18:00:00",
-      "location": "The One Stop at Asheville Music Hall, 55 College St, Asheville, NC",
-      "description": "&lt;p&gt;Ashley Heath is often described as \u201cVelvet Soul\u201d with her prolific songwriting, strong and airy vocals and bluesy guitar playing.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/ashley-heath-2/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "0ea58b0e2fce",
-      "title": "Sit a Spell: Traditional Music Sessions",
-      "date": "2026-04-10T18:00:00",
-      "location": "Ginger&#8217;s Revenge, 829 Riverside Dr #100, Asheville, NC 28801, Asheville, NC",
-      "description": "&lt;p&gt;A weekly, open jam music session series hosted by Warren Wilson College.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/sit-a-spell-traditional-music-sessions/2026-04-10/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "cf5bca02c1b9",
-      "title": "Scott Stetson",
-      "date": "2026-04-10T18:00:00",
-      "location": "Mad Co. Brew House, 45 North Main Street, Marshall, Marshall, NC",
-      "description": "&lt;p&gt;Scott\\'s music is personal and introspective, focusing on crafting honest songs about love, life, murder, and broken hearts.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/scott-stetson/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "9e36bda81fc2",
-      "title": "Honeycutt &#038; Co.",
-      "date": "2026-04-10T18:00:00",
-      "location": "One World Brewing, 10 Patton Ave, Asheville, NC, NC",
-      "description": "&lt;p&gt;Born in the hills of WNC and raised on roots rock, southern soul, and Americana, the band brings a raw, homegrown heat to One World Brewing Downtown .&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/honeycutt-co/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "393e67c72eb7",
-      "title": "The Friday Drum Circle",
-      "date": "2026-04-10T18:00:00",
-      "location": "Pritchard Park Downtown, Pritchard Park, Asheville, NC",
-      "description": "&lt;p&gt;A community drum circle held every Friday evening.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/the-friday-drum-circle/2026-04-10/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
     },
     {
       "id": "5fabd6f94f14",
@@ -243,37 +23,15 @@
       "longitude": -81.6746
     },
     {
-      "id": "c41abde5be94",
-      "title": "Pan Harmonia: Grief Leads to Gratitude",
-      "date": "2026-04-10T19:00:00",
-      "location": "Black Mountain Presbyterian, 117 Montreat Road, Black Mountain",
-      "description": "&lt;p&gt;A special, very intimate program and the world-premiere of Asheville-based composer Carolina Perez\u2019s Song Cycle: A Mother\u2019s Grief Journey After Stillbirth.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/pan-harmonia-grief-leads-to-gratitude-2/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "642342f721ef",
-      "title": "APLR Presents: Donna De Lory in Concert",
-      "date": "2026-04-10T19:00:00",
-      "location": "AyurPrana Listening Room, 312 Haywood Rd, Asheville",
-      "description": "&lt;p&gt;A performance that weaves myriad strands of world music, contemporary pop, sacred sounds and introspective song craft into a mesmerizing musical experience. Come be in celebration as we share",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/aplr-presents-donna-de-lory-in-concert/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "141b3452b2aa",
-      "title": "The Emo Night Tour",
-      "date": "2026-04-10T19:00:00",
-      "location": "The Orange Peel, 101 Biltmore Ave, Asheville, NC",
-      "description": "&lt;p&gt;The worlds best emo party.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/the-emo-night-tour/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
+      "id": "619ed345f279",
+      "title": "Ola Belle Reed Songwriters in Concert",
+      "date": "2026-04-10T19:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/ola-belle-reed-songwriters-in-concert/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "56d144c2a190",
@@ -408,17 +166,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "eb025bfce147",
-      "title": "Fresh Picks Concert at Old Orchard Creek General Store",
-      "date": "2026-04-12T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/fresh-picks-concert-at-old-orchard-creek-general-store/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "6d17ae1190b9",
       "title": "Ola Belle Reed Fresh Picks Concert",
       "date": "2026-04-12T15:30:00",
@@ -439,6 +186,17 @@
       "url": "https://www.blueridgemusicnc.com/event/old-farmers-ball-english-country-dance/2026-04-12/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "8ddb9b6ad390",
+      "title": "Exhibition on Screen: Caravaggio",
+      "date": "2026-04-12T18:00:00.167000",
+      "location": "Asheville Art Museum, 2 South Pack Square, Asheville, NC, 28801",
+      "description": "Mystery, intrigue, beauty, passion, murder\u2014shine a new light on Caravaggio in this dramatic biography.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/exhibition-on-screen-caravaggio",
+      "latitude": 35.59480500000001,
+      "longitude": -82.55128599999999
     },
     {
       "id": "0c550cf1a196",
@@ -540,17 +298,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "f7e3f0dfcfb9",
-      "title": "Grow the Arts presents Pints & Plants for Art",
-      "date": "2026-04-16T19:00:00",
-      "location": "Laconia Ale Works433 N Main St, Sparta, NC 28675",
-      "description": "Come out to Laconia Ale Works on April 16th from 4-9PM for a special community event and fundraising night for the Alleghany Arts Council. Register to paint your own terracotta pot for spring planting with all supplies provided and instructors to guide you as needed. If painting is not your thing but you want to...",
-      "source": "Alleghany Arts Council",
-      "url": "https://www.alleghanyartscouncil.org/events/pints-plants-for-art/",
-      "latitude": 36.4905,
-      "longitude": -81.1701
-    },
-    {
       "id": "a341a3b6ac0d",
       "title": "Stories of Kindness and Resilience with Musical Storyteller Jennifer Armstrong",
       "date": "2026-04-16T19:00:00",
@@ -604,6 +351,17 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-16/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "4f069e066d9e",
+      "title": "Third Thursday",
+      "date": "2026-04-16T21:00:00.340000",
+      "location": "Asheville Art Museum, 2 South Pack Square, Asheville, NC, 28801",
+      "description": "Every Third Thursday, the Museum comes alive with an evening filled with live music, art making, special cocktails in our rooftop caf\u00e9, and more!",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/third-thursday-2",
+      "latitude": 35.59480500000001,
+      "longitude": -82.55128599999999
     },
     {
       "id": "9b6e344ded86",
@@ -782,26 +540,15 @@
       "longitude": -82.55485019999999
     },
     {
-      "id": "6ce0f2a67dd8",
-      "title": "Spring Fest: Arts & Crafts for Kids of All Ages",
-      "date": "2026-04-18T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/springfest26/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "c81418fadde3",
-      "title": "580 WKSK Live Old Time and Bluegrass Show: Crooked Road Ramblers",
-      "date": "2026-04-18T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-show-the-dollar-brothers/",
-      "latitude": 36.4332,
-      "longitude": -81.499
+      "id": "19ad742c00fe",
+      "title": "The Art of Yoga",
+      "date": "2026-04-18T13:30:00.343000",
+      "location": "Asheville Art Museum, 2 South Pack Square, Asheville, NC, 28801",
+      "description": "The Art of Yoga series is taught by Luna Ray Canter a certified yoga instructor with a mindful art mediation and art appreciation led by Museum staff.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/the-art-of-yoga",
+      "latitude": 35.59480500000001,
+      "longitude": -82.55128599999999
     },
     {
       "id": "50e703d77a8a",
@@ -813,6 +560,17 @@
       "url": "https://www.ashevilledowntown.org/events/drag-brunch-fundraiser-for-youth-outright",
       "latitude": 35.589068,
       "longitude": -82.5533289
+    },
+    {
+      "id": "1975e83577ca",
+      "title": "Adult Studio with Yekaterina Benson: Plein Air Watercolor + Gouache",
+      "date": "2026-04-18T16:00:00.514000",
+      "location": "Asheville Art Museum, 2 South Pack Square, Asheville, NC, 28801",
+      "description": "Have you ever wanted to paint en plein air? Join us for a two-day workshop where we\u2019ll explore light and color on location using watercolor and gouache.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/adult-studio-with-yekaterina-benson-plein-air-watercolor-gouache",
+      "latitude": 35.59480500000001,
+      "longitude": -82.55128599999999
     },
     {
       "id": "d7f7774879b4",
@@ -846,17 +604,6 @@
       "url": "https://www.ashevilledowntown.org/events/italian-bred",
       "latitude": 35.5943438,
       "longitude": -82.5511352
-    },
-    {
-      "id": "b003f69ce053",
-      "title": "Ed Perzel Chamber Music Series: Terra String Quartet",
-      "date": "2026-04-19T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/terra/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "f025c233a9e9",
@@ -1068,17 +815,6 @@
       "longitude": -82.5511352
     },
     {
-      "id": "260c2750b071",
-      "title": "Wordkeepers",
-      "date": "2026-04-25T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/wordkeepers-2/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "f88a404cd361",
       "title": "Boone Earth Film Fest",
       "date": "2026-04-25T14:00:00",
@@ -1123,15 +859,15 @@
       "longitude": -82.566727
     },
     {
-      "id": "f25016900d56",
-      "title": "Gather at the Table for the Arts: Fundraiser at Craft Bistro",
-      "date": "2026-04-26T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/craft/",
-      "latitude": 36.4332,
-      "longitude": -81.499
+      "id": "f27832c1c47e",
+      "title": "Exhibition on Screen: Caravaggio",
+      "date": "2026-04-26T18:00:00.167000",
+      "location": "Asheville Art Museum, 2 South Pack Square, Asheville, NC, 28801",
+      "description": "Mystery, intrigue, beauty, passion, murder\u2014shine a new light on Caravaggio in this dramatic biography.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/exhibition-on-screen-caravaggio-jytnr",
+      "latitude": 35.59480500000001,
+      "longitude": -82.55128599999999
     },
     {
       "id": "4a0559e11531",
@@ -1794,17 +1530,6 @@
       "longitude": -82.56443
     },
     {
-      "id": "13f3db77c095",
-      "title": "Ashe Community Singers Concert",
-      "date": "2026-05-22T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/ashe-community-singers/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "9c0a3b2d7d6e",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-05-22T19:00:00",
@@ -2212,13 +1937,13 @@
       "longitude": -82.551483
     },
     {
-      "id": "d4a398d0521b",
-      "title": "Paul McDonald &amp; The Mourning Doves at The Grey Eagle",
+      "id": "e4800af08dcd",
+      "title": "Paul McDonald &amp; The Mourning Doves w/ Blue Roses at The Grey Eagle",
       "date": "2026-06-06T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "location": "The Grey Eagle, Grey Eagle Music Hall, 185 Clingman Ave, Asheville, NC 28801, United States, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/paul-mcdonald-and-the-mourning-doves-at-the-grey-eagle/200029772907550",
+      "url": "https://allevents.in/asheville/paul-mcdonald-and-the-mourning-doves-w-blue-roses-at-the-grey-eagle/200029772907550",
       "latitude": 35.587063,
       "longitude": -82.564362
     },
@@ -3532,8 +3257,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-10T11:53:49.388976",
-  "total_events": 321,
+  "last_updated": "2026-04-10T16:48:03.875605",
+  "total_events": 296,
   "sources": [
     "Manual Events",
     "High Country Host",
