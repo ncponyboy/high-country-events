@@ -1,50 +1,6 @@
 {
   "events": [
     {
-      "id": "ce4fa1e4921a",
-      "title": "Zootopia (2016)",
-      "date": "2026-04-10T17:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/zootopia",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "5fabd6f94f14",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-04-10T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-10/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "619ed345f279",
-      "title": "Ola Belle Reed Songwriters in Concert",
-      "date": "2026-04-10T19:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/ola-belle-reed-songwriters-in-concert/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "56d144c2a190",
-      "title": "Old Time Community Dance",
-      "date": "2026-04-10T22:00:00",
-      "location": "Todd Merchantile, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "eac094df7151",
       "title": "Between Walls and Windows",
       "date": "2026-04-10T23:00:00.985000",
@@ -67,37 +23,15 @@
       "longitude": -82.564362
     },
     {
-      "id": "83942089b105",
-      "title": "Watauga County Farmers Market",
-      "date": "2026-04-11T12:00:00",
-      "location": "Horn in the West Parking Lot, NC",
+      "id": "a20d0f3ee7eb",
+      "title": "RAD Sip and Shop",
+      "date": "2026-04-11T00:00:00",
+      "location": "River Arts District, Asheville, NC, United States, North Carolina 28801, 175 Clingman Ave, Asheville, NC 28801-3207, Uni",
       "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "f7ef528f1044",
-      "title": "Ashe County Farmers Market",
-      "date": "2026-04-11T13:00:00",
-      "location": "Backstreet Park, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "c3d7731c926d",
-      "title": "Angora Goat Shearing Day",
-      "date": "2026-04-11T14:00:00",
-      "location": "Apple Hill Farm, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/rad-sip-and-shop/200029920011504",
+      "latitude": 35.588188,
+      "longitude": -82.564651
     },
     {
       "id": "da33a0ca54a4",
@@ -120,17 +54,6 @@
       "url": "https://www.apptheatre.org/events-and-tickets/one-battle-after-another",
       "latitude": 36.2157,
       "longitude": -81.6752
-    },
-    {
-      "id": "6e13b924a70a",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-04-11T19:00:00",
-      "location": "Mysterium Escape Adventure, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "f7672d13f729",
@@ -164,6 +87,28 @@
       "url": "https://www.blueridgemusicnc.com/event/bluegrass-at-the-rock-junior-sisk/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "7adfd1d294cc",
+      "title": "WNC OUTDOOR FILM FEST at The Mule w/ FCNC's A Dream for the Future",
+      "date": "2026-04-12T00:00:00",
+      "location": "131 Sweeten Creek Rd, Asheville, NC 28803-1526, United States, 131 Sweeten Creek Rd, Asheville, NC 28803-1526, United St",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/wnc-outdoor-film-fest-at-the-mule-w-fcncs-a-dream-for-the-future/200029920145136",
+      "latitude": 35.559139,
+      "longitude": -82.52179
+    },
+    {
+      "id": "eb025bfce147",
+      "title": "Fresh Picks Concert at Old Orchard Creek General Store",
+      "date": "2026-04-12T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/fresh-picks-concert-at-old-orchard-creek-general-store/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "6d17ae1190b9",
@@ -375,15 +320,15 @@
       "longitude": -82.555382
     },
     {
-      "id": "016a99efea4b",
-      "title": "Start Making Sense - Talking Heads Tribute",
+      "id": "d3241ea76b84",
+      "title": "Ajeva",
       "date": "2026-04-17T00:00:00",
-      "location": "31 Patton Avenue Asheville, NC 28801-3314, 31 Patton Ave, Asheville, NC 28801-3314, United States, Asheville, NC",
+      "location": "55 College Street Asheville, NC 28801-2819, 55 College St, Asheville, NC 28801-2819, United States, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/start-making-sense-talking-heads-tribute/200029707660611",
-      "latitude": 35.594891,
-      "longitude": -82.553017
+      "url": "https://allevents.in/asheville/ajeva/200029920202612",
+      "latitude": 35.5952,
+      "longitude": -82.553123
     },
     {
       "id": "4cec1d31c623",
@@ -518,17 +463,6 @@
       "longitude": -82.550812
     },
     {
-      "id": "4cbfdf27697e",
-      "title": "St. Paul &amp; The Broken Bones - 18+",
-      "date": "2026-04-18T00:00:00",
-      "location": "The Orange Peel, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/st-paul-and-the-broken-bones-18/210007218722729",
-      "latitude": 35.594799,
-      "longitude": -82.557198
-    },
-    {
       "id": "2ed0c81d0fee",
       "title": "Official Downtown After 5 After Party",
       "date": "2026-04-18T01:00:00.733000",
@@ -538,6 +472,28 @@
       "url": "https://www.ashevilledowntown.org/events/official-downtown-after-5-after-party",
       "latitude": 35.5954515,
       "longitude": -82.55485019999999
+    },
+    {
+      "id": "6ce0f2a67dd8",
+      "title": "Spring Fest: Arts & Crafts for Kids of All Ages",
+      "date": "2026-04-18T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/springfest26/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
+      "id": "c81418fadde3",
+      "title": "580 WKSK Live Old Time and Bluegrass Show: Crooked Road Ramblers",
+      "date": "2026-04-18T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-show-the-dollar-brothers/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "19ad742c00fe",
@@ -606,6 +562,17 @@
       "longitude": -82.5511352
     },
     {
+      "id": "b003f69ce053",
+      "title": "Ed Perzel Chamber Music Series: Terra String Quartet",
+      "date": "2026-04-19T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/terra/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "f025c233a9e9",
       "title": "The Amazing Adventures of Kavalier & Clay",
       "date": "2026-04-19T13:00:00",
@@ -659,17 +626,6 @@
       "url": "https://www.apptheatre.org/events-and-tickets/colossus-forbin-project",
       "latitude": 36.2157,
       "longitude": -81.6752
-    },
-    {
-      "id": "a0a4ca2d427c",
-      "title": "Superchunk",
-      "date": "2026-04-22T00:00:00",
-      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/superchunk/200029722041834",
-      "latitude": 35.588348,
-      "longitude": -82.553902
     },
     {
       "id": "291006c770d6",
@@ -804,6 +760,28 @@
       "longitude": -82.557198
     },
     {
+      "id": "a5d4750cfd18",
+      "title": "Annual Spring Fling at Peace Gardens",
+      "date": "2026-04-25T00:00:00",
+      "location": "47 Bryant St, Asheville, NC, United States, North Carolina 28806, Peace Gardens &amp; Market, 47 Bryant St, Asheville, N",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/annual-spring-fling-at-peace-gardens/200029920162723",
+      "latitude": 35.58247,
+      "longitude": -82.585037
+    },
+    {
+      "id": "0e9d3400d0a9",
+      "title": "Jazz Appreciation Month: Queen Bee and the Honeylovers | in the Palm Room at Fitz and the Wolfe",
+      "date": "2026-04-25T00:00:00",
+      "location": "1 Battery Park Ave, Asheville, NC, United States, North Carolina 28801, 1 Battery Park Ave, Asheville, NC 28801-2717, Un",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/jazz-appreciation-month-queen-bee-and-the-honeylovers-|-in-the-palm-room-at-fitz-and-the-wolfe/200029856663202",
+      "latitude": 35.59539,
+      "longitude": -82.554749
+    },
+    {
       "id": "da620f5f3ff4",
       "title": "Karla Bonoff",
       "date": "2026-04-25T00:00:00.361000",
@@ -813,6 +791,17 @@
       "url": "https://www.ashevilledowntown.org/events/karla-bonoff",
       "latitude": 35.5943438,
       "longitude": -82.5511352
+    },
+    {
+      "id": "260c2750b071",
+      "title": "Wordkeepers",
+      "date": "2026-04-25T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/wordkeepers-2/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "f88a404cd361",
@@ -859,6 +848,17 @@
       "longitude": -82.566727
     },
     {
+      "id": "f25016900d56",
+      "title": "Gather at the Table for the Arts: Fundraiser at Craft Bistro",
+      "date": "2026-04-26T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/craft/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "f27832c1c47e",
       "title": "Exhibition on Screen: Caravaggio",
       "date": "2026-04-26T18:00:00.167000",
@@ -868,17 +868,6 @@
       "url": "https://www.ashevilledowntown.org/events/exhibition-on-screen-caravaggio-jytnr",
       "latitude": 35.59480500000001,
       "longitude": -82.55128599999999
-    },
-    {
-      "id": "4a0559e11531",
-      "title": "Suffocation",
-      "date": "2026-04-27T00:00:00",
-      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/suffocation/200029888970113",
-      "latitude": 35.588348,
-      "longitude": -82.553902
     },
     {
       "id": "f31cd762330d",
@@ -903,6 +892,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "a1502d4166f3",
+      "title": "Authentic Relating Date Night For Singles: Ditch The Small Talk",
+      "date": "2026-04-30T00:00:00",
+      "location": "The Well: A Gathering Place (3 Louisiana Avenue, Asheville, NC), 3 Louisiana Ave, Asheville, NC 28806-3419, United State",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/authentic-relating-date-night-for-singles-ditch-the-small-talk/200029920176542",
+      "latitude": 35.578579,
+      "longitude": -82.590187
+    },
+    {
       "id": "ab9e4cef661a",
       "title": "Song Sung Blue (2025)",
       "date": "2026-04-30T18:00:00",
@@ -923,6 +923,17 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-30/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "b2a5903a92f5",
+      "title": "Travis(SCI), Magner(tDB) &amp; Lane(Dead &amp; Co.) @ Third Room",
+      "date": "2026-05-01T00:00:00",
+      "location": "46 Wall Street, Asheville, NC, United States, North Carolina 28801, 46 Wall St, Asheville, NC 28801-2710, United States,",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/travissci-magnertdb-and-lanedead-and-co-third-room/200029920143723",
+      "latitude": 35.59449,
+      "longitude": -82.555992
     },
     {
       "id": "76fa36e80a65",
@@ -1189,28 +1200,6 @@
       "longitude": -82.55597519999999
     },
     {
-      "id": "9b2be90c6dfe",
-      "title": "Asheville Cinco De Mayo Bar Crawl",
-      "date": "2026-05-05T00:00:00",
-      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-cinco-de-mayo-bar-crawl/100001356216322529",
-      "latitude": 35.588284,
-      "longitude": -82.553627
-    },
-    {
-      "id": "0e12ba7bc0ae",
-      "title": "Ryan Montbleau (solo) at The Grey Eagle",
-      "date": "2026-05-07T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/ryan-montbleau-solo-at-the-grey-eagle/200029785081702",
-      "latitude": 35.587063,
-      "longitude": -82.564362
-    },
-    {
       "id": "f342d87d7059",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-05-07T19:00:00",
@@ -1233,6 +1222,17 @@
       "longitude": -82.5515
     },
     {
+      "id": "c7d7574b7ede",
+      "title": "Asheville Movies in the Park 2026",
+      "date": "2026-05-08T00:00:00",
+      "location": "Pack Square Park, 121 College St,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/asheville-movies-in-the-park-2026/200029920144732",
+      "latitude": 35.595428,
+      "longitude": -82.550293
+    },
+    {
       "id": "6715b8c59daa",
       "title": "Live Dead &amp; Brothers: An All-Star Celebration of Grateful Dead &amp; Allman Brothers at The Grey Eagle",
       "date": "2026-05-08T00:00:00",
@@ -1253,6 +1253,17 @@
       "url": "https://allevents.in/asheville/laura-jane-grace-and-band-with-special-guest-lung-and-black-guy-fawkes/200029750455825",
       "latitude": 35.594891,
       "longitude": -82.553017
+    },
+    {
+      "id": "4e55717b4502",
+      "title": "Kyle Petty Charity Ride Visits Asheville, NC!",
+      "date": "2026-05-08T00:00:00",
+      "location": "Renaissance Asheville Downtown Hotel, 31 Woodfin Street,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/kyle-petty-charity-ride-visits-asheville-nc/200029920144330",
+      "latitude": 35.597599,
+      "longitude": -82.550095
     },
     {
       "id": "f7ef1be324f5",
@@ -1308,17 +1319,6 @@
       "url": "https://www.apptheatre.org/events-and-tickets/bdt-spring-recital",
       "latitude": 36.2157,
       "longitude": -81.6752
-    },
-    {
-      "id": "67410387398e",
-      "title": "Artifact Handmade Mother\u2019s Day Market",
-      "date": "2026-05-10T00:00:00",
-      "location": "Wedge at Foundation, 5 Foundy Street,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/artifact-handmade-mother\u2019s-day-market/200029856678414",
-      "latitude": 35.577492,
-      "longitude": -82.566277
     },
     {
       "id": "de7193aa277d",
@@ -1407,6 +1407,17 @@
       "url": "https://allevents.in/asheville/dark-star-orchestra/200029785211602",
       "latitude": 35.592072,
       "longitude": -82.555382
+    },
+    {
+      "id": "323026acd6b1",
+      "title": "Manic Focus + Russ Liquid at Sly Grog Lounge",
+      "date": "2026-05-15T00:00:00",
+      "location": "Sly Grog Lounge, 271 Haywood St, Asheville, NC 28801-2618, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/manic-focus-russ-liquid-at-sly-grog-lounge/200029920176240",
+      "latitude": 35.594238,
+      "longitude": -82.562767
     },
     {
       "id": "6d24052fb3c5",
@@ -1508,6 +1519,17 @@
       "longitude": -82.551483
     },
     {
+      "id": "a5a41301955a",
+      "title": "Dan Tyminski Band at Asheville Masonic Temple",
+      "date": "2026-05-21T00:00:00",
+      "location": "The Asheville Masonic Temple, 80 Broadway St, Asheville, NC 28801-2916, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/dan-tyminski-band-at-asheville-masonic-temple/200029920200902",
+      "latitude": 35.598145,
+      "longitude": -82.552414
+    },
+    {
       "id": "241f81738d8f",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-05-21T19:00:00",
@@ -1528,6 +1550,17 @@
       "url": "https://allevents.in/asheville/michael-gungor-acoustic-evening/200029856666721",
       "latitude": 35.587059,
       "longitude": -82.56443
+    },
+    {
+      "id": "13f3db77c095",
+      "title": "Ashe Community Singers Concert",
+      "date": "2026-05-22T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/ashe-community-singers/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "9c0a3b2d7d6e",
@@ -1937,13 +1970,13 @@
       "longitude": -82.551483
     },
     {
-      "id": "e4800af08dcd",
-      "title": "Paul McDonald &amp; The Mourning Doves w/ Blue Roses at The Grey Eagle",
+      "id": "d4a398d0521b",
+      "title": "Paul McDonald &amp; The Mourning Doves at The Grey Eagle",
       "date": "2026-06-06T00:00:00",
-      "location": "The Grey Eagle, Grey Eagle Music Hall, 185 Clingman Ave, Asheville, NC 28801, United States, Asheville, NC",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/paul-mcdonald-and-the-mourning-doves-w-blue-roses-at-the-grey-eagle/200029772907550",
+      "url": "https://allevents.in/asheville/paul-mcdonald-and-the-mourning-doves-at-the-grey-eagle/200029772907550",
       "latitude": 35.587063,
       "longitude": -82.564362
     },
@@ -2036,6 +2069,17 @@
       "longitude": -82.564362
     },
     {
+      "id": "4b4bcd740575",
+      "title": "The Amazing Acro-Cats' \u201cMeowloween in June\u201d Asheville Special!",
+      "date": "2026-06-12T00:00:00",
+      "location": "Wortham Center for the Performing Arts, 18 Biltmore Ave, Asheville, NC 28801, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/the-amazing-acro-cats-meowloween-in-june-asheville-special/200029920144933",
+      "latitude": 35.594505,
+      "longitude": -82.551003
+    },
+    {
       "id": "600b39ab9bad",
       "title": "Educator Workshop: Methods of Teaching Environmental Education",
       "date": "2026-06-12T10:00:00",
@@ -2045,6 +2089,17 @@
       "url": "https://grandfather.com/event/educator-workshop-methods/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "f48b2dd5ca5a",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-06-12T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-06-12/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "d1ba3c93c766",
@@ -2179,17 +2234,6 @@
       "longitude": -81.6752
     },
     {
-      "id": "254d021126ec",
-      "title": "Squirrel Nut Zippers: Celebrating 30 Years of &quot;Hot&quot; at The Grey Eagle",
-      "date": "2026-06-19T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/squirrel-nut-zippers-celebrating-30-years-of-hot-at-the-grey-eagle/200029880368432",
-      "latitude": 35.587063,
-      "longitude": -82.564362
-    },
-    {
       "id": "1b2b179ec225",
       "title": "Boonerang Music & Arts Festival \u2014 Free Shows & Silent Disco",
       "date": "2026-06-19T18:00:00",
@@ -2276,6 +2320,17 @@
       "url": "https://www.boonerangfest.com",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "c0f6d4066c94",
+      "title": "HENRY CHO: THE EMPTY NEST TOUR - SECOND NIGHT ADDED!",
+      "date": "2026-06-26T00:00:00",
+      "location": "The Orange Peel, 101 Biltmore ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/henry-cho-the-empty-nest-tour-second-night-added/200029920812612",
+      "latitude": 35.591415,
+      "longitude": -82.551147
     },
     {
       "id": "4",
@@ -2828,6 +2883,17 @@
       "longitude": -82.603386
     },
     {
+      "id": "4876cfb5731c",
+      "title": "FOODEES FEST IS COMING TO ASHEVILLE NORTH CAROLINA",
+      "date": "2026-09-25T00:00:00",
+      "location": "Asheville Outlets, 800 Brevard Rd,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/foodees-fest-is-coming-to-asheville-north-carolina/200029919769919",
+      "latitude": 35.529156,
+      "longitude": -82.603394
+    },
+    {
       "id": "2af370aa64af",
       "title": "VCF 2025 \u2013 \u201cNeighbors Helping Neighbors\u201d Release",
       "date": "2026-09-25T10:00:00",
@@ -3026,6 +3092,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "913933b0c879",
+      "title": "Wednesday - Halloween Show",
+      "date": "2026-10-31T00:00:00",
+      "location": "The Orange Peel, 101 Biltmore ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/wednesday-halloween-show/200029921975613",
+      "latitude": 35.591415,
+      "longitude": -82.551147
+    },
+    {
       "id": "cfaa6bd0c8d2",
       "title": "The Official Halloween Bar Crawl - Asheville",
       "date": "2026-10-31T00:00:00",
@@ -3048,17 +3125,6 @@
       "longitude": -82.553627
     },
     {
-      "id": "6e6680601925",
-      "title": "Wicked Spooky 5k &amp; Creepy Crawly Climb",
-      "date": "2026-10-31T00:00:00",
-      "location": "Wicked Weed Funkatorium, 147 Coxe Ave, Asheville, NC 28801-4025, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/wicked-spooky-5k-and-creepy-crawly-climb/200029118684027",
-      "latitude": 35.589199,
-      "longitude": -82.555222
-    },
-    {
       "id": "ed8444ffe464",
       "title": "Member Mixer - Reflecting & Looking Ahead",
       "date": "2026-11-02T21:00:00.295000",
@@ -3068,17 +3134,6 @@
       "url": "https://www.ashevilledowntown.org/events/member-mixer-reflecting-looking-ahead",
       "latitude": 35.5951,
       "longitude": -82.5515
-    },
-    {
-      "id": "15948b412ff3",
-      "title": "Hiss Golden Messenger in Asheville",
-      "date": "2026-11-19T00:00:00",
-      "location": "The Orange Peel, The Orange Peel, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/hiss-golden-messenger-in-asheville/3300029660357628",
-      "latitude": 35.595058,
-      "longitude": -82.551483
     },
     {
       "id": "ea74449b5b16",
@@ -3257,8 +3312,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-10T16:48:03.875605",
-  "total_events": 296,
+  "last_updated": "2026-04-10T22:27:21.526312",
+  "total_events": 301,
   "sources": [
     "Manual Events",
     "High Country Host",
