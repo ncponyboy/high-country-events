@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "id": "eac094df7151",
-      "title": "Between Walls and Windows",
-      "date": "2026-04-10T23:00:00.985000",
-      "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
-      "description": "This immersive performance moves through vignettes of intimacy, distance, and unease, evoking the sensations of being young, observed, and on the verge of something unnamed.",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/between-walls-and-windows",
-      "latitude": 35.5943438,
-      "longitude": -82.5511352
-    },
-    {
-      "id": "cccb06649aea",
-      "title": "Randall Bramblett Band at The Grey Eagle",
-      "date": "2026-04-11T00:00:00",
-      "location": "The Grey Eagle, Grey Eagle Music Hall, 185 Clingman Ave, Asheville, NC 28801, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/randall-bramblett-band-at-the-grey-eagle/200029794911934",
-      "latitude": 35.587063,
-      "longitude": -82.564362
-    },
-    {
-      "id": "a20d0f3ee7eb",
-      "title": "RAD Sip and Shop",
-      "date": "2026-04-11T00:00:00",
-      "location": "River Arts District, Asheville, NC, United States, North Carolina 28801, 175 Clingman Ave, Asheville, NC 28801-3207, Uni",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/rad-sip-and-shop/200029920011504",
-      "latitude": 35.588188,
-      "longitude": -82.564651
-    },
-    {
       "id": "da33a0ca54a4",
       "title": "National Pet Day at The Hop Ice Cream",
       "date": "2026-04-11T15:30:00.884000",
@@ -331,6 +298,17 @@
       "longitude": -82.553123
     },
     {
+      "id": "016a99efea4b",
+      "title": "Start Making Sense - Talking Heads Tribute",
+      "date": "2026-04-17T00:00:00",
+      "location": "31 Patton Avenue Asheville, NC 28801-3314, 31 Patton Ave, Asheville, NC 28801-3314, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/start-making-sense-talking-heads-tribute/200029707660611",
+      "latitude": 35.594891,
+      "longitude": -82.553017
+    },
+    {
       "id": "4cec1d31c623",
       "title": "A.G. Hammond &amp; Ovadya",
       "date": "2026-04-17T00:00:00",
@@ -351,6 +329,17 @@
       "url": "https://allevents.in/asheville/random-rab-cofresi-dobarae-and-bunsen-burner-at-sly-grog-lounge/100001470058918799",
       "latitude": 35.594261,
       "longitude": -82.562828
+    },
+    {
+      "id": "70b5423f55a1",
+      "title": "Concerts at Union Mills Learning Center",
+      "date": "2026-04-17T06:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/concerts-at-union-mills/2026-04-17/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "4ab3a5b6781b",
@@ -461,6 +450,17 @@
       "url": "https://allevents.in/asheville/5th-annual-ayurvedic-institute-open-house/200029856655427",
       "latitude": 35.601871,
       "longitude": -82.550812
+    },
+    {
+      "id": "4cbfdf27697e",
+      "title": "St. Paul &amp; The Broken Bones - 18+",
+      "date": "2026-04-18T00:00:00",
+      "location": "The Orange Peel, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/st-paul-and-the-broken-bones-18/210007218722729",
+      "latitude": 35.594799,
+      "longitude": -82.557198
     },
     {
       "id": "2ed0c81d0fee",
@@ -628,6 +628,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "a0a4ca2d427c",
+      "title": "Superchunk",
+      "date": "2026-04-22T00:00:00",
+      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/superchunk/200029722041834",
+      "latitude": 35.588348,
+      "longitude": -82.553902
+    },
+    {
       "id": "291006c770d6",
       "title": "Chill Your Chug",
       "date": "2026-04-22T15:30:00.462000",
@@ -692,17 +703,6 @@
       "url": "https://allevents.in/asheville/hip-hop-weekend-2-night-pass/200029526101751",
       "latitude": 35.588348,
       "longitude": -82.553902
-    },
-    {
-      "id": "a4ff5fd16a3b",
-      "title": "Polyrhythmics w/ Cris Jacobs",
-      "date": "2026-04-24T00:00:00",
-      "location": "31 Patton Avenue Asheville, NC 28801-3314, 31 Patton Ave, Asheville, NC 28801-3314, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/polyrhythmics-w-cris-jacobs/200029500557750",
-      "latitude": 35.594891,
-      "longitude": -82.553017
     },
     {
       "id": "2e5da5ad7065",
@@ -771,15 +771,15 @@
       "longitude": -82.585037
     },
     {
-      "id": "0e9d3400d0a9",
-      "title": "Jazz Appreciation Month: Queen Bee and the Honeylovers | in the Palm Room at Fitz and the Wolfe",
+      "id": "d64062805ad7",
+      "title": "Game Day: April 25",
       "date": "2026-04-25T00:00:00",
-      "location": "1 Battery Park Ave, Asheville, NC, United States, North Carolina 28801, 1 Battery Park Ave, Asheville, NC 28801-2717, Un",
+      "location": "30 Buchanan Pl, Asheville, NC, United States, North Carolina 28801, 30 Buchanan Pl, Asheville, NC 28801-4243, United Sta",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/jazz-appreciation-month-queen-bee-and-the-honeylovers-|-in-the-palm-room-at-fitz-and-the-wolfe/200029856663202",
-      "latitude": 35.59539,
-      "longitude": -82.554749
+      "url": "https://allevents.in/asheville/game-day-april-25/200029920184229",
+      "latitude": 35.586681,
+      "longitude": -82.550102
     },
     {
       "id": "da620f5f3ff4",
@@ -868,6 +868,17 @@
       "url": "https://www.ashevilledowntown.org/events/exhibition-on-screen-caravaggio-jytnr",
       "latitude": 35.59480500000001,
       "longitude": -82.55128599999999
+    },
+    {
+      "id": "4a0559e11531",
+      "title": "Suffocation",
+      "date": "2026-04-27T00:00:00",
+      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/suffocation/200029888970113",
+      "latitude": 35.588348,
+      "longitude": -82.553902
     },
     {
       "id": "f31cd762330d",
@@ -1200,6 +1211,28 @@
       "longitude": -82.55597519999999
     },
     {
+      "id": "9b2be90c6dfe",
+      "title": "Asheville Cinco De Mayo Bar Crawl",
+      "date": "2026-05-05T00:00:00",
+      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/asheville-cinco-de-mayo-bar-crawl/100001356216322529",
+      "latitude": 35.588284,
+      "longitude": -82.553627
+    },
+    {
+      "id": "0e12ba7bc0ae",
+      "title": "Ryan Montbleau (solo) at The Grey Eagle",
+      "date": "2026-05-07T00:00:00",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/ryan-montbleau-solo-at-the-grey-eagle/200029785081702",
+      "latitude": 35.587063,
+      "longitude": -82.564362
+    },
+    {
       "id": "f342d87d7059",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-05-07T19:00:00",
@@ -1321,6 +1354,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "67410387398e",
+      "title": "Artifact Handmade Mother\u2019s Day Market",
+      "date": "2026-05-10T00:00:00",
+      "location": "Wedge at Foundation, 5 Foundy Street,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/artifact-handmade-mother\u2019s-day-market/200029856678414",
+      "latitude": 35.577492,
+      "longitude": -82.566277
+    },
+    {
       "id": "de7193aa277d",
       "title": "Weekly Trivia @ South End",
       "date": "2026-05-11T19:00:00",
@@ -1363,17 +1407,6 @@
       "url": "https://allevents.in/asheville/sold-out-an-evening-with-sun-kil-moon-at-the-grey-eagle/200029446318934",
       "latitude": 35.587063,
       "longitude": -82.564362
-    },
-    {
-      "id": "05d3d4352236",
-      "title": "AEW Presents Dynamite",
-      "date": "2026-05-13T00:00:00",
-      "location": "Harrah's Cherokee Center - Asheville, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/aew-presents-dynamite/210001249608648",
-      "latitude": 35.597469,
-      "longitude": -82.55529
     },
     {
       "id": "1d9b0b429fe0",
@@ -1970,13 +2003,13 @@
       "longitude": -82.551483
     },
     {
-      "id": "d4a398d0521b",
-      "title": "Paul McDonald &amp; The Mourning Doves at The Grey Eagle",
+      "id": "e4800af08dcd",
+      "title": "Paul McDonald &amp; The Mourning Doves w/ Blue Roses at The Grey Eagle",
       "date": "2026-06-06T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "location": "The Grey Eagle, Grey Eagle Music Hall, 185 Clingman Ave, Asheville, NC 28801, United States, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/paul-mcdonald-and-the-mourning-doves-at-the-grey-eagle/200029772907550",
+      "url": "https://allevents.in/asheville/paul-mcdonald-and-the-mourning-doves-w-blue-roses-at-the-grey-eagle/200029772907550",
       "latitude": 35.587063,
       "longitude": -82.564362
     },
@@ -2234,6 +2267,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "254d021126ec",
+      "title": "Squirrel Nut Zippers: Celebrating 30 Years of &quot;Hot&quot; at The Grey Eagle",
+      "date": "2026-06-19T00:00:00",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/squirrel-nut-zippers-celebrating-30-years-of-hot-at-the-grey-eagle/200029880368432",
+      "latitude": 35.587063,
+      "longitude": -82.564362
+    },
+    {
       "id": "1b2b179ec225",
       "title": "Boonerang Music & Arts Festival \u2014 Free Shows & Silent Disco",
       "date": "2026-06-19T18:00:00",
@@ -2399,17 +2443,6 @@
       "longitude": -82.55558
     },
     {
-      "id": "13dcc5508ee6",
-      "title": "Eggy at Asheville Music Hall",
-      "date": "2026-07-17T00:00:00",
-      "location": "55 College Street, Asheville, NC, United States, North Carolina 28801, 55 College St, Asheville, NC 28801-2819, United S",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/eggy-at-asheville-music-hall/200029733212241",
-      "latitude": 35.5952,
-      "longitude": -82.553123
-    },
-    {
       "id": "b274dc2ad602",
       "title": "Doc & Rosa Lee Watson MusicFest",
       "date": "2026-07-17T19:00:00",
@@ -2419,6 +2452,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/doc-rosalee-watson-musicfest2026",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "7a5567abc1a2",
+      "title": "Watchhouse with special guests Fruit Bats",
+      "date": "2026-07-18T00:00:00",
+      "location": "151 Thompson St, Asheville, NC, United States, North Carolina 28803, 151 Thompson St, Asheville, NC 28803-1443, United S",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/watchhouse-with-special-guests-fruit-bats/200029923607938",
+      "latitude": 35.575272,
+      "longitude": -82.52536
     },
     {
       "id": "a8e83768547b",
@@ -3015,17 +3059,6 @@
       "longitude": -82.553307
     },
     {
-      "id": "f29be0d2d466",
-      "title": "Joshua Ray Walker at The Grey Eagle",
-      "date": "2026-10-16T00:00:00",
-      "location": "The Grey Eagle, Grey Eagle Music Hall, 185 Clingman Ave, Asheville, NC 28801, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/joshua-ray-walker-at-the-grey-eagle/200029887763225",
-      "latitude": 35.587063,
-      "longitude": -82.564362
-    },
-    {
       "id": "f146175e9276",
       "title": "Carsie Blanton at The Grey Eagle",
       "date": "2026-10-17T00:00:00",
@@ -3114,17 +3147,6 @@
       "longitude": -82.555962
     },
     {
-      "id": "66de1c1f5823",
-      "title": "Asheville Halloween Bar Crawl 2026",
-      "date": "2026-10-31T00:00:00",
-      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-halloween-bar-crawl-2026/100001985836268737",
-      "latitude": 35.588284,
-      "longitude": -82.553627
-    },
-    {
       "id": "ed8444ffe464",
       "title": "Member Mixer - Reflecting & Looking Ahead",
       "date": "2026-11-02T21:00:00.295000",
@@ -3134,6 +3156,17 @@
       "url": "https://www.ashevilledowntown.org/events/member-mixer-reflecting-looking-ahead",
       "latitude": 35.5951,
       "longitude": -82.5515
+    },
+    {
+      "id": "15948b412ff3",
+      "title": "Hiss Golden Messenger in Asheville",
+      "date": "2026-11-19T00:00:00",
+      "location": "The Orange Peel, The Orange Peel, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/hiss-golden-messenger-in-asheville/3300029660357628",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "ea74449b5b16",
@@ -3310,10 +3343,21 @@
       "url": "https://www.apptheatre.org/events-and-tickets/thegrascals",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "6f916ec596b4",
+      "title": "\u201cSouthern Hospitality\u201d",
+      "date": "2027-03-12T19:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/beanstalk-southern-hospitality",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-10T22:27:21.526312",
-  "total_events": 301,
+  "last_updated": "2026-04-11T11:37:09.879936",
+  "total_events": 305,
   "sources": [
     "Manual Events",
     "High Country Host",
