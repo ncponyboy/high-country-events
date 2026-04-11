@@ -1,61 +1,6 @@
 {
   "events": [
     {
-      "id": "da33a0ca54a4",
-      "title": "National Pet Day at The Hop Ice Cream",
-      "date": "2026-04-11T15:30:00.884000",
-      "location": "The Hop, 56 Patton Avenue, Asheville, NC, 28801",
-      "description": "We are celebrating National Pet Day by offering FREE Happy Tails Doggie Ice Cream when you make a purchase of $10 or more \ud83d\udc3e",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/national-pet-day-at-the-hop-ice-cream",
-      "latitude": 35.5943974,
-      "longitude": -82.55390249999999
-    },
-    {
-      "id": "a1ceb2fc5a65",
-      "title": "One Battle After Another (2025)",
-      "date": "2026-04-11T17:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/one-battle-after-another",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "f7672d13f729",
-      "title": "Raise the Roof: CCCRA Benefit featuring Unspoken Tradition",
-      "date": "2026-04-11T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/raise-the-roof-ccra-benefit-featuring-unspoken-tradition/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "685d85d4ada9",
-      "title": "Alleghany Jubilee",
-      "date": "2026-04-11T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-04-11/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "1fb411ce4584",
-      "title": "Bluegrass at the Rock: Junior Sisk",
-      "date": "2026-04-11T19:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/bluegrass-at-the-rock-junior-sisk/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "7adfd1d294cc",
       "title": "WNC OUTDOOR FILM FEST at The Mule w/ FCNC's A Dream for the Future",
       "date": "2026-04-12T00:00:00",
@@ -175,6 +120,17 @@
       "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-04-15/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "e859cb29474d",
+      "title": "Allie X in Asheville",
+      "date": "2026-04-16T00:00:00",
+      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "8905976a2469",
@@ -727,17 +683,6 @@
       "longitude": -82.553902
     },
     {
-      "id": "b0f019e07db0",
-      "title": "Grove Arcade in Bloom",
-      "date": "2026-04-25T00:00:00",
-      "location": "1 Page Ave, Asheville, NC 28801, United States, 1 Page Ave, Asheville, NC 28801, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/grove-arcade-in-bloom/200029820321734",
-      "latitude": 35.595219,
-      "longitude": -82.556297
-    },
-    {
       "id": "6a98acea381a",
       "title": "Live Nation Presents: Willie Nelson &amp; Family",
       "date": "2026-04-25T00:00:00",
@@ -747,6 +692,17 @@
       "url": "https://allevents.in/asheville/live-nation-presents-willie-nelson-and-family/210009137451667",
       "latitude": 35.594799,
       "longitude": -82.557198
+    },
+    {
+      "id": "b0f019e07db0",
+      "title": "Grove Arcade in Bloom",
+      "date": "2026-04-25T00:00:00",
+      "location": "1 Page Ave, Asheville, NC 28801, United States, 1 Page Ave, Asheville, NC 28801, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/grove-arcade-in-bloom/200029820321734",
+      "latitude": 35.595219,
+      "longitude": -82.556297
     },
     {
       "id": "a5d4750cfd18",
@@ -3048,17 +3004,6 @@
       "longitude": -82.553307
     },
     {
-      "id": "f29be0d2d466",
-      "title": "Joshua Ray Walker at The Grey Eagle",
-      "date": "2026-10-16T00:00:00",
-      "location": "The Grey Eagle, Grey Eagle Music Hall, 185 Clingman Ave, Asheville, NC 28801, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/joshua-ray-walker-at-the-grey-eagle/200029887763225",
-      "latitude": 35.587063,
-      "longitude": -82.564362
-    },
-    {
       "id": "f146175e9276",
       "title": "Carsie Blanton at The Grey Eagle",
       "date": "2026-10-17T00:00:00",
@@ -3356,8 +3301,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-11T16:33:26.498998",
-  "total_events": 305,
+  "last_updated": "2026-04-11T22:22:00.588864",
+  "total_events": 300,
   "sources": [
     "Manual Events",
     "High Country Host",
