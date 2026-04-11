@@ -177,17 +177,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "e859cb29474d",
-      "title": "Allie X in Asheville",
-      "date": "2026-04-16T00:00:00",
-      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "8905976a2469",
       "title": "THE MOTH Presents: Asheville StorySLAM - &quot;SUS&quot; at The Grey Eagle",
       "date": "2026-04-16T00:00:00",
@@ -3059,6 +3048,17 @@
       "longitude": -82.553307
     },
     {
+      "id": "f29be0d2d466",
+      "title": "Joshua Ray Walker at The Grey Eagle",
+      "date": "2026-10-16T00:00:00",
+      "location": "The Grey Eagle, Grey Eagle Music Hall, 185 Clingman Ave, Asheville, NC 28801, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/joshua-ray-walker-at-the-grey-eagle/200029887763225",
+      "latitude": 35.587063,
+      "longitude": -82.564362
+    },
+    {
       "id": "f146175e9276",
       "title": "Carsie Blanton at The Grey Eagle",
       "date": "2026-10-17T00:00:00",
@@ -3356,7 +3356,7 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-11T11:37:09.879936",
+  "last_updated": "2026-04-11T16:33:26.498998",
   "total_events": 305,
   "sources": [
     "Manual Events",
