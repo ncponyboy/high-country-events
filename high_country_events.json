@@ -1,50 +1,6 @@
 {
   "events": [
     {
-      "id": "6d17ae1190b9",
-      "title": "Ola Belle Reed Fresh Picks Concert",
-      "date": "2026-04-12T15:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/ola-belle-reed-fresh-picks-concert/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "df3d457c2c91",
-      "title": "Fresh Picks Concert at Old Orchard Creek General Store",
-      "date": "2026-04-12T15:30:00",
-      "location": "Old Orchard Creek General Store, 9350 NC-194, Lansing, NC, 28643, United States",
-      "description": "Old Orchard Creek General Store 3:30 pm \u2013 5:00 pm Free & Open to the public; walk-ins welcome Enjoy an afternoon of sharing as participants in the Ola Belle Reed Songwriters Retreat play original song",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/fresh-picks-concert-at-old-orchard-creek-general-store/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
-      "id": "ccbc55fc35d8",
-      "title": "Old Farmer\u2019s Ball English Country Dance",
-      "date": "2026-04-12T16:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/old-farmers-ball-english-country-dance/2026-04-12/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "8ddb9b6ad390",
-      "title": "Exhibition on Screen: Caravaggio",
-      "date": "2026-04-12T18:00:00.167000",
-      "location": "Asheville Art Museum, 2 South Pack Square, Asheville, NC, 28801",
-      "description": "Mystery, intrigue, beauty, passion, murder\u2014shine a new light on Caravaggio in this dramatic biography.",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/exhibition-on-screen-caravaggio",
-      "latitude": 35.59480500000001,
-      "longitude": -82.55128599999999
-    },
-    {
       "id": "0c550cf1a196",
       "title": "Crowbar &amp; Eyehategod",
       "date": "2026-04-13T00:00:00",
@@ -109,17 +65,6 @@
       "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-04-15/",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "e859cb29474d",
-      "title": "Allie X in Asheville",
-      "date": "2026-04-16T00:00:00",
-      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
-      "latitude": 35.595058,
-      "longitude": -82.551483
     },
     {
       "id": "8905976a2469",
@@ -738,6 +683,17 @@
       "longitude": -82.585037
     },
     {
+      "id": "81efee61b224",
+      "title": "Kids Fest",
+      "date": "2026-04-25T00:00:00",
+      "location": "Wesley Grant, Sr. Community Center, 285 Livingston St, Asheville, NC 28801-4356, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/kids-fest/200029847501811",
+      "latitude": 35.577866,
+      "longitude": -82.562111
+    },
+    {
       "id": "d64062805ad7",
       "title": "Game Day: April 25",
       "date": "2026-04-25T00:00:00",
@@ -923,17 +879,6 @@
       "url": "https://allevents.in/asheville/an-evening-with-chris-smither-at-the-grey-eagle/200029319812711",
       "latitude": 35.587063,
       "longitude": -82.564362
-    },
-    {
-      "id": "7ec4d7aa8249",
-      "title": "Growing In The Mountains",
-      "date": "2026-05-01T00:00:00",
-      "location": "570 Brevard Rd, Asheville, NC, 570 NC-191, Asheville, NC 28806-2305, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/growing-in-the-mountains/200029680074825",
-      "latitude": 35.554359,
-      "longitude": -82.599258
     },
     {
       "id": "8fb46dba561e",
@@ -3334,8 +3279,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-12T16:36:04.146963",
-  "total_events": 303,
+  "last_updated": "2026-04-12T22:24:13.340322",
+  "total_events": 298,
   "sources": [
     "Manual Events",
     "High Country Host",
