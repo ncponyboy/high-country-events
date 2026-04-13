@@ -364,6 +364,28 @@
       "longitude": -82.55485019999999
     },
     {
+      "id": "6ce0f2a67dd8",
+      "title": "Spring Fest: Arts & Crafts for Kids of All Ages",
+      "date": "2026-04-18T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/springfest26/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
+      "id": "c81418fadde3",
+      "title": "580 WKSK Live Old Time and Bluegrass Show: Crooked Road Ramblers",
+      "date": "2026-04-18T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-show-the-dollar-brothers/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "19ad742c00fe",
       "title": "The Art of Yoga",
       "date": "2026-04-18T13:30:00.343000",
@@ -472,6 +494,17 @@
       "url": "https://www.ashevilledowntown.org/events/italian-bred",
       "latitude": 35.5943438,
       "longitude": -82.5511352
+    },
+    {
+      "id": "b003f69ce053",
+      "title": "Ed Perzel Chamber Music Series: Terra String Quartet",
+      "date": "2026-04-19T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/terra/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "f025c233a9e9",
@@ -716,6 +749,17 @@
       "longitude": -82.5511352
     },
     {
+      "id": "260c2750b071",
+      "title": "Wordkeepers",
+      "date": "2026-04-25T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/wordkeepers-2/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "f88a404cd361",
       "title": "Boone Earth Film Fest",
       "date": "2026-04-25T14:00:00",
@@ -758,6 +802,17 @@
       "url": "https://allevents.in/asheville/uncommon-market/200029832774241",
       "latitude": 35.577862,
       "longitude": -82.566727
+    },
+    {
+      "id": "f25016900d56",
+      "title": "Gather at the Table for the Arts: Fundraiser at Craft Bistro",
+      "date": "2026-04-26T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/craft/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "f27832c1c47e",
@@ -1486,6 +1541,17 @@
       "longitude": -82.56443
     },
     {
+      "id": "13f3db77c095",
+      "title": "Ashe Community Singers Concert",
+      "date": "2026-05-22T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/ashe-community-singers/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "9c0a3b2d7d6e",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-05-22T19:00:00",
@@ -1860,6 +1926,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "c33171a1f3a9",
+      "title": "Gala Kickoff Party",
+      "date": "2026-06-05T23:00:00.761000",
+      "location": "Asheville Art Museum, 2 South Pack Square, Asheville, NC, 28801",
+      "description": "Kick off the weekend in style at our Gala Kickoff Party, an elegant soir\u00e9e that celebrates creativity and sets the stage for the Gala.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/gala-kickoff-party-1",
+      "latitude": 35.59480500000001,
+      "longitude": -82.55128599999999
+    },
+    {
       "id": "9fc3a4cc1b49",
       "title": "Flatland Cavalry: Work of Heart Tour | Asheville, NC",
       "date": "2026-06-06T00:00:00",
@@ -1924,6 +2001,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/trial-by-fire",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "1190d1c24f8a",
+      "title": "Asheville Art Museum Gala",
+      "date": "2026-06-06T21:00:00.027000",
+      "location": "Asheville Art Museum, 2 South Pack Square, Asheville, NC, 28801",
+      "description": "Join us for an elegant evening celebrating art and philanthropy, where a breathtaking Pantone color palette brings the theme to life. This unforgettable night will include:",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/asheville-art-museum-gala",
+      "latitude": 35.59480500000001,
+      "longitude": -82.55128599999999
     },
     {
       "id": "6d098d058c2d",
@@ -2045,17 +2133,6 @@
       "url": "https://grandfather.com/event/by-night2/",
       "latitude": 36.0979,
       "longitude": -81.814
-    },
-    {
-      "id": "d269e67f695b",
-      "title": "Easy Star All Stars",
-      "date": "2026-06-13T00:00:00",
-      "location": "31 Patton Avenue Asheville, NC 28801-3314, 31 Patton Ave, Asheville, NC 28801-3314, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/easy-star-all-stars/200029916663959",
-      "latitude": 35.594891,
-      "longitude": -82.553017
     },
     {
       "id": "baa792c3f425",
@@ -3103,28 +3180,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "2d64806a958c",
-      "title": "\u201cSinners\u201d (2025)",
-      "date": "2027-02-12T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/sinners",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "db60b3a8680d",
-      "title": "KnitFlix @ The AppTheatre: \u201cSleepless in Seattle\u201d (1993)",
-      "date": "2027-02-13T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/knitflix-sleepless-in-seattle",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "e7faf9053028",
       "title": "Cinderella",
       "date": "2027-02-14T13:00:00",
@@ -3279,8 +3334,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-13T12:07:04.323120",
-  "total_events": 298,
+  "last_updated": "2026-04-13T17:01:21.680475",
+  "total_events": 303,
   "sources": [
     "Manual Events",
     "High Country Host",
