@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "1ec048f1edda",
-      "title": "Weekly Trivia @ South End",
-      "date": "2026-04-13T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-13/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "e0b4cffcd402",
       "title": "Free Cone Day Benefit for Save the Woods at Downtown Asheville Ben &amp; Jerry's",
       "date": "2026-04-14T00:00:00",
@@ -221,6 +210,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "557ca9897fe1",
+      "title": "\u201cSit a Spell\u201d \u2013 Traditional Music Sessions with Warren Wilson College",
+      "date": "2026-04-17T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/sit-a-spell-traditional-music-sessions-with-warren-wilson-college/2026-04-17/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "4ab3a5b6781b",
       "title": "This is Spinal Tap (1984)",
       "date": "2026-04-17T18:00:00",
@@ -364,28 +364,6 @@
       "longitude": -82.55485019999999
     },
     {
-      "id": "6ce0f2a67dd8",
-      "title": "Spring Fest: Arts & Crafts for Kids of All Ages",
-      "date": "2026-04-18T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/springfest26/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "c81418fadde3",
-      "title": "580 WKSK Live Old Time and Bluegrass Show: Crooked Road Ramblers",
-      "date": "2026-04-18T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-show-the-dollar-brothers/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "19ad742c00fe",
       "title": "The Art of Yoga",
       "date": "2026-04-18T13:30:00.343000",
@@ -430,6 +408,17 @@
       "longitude": -82.55128599999999
     },
     {
+      "id": "91fc036156f4",
+      "title": "Earth Third Friday Art Crawl",
+      "date": "2026-04-18T17:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "https://www.watauga-arts.org/first-friday-art-crawls",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/earth-third-friday-art-crawl/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "5c26388b074d",
       "title": "Remembering Earl Concert",
       "date": "2026-04-18T18:00:00",
@@ -463,13 +452,13 @@
       "longitude": -81.6752
     },
     {
-      "id": "0ad77bd7bd96",
-      "title": "Rhiannon Giddens",
-      "date": "2026-04-18T19:30:00",
-      "location": "Blue Ridge, NC",
+      "id": "d3729bfb809f",
+      "title": "Live Music: Grant Funderburk",
+      "date": "2026-04-18T19:00:00",
+      "location": "SouthEnd Brewing Co., 747 W King Street, Boone, 28607, United States",
       "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/rhiannon-giddens/",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/live-music-grant-funderburk/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -494,17 +483,6 @@
       "url": "https://www.ashevilledowntown.org/events/italian-bred",
       "latitude": 35.5943438,
       "longitude": -82.5511352
-    },
-    {
-      "id": "b003f69ce053",
-      "title": "Ed Perzel Chamber Music Series: Terra String Quartet",
-      "date": "2026-04-19T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/terra/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "f025c233a9e9",
@@ -672,6 +650,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "6271a7224fc9",
+      "title": "Live Music: Gary McCoullough",
+      "date": "2026-04-24T19:00:00",
+      "location": "SouthEnd Brewing Co., 747 W King Street, Boone, 28607, United States",
+      "description": "Live Music: Gary McCoullough At SouthEnd Brewing Company",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/live-music-gary-mccoullough-3/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "9cc0d6b344da",
       "title": "Armand Hammer",
       "date": "2026-04-25T00:00:00",
@@ -749,20 +738,9 @@
       "longitude": -82.5511352
     },
     {
-      "id": "260c2750b071",
-      "title": "Wordkeepers",
-      "date": "2026-04-25T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/wordkeepers-2/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "f88a404cd361",
+      "id": "879812e2d73f",
       "title": "Boone Earth Film Fest",
-      "date": "2026-04-25T14:00:00",
+      "date": "2026-04-25T13:00:00",
       "location": "Appalachian Theatre, 559 W King St, Boone, NC",
       "description": "",
       "source": "Appalachian Theatre",
@@ -802,17 +780,6 @@
       "url": "https://allevents.in/asheville/uncommon-market/200029832774241",
       "latitude": 35.577862,
       "longitude": -82.566727
-    },
-    {
-      "id": "f25016900d56",
-      "title": "Gather at the Table for the Arts: Fundraiser at Craft Bistro",
-      "date": "2026-04-26T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/craft/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "f27832c1c47e",
@@ -965,6 +932,17 @@
       "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-05-01/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "df45b30b0093",
+      "title": "Live Music: Michael Cansler",
+      "date": "2026-05-01T19:00:00",
+      "location": "SouthEnd Brewing Co., 747 W King Street, Boone, 28607, United States",
+      "description": "",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/live-music-michael-cansler-2/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1541,17 +1519,6 @@
       "longitude": -82.56443
     },
     {
-      "id": "13f3db77c095",
-      "title": "Ashe Community Singers Concert",
-      "date": "2026-05-22T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/ashe-community-singers/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "9c0a3b2d7d6e",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-05-22T19:00:00",
@@ -1893,39 +1860,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "9546bdf21a30",
-      "title": "First Friday Art Crawl",
-      "date": "2026-06-05T17:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "https://www.watauga-arts.org/first-friday-art-crawls",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-2/2026-06-05/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "42ad500bc099",
-      "title": "Wild Lens, Local Legacy",
-      "date": "2026-06-05T18:00:00",
-      "location": "Speckled Trout Outfitters, 140 S. Depot Street, Boone, 28607, United States",
-      "description": "We are honored to welcome Rodney Bursiel, 2017 National Geographic Photographer of the Year, as our keynote speaker at 6:00 pm on Friday, June 5th at Speckled Trout Outfitters in Boone, NC. Rodney, wh",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/wild-lens-local-legacy/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "4034990e38cb",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-06-05T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-06-05/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "c33171a1f3a9",
       "title": "Gala Kickoff Party",
       "date": "2026-06-05T23:00:00.761000",
@@ -2058,17 +1992,6 @@
       "longitude": -81.8462718
     },
     {
-      "id": "6d5c9c5a5b55",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-06-11T19:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-06-11/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "774b3bd7cc1e",
       "title": "Drivin N Cryin at The Grey Eagle",
       "date": "2026-06-12T00:00:00",
@@ -2102,17 +2025,6 @@
       "longitude": -81.8462718
     },
     {
-      "id": "f48b2dd5ca5a",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-06-12T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-06-12/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "d1ba3c93c766",
       "title": "Spyro Gyra",
       "date": "2026-06-12T19:30:00",
@@ -2133,6 +2045,17 @@
       "url": "https://grandfather.com/event/by-night2/",
       "latitude": 36.0979,
       "longitude": -81.814
+    },
+    {
+      "id": "d269e67f695b",
+      "title": "Easy Star All Stars",
+      "date": "2026-06-13T00:00:00",
+      "location": "31 Patton Avenue Asheville, NC 28801-3314, 31 Patton Ave, Asheville, NC 28801-3314, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/easy-star-all-stars/200029916663959",
+      "latitude": 35.594891,
+      "longitude": -82.553017
     },
     {
       "id": "baa792c3f425",
@@ -3334,8 +3257,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-13T17:01:21.680475",
-  "total_events": 303,
+  "last_updated": "2026-04-13T22:35:47.570178",
+  "total_events": 296,
   "sources": [
     "Manual Events",
     "High Country Host",
