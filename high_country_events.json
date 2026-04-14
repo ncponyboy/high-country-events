@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "e0b4cffcd402",
-      "title": "Free Cone Day Benefit for Save the Woods at Downtown Asheville Ben &amp; Jerry's",
-      "date": "2026-04-14T00:00:00",
-      "location": "Ben &amp; Jerry\u2019s (Asheville, NC), 21 Haywood St, Asheville, NC 28801-2837, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/free-cone-day-benefit-for-save-the-woods-at-downtown-asheville-ben-and-jerrys/200029856651910",
-      "latitude": 35.595261,
-      "longitude": -82.554283
-    },
-    {
       "id": "77ea7015ae43",
       "title": "State of Downtown",
       "date": "2026-04-14T15:00:00.979000",
@@ -43,17 +32,6 @@
       "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-04-15/",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "e859cb29474d",
-      "title": "Allie X in Asheville",
-      "date": "2026-04-16T00:00:00",
-      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
-      "latitude": 35.595058,
-      "longitude": -82.551483
     },
     {
       "id": "8905976a2469",
@@ -364,6 +342,28 @@
       "longitude": -82.55485019999999
     },
     {
+      "id": "6ce0f2a67dd8",
+      "title": "Spring Fest: Arts & Crafts for Kids of All Ages",
+      "date": "2026-04-18T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/springfest26/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
+      "id": "c81418fadde3",
+      "title": "580 WKSK Live Old Time and Bluegrass Show: Crooked Road Ramblers",
+      "date": "2026-04-18T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-show-the-dollar-brothers/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "19ad742c00fe",
       "title": "The Art of Yoga",
       "date": "2026-04-18T13:30:00.343000",
@@ -483,6 +483,17 @@
       "url": "https://www.ashevilledowntown.org/events/italian-bred",
       "latitude": 35.5943438,
       "longitude": -82.5511352
+    },
+    {
+      "id": "b003f69ce053",
+      "title": "Ed Perzel Chamber Music Series: Terra String Quartet",
+      "date": "2026-04-19T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/terra/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "f025c233a9e9",
@@ -738,6 +749,17 @@
       "longitude": -82.5511352
     },
     {
+      "id": "260c2750b071",
+      "title": "Wordkeepers",
+      "date": "2026-04-25T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/wordkeepers-2/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "879812e2d73f",
       "title": "Boone Earth Film Fest",
       "date": "2026-04-25T13:00:00",
@@ -780,6 +802,17 @@
       "url": "https://allevents.in/asheville/uncommon-market/200029832774241",
       "latitude": 35.577862,
       "longitude": -82.566727
+    },
+    {
+      "id": "f25016900d56",
+      "title": "Gather at the Table for the Arts: Fundraiser at Craft Bistro",
+      "date": "2026-04-26T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/craft/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "f27832c1c47e",
@@ -1310,17 +1343,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "77f4850d98b3",
-      "title": "Napalm Death, Deadguy in Asheville",
-      "date": "2026-05-12T00:00:00",
-      "location": "Eulogy, Eulogy, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/napalm-death-deadguy-in-asheville/3300029648464654",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "ee92de15980c",
       "title": "Napalm Death + Deadguy",
       "date": "2026-05-12T00:00:00",
@@ -1341,6 +1363,17 @@
       "url": "https://allevents.in/asheville/sold-out-an-evening-with-sun-kil-moon-at-the-grey-eagle/200029446318934",
       "latitude": 35.587063,
       "longitude": -82.564362
+    },
+    {
+      "id": "05d3d4352236",
+      "title": "AEW Presents Dynamite",
+      "date": "2026-05-13T00:00:00",
+      "location": "Harrah's Cherokee Center - Asheville, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/aew-presents-dynamite/210001249608648",
+      "latitude": 35.597469,
+      "longitude": -82.55529
     },
     {
       "id": "1d9b0b429fe0",
@@ -1517,6 +1550,17 @@
       "url": "https://allevents.in/asheville/michael-gungor-acoustic-evening/200029856666721",
       "latitude": 35.587059,
       "longitude": -82.56443
+    },
+    {
+      "id": "13f3db77c095",
+      "title": "Ashe Community Singers Concert",
+      "date": "2026-05-22T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/ashe-community-singers/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "9c0a3b2d7d6e",
@@ -3255,10 +3299,21 @@
       "url": "https://www.apptheatre.org/events-and-tickets/beanstalk-southern-hospitality-6w2js-5d55s",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "457e0b3aa752",
+      "title": "Rakish",
+      "date": "2027-03-15T19:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/rakish",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-13T22:35:47.570178",
-  "total_events": 296,
+  "last_updated": "2026-04-14T12:01:34.183528",
+  "total_events": 301,
   "sources": [
     "Manual Events",
     "High Country Host",
