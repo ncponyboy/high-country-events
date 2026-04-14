@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "77ea7015ae43",
-      "title": "State of Downtown",
-      "date": "2026-04-14T15:00:00.979000",
-      "location": "Asheville, NC",
-      "description": "The State of Downtown is the Asheville Downtown Association\u2019s annual meeting bringing together Downtown stakeholders, business leaders, and community partners for a comprehensive look at the year ahea",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/state-of-downtown-2",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
       "id": "12221838c0e2",
       "title": "Boone Shape Note Singing",
       "date": "2026-04-14T18:30:00",
@@ -32,6 +21,17 @@
       "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-04-15/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "e859cb29474d",
+      "title": "Allie X in Asheville",
+      "date": "2026-04-16T00:00:00",
+      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "8905976a2469",
@@ -1079,6 +1079,17 @@
       "longitude": -82.546196
     },
     {
+      "id": "bb66b504b741",
+      "title": "580 WKSK LIVE Old Time and Bluegrass Show Radio Show: Wayne Henderson & Friends",
+      "date": "2026-05-02T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-show-radio-show-wayne-henderson-friends/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "70ff5f02a451",
       "title": "Eugene Onegin",
       "date": "2026-05-02T13:00:00",
@@ -1341,6 +1352,17 @@
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-05-11/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "77f4850d98b3",
+      "title": "Napalm Death, Deadguy in Asheville",
+      "date": "2026-05-12T00:00:00",
+      "location": "Eulogy, Eulogy, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/napalm-death-deadguy-in-asheville/3300029648464654",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "ee92de15980c",
@@ -1704,6 +1726,17 @@
       "url": "https://allevents.in/asheville/the-wailers-in-asheville/3300029740457719",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "8e94981ca66d",
+      "title": "Old Time Square Dance with Gap Civil",
+      "date": "2026-05-28T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/old-time-square-dance-with-gap-civil/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "d15ec5fbe0a3",
@@ -3312,8 +3345,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-14T12:01:34.183528",
-  "total_events": 301,
+  "last_updated": "2026-04-14T17:03:24.144212",
+  "total_events": 304,
   "sources": [
     "Manual Events",
     "High Country Host",
