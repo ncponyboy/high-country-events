@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "413538bd49b4",
-      "title": "Wednesday Night Bluegrass at The Ugly Dog Pub",
-      "date": "2026-04-15T18:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-04-15/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "e859cb29474d",
       "title": "Allie X in Asheville",
       "date": "2026-04-16T00:00:00",
@@ -544,7 +533,7 @@
       "title": "Opening Day",
       "date": "2026-04-21T21:30:00.715000",
       "location": "HomeTrust Park, 30 Buchanan Place, Asheville, NC, 28801",
-      "description": "Opening Day at the ballpark! Catch the Asheville Tourists take on the Greenville Drive, plus score a Magnetic Schedule Giveaway presented by BIMCO &amp; Hands Free NC.",
+      "description": "Opening Day at the ballpark! Catch the Asheville Tourists take on the Greenville Drive, plus score a Magnetic Schedule Giveaway Presented by BIMCO, Hands Free NC, and Ingles",
       "source": "Downtown Asheville",
       "url": "https://www.ashevilledowntown.org/events/opening-day",
       "latitude": 35.5877329,
@@ -577,7 +566,7 @@
       "title": "Game Day",
       "date": "2026-04-22T21:30:00.715000",
       "location": "HomeTrust Park, 30 Buchanan Place, Asheville, NC, 28801",
-      "description": "Game Day at the ballpark! Catch the Asheville Tourists take on the Greenville Drive, plus score a Magnetic Schedule Giveaway presented by BIMCO &amp; Hands Free NC.",
+      "description": "Game Day at the ballpark! Catch the Asheville Tourists take on the Greenville Drive, plus score a Magnetic Schedule Giveaway Presented by BIMCO, Hands Free NC, and Ingles",
       "source": "Downtown Asheville",
       "url": "https://www.ashevilledowntown.org/events/opening-day-9b8kw",
       "latitude": 35.5877329,
@@ -610,7 +599,7 @@
       "title": "Game Day",
       "date": "2026-04-23T21:30:00.715000",
       "location": "HomeTrust Park, 30 Buchanan Place, Asheville, NC, 28801",
-      "description": "Game Day at the ballpark! Catch the Asheville Tourists take on the Greenville Drive, plus enjoy Thirsty Thursday presented by Oskar Blues Brewery and score a Magnetic Schedule Giveaway presented by BI",
+      "description": "Game Day at the ballpark! Catch the Asheville Tourists take on the Greenville Drive, plus enjoy Thirsty Thursday presented by Oskar Blues Brewery and score a Magnetic Schedule Giveaway Presented by BI",
       "source": "Downtown Asheville",
       "url": "https://www.ashevilledowntown.org/events/opening-day-9b8kw-zpdfn",
       "latitude": 35.5877329,
@@ -694,13 +683,13 @@
       "longitude": -81.6746
     },
     {
-      "id": "db871eb327ba",
+      "id": "3ef03e9eca75",
       "title": "Game Day",
-      "date": "2026-04-24T20:30:00.715000",
+      "date": "2026-04-24T21:30:00.715000",
       "location": "HomeTrust Park, 30 Buchanan Place, Asheville, NC, 28801",
-      "description": "Game Day at the ballpark! Catch the Asheville Tourists take on the Greenville Drive, plus enjoy Black Jersey Giveaway Presented by Palmetto Bath and Home.",
+      "description": "Game Day at the ballpark! Catch the Asheville Tourists take on the Greenville Drive, plus enjoy $1 hot dogs Sponsored by Blossman Gas and Fireworks Presented by Best Buy Metals.",
       "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/opening-day-9b8kw-zpdfn-mj8da-s9lz8",
+      "url": "https://www.ashevilledowntown.org/events/opening-day-9b8kw-zpdfn-mj8da",
       "latitude": 35.5877329,
       "longitude": -82.54983589999999
     },
@@ -760,17 +749,6 @@
       "longitude": -82.562111
     },
     {
-      "id": "d64062805ad7",
-      "title": "Game Day: April 25",
-      "date": "2026-04-25T00:00:00",
-      "location": "30 Buchanan Pl, Asheville, NC, United States, North Carolina 28801, 30 Buchanan Pl, Asheville, NC 28801-4243, United Sta",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/game-day-april-25/200029920184229",
-      "latitude": 35.586681,
-      "longitude": -82.550102
-    },
-    {
       "id": "da620f5f3ff4",
       "title": "Karla Bonoff",
       "date": "2026-04-25T00:00:00.361000",
@@ -824,6 +802,17 @@
       "url": "https://grandfather.com/event/sounds-of-nature-kids-music-day/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "55f7d3545396",
+      "title": "Game Day: April 25",
+      "date": "2026-04-25T20:30:00.715000",
+      "location": "HomeTrust Park, 30 Buchanan Place, Asheville, NC, 28801",
+      "description": "",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/opening-day-9b8kw-zpdfn-mj8da-s9lz8",
+      "latitude": 35.5877329,
+      "longitude": -82.54983589999999
     },
     {
       "id": "61a0155b2f0a",
@@ -1486,17 +1475,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "592465b43814",
-      "title": "Dark Star Orchestra",
-      "date": "2026-05-15T00:00:00",
-      "location": "75 Coxe Ave, Asheville, NC, United States, North Carolina 28801, 75 Coxe Ave, Asheville, NC 28801-3621, United States, A",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/dark-star-orchestra/200029785211602",
-      "latitude": 35.592072,
-      "longitude": -82.555382
-    },
-    {
       "id": "323026acd6b1",
       "title": "Manic Focus + Russ Liquid at Sly Grog Lounge",
       "date": "2026-05-15T00:00:00",
@@ -1704,6 +1682,17 @@
       "url": "https://allevents.in/asheville/2026-beer-city-relay-and-5k-10k/200029229367344",
       "latitude": 35.5867,
       "longitude": -82.570641
+    },
+    {
+      "id": "1833d74d6982",
+      "title": "5th Annual Downtown Asheville Memorial Day Weekend Festival of the Arts",
+      "date": "2026-05-23T00:00:00",
+      "location": "Downtown Asheville, 80 Court Plaza in Asheville, NC, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/5th-annual-downtown-asheville-memorial-day-weekend-festival-of-the-arts/100001986915653205",
+      "latitude": 35.595558,
+      "longitude": -82.549294
     },
     {
       "id": "70e70aa8c9fc",
@@ -2314,7 +2303,7 @@
       "id": "bffe515820b8",
       "title": "THE MOTH Presents: Asheville StorySLAM - &quot;AMERICAN DREAMS&quot; at The Grey Eagle",
       "date": "2026-06-18T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville,NC,United States, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
       "url": "https://allevents.in/asheville/the-moth-presents-asheville-storyslam-american-dreams-at-the-grey-eagle/200029792498728",
@@ -2542,6 +2531,17 @@
       "longitude": -82.525047
     },
     {
+      "id": "13dcc5508ee6",
+      "title": "Eggy at Asheville Music Hall",
+      "date": "2026-07-17T00:00:00",
+      "location": "55 College Street, Asheville, NC, United States, North Carolina 28801, 55 College St, Asheville, NC 28801-2819, United S",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/eggy-at-asheville-music-hall/200029733212241",
+      "latitude": 35.5952,
+      "longitude": -82.553123
+    },
+    {
       "id": "b274dc2ad602",
       "title": "Doc & Rosa Lee Watson MusicFest",
       "date": "2026-07-17T19:00:00",
@@ -2595,6 +2595,28 @@
       "url": "https://allevents.in/asheville/love-shine-play-festival-2026/100001514317527489",
       "latitude": 35.592747,
       "longitude": -82.556458
+    },
+    {
+      "id": "9cfb300f79ea",
+      "title": "Grandfather Presents: The Grizzly Forager Family",
+      "date": "2026-07-23T16:45:00",
+      "location": "Grandfather Mountain, 2050 Blowing Rock Hwy, Linville, NC",
+      "description": "The Grizzly Forager is an aspirational social media account with the primary aim of inspiring parents to get outside with their kids via the art of foraging. Arthur, Sybbie, and their mum and dad, Joh",
+      "source": "Grandfather Mountain",
+      "url": "https://grandfather.com/event/grandfather-presents-the-grizzly-forager-family/",
+      "latitude": 36.0979,
+      "longitude": -81.814
+    },
+    {
+      "id": "498d3deb34a3",
+      "title": "Family Field Course: Grizzly Family Foraging",
+      "date": "2026-07-25T10:00:00",
+      "location": "Grandfather Mountain, 2050 Blowing Rock Hwy, Linville, NC",
+      "description": "Embark on a wild adventure with The Grizzly Forager on the mountain in search of mysterious treasure made by wasps, which explorers of old gathered and made into ink \u2013 the same ink that was used to si",
+      "source": "Grandfather Mountain",
+      "url": "https://grandfather.com/event/family-field-course-grizzly-family-foraging/",
+      "latitude": 36.0979,
+      "longitude": -81.814
     },
     {
       "id": "6",
@@ -2773,17 +2795,6 @@
       "longitude": -81.8462718
     },
     {
-      "id": "baee3aaf98b3",
-      "title": "Grandfather by Night: Naturalist Program",
-      "date": "2026-08-14T19:30:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Explore the mountain after hours with your own personal guides during our Grandfather by Night series! You\u2019ll discover some of the park\u2019s nighttime wonders, watch a stunning sunset (weather permitting",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/by-night-8/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
       "id": "edec2555d883",
       "title": "Trey Hensley - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-08-15T19:00:00",
@@ -2804,17 +2815,6 @@
       "url": "https://allevents.in/asheville/the-wood-brothers-two-nights-aug-21-and-22/200029882233936",
       "latitude": 35.591415,
       "longitude": -82.551147
-    },
-    {
-      "id": "772449936956",
-      "title": "Grandfather by Night: Twilight Hike",
-      "date": "2026-08-21T19:30:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Explore the mountain after hours with your own personal guides during our Grandfather by Night series! You\u2019ll discover some of the park\u2019s nighttime wonders, watch a stunning sunset (weather permitting",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/by-night5/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
     },
     {
       "id": "c0e4f7cb3d59",
@@ -2870,17 +2870,6 @@
       "url": "https://allevents.in/asheville/monolord-w-khemmis/200029888970518",
       "latitude": 35.588348,
       "longitude": -82.553902
-    },
-    {
-      "id": "f3643daa5813",
-      "title": "The Movement &amp; Pepper with special guest Surfer Girl",
-      "date": "2026-09-03T00:00:00",
-      "location": "French Broad River Brewery, 101 Fairview Road, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/the-movement-and-pepper-with-special-guest-surfer-girl/100001985592917868",
-      "latitude": 35.566483,
-      "longitude": -82.537384
     },
     {
       "id": "15146c818e35",
@@ -3477,8 +3466,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-15T17:00:32.136751",
-  "total_events": 316,
+  "last_updated": "2026-04-15T22:34:10.882253",
+  "total_events": 315,
   "sources": [
     "Manual Events",
     "High Country Host",
