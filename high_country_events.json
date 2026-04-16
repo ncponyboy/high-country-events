@@ -1640,17 +1640,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "c07a6d17a3c3",
-      "title": "Michael Gungor (Acoustic Evening)",
-      "date": "2026-05-22T00:00:00",
-      "location": "185 Clingman Avenue Asheville, NC 28801-3207, 185 Clingman Ave Ext, Asheville, NC 28801, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/michael-gungor-acoustic-evening/200029856666721",
-      "latitude": 35.587059,
-      "longitude": -82.56443
-    },
-    {
       "id": "13f3db77c095",
       "title": "Ashe Community Singers Concert",
       "date": "2026-05-22T10:00:00",
@@ -2828,6 +2817,17 @@
       "longitude": -80.851589
     },
     {
+      "id": "c3683ced0e0d",
+      "title": "The Wood Brothers in Asheville",
+      "date": "2026-08-21T00:00:00",
+      "location": "The Orange Peel, The Orange Peel, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/the-wood-brothers-in-asheville/3300029954066906",
+      "latitude": 35.595058,
+      "longitude": -82.551483
+    },
+    {
       "id": "5fa8e15cc00a",
       "title": "The Wood Brothers - TWO NIGHTS (AUG 21 &amp; 22)",
       "date": "2026-08-21T00:00:00",
@@ -3112,17 +3112,6 @@
       "url": "https://www.hcpress.com/announcements/blowing-rock-school-fall-festival-celebrates-community-resilience.html",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "e993d8f5ca2d",
-      "title": "2026 Oktoberfest Half Marathon &amp; 5k",
-      "date": "2026-10-03T00:00:00",
-      "location": "Hi-Wire Brewing RAD Beer Garden, 284 Lyman St, Asheville, NC 28801-4742, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/2026-oktoberfest-half-marathon-and-5k/200029090288244",
-      "latitude": 35.582748,
-      "longitude": -82.56575
     },
     {
       "id": "998e8db64bbe",
@@ -3488,8 +3477,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-16T12:02:24.501385",
-  "total_events": 317,
+  "last_updated": "2026-04-16T17:11:41.105007",
+  "total_events": 316,
   "sources": [
     "Manual Events",
     "High Country Host",
