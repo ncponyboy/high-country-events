@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "e859cb29474d",
-      "title": "Allie X in Asheville",
-      "date": "2026-04-16T00:00:00",
-      "location": "Revival, Revival, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/allie-x-in-asheville/3300029312788530",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
-      "id": "8905976a2469",
-      "title": "THE MOTH Presents: Asheville StorySLAM - &quot;SUS&quot; at The Grey Eagle",
-      "date": "2026-04-16T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/the-moth-presents-asheville-storyslam-sus-at-the-grey-eagle/200029534401006",
-      "latitude": 35.587063,
-      "longitude": -82.564362
-    },
-    {
       "id": "f65e3945344b",
       "title": "Zuma Coffee Bluegrass Jam Session",
       "date": "2026-04-16T18:00:00",
@@ -100,15 +78,15 @@
       "longitude": -82.55128599999999
     },
     {
-      "id": "9b6e344ded86",
+      "id": "519030d05806",
       "title": "Greensky Bluegrass Tickets",
       "date": "2026-04-17T00:00:00",
-      "location": "75 Coxe Ave, Asheville, NC, United States, North Carolina 28801, 75 Coxe Ave, Asheville, NC 28801-3621, United States, A",
+      "location": "Asheville N.C, 20 Pine Grove Ave, Asheville, NC 28801-4416, United States, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/greensky-bluegrass/200029242255752",
-      "latitude": 35.592072,
-      "longitude": -82.555382
+      "url": "https://allevents.in/asheville/greensky-bluegrass-tickets/200029856683435",
+      "latitude": 35.579899,
+      "longitude": -82.555801
     },
     {
       "id": "d3241ea76b84",
@@ -298,6 +276,17 @@
       "longitude": -82.550812
     },
     {
+      "id": "4cbfdf27697e",
+      "title": "St. Paul &amp; The Broken Bones - 18+",
+      "date": "2026-04-18T00:00:00",
+      "location": "The Orange Peel, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/st-paul-and-the-broken-bones-18/210007218722729",
+      "latitude": 35.594799,
+      "longitude": -82.557198
+    },
+    {
       "id": "2ed0c81d0fee",
       "title": "Official Downtown After 5 After Party",
       "date": "2026-04-18T01:00:00.733000",
@@ -485,6 +474,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "4edb89cfd449",
+      "title": "Community Contra & Bal Folk Dance",
+      "date": "2026-04-19T14:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/contra-dance/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "629ed3de16b5",
       "title": "The Hop\u2019s Earth Week Vegan Celebration",
       "date": "2026-04-20T15:30:00.463000",
@@ -639,15 +639,15 @@
       "longitude": -82.553902
     },
     {
-      "id": "a4ff5fd16a3b",
-      "title": "Polyrhythmics w/ Cris Jacobs",
+      "id": "ea134432e1be",
+      "title": "Asheville Greek Festival Spring Drive Thru",
       "date": "2026-04-24T00:00:00",
-      "location": "31 Patton Avenue Asheville, NC 28801-3314, 31 Patton Ave, Asheville, NC 28801-3314, United States, Asheville, NC",
+      "location": "227 Cumberland Ave, Asheville, NC, United States, North Carolina 28801, 227 Cumberland Ave, Asheville, NC 28801-1735, Un",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/polyrhythmics-w-cris-jacobs/200029500557750",
-      "latitude": 35.594891,
-      "longitude": -82.553017
+      "url": "https://allevents.in/asheville/asheville-greek-festival-spring-drive-thru/200029792477141",
+      "latitude": 35.604832,
+      "longitude": -82.563148
     },
     {
       "id": "2e5da5ad7065",
@@ -747,6 +747,17 @@
       "url": "https://allevents.in/asheville/kids-fest/200029847501811",
       "latitude": 35.577866,
       "longitude": -82.562111
+    },
+    {
+      "id": "0e9d3400d0a9",
+      "title": "Jazz Appreciation Month: Queen Bee and the Honeylovers | in the Palm Room at Fitz and the Wolfe",
+      "date": "2026-04-25T00:00:00",
+      "location": "1 Battery Park Ave, Asheville, NC, United States, North Carolina 28801, 1 Battery Park Ave, Asheville, NC 28801-2717, Un",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/jazz-appreciation-month-queen-bee-and-the-honeylovers-|-in-the-palm-room-at-fitz-and-the-wolfe/200029856663202",
+      "latitude": 35.59539,
+      "longitude": -82.554749
     },
     {
       "id": "da620f5f3ff4",
@@ -1046,17 +1057,6 @@
       "longitude": -82.555382
     },
     {
-      "id": "abf3996fb454",
-      "title": "Infected Mushroom w/ special guests TBA @ Third Room",
-      "date": "2026-05-02T00:00:00",
-      "location": "46 Wall Street, Asheville, NC, United States, North Carolina 28801, 46 Wall St, Asheville, NC 28801-2710, United States,",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/infected-mushroom-w-special-guests-tba-third-room/200029526641631",
-      "latitude": 35.59449,
-      "longitude": -82.555992
-    },
-    {
       "id": "0676018d32b7",
       "title": "Ani DiFranco, Valerie June in Asheville",
       "date": "2026-05-02T00:00:00",
@@ -1066,6 +1066,17 @@
       "url": "https://allevents.in/asheville/ani-difranco-valerie-june-in-asheville/3300029668601648",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "abf3996fb454",
+      "title": "Infected Mushroom w/ special guests TBA @ Third Room",
+      "date": "2026-05-02T00:00:00",
+      "location": "46 Wall Street, Asheville, NC, United States, North Carolina 28801, 46 Wall St, Asheville, NC 28801-2710, United States,",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/infected-mushroom-w-special-guests-tba-third-room/200029526641631",
+      "latitude": 35.59449,
+      "longitude": -82.555992
     },
     {
       "id": "95c1ac7b487d",
@@ -1233,17 +1244,6 @@
       "longitude": -82.55597519999999
     },
     {
-      "id": "9b2be90c6dfe",
-      "title": "Asheville Cinco De Mayo Bar Crawl",
-      "date": "2026-05-05T00:00:00",
-      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-cinco-de-mayo-bar-crawl/100001356216322529",
-      "latitude": 35.588284,
-      "longitude": -82.553627
-    },
-    {
       "id": "0e12ba7bc0ae",
       "title": "Ryan Montbleau (solo) at The Grey Eagle",
       "date": "2026-05-07T00:00:00",
@@ -1354,6 +1354,17 @@
       "longitude": -82.551147
     },
     {
+      "id": "ab8cb12aa7d9",
+      "title": "The Ephemeral Garden: A Mystical Marketplace &amp; Soir\u00e9e",
+      "date": "2026-05-09T00:00:00",
+      "location": "150 S Lexington Ave, Asheville, NC, United States, North Carolina 28801, 150 S Lexington Ave, Asheville, NC 28801-3608, ",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/the-ephemeral-garden-a-mystical-marketplace-and-soir\u00e9e/200029949854735",
+      "latitude": 35.590569,
+      "longitude": -82.551811
+    },
+    {
       "id": "62135cdec747",
       "title": "Mother's Day Tea Party",
       "date": "2026-05-09T00:00:00",
@@ -1442,17 +1453,6 @@
       "longitude": -82.564362
     },
     {
-      "id": "05d3d4352236",
-      "title": "AEW Presents Dynamite",
-      "date": "2026-05-13T00:00:00",
-      "location": "Harrah's Cherokee Center - Asheville, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/aew-presents-dynamite/210001249608648",
-      "latitude": 35.597469,
-      "longitude": -82.55529
-    },
-    {
       "id": "1d9b0b429fe0",
       "title": "Curren$y in Asheville",
       "date": "2026-05-14T00:00:00",
@@ -1473,6 +1473,17 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-14/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "592465b43814",
+      "title": "Dark Star Orchestra",
+      "date": "2026-05-15T00:00:00",
+      "location": "75 Coxe Ave, Asheville, NC, United States, North Carolina 28801, 75 Coxe Ave, Asheville, NC 28801-3621, United States, A",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/dark-star-orchestra/200029785211602",
+      "latitude": 35.592072,
+      "longitude": -82.555382
     },
     {
       "id": "323026acd6b1",
@@ -1671,6 +1682,17 @@
       "url": "https://www.ashevilledowntown.org/events/supernova-a-tribute-to-oasis",
       "latitude": 35.5883468,
       "longitude": -82.5539256
+    },
+    {
+      "id": "a4310416039d",
+      "title": "Future Islands in Asheville",
+      "date": "2026-05-23T00:00:00",
+      "location": "The Orange Peel, The Orange Peel, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/future-islands-in-asheville/3300029945486956",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "66afb66d1469",
@@ -3466,8 +3488,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-15T22:34:10.882253",
-  "total_events": 315,
+  "last_updated": "2026-04-16T12:02:24.501385",
+  "total_events": 317,
   "sources": [
     "Manual Events",
     "High Country Host",
