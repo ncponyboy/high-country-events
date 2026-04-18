@@ -1,116 +1,6 @@
 {
   "events": [
     {
-      "id": "50e703d77a8a",
-      "title": "Drag Brunch Fundraiser for Youth OUTright",
-      "date": "2026-04-18T15:00:00.653000",
-      "location": "Banks Ave Bar, 32 Banks Avenue, Asheville, NC, 28801",
-      "description": "The award-winning Asheville Drag Brunch is back with another spectacular Saturday brunch on Saturday, April 18, 2026 at Banks Ave. Bar. Shows are at 11:00 a.m. and 1:00 p.m. Expect big performances, b",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/drag-brunch-fundraiser-for-youth-outright",
-      "latitude": 35.589068,
-      "longitude": -82.5533289
-    },
-    {
-      "id": "f33d707eae58",
-      "title": "Parkers\u2019 Mandolin feat. Andy Page and Adam Booker",
-      "date": "2026-04-18T16:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/parkers-mandolin-feat-andy-page-and-adam-booker/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "2a984ccbd00f",
-      "title": "MerleFest",
-      "date": "2026-04-18T16:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/merlefest/2026-04-23/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "1975e83577ca",
-      "title": "Adult Studio with Yekaterina Benson: Plein Air Watercolor + Gouache",
-      "date": "2026-04-18T16:00:00.514000",
-      "location": "Asheville Art Museum, 2 South Pack Square, Asheville, NC, 28801",
-      "description": "Have you ever wanted to paint en plein air? Join us for a two-day workshop where we\u2019ll explore light and color on location using watercolor and gouache.",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/adult-studio-with-yekaterina-benson-plein-air-watercolor-gouache",
-      "latitude": 35.59480500000001,
-      "longitude": -82.55128599999999
-    },
-    {
-      "id": "91fc036156f4",
-      "title": "Earth Third Friday Art Crawl",
-      "date": "2026-04-18T17:00:00",
-      "location": "Downtown Boone, NC",
-      "description": "https://www.watauga-arts.org/first-friday-art-crawls",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/earth-third-friday-art-crawl/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "5c26388b074d",
-      "title": "Remembering Earl Concert",
-      "date": "2026-04-18T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/remembering-earl-concert/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "ed6a0743e978",
-      "title": "Alleghany Jubilee",
-      "date": "2026-04-18T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-04-18/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "d7f7774879b4",
-      "title": "Small Town Universe",
-      "date": "2026-04-18T19:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/small-town-universe",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "d3729bfb809f",
-      "title": "Live Music: Grant Funderburk",
-      "date": "2026-04-18T19:00:00",
-      "location": "SouthEnd Brewing Co., 747 W King Street, Boone, 28607, United States",
-      "description": "",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/live-music-grant-funderburk/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "0ad77bd7bd96",
-      "title": "Rhiannon Giddens",
-      "date": "2026-04-18T19:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/rhiannon-giddens/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "6211927148e5",
       "title": "The Pearl Institute Bicycle Day Symposium at Revival (Asheville)",
       "date": "2026-04-19T00:00:00",
@@ -327,6 +217,17 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-04-23/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "8364eb34ffbd",
+      "title": "Weekly Jam Sessions at the Jones House",
+      "date": "2026-04-23T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-04-23/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -2080,6 +1981,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "6d5c9c5a5b55",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-06-11T19:00:00",
+      "location": "Downtown Boone, NC",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-06-11/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "774b3bd7cc1e",
       "title": "Drivin N Cryin at The Grey Eagle",
       "date": "2026-06-12T00:00:00",
@@ -2113,6 +2025,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "f48b2dd5ca5a",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-06-12T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-06-12/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "d1ba3c93c766",
       "title": "Spyro Gyra",
       "date": "2026-06-12T19:30:00",
@@ -2144,17 +2067,6 @@
       "url": "https://allevents.in/asheville/easy-star-all-stars-in-asheville/3300029957729331",
       "latitude": 35.595058,
       "longitude": -82.551483
-    },
-    {
-      "id": "d269e67f695b",
-      "title": "Easy Star All Stars",
-      "date": "2026-06-13T00:00:00",
-      "location": "31 Patton Avenue Asheville, NC 28801-3314, 31 Patton Ave, Asheville, NC 28801-3314, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/easy-star-all-stars/200029916663959",
-      "latitude": 35.594891,
-      "longitude": -82.553017
     },
     {
       "id": "baa792c3f425",
@@ -3620,8 +3532,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-18T16:36:47.506873",
-  "total_events": 329,
+  "last_updated": "2026-04-18T22:24:20.598229",
+  "total_events": 321,
   "sources": [
     "Manual Events",
     "High Country Host",
