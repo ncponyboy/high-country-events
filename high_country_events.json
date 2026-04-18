@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "id": "6ce0f2a67dd8",
-      "title": "Spring Fest: Arts & Crafts for Kids of All Ages",
-      "date": "2026-04-18T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/springfest26/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "c81418fadde3",
-      "title": "580 WKSK Live Old Time and Bluegrass Show: Crooked Road Ramblers",
-      "date": "2026-04-18T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-show-the-dollar-brothers/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "19ad742c00fe",
-      "title": "The Art of Yoga",
-      "date": "2026-04-18T13:30:00.343000",
-      "location": "Asheville Art Museum, 2 South Pack Square, Asheville, NC, 28801",
-      "description": "The Art of Yoga series is taught by Luna Ray Canter a certified yoga instructor with a mindful art mediation and art appreciation led by Museum staff.",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/the-art-of-yoga",
-      "latitude": 35.59480500000001,
-      "longitude": -82.55128599999999
-    },
-    {
       "id": "50e703d77a8a",
       "title": "Drag Brunch Fundraiser for Youth OUTright",
       "date": "2026-04-18T15:00:00.653000",
@@ -52,6 +19,17 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/parkers-mandolin-feat-andy-page-and-adam-booker/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "2a984ccbd00f",
+      "title": "MerleFest",
+      "date": "2026-04-18T16:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/merlefest/2026-04-23/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -338,6 +316,17 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-04-23/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "ca9d8b4c7764",
+      "title": "Community Jam \u2013 Crown Restaurant",
+      "date": "2026-04-23T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-04-23/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1649,6 +1638,17 @@
       "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-27/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "368aa55fa9df",
+      "title": "The Wailers in Asheville",
+      "date": "2026-05-28T00:00:00",
+      "location": "Asheville, NC, United States, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/the-wailers-in-asheville/3300029740457719",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "8e94981ca66d",
@@ -3620,7 +3620,7 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-18T11:39:52.275704",
+  "last_updated": "2026-04-18T16:36:47.506873",
   "total_events": 329,
   "sources": [
     "Manual Events",
