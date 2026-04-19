@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "6cde82050cd3",
-      "title": "Old Farmer\u2019s Ball Family Dance",
-      "date": "2026-04-19T15:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/old-farmers-ball-family-dance/2026-04-19/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "629ed3de16b5",
       "title": "The Hop\u2019s Earth Week Vegan Celebration",
       "date": "2026-04-20T15:30:00.463000",
@@ -26,7 +15,7 @@
       "id": "bf7663d08bb3",
       "title": "Weekly Trivia @ South End",
       "date": "2026-04-20T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-20/",
@@ -180,7 +169,7 @@
       "id": "cd739be57e3e",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-04-23T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-23/",
@@ -230,17 +219,6 @@
       "url": "https://allevents.in/asheville/hip-hop-weekend-2-night-pass/200029526101751",
       "latitude": 35.588348,
       "longitude": -82.553902
-    },
-    {
-      "id": "ea134432e1be",
-      "title": "Asheville Greek Festival Spring Drive Thru",
-      "date": "2026-04-24T00:00:00",
-      "location": "227 Cumberland Ave, Asheville, NC, United States, North Carolina 28801, 227 Cumberland Ave, Asheville, NC 28801-1735, Un",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-greek-festival-spring-drive-thru/200029792477141",
-      "latitude": 35.604832,
-      "longitude": -82.563148
     },
     {
       "id": "87ae97719d93",
@@ -508,7 +486,7 @@
     },
     {
       "id": "4a0559e11531",
-      "title": "Suffocation",
+      "title": "Suffocation in Asheville",
       "date": "2026-04-27T00:00:00",
       "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
       "description": "",
@@ -532,7 +510,7 @@
       "id": "bec84b22081a",
       "title": "Weekly Trivia @ South End",
       "date": "2026-04-27T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-27/",
@@ -576,23 +554,12 @@
       "id": "fa57ddfc54d1",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-04-30T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-30/",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "b2a5903a92f5",
-      "title": "Travis(SCI), Magner(tDB) &amp; Lane(Dead &amp; Co.) @ Third Room",
-      "date": "2026-05-01T00:00:00",
-      "location": "46 Wall Street, Asheville, NC, United States, North Carolina 28801, 46 Wall St, Asheville, NC 28801-2710, United States,",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/travissci-magnertdb-and-lanedead-and-co-third-room/200029920143723",
-      "latitude": 35.59449,
-      "longitude": -82.555992
     },
     {
       "id": "76fa36e80a65",
@@ -642,7 +609,7 @@
       "id": "7aa64acbb3d4",
       "title": "First Friday Art Crawl",
       "date": "2026-05-01T17:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "https://www.watauga-arts.org/first-friday-art-crawls",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-2/2026-05-01/",
@@ -804,6 +771,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "06717c51f8db",
+      "title": "High Country Gear Fest",
+      "date": "2026-05-02T13:00:00",
+      "location": "Footsloggers Courtyard, 139 Depot Street, Boone, NC, 28607, United States",
+      "description": "Come out and enjoy the day celebrating the local outdoor community in the High Country. Buy, Sell or Trade your lightly used gear. Enjoy live music, art vendors, free raffles, bike and climb competiti",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/high-country-gear-fest/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "6353ab714c71",
       "title": "Boom-De-Ay",
       "date": "2026-05-02T18:00:00.209000",
@@ -884,7 +862,7 @@
       "id": "de626ed85945",
       "title": "Weekly Trivia @ South End",
       "date": "2026-05-04T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-05-04/",
@@ -928,7 +906,7 @@
       "id": "f342d87d7059",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-05-07T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-07/",
@@ -1093,7 +1071,7 @@
       "id": "de7193aa277d",
       "title": "Weekly Trivia @ South End",
       "date": "2026-05-11T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-05-11/",
@@ -1159,7 +1137,7 @@
       "id": "6135e532bd92",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-05-14T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-14/",
@@ -1187,6 +1165,17 @@
       "url": "https://allevents.in/asheville/manic-focus-russ-liquid-in-asheville/3300029958021959",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "323026acd6b1",
+      "title": "Manic Focus + Russ Liquid at Sly Grog Lounge",
+      "date": "2026-05-15T00:00:00",
+      "location": "Sly Grog Lounge, 271 Haywood St, Asheville, NC 28801-2618, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/manic-focus-russ-liquid-at-sly-grog-lounge/200029920176240",
+      "latitude": 35.594238,
+      "longitude": -82.562767
     },
     {
       "id": "a193368eaab1",
@@ -1280,7 +1269,7 @@
       "id": "efd96e85d616",
       "title": "Weekly Trivia @ South End",
       "date": "2026-05-18T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-05-18/",
@@ -1346,7 +1335,7 @@
       "id": "241f81738d8f",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-05-21T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-21/",
@@ -1440,17 +1429,6 @@
       "url": "https://allevents.in/asheville/asheville-memorial-day-weekend-bar-crawl-2026/100001985377635954",
       "latitude": 35.588284,
       "longitude": -82.553627
-    },
-    {
-      "id": "f559ecb03800",
-      "title": "Cole Chaney and Kyova at The Grey Eagle",
-      "date": "2026-05-23T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/cole-chaney-and-kyova-at-the-grey-eagle/200029856631216",
-      "latitude": 35.587063,
-      "longitude": -82.564362
     },
     {
       "id": "c7004c0fb492",
@@ -1566,7 +1544,7 @@
       "id": "5250479e0f27",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-05-28T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-28/",
@@ -1742,7 +1720,7 @@
       "id": "fe376ef45fb9",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-06-04T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-06-04/",
@@ -1786,7 +1764,7 @@
       "id": "9546bdf21a30",
       "title": "First Friday Art Crawl",
       "date": "2026-06-05T17:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "https://www.watauga-arts.org/first-friday-art-crawls",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-2/2026-06-05/",
@@ -1984,7 +1962,7 @@
       "id": "6d5c9c5a5b55",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-06-11T19:00:00",
-      "location": "Downtown Boone, NC",
+      "location": "NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-06-11/",
@@ -2023,17 +2001,6 @@
       "url": "https://grandfather.com/event/educator-workshop-methods/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
-    },
-    {
-      "id": "f48b2dd5ca5a",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-06-12T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-06-12/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "d1ba3c93c766",
@@ -3565,8 +3532,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-19T16:36:52.586517",
-  "total_events": 324,
+  "last_updated": "2026-04-19T22:25:37.499611",
+  "total_events": 321,
   "sources": [
     "Manual Events",
     "High Country Host",
