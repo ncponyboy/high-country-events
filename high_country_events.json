@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "6211927148e5",
-      "title": "The Pearl Institute Bicycle Day Symposium at Revival (Asheville)",
-      "date": "2026-04-19T00:00:00",
-      "location": "66 Asheland Avenue, Asheville, NC, United States, North Carolina 28801, 66 Asheland Ave, Asheville, NC 28801-3246, Unite",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/the-pearl-institute-bicycle-day-symposium-at-revival-asheville/200029767027226",
-      "latitude": 35.591808,
-      "longitude": -82.556229
-    },
-    {
-      "id": "9cfcf5dd1fc1",
-      "title": "Italian Bred",
-      "date": "2026-04-19T00:00:00.787000",
-      "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
-      "description": "Candice Guardino\u2019s hit comedy&nbsp;Italian Bred&nbsp;is coming to Asheville\u2019s Wortham Arts for&nbsp;one night only. After sold-out runs in NYC, Chicago, and LA, Candice brings her unforgettable solo s",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/italian-bred",
-      "latitude": 35.5943438,
-      "longitude": -82.5511352
-    },
-    {
       "id": "b003f69ce053",
       "title": "Ed Perzel Chamber Music Series: Terra String Quartet",
       "date": "2026-04-19T10:00:00",
@@ -52,6 +30,17 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/contra-dance/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "cc4c5b846074",
+      "title": "MerleFest",
+      "date": "2026-04-19T14:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/merlefest/2026-04-23/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -287,6 +276,39 @@
       "longitude": -82.553902
     },
     {
+      "id": "ea134432e1be",
+      "title": "Asheville Greek Festival Spring Drive Thru",
+      "date": "2026-04-24T00:00:00",
+      "location": "227 Cumberland Ave, Asheville, NC, United States, North Carolina 28801, 227 Cumberland Ave, Asheville, NC 28801-1735, Un",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/asheville-greek-festival-spring-drive-thru/200029792477141",
+      "latitude": 35.604832,
+      "longitude": -82.563148
+    },
+    {
+      "id": "87ae97719d93",
+      "title": "Brevard Square Dance",
+      "date": "2026-04-24T17:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/square-dance-brevard/2026-04-24/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "6243db727b9a",
+      "title": "\u201cSit a Spell\u201d \u2013 Traditional Music Sessions with Warren Wilson College",
+      "date": "2026-04-24T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/sit-a-spell-traditional-music-sessions-with-warren-wilson-college/2026-04-24/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "2e5da5ad7065",
       "title": "The Lorax (2012)",
       "date": "2026-04-24T18:00:00",
@@ -406,6 +428,17 @@
       "url": "https://allevents.in/asheville/kids-fest/200029847501811",
       "latitude": 35.577866,
       "longitude": -82.562111
+    },
+    {
+      "id": "0e9d3400d0a9",
+      "title": "Jazz Appreciation Month: Queen Bee and the Honeylovers | in the Palm Room at Fitz and the Wolfe",
+      "date": "2026-04-25T00:00:00",
+      "location": "1 Battery Park Ave, Asheville, NC, United States, North Carolina 28801, 1 Battery Park Ave, Asheville, NC 28801-2717, Un",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/jazz-appreciation-month-queen-bee-and-the-honeylovers-|-in-the-palm-room-at-fitz-and-the-wolfe/200029856663202",
+      "latitude": 35.59539,
+      "longitude": -82.554749
     },
     {
       "id": "da620f5f3ff4",
@@ -1376,6 +1409,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "c07a6d17a3c3",
+      "title": "Michael Gungor (Acoustic Evening)",
+      "date": "2026-05-22T00:00:00",
+      "location": "185 Clingman Avenue Asheville, NC 28801-3207, 185 Clingman Ave Ext, Asheville, NC 28801, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/michael-gungor-acoustic-evening/200029856666721",
+      "latitude": 35.587059,
+      "longitude": -82.56443
+    },
+    {
       "id": "13f3db77c095",
       "title": "Ashe Community Singers Concert",
       "date": "2026-05-22T10:00:00",
@@ -1583,6 +1627,17 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-28/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "465c7f35269f",
+      "title": "Connect Beyond Festival 2026",
+      "date": "2026-05-29T00:00:00",
+      "location": "The Orange Peel, 101 Biltmore Avenue, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/connect-beyond-festival-2026/100001987405770158",
+      "latitude": 35.591408,
+      "longitude": -82.55101
     },
     {
       "id": "bb9bc11dd920",
@@ -2069,6 +2124,17 @@
       "longitude": -82.551483
     },
     {
+      "id": "d269e67f695b",
+      "title": "Easy Star All Stars",
+      "date": "2026-06-13T00:00:00",
+      "location": "31 Patton Avenue Asheville, NC 28801-3314, 31 Patton Ave, Asheville, NC 28801-3314, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/easy-star-all-stars/200029916663959",
+      "latitude": 35.594891,
+      "longitude": -82.553017
+    },
+    {
       "id": "baa792c3f425",
       "title": "GRINDfest 2026",
       "date": "2026-06-13T00:00:00",
@@ -2441,6 +2507,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/theembers-featuring-craig-woolard711",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "13dcc5508ee6",
+      "title": "Eggy at Asheville Music Hall",
+      "date": "2026-07-17T00:00:00",
+      "location": "55 College Street, Asheville, NC, United States, North Carolina 28801, 55 College St, Asheville, NC 28801-2819, United S",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/eggy-at-asheville-music-hall/200029733212241",
+      "latitude": 35.5952,
+      "longitude": -82.553123
     },
     {
       "id": "b274dc2ad602",
@@ -3530,10 +3607,21 @@
       "url": "https://www.apptheatre.org/events-and-tickets/ocms",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "a8c5c4770663",
+      "title": "Puppy Pals LIVE",
+      "date": "2027-03-20T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/puppy-pals-live",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-18T22:24:20.598229",
-  "total_events": 321,
+  "last_updated": "2026-04-19T11:40:20.719448",
+  "total_events": 329,
   "sources": [
     "Manual Events",
     "High Country Host",
