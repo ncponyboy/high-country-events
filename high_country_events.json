@@ -1,50 +1,6 @@
 {
   "events": [
     {
-      "id": "b003f69ce053",
-      "title": "Ed Perzel Chamber Music Series: Terra String Quartet",
-      "date": "2026-04-19T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/terra/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "f025c233a9e9",
-      "title": "The Amazing Adventures of Kavalier & Clay",
-      "date": "2026-04-19T13:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/amazing-adventures-kavelier-clay",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "4edb89cfd449",
-      "title": "Community Contra & Bal Folk Dance",
-      "date": "2026-04-19T14:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/contra-dance/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "cc4c5b846074",
-      "title": "MerleFest",
-      "date": "2026-04-19T14:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/merlefest/2026-04-23/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "6cde82050cd3",
       "title": "Old Farmer\u2019s Ball Family Dance",
       "date": "2026-04-19T15:00:00",
@@ -1231,17 +1187,6 @@
       "url": "https://allevents.in/asheville/manic-focus-russ-liquid-in-asheville/3300029958021959",
       "latitude": 35.595058,
       "longitude": -82.551483
-    },
-    {
-      "id": "323026acd6b1",
-      "title": "Manic Focus + Russ Liquid at Sly Grog Lounge",
-      "date": "2026-05-15T00:00:00",
-      "location": "Sly Grog Lounge, 271 Haywood St, Asheville, NC 28801-2618, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/manic-focus-russ-liquid-at-sly-grog-lounge/200029920176240",
-      "latitude": 35.594238,
-      "longitude": -82.562767
     },
     {
       "id": "a193368eaab1",
@@ -3620,8 +3565,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-19T11:40:20.719448",
-  "total_events": 329,
+  "last_updated": "2026-04-19T16:36:52.586517",
+  "total_events": 324,
   "sources": [
     "Manual Events",
     "High Country Host",
