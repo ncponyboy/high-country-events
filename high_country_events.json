@@ -45,6 +45,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "e10a1b6e0c0f",
+      "title": "MerleFest",
+      "date": "2026-04-21T17:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/merlefest/2026-04-23/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "51c21e29a60e",
       "title": "Colossus: The Forbin Project (1970)",
       "date": "2026-04-21T18:00:00",
@@ -408,6 +419,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "0b5394237a73",
+      "title": "Alleghany Jubilee",
+      "date": "2026-04-25T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-04-25/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "b49b36383799",
       "title": "Funny Fest",
       "date": "2026-04-25T19:00:00",
@@ -560,6 +582,17 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-30/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "b2a5903a92f5",
+      "title": "Travis(SCI), Magner(tDB) &amp; Lane(Dead &amp; Co.) @ Third Room",
+      "date": "2026-05-01T00:00:00",
+      "location": "46 Wall Street, Asheville, NC, United States, North Carolina 28801, 46 Wall St, Asheville, NC 28801-2710, United States,",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/travissci-magnertdb-and-lanedead-and-co-third-room/200029920143723",
+      "latitude": 35.59449,
+      "longitude": -82.555992
     },
     {
       "id": "76fa36e80a65",
@@ -1002,17 +1035,6 @@
       "longitude": -82.551147
     },
     {
-      "id": "ab8cb12aa7d9",
-      "title": "The Ephemeral Garden: A Mystical Marketplace &amp; Soir\u00e9e",
-      "date": "2026-05-09T00:00:00",
-      "location": "150 S Lexington Ave, Asheville, NC, United States, North Carolina 28801, 150 S Lexington Ave, Asheville, NC 28801-3608, ",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/the-ephemeral-garden-a-mystical-marketplace-and-soir\u00e9e/200029949854735",
-      "latitude": 35.590569,
-      "longitude": -82.551811
-    },
-    {
       "id": "62135cdec747",
       "title": "Mother's Day Tea Party",
       "date": "2026-05-09T00:00:00",
@@ -1022,6 +1044,17 @@
       "url": "https://allevents.in/asheville/mothers-day-tea-party/100001982890187930",
       "latitude": 35.619991,
       "longitude": -82.543251
+    },
+    {
+      "id": "ab8cb12aa7d9",
+      "title": "The Ephemeral Garden: A Mystical Marketplace &amp; Soir\u00e9e",
+      "date": "2026-05-09T00:00:00",
+      "location": "150 S Lexington Ave, Asheville, NC, United States, North Carolina 28801, 150 S Lexington Ave, Asheville, NC 28801-3608, ",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/the-ephemeral-garden-a-mystical-marketplace-and-soir\u00e9e/200029949854735",
+      "latitude": 35.590569,
+      "longitude": -82.551811
     },
     {
       "id": "aff256e34aad",
@@ -1110,6 +1143,17 @@
       "url": "https://allevents.in/asheville/sold-out-an-evening-with-sun-kil-moon-at-the-grey-eagle/200029446318934",
       "latitude": 35.587063,
       "longitude": -82.564362
+    },
+    {
+      "id": "05d3d4352236",
+      "title": "AEW Presents Dynamite",
+      "date": "2026-05-13T00:00:00",
+      "location": "Harrah's Cherokee Center - Asheville, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/aew-presents-dynamite/210001249608648",
+      "latitude": 35.597469,
+      "longitude": -82.55529
     },
     {
       "id": "1d9b0b429fe0",
@@ -3114,6 +3158,17 @@
       "longitude": -80.850001
     },
     {
+      "id": "e993d8f5ca2d",
+      "title": "2026 Oktoberfest Half Marathon &amp; 5k",
+      "date": "2026-10-03T00:00:00",
+      "location": "Hi-Wire Brewing RAD Beer Garden, 284 Lyman St, Asheville, NC 28801-4742, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/2026-oktoberfest-half-marathon-and-5k/200029090288244",
+      "latitude": 35.582748,
+      "longitude": -82.56575
+    },
+    {
       "id": "998e8db64bbe",
       "title": "After a Helene Hiatus, Banner Elk\u2019s Woolly Worm Festival Returns Oct. 18-19",
       "date": "2026-10-03T10:00:00",
@@ -3530,10 +3585,21 @@
       "url": "https://www.apptheatre.org/events-and-tickets/puppy-pals-live",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "501dad1296eb",
+      "title": "Tristan und Isolde",
+      "date": "2027-03-21T12:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/tristan-und-isolde",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-19T22:25:37.499611",
-  "total_events": 321,
+  "last_updated": "2026-04-20T12:08:19.589482",
+  "total_events": 327,
   "sources": [
     "Manual Events",
     "High Country Host",
