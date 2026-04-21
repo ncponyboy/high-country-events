@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "id": "c28d9e807c43",
-      "title": "Stecoah Community Jam",
-      "date": "2026-04-21T17:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/stecoah-community-jam/2026-04-21/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "e10a1b6e0c0f",
-      "title": "MerleFest",
-      "date": "2026-04-21T17:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/merlefest/2026-04-23/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "51c21e29a60e",
-      "title": "Colossus: The Forbin Project (1970)",
-      "date": "2026-04-21T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/colossus-forbin-project",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "8d934fdab422",
       "title": "Opening Day",
       "date": "2026-04-21T21:30:00.715000",
@@ -727,6 +694,17 @@
       "longitude": -82.52179
     },
     {
+      "id": "cb59d7cbbd32",
+      "title": "Busker Fest",
+      "date": "2026-05-02T00:00:00",
+      "location": "River Arts District, Asheville, NC, United States, North Carolina 28801, 175 Clingman Ave, Asheville, NC 28801-3207, Uni",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/busker-fest/200029969610020",
+      "latitude": 35.588188,
+      "longitude": -82.564651
+    },
+    {
       "id": "a692dbbf4644",
       "title": "Bluegrass &amp; Brews",
       "date": "2026-05-02T00:00:00",
@@ -892,17 +870,6 @@
       "longitude": -82.55597519999999
     },
     {
-      "id": "9b2be90c6dfe",
-      "title": "Asheville Cinco De Mayo Bar Crawl",
-      "date": "2026-05-05T00:00:00",
-      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-cinco-de-mayo-bar-crawl/100001356216322529",
-      "latitude": 35.588284,
-      "longitude": -82.553627
-    },
-    {
       "id": "0e12ba7bc0ae",
       "title": "Ryan Montbleau (solo) at The Grey Eagle",
       "date": "2026-05-07T00:00:00",
@@ -956,6 +923,17 @@
       "url": "https://www.ashevilledowntown.org/events/mosaic-art-walk-benefit",
       "latitude": 35.5951,
       "longitude": -82.5515
+    },
+    {
+      "id": "22a7bb9dd055",
+      "title": "Square Dance Party to Benefit Buncombe County JAM Programs",
+      "date": "2026-05-07T23:00:00.232000",
+      "location": "Eulogy, 10 Buxton Avenue, Asheville, NC, 28801",
+      "description": "A lively celebration of Appalachian music and community, the Asheville Square Dance Party brings live tunes from Jenny Run Away and expert calling from Phil Jamison and Michael Ismerio. Benefiting loc",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/square-dance-party-to-benefit-buncombe-county-jam-programs",
+      "latitude": 35.5883468,
+      "longitude": -82.5539256
     },
     {
       "id": "c7d7574b7ede",
@@ -1082,7 +1060,7 @@
       "id": "67410387398e",
       "title": "Artifact Handmade Mother\u2019s Day Market",
       "date": "2026-05-10T00:00:00",
-      "location": "Wedge at Foundation, 5 Foundy Street,Asheville, North Carolina, Asheville, NC",
+      "location": "Wedge at Foundation, 5 Foundy Street,Asheville,NC,United States, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
       "url": "https://allevents.in/asheville/artifact-handmade-mother\u2019s-day-market/200029856678414",
@@ -2223,6 +2201,17 @@
       "longitude": -82.564362
     },
     {
+      "id": "34a0cb1c0b79",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-06-18T19:00:00",
+      "location": "NC",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-06-18/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "032d48292f67",
       "title": "Boone's Got Talent \u2014 Boonerang 2026",
       "date": "2026-06-18T19:00:00",
@@ -2553,17 +2542,6 @@
       "longitude": -80.851589
     },
     {
-      "id": "5a8338399251",
-      "title": "Kurt Vile in Asheville",
-      "date": "2026-07-19T00:00:00",
-      "location": "The Orange Peel, The Orange Peel, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/kurt-vile-in-asheville/3300029955737904",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "68dcbd2621f6",
       "title": "Nation of Language in Asheville",
       "date": "2026-07-22T00:00:00",
@@ -2573,6 +2551,28 @@
       "url": "https://allevents.in/asheville/nation-of-language-in-asheville/3300029957592031",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "a8e83768547b",
+      "title": "\u2018Local Love\u2019 Lineup Revealed for FloydFest 26~Daydream (July 22-26, 2026)",
+      "date": "2026-07-22T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/events/local-love-lineup-revealed-for-floydfest-26daydream-july-22-26-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "70645975a0c0",
+      "title": "Announcing FloydFest 26~Daydream, July 22-26, 2026; Tedeschi Trucks Band, My Morning Jacket, Stephen Wilson Jr., Lukas Nelson to Headline \u2013 Tickets on Sale Now with \u2018Early-Bird\u2019 Pricing",
+      "date": "2026-07-22T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/entertainment/announcing-floydfest-26daydream-july-22-26-2026-tedeschi-trucks-band-my-morning-jacket-stephen-wilson-jr-lukas-nelson-to-headline-tickets-on-sale-now.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "bbb3e3c9fdfa",
@@ -2883,6 +2883,17 @@
       "longitude": -82.5490674
     },
     {
+      "id": "275a2f1a5318",
+      "title": "Watauga County Farmers\u2019 Market to Celebrate Hispanic Heritage Day with Q\u2019Pasa Appalachia",
+      "date": "2026-08-27T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/watauga-county-farmers-market-to-celebrate-hispanic-heritage-day-with-qpasa-appalachia.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "dca87d1cea94",
       "title": "Chiodos, 156/Silence, sace6 in Asheville",
       "date": "2026-08-28T00:00:00",
@@ -2938,6 +2949,28 @@
       "longitude": -80.850001
     },
     {
+      "id": "15146c818e35",
+      "title": "Watauga County GOP Announces Lincoln\u2013Reagan Dinner Featuring Congressman Jim Jordan",
+      "date": "2026-09-03T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/events/watauga-county-gop-announces-lincoln-reagan-dinner-featuring-congressman-jim-jordan.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "c4d3d20c4abb",
+      "title": "Boone United Methodist Church \u2013 Fall Bazaar 2025",
+      "date": "2026-09-03T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/boone-united-methodist-church-fall-bazaar-2025.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "c02b5f0da856",
       "title": "Acid Bath, Melvins, Kylesa in Asheville",
       "date": "2026-09-05T00:00:00",
@@ -2958,6 +2991,28 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.572886,
       "longitude": -80.851589
+    },
+    {
+      "id": "007b5575c1e9",
+      "title": "Blowing Rock Art & History Museum Announces Winners of the Eighth Annual Blowing Rock Plein Air Festival Show and Sale",
+      "date": "2026-09-08T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/arts/blowing-rock-art-history-museum-announces-winners-of-the-eighth-annual-blowing-rock-plein-air-festival-show-and-sale.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "165b3adb96d9",
+      "title": "2025 Gatsby Gala Highlights",
+      "date": "2026-09-10T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/app-theatre/2025-gatsby-gala-highlights.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "f4476e3cd1ed",
@@ -2982,6 +3037,17 @@
       "longitude": -82.551483
     },
     {
+      "id": "42f1d63ca188",
+      "title": "Appalachian Theatre Announces Fall 2025 Lineup Featuring Music, Magic, Film, and More",
+      "date": "2026-09-12T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/app-state/appalachian-theatre-announces-fall-2025-lineup-featuring-music-magic-film-and-more.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "9",
       "title": "Def Leggend",
       "date": "2026-09-12T19:00:00",
@@ -2993,6 +3059,28 @@
       "longitude": -81.5065
     },
     {
+      "id": "7597c6980a54",
+      "title": "St. Mary of the Hills welcomes SoLa Bazaar on Sunday, September 14",
+      "date": "2026-09-14T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/st-mary-of-the-hills-welcomes-sola-bazaar-on-sunday-september-14.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "144eca44b463",
+      "title": "Frank and Kay Golf Classic is Back at Restored Hound Ears Club",
+      "date": "2026-09-16T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/frank-and-kay-golf-classic-is-back-at-restored-hound-ears-club.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "aed57a5bb9a8",
       "title": "Bronwyn Keith-Hynes",
       "date": "2026-09-17T19:30:00",
@@ -3002,6 +3090,50 @@
       "url": "https://www.apptheatre.org/events-and-tickets/bronwyn-keith-hynes",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "6e40c33c5263",
+      "title": "Buskers Fest Returns to Downtown Boone on Saturday, September 20, 2025",
+      "date": "2026-09-20T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/buskers-fest-returns-to-downtown-boone-on-saturday-september-20-2025.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "557d29d21b07",
+      "title": "National Storytelling Festival returns to Jonesborough Oct. 3\u20135",
+      "date": "2026-09-22T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/national-storytelling-festival-returns-to-jonesborough-oct-3-5.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "811835abccbf",
+      "title": "Watauga County Habitat for Humanity \u2013 Blueprints and Bow Ties Press Release \u2013 2025",
+      "date": "2026-09-22T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/watauga-county-habitat-for-humanity-blueprints-and-bow-ties-press-release-2025.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "8abe7556c39f",
+      "title": "HCC A Night at Chetola is a hit!",
+      "date": "2026-09-23T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/hcc-a-night-at-chetola-is-a-hit.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "202c4897c9a8",
@@ -3026,6 +3158,17 @@
       "longitude": -82.603394
     },
     {
+      "id": "2af370aa64af",
+      "title": "VCF 2025 \u2013 \u201cNeighbors Helping Neighbors\u201d Release",
+      "date": "2026-09-25T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/vcf-2025-neighbors-helping-neighbors-release.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "10",
       "title": "Shot Through the Heart",
       "date": "2026-09-26T19:00:00",
@@ -3035,6 +3178,39 @@
       "source": "Saloon Studios",
       "latitude": 36.3551,
       "longitude": -81.5065
+    },
+    {
+      "id": "b2e85ad5f105",
+      "title": "VCF 2025 \u2013 Gallehers 31st Year as BBQ Bosses",
+      "date": "2026-09-29T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/vcf-2025-gallehers-31st-year-as-bbq-bosses.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "ce109f8a0c3f",
+      "title": "VCF 2025 \u2013 \u201cCome Hungry to the Fair!\u201d",
+      "date": "2026-09-30T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/vcf-2025-come-hungry-to-the-fair.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "73737cfdee37",
+      "title": "Blowing Rock School Fall Festival Celebrates Community Resilience",
+      "date": "2026-10-01T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/blowing-rock-school-fall-festival-celebrates-community-resilience.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "abaf878e6c8a",
@@ -3048,15 +3224,26 @@
       "longitude": -80.850001
     },
     {
-      "id": "e993d8f5ca2d",
-      "title": "2026 Oktoberfest Half Marathon &amp; 5k",
-      "date": "2026-10-03T00:00:00",
-      "location": "Hi-Wire Brewing RAD Beer Garden, 284 Lyman St, Asheville, NC 28801-4742, United States, Asheville, NC",
+      "id": "998e8db64bbe",
+      "title": "After a Helene Hiatus, Banner Elk\u2019s Woolly Worm Festival Returns Oct. 18-19",
+      "date": "2026-10-03T10:00:00",
+      "location": "Boone, NC",
       "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/2026-oktoberfest-half-marathon-and-5k/200029090288244",
-      "latitude": 35.582748,
-      "longitude": -82.56575
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/after-a-helene-hiatus-banner-elks-woolly-worm-festival-returns-oct-18-19.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "1f20bcec63b1",
+      "title": "Dia Latino at the King Street Farmer\u2019s Market and the Upcoming Winter Market!",
+      "date": "2026-10-03T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/dia-latino-at-the-king-street-farmers-market-and-the-upcoming-winter-market.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "7924e406b68b",
@@ -3068,6 +3255,17 @@
       "url": "https://www.ashevilledowntown.org/events/oktoberfest-7x65p-h728z",
       "latitude": 35.595745,
       "longitude": -82.549016
+    },
+    {
+      "id": "cbd8e4649214",
+      "title": "AppleFEST at the Watauga County Farmers\u2019 Market \u2013 Saturday, October 4th",
+      "date": "2026-10-04T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/applefest-at-the-watauga-county-farmers-market-saturday-october-4th.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "466d182918b7",
@@ -3114,6 +3312,28 @@
       "longitude": -82.564362
     },
     {
+      "id": "c84fcd2eb7e1",
+      "title": "The Original Creations of 142 Regional Craftspeople Will Be on Display at the Valle Country Fair Saturday, October 18, 2025",
+      "date": "2026-10-18T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/the-original-creations-of-142-regional-craftspeople-will-be-on-display-at-the-valle-country-fair-saturday-october-18-2025.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "f6c56775a99a",
+      "title": "The 47th Annual VALLE COUNTY FAIR Scheduled for October 18, 2025",
+      "date": "2026-10-18T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/valle-crucis/the-47th-annual-valle-county-fair-scheduled-for-october-18-2025.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "6601edc9777e",
       "title": "Asheville Halloween Bar Crawl",
       "date": "2026-10-24T00:00:00",
@@ -3134,6 +3354,17 @@
       "url": "https://allevents.in/asheville/thee-oh-sees-in-asheville/3300029396866332",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "bdf6ea193938",
+      "title": "This Year Challenge Your Ski and Snowboarding Buddies to Some Racing This Winter",
+      "date": "2026-10-29T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/sports/this-year-challenge-your-ski-and-snowboarding-buddies-to-some-racing-this-winter.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "dff3dc566773",
@@ -3202,6 +3433,17 @@
       "longitude": -82.551483
     },
     {
+      "id": "15948b412ff3",
+      "title": "Hiss Golden Messenger in Asheville",
+      "date": "2026-11-19T00:00:00",
+      "location": "The Orange Peel, The Orange Peel, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/hiss-golden-messenger-in-asheville/3300029660357628",
+      "latitude": 35.595058,
+      "longitude": -82.551483
+    },
+    {
       "id": "ea74449b5b16",
       "title": "Asheville Holiday Parade",
       "date": "2026-11-21T16:00:00.054000",
@@ -3222,6 +3464,17 @@
       "url": "https://allevents.in/asheville/asheville-official-thanksgiving-eve-bar-crawl-2026/100001983725529459",
       "latitude": 35.597511,
       "longitude": -82.546059
+    },
+    {
+      "id": "10c94070b442",
+      "title": "Mountainfilm on Tour Returns to Lees-McRae for High Country Film and Speaker Series 2025\u201326 on Feb. 21 \u2013 Discounted Tickets Available Now",
+      "date": "2026-12-04T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/mountainfilm-on-tour-returns-to-lees-mcrae-for-high-country-film-and-speaker-series-2025-26-on-feb-21-discounted-tickets-available-now.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "578adbec7d2a",
@@ -3378,8 +3631,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-21T16:57:44.874926",
-  "total_events": 307,
+  "last_updated": "2026-04-21T22:31:47.789505",
+  "total_events": 330,
   "sources": [
     "Manual Events",
     "High Country Host",
