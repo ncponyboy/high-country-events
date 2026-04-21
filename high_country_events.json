@@ -562,17 +562,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "b2a5903a92f5",
-      "title": "Travis(SCI), Magner(tDB) &amp; Lane(Dead &amp; Co.) @ Third Room",
-      "date": "2026-05-01T00:00:00",
-      "location": "46 Wall Street, Asheville, NC, United States, North Carolina 28801, 46 Wall St, Asheville, NC 28801-2710, United States,",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/travissci-magnertdb-and-lanedead-and-co-third-room/200029920143723",
-      "latitude": 35.59449,
-      "longitude": -82.555992
-    },
-    {
       "id": "76fa36e80a65",
       "title": "An Evening With Chris Smither at The Grey Eagle",
       "date": "2026-05-01T00:00:00",
@@ -901,6 +890,17 @@
       "url": "https://www.ashevilledowntown.org/events/member-mixer-marketing-growth-for-downtown-businesses",
       "latitude": 35.5944374,
       "longitude": -82.55597519999999
+    },
+    {
+      "id": "9b2be90c6dfe",
+      "title": "Asheville Cinco De Mayo Bar Crawl",
+      "date": "2026-05-05T00:00:00",
+      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/asheville-cinco-de-mayo-bar-crawl/100001356216322529",
+      "latitude": 35.588284,
+      "longitude": -82.553627
     },
     {
       "id": "0e12ba7bc0ae",
@@ -2369,7 +2369,7 @@
       "id": "3f4c3e5b755e",
       "title": "HENRY CHO: THE EMPTY NEST TOUR",
       "date": "2026-06-27T00:00:00",
-      "location": "The Orange Peel, 101 Biltmore ave,Asheville, North Carolina, Asheville, NC",
+      "location": "The Orange Peel, 101 Biltmore ave,Asheville,NC,United States, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
       "url": "https://allevents.in/asheville/henry-cho-the-empty-nest-tour/200029856672651",
@@ -2710,12 +2710,12 @@
       "id": "97b813167e36",
       "title": "Rhiannon Giddens presents American Tunes: Lift Ev\u2019ry Voice and Sing @ Hellbender",
       "date": "2026-08-01T00:00:00",
-      "location": "151 Thompson St, Asheville, NC 28803-1443, United States, 151 Thompson St, Asheville, NC 28803-1443, United States, Ashe",
+      "location": "Hellbender by The Orange Peel, 151 Thompson St,Asheville,NC,United States, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
       "url": "https://allevents.in/asheville/rhiannon-giddens-presents-american-tunes-lift-ev\u2019ry-voice-and-sing-hellbender/200029828024533",
-      "latitude": 35.575272,
-      "longitude": -82.52536
+      "latitude": 35.573601,
+      "longitude": -82.526672
     },
     {
       "id": "a84e828daaa0",
@@ -3642,7 +3642,7 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-20T22:34:37.643115",
+  "last_updated": "2026-04-21T12:03:19.683194",
   "total_events": 331,
   "sources": [
     "Manual Events",
