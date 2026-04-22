@@ -518,17 +518,6 @@
       "longitude": -82.555992
     },
     {
-      "id": "7ec4d7aa8249",
-      "title": "Growing In The Mountains",
-      "date": "2026-05-01T00:00:00",
-      "location": "570 Brevard Rd, Asheville, NC, 570 NC-191, Asheville, NC 28806-2305, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/growing-in-the-mountains/200029680074825",
-      "latitude": 35.554359,
-      "longitude": -82.599258
-    },
-    {
       "id": "76fa36e80a65",
       "title": "An Evening With Chris Smither at The Grey Eagle",
       "date": "2026-05-01T00:00:00",
@@ -538,6 +527,17 @@
       "url": "https://allevents.in/asheville/an-evening-with-chris-smither-at-the-grey-eagle/200029319812711",
       "latitude": 35.587063,
       "longitude": -82.564362
+    },
+    {
+      "id": "7ec4d7aa8249",
+      "title": "Growing In The Mountains",
+      "date": "2026-05-01T00:00:00",
+      "location": "570 Brevard Rd, Asheville, NC, 570 NC-191, Asheville, NC 28806-2305, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/growing-in-the-mountains/200029680074825",
+      "latitude": 35.554359,
+      "longitude": -82.599258
     },
     {
       "id": "6104166cfed8",
@@ -714,17 +714,6 @@
       "url": "https://allevents.in/asheville/the-nude-party-w-tobacco-city-at-the-grey-eagle/200029100872017",
       "latitude": 35.587063,
       "longitude": -82.564362
-    },
-    {
-      "id": "d0f9f34ed248",
-      "title": "Do The Crawl de Mayo in Asheville!",
-      "date": "2026-05-02T00:00:00",
-      "location": "Pillar Rooftop Bar, 309 College Street, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/do-the-crawl-de-mayo-in-asheville/100001985182648742",
-      "latitude": 35.597012,
-      "longitude": -82.546196
     },
     {
       "id": "bb66b504b741",
@@ -3620,8 +3609,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-22T12:02:08.156429",
-  "total_events": 329,
+  "last_updated": "2026-04-22T16:56:24.059224",
+  "total_events": 328,
   "sources": [
     "Manual Events",
     "High Country Host",
