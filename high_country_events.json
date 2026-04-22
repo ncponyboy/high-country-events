@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "8d934fdab422",
-      "title": "Opening Day",
-      "date": "2026-04-21T21:30:00.715000",
-      "location": "HomeTrust Park, 30 Buchanan Place, Asheville, NC, 28801",
-      "description": "Opening Day at the ballpark! Catch the Asheville Tourists take on the Greenville Drive, plus score a Magnetic Schedule Giveaway Presented by BIMCO, Hands Free NC, and Ingles",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/opening-day",
-      "latitude": 35.5877329,
-      "longitude": -82.54983589999999
-    },
-    {
-      "id": "a0a4ca2d427c",
-      "title": "Superchunk",
-      "date": "2026-04-22T00:00:00",
-      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/superchunk/200029722041834",
-      "latitude": 35.588348,
-      "longitude": -82.553902
-    },
-    {
       "id": "291006c770d6",
       "title": "Chill Your Chug",
       "date": "2026-04-22T15:30:00.462000",
@@ -41,6 +19,17 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-04-22/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "853fa7adee17",
+      "title": "MerleFest",
+      "date": "2026-04-22T18:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/merlefest/2026-04-23/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -529,17 +518,6 @@
       "longitude": -82.555992
     },
     {
-      "id": "76fa36e80a65",
-      "title": "An Evening With Chris Smither at The Grey Eagle",
-      "date": "2026-05-01T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/an-evening-with-chris-smither-at-the-grey-eagle/200029319812711",
-      "latitude": 35.587063,
-      "longitude": -82.564362
-    },
-    {
       "id": "7ec4d7aa8249",
       "title": "Growing In The Mountains",
       "date": "2026-05-01T00:00:00",
@@ -549,6 +527,17 @@
       "url": "https://allevents.in/asheville/growing-in-the-mountains/200029680074825",
       "latitude": 35.554359,
       "longitude": -82.599258
+    },
+    {
+      "id": "76fa36e80a65",
+      "title": "An Evening With Chris Smither at The Grey Eagle",
+      "date": "2026-05-01T00:00:00",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/an-evening-with-chris-smither-at-the-grey-eagle/200029319812711",
+      "latitude": 35.587063,
+      "longitude": -82.564362
     },
     {
       "id": "6104166cfed8",
@@ -870,6 +859,17 @@
       "longitude": -82.55597519999999
     },
     {
+      "id": "9b2be90c6dfe",
+      "title": "Asheville Cinco De Mayo Bar Crawl",
+      "date": "2026-05-05T00:00:00",
+      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/asheville-cinco-de-mayo-bar-crawl/100001356216322529",
+      "latitude": 35.588284,
+      "longitude": -82.553627
+    },
+    {
       "id": "0e12ba7bc0ae",
       "title": "Ryan Montbleau (solo) at The Grey Eagle",
       "date": "2026-05-07T00:00:00",
@@ -1005,7 +1005,7 @@
       "id": "aaadb7386532",
       "title": "Baby Wants Candy \u2013 Presented by Asheville Improv Festival",
       "date": "2026-05-09T00:00:00",
-      "location": "The Orange Peel, 101 Biltmore ave,Asheville, North Carolina, Asheville, NC",
+      "location": "The Orange Peel, 101 Biltmore ave,Asheville,NC,United States, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
       "url": "https://allevents.in/asheville/baby-wants-candy-presented-by-asheville-improv-festival/200029929512736",
@@ -2542,17 +2542,6 @@
       "longitude": -80.851589
     },
     {
-      "id": "68dcbd2621f6",
-      "title": "Nation of Language in Asheville",
-      "date": "2026-07-22T00:00:00",
-      "location": "Eulogy, Eulogy, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/nation-of-language-in-asheville/3300029957592031",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "a8e83768547b",
       "title": "\u2018Local Love\u2019 Lineup Revealed for FloydFest 26~Daydream (July 22-26, 2026)",
       "date": "2026-07-22T10:00:00",
@@ -3026,17 +3015,6 @@
       "longitude": -81.499
     },
     {
-      "id": "5c078c49b3f2",
-      "title": "The Bouncing Souls, The Suicide Machines, Strike Anywhere, Human Issue in Asheville",
-      "date": "2026-09-12T00:00:00",
-      "location": "The Orange Peel, The Orange Peel, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/the-bouncing-souls-the-suicide-machines-strike-anywhere-human-issue-in-asheville/3300029957540212",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "42f1d63ca188",
       "title": "Appalachian Theatre Announces Fall 2025 Lineup Featuring Music, Magic, Film, and More",
       "date": "2026-09-12T10:00:00",
@@ -3222,6 +3200,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
+    },
+    {
+      "id": "e993d8f5ca2d",
+      "title": "2026 Oktoberfest Half Marathon &amp; 5k",
+      "date": "2026-10-03T00:00:00",
+      "location": "Hi-Wire Brewing RAD Beer Garden, 284 Lyman St, Asheville, NC 28801-4742, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/2026-oktoberfest-half-marathon-and-5k/200029090288244",
+      "latitude": 35.582748,
+      "longitude": -82.56575
     },
     {
       "id": "998e8db64bbe",
@@ -3631,8 +3620,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-21T22:31:47.789505",
-  "total_events": 330,
+  "last_updated": "2026-04-22T12:02:08.156429",
+  "total_events": 329,
   "sources": [
     "Manual Events",
     "High Country Host",
