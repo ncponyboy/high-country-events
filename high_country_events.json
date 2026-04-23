@@ -111,6 +111,17 @@
       "longitude": -82.553902
     },
     {
+      "id": "a4ff5fd16a3b",
+      "title": "Polyrhythmics w/ Cris Jacobs",
+      "date": "2026-04-24T00:00:00",
+      "location": "31 Patton Avenue Asheville, NC 28801-3314, 31 Patton Ave, Asheville, NC 28801-3314, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/polyrhythmics-w-cris-jacobs/200029500557750",
+      "latitude": 35.594891,
+      "longitude": -82.553017
+    },
+    {
       "id": "87ae97719d93",
       "title": "Brevard Square Dance",
       "date": "2026-04-24T17:30:00",
@@ -826,6 +837,17 @@
       "longitude": -82.55597519999999
     },
     {
+      "id": "9b2be90c6dfe",
+      "title": "Asheville Cinco De Mayo Bar Crawl",
+      "date": "2026-05-05T00:00:00",
+      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/asheville-cinco-de-mayo-bar-crawl/100001356216322529",
+      "latitude": 35.588284,
+      "longitude": -82.553627
+    },
+    {
       "id": "0e12ba7bc0ae",
       "title": "Ryan Montbleau (solo) at The Grey Eagle",
       "date": "2026-05-07T00:00:00",
@@ -1332,17 +1354,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "c07a6d17a3c3",
-      "title": "Michael Gungor (Acoustic Evening)",
-      "date": "2026-05-22T00:00:00",
-      "location": "185 Clingman Avenue Asheville, NC 28801-3207, 185 Clingman Ave Ext, Asheville, NC 28801, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/michael-gungor-acoustic-evening/200029856666721",
-      "latitude": 35.587059,
-      "longitude": -82.56443
-    },
-    {
       "id": "13f3db77c095",
       "title": "Ashe Community Singers Concert",
       "date": "2026-05-22T10:00:00",
@@ -1451,17 +1462,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.572886,
       "longitude": -80.851589
-    },
-    {
-      "id": "3b364ee43285",
-      "title": "SocialFest",
-      "date": "2026-05-24T00:00:00",
-      "location": "1078 Tunnel Rd, Asheville, NC, United States, North Carolina 28805, 1078 Tunnel Rd, Asheville, NC 28805-2044, United Sta",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/socialfest/200029977315230",
-      "latitude": 35.587799,
-      "longitude": -82.490723
     },
     {
       "id": "15e7a126af05",
@@ -3169,6 +3169,17 @@
       "longitude": -80.850001
     },
     {
+      "id": "e993d8f5ca2d",
+      "title": "2026 Oktoberfest Half Marathon &amp; 5k",
+      "date": "2026-10-03T00:00:00",
+      "location": "Hi-Wire Brewing RAD Beer Garden, 284 Lyman St, Asheville, NC 28801-4742, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/2026-oktoberfest-half-marathon-and-5k/200029090288244",
+      "latitude": 35.582748,
+      "longitude": -82.56575
+    },
+    {
       "id": "998e8db64bbe",
       "title": "After a Helene Hiatus, Banner Elk\u2019s Woolly Worm Festival Returns Oct. 18-19",
       "date": "2026-10-03T10:00:00",
@@ -3565,8 +3576,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-23T12:02:26.167764",
-  "total_events": 324,
+  "last_updated": "2026-04-23T17:17:06.424507",
+  "total_events": 325,
   "sources": [
     "Manual Events",
     "High Country Host",
