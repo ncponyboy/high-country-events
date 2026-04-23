@@ -1,72 +1,6 @@
 {
   "events": [
     {
-      "id": "7960f43f865d",
-      "title": "MerleFest",
-      "date": "2026-04-23T17:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/merlefest/2026-04-23/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "5f402ec8e801",
-      "title": "Old-Time Jam at the Reeves",
-      "date": "2026-04-23T17:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/old-time-jam-at-the-reeves-2/2026-04-23/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "36b3c3796034",
-      "title": "Christian Harmony Sing \u2013 Asheville NC",
-      "date": "2026-04-23T18:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-04-23/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "ca9d8b4c7764",
-      "title": "Community Jam \u2013 Crown Restaurant",
-      "date": "2026-04-23T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-04-23/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "8364eb34ffbd",
-      "title": "Weekly Jam Sessions at the Jones House",
-      "date": "2026-04-23T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-04-23/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "cd739be57e3e",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-04-23T19:00:00",
-      "location": "NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-23/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "7aa134895639",
       "title": "Game Day",
       "date": "2026-04-23T21:30:00.715000",
@@ -716,6 +650,17 @@
       "longitude": -81.499
     },
     {
+      "id": "6b13bfe7fc7f",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-02T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "70ff5f02a451",
       "title": "Eugene Onegin",
       "date": "2026-05-02T13:00:00",
@@ -771,6 +716,17 @@
       "longitude": -82.564362
     },
     {
+      "id": "d7c3254cfcf5",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-03T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "e026e8d79898",
       "title": "Star Wars: A New Hope",
       "date": "2026-05-03T14:00:00",
@@ -802,6 +758,17 @@
       "url": "https://allevents.in/asheville/built-to-spill-in-asheville/3300029958110740",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "69fa88f97a7b",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-04T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "3eaebaea39ce",
@@ -958,6 +925,17 @@
       "longitude": -82.550095
     },
     {
+      "id": "0d4a116e1ae1",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-08T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "f7ef1be324f5",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-05-08T19:00:00",
@@ -1024,6 +1002,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "92140725f24c",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-09T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "66333ba2d1e9",
       "title": "Boone Dance Trove - Spring Recital",
       "date": "2026-05-09T16:00:00",
@@ -1046,6 +1035,17 @@
       "longitude": -82.566277
     },
     {
+      "id": "b83acc863d03",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-10T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "855e29693a60",
       "title": "Noel & Mara",
       "date": "2026-05-10T17:00:00",
@@ -1055,6 +1055,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/noel-maria-hcjs",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "70cac99c404f",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-11T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "de7193aa277d",
@@ -1165,17 +1176,6 @@
       "url": "https://allevents.in/asheville/dark-star-orchestra/200029785211602",
       "latitude": 35.592072,
       "longitude": -82.555382
-    },
-    {
-      "id": "a5a5fc819541",
-      "title": "Manic Focus, Russ Liquid in Asheville",
-      "date": "2026-05-15T00:00:00",
-      "location": "Sly Grog Lounge, Sly Grog Lounge, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/manic-focus-russ-liquid-in-asheville/3300029958021959",
-      "latitude": 35.595058,
-      "longitude": -82.551483
     },
     {
       "id": "323026acd6b1",
@@ -1365,6 +1365,17 @@
       "longitude": -81.499
     },
     {
+      "id": "7a5723f090c8",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-22T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "9c0a3b2d7d6e",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-05-22T19:00:00",
@@ -1431,6 +1442,17 @@
       "longitude": -82.553627
     },
     {
+      "id": "600e6d8178c0",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-23T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "c7004c0fb492",
       "title": "The Magic Flute",
       "date": "2026-05-23T13:00:00",
@@ -1464,6 +1486,17 @@
       "longitude": -80.851589
     },
     {
+      "id": "df336319b34f",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-24T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "15e7a126af05",
       "title": "Rhododendron Ramble",
       "date": "2026-05-24T13:00:00",
@@ -1473,6 +1506,17 @@
       "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-24/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "681bf331aa8e",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-25T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "1d28df5445a7",
@@ -1486,6 +1530,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "a7a450dff8e2",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-26T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "0163a13737d8",
       "title": "Rhododendron Ramble",
       "date": "2026-05-26T13:00:00",
@@ -1495,6 +1550,17 @@
       "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-26/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "2a8a98d8de2e",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-27T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "54bc502ba447",
@@ -1528,6 +1594,17 @@
       "url": "https://ashecountyarts.org/event/old-time-square-dance-with-gap-civil/",
       "latitude": 36.4332,
       "longitude": -81.499
+    },
+    {
+      "id": "53eb134cc338",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-28T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "d15ec5fbe0a3",
@@ -1585,6 +1662,17 @@
       "longitude": -82.553123
     },
     {
+      "id": "c96268ce1c14",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-29T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "a2baf40636de",
       "title": "Rhododendron Ramble",
       "date": "2026-05-29T13:00:00",
@@ -1627,6 +1715,17 @@
       "url": "https://allevents.in/asheville/classic-car-show-coxe-avenue-ashevilles-original-motor-mile/200029500831923",
       "latitude": 35.59037,
       "longitude": -82.555008
+    },
+    {
+      "id": "0ee943d74d28",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-30T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "5b2c50b67d62",
@@ -1673,6 +1772,17 @@
       "longitude": -80.851589
     },
     {
+      "id": "f8e7dc4684d2",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-05-31T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "49ae25e5d7de",
       "title": "Rhododendron Ramble",
       "date": "2026-05-31T13:00:00",
@@ -1695,6 +1805,28 @@
       "longitude": -81.8462718
     },
     {
+      "id": "e78e0df0c7cb",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-01T12:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "e8a82715b0dd",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-02T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "033d423218dc",
       "title": "Tank and The Bangas: The Last Balloon Tour at The Grey Eagle",
       "date": "2026-06-03T00:00:00",
@@ -1706,6 +1838,17 @@
       "longitude": -82.564362
     },
     {
+      "id": "f0c9c7e66702",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-03T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "4d4c39b5b382",
       "title": "An Evening With Patterson Hood (of Drive-By Truckers) at The Grey Eagle",
       "date": "2026-06-04T00:00:00",
@@ -1715,6 +1858,17 @@
       "url": "https://allevents.in/asheville/an-evening-with-patterson-hood-of-drive-by-truckers-at-the-grey-eagle/200029806321245",
       "latitude": 35.587063,
       "longitude": -82.564362
+    },
+    {
+      "id": "494b1dfdc6d5",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-04T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "fe376ef45fb9",
@@ -1748,6 +1902,17 @@
       "url": "https://grandfather.com/event/nature-photography-weekend/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "a13807564566",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-05T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "213906966325",
@@ -1860,6 +2025,17 @@
       "longitude": -82.564362
     },
     {
+      "id": "0cb593e3a09a",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-06T12:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "2",
       "title": "Heart Breaker",
       "date": "2026-06-06T19:00:00",
@@ -1937,6 +2113,61 @@
       "longitude": -82.498009
     },
     {
+      "id": "f8df75e2e0a8",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-07T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "eb12781db36e",
+      "title": "Milepost Music (Mabry Mill - Milepost 176)",
+      "date": "2026-06-07T14:00:00",
+      "location": "266 Mabry Mill Road SE Meadows of Dan, VA 24120",
+      "description": "Free traditional music concerts featuring local &amp; regional mountain musicians. Bring your chairs or a blanket to spread out and enjoy the wodnerful traditional mountain music. The concerts are can",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751449,
+      "longitude": -80.405851
+    },
+    {
+      "id": "1ee99ec4fcd4",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-08T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "93fad3d61dfc",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-09T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "7f842d004c46",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-10T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "8ebd604398de",
       "title": "El Arte del Bolero: Miguel Zen\u00f3n & Luis Perdomo",
       "date": "2026-06-10T18:30:00",
@@ -1957,6 +2188,17 @@
       "url": "https://grandfather.com/event/animal-birthday-party/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "5f3ad84f854e",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-11T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "6d5c9c5a5b55",
@@ -2001,6 +2243,17 @@
       "url": "https://grandfather.com/event/educator-workshop-methods/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "7cf85338cd6c",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-12T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "f48b2dd5ca5a",
@@ -2135,6 +2388,17 @@
       "longitude": -80.850001
     },
     {
+      "id": "ffd82bd5da66",
+      "title": "Milepost Music (Doughton Park - Milepost 238)",
+      "date": "2026-06-14T14:00:00",
+      "location": "49800 Blue Ridge Parkway Laurel Springs, NC 28644",
+      "description": "Free traditional music concerts featuring local &amp; regional mountain musicians. Bring your chairs or a blanket to spread out and enjoy the wodnerful traditional mountain music. The concerts are can",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.434258,
+      "longitude": -81.177265
+    },
+    {
       "id": "642bae249f5b",
       "title": "Emmet Cohen Trio",
       "date": "2026-06-14T15:00:00",
@@ -2146,6 +2410,39 @@
       "longitude": -81.6752
     },
     {
+      "id": "fad42b7b4daa",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-15T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "3e5fd841f5b6",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-16T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "52d8fe59ab12",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-17T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "bffe515820b8",
       "title": "THE MOTH Presents: Asheville StorySLAM - &quot;AMERICAN DREAMS&quot; at The Grey Eagle",
       "date": "2026-06-18T00:00:00",
@@ -2155,6 +2452,17 @@
       "url": "https://allevents.in/asheville/the-moth-presents-asheville-storyslam-american-dreams-at-the-grey-eagle/200029792498728",
       "latitude": 35.587063,
       "longitude": -82.564362
+    },
+    {
+      "id": "3fc878e3b60d",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-18T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "34a0cb1c0b79",
@@ -2201,6 +2509,17 @@
       "longitude": -82.564362
     },
     {
+      "id": "dc6456fa249d",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-19T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "1b2b179ec225",
       "title": "Boonerang Music & Arts Festival \u2014 Free Shows & Silent Disco",
       "date": "2026-06-19T18:00:00",
@@ -2208,6 +2527,17 @@
       "description": "Free live music on multiple stages throughout downtown Boone. Evening silent disco.",
       "source": "Boonerang Festival",
       "url": "https://www.boonerangfest.com",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "1f84a1d04a4e",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-06-19T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-06-19/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -2234,17 +2564,6 @@
       "longitude": -82.5490674
     },
     {
-      "id": "cee6a43ac080",
-      "title": "Asheville Pride Bar Crawl",
-      "date": "2026-06-20T00:00:00",
-      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-pride-bar-crawl/100001730724075299",
-      "latitude": 35.588284,
-      "longitude": -82.553627
-    },
-    {
       "id": "38b910936425",
       "title": "Mindfulness and Well-being Series: Yoga on the Mountain: Grounded and Grateful",
       "date": "2026-06-20T10:00:00",
@@ -2254,6 +2573,17 @@
       "url": "https://grandfather.com/event/mindfulness/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "6425113571aa",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-20T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "5b95240b9e05",
@@ -2289,6 +2619,17 @@
       "longitude": -80.851589
     },
     {
+      "id": "ee4711dd54f0",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-21T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "4dd2e1d5636f",
       "title": "Boonerang International Parade of Nations",
       "date": "2026-06-21T12:00:00",
@@ -2300,6 +2641,61 @@
       "longitude": -81.6746
     },
     {
+      "id": "2332e8f38a48",
+      "title": "Milepost Music (Mabry Mill - Milepost 176)",
+      "date": "2026-06-21T14:00:00",
+      "location": "266 Mabry Mill Road SE Meadows of Dan, VA 24120",
+      "description": "Free traditional music concerts featuring local &amp; regional mountain musicians. Bring your chairs or a blanket to spread out and enjoy the wodnerful traditional mountain music. The concerts are can",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751449,
+      "longitude": -80.405851
+    },
+    {
+      "id": "3392584a3a0d",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-22T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "2fbf527bb0ea",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-23T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "614b003729dd",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-24T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "3ec20e2f9029",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-25T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "c0f6d4066c94",
       "title": "HENRY CHO: THE EMPTY NEST TOUR - SECOND NIGHT ADDED!",
       "date": "2026-06-26T00:00:00",
@@ -2309,6 +2705,17 @@
       "url": "https://allevents.in/asheville/henry-cho-the-empty-nest-tour-second-night-added/200029920812612",
       "latitude": 35.591415,
       "longitude": -82.551147
+    },
+    {
+      "id": "b2db27ea2d09",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-26T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "4",
@@ -2333,15 +2740,15 @@
       "longitude": -81.5065
     },
     {
-      "id": "3f4c3e5b755e",
-      "title": "HENRY CHO: THE EMPTY NEST TOUR",
-      "date": "2026-06-27T00:00:00",
-      "location": "The Orange Peel, 101 Biltmore ave,Asheville,NC,United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/henry-cho-the-empty-nest-tour/200029856672651",
-      "latitude": 35.591415,
-      "longitude": -82.551147
+      "id": "a9c71836a6bb",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-27T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "005286ed9d8b",
@@ -2353,6 +2760,39 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.572886,
       "longitude": -80.851589
+    },
+    {
+      "id": "02f8994543ab",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-28T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "700355aa9c95",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-29T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "39a8e1d75e54",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-06-30T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "3837b9703a52",
@@ -2399,6 +2839,17 @@
       "longitude": -82.5546897
     },
     {
+      "id": "9037f42f8b98",
+      "title": "Milepost Music (Mabry Mill - Milepost 176)",
+      "date": "2026-07-05T10:00:00",
+      "location": "266 Mabry Mill Road SE Meadows of Dan, VA 24120",
+      "description": "Free traditional music concerts featuring local &amp; regional mountain musicians. Bring your chairs or a blanket to spread out and enjoy the wodnerful traditional mountain music. The concerts are can",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751449,
+      "longitude": -80.405851
+    },
+    {
       "id": "8d8c366c467b",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-07-05T12:00:00",
@@ -2421,6 +2872,50 @@
       "longitude": -81.6752
     },
     {
+      "id": "3c49fac75a79",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-06T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "b375a181c076",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-07T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "c6f9dcc3c244",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-08T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "bc211c243512",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-09T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "3a0dfdf50853",
       "title": "Downtown West Jefferson Gallery Crawl",
       "date": "2026-07-10T10:00:00",
@@ -2432,6 +2927,17 @@
       "longitude": -81.499
     },
     {
+      "id": "51331f14b9d2",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-10T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "c3978aec70f4",
       "title": "The Big Crafty",
       "date": "2026-07-11T00:00:00",
@@ -2441,6 +2947,17 @@
       "url": "https://allevents.in/asheville/the-big-crafty/200029820321937",
       "latitude": 35.597683,
       "longitude": -82.55558
+    },
+    {
+      "id": "6a0717976bf5",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-11T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "bdd10004c56b",
@@ -2465,6 +2982,72 @@
       "longitude": -81.6752
     },
     {
+      "id": "df426cc8652e",
+      "title": "Milepost Music (Doughton Park - Milepost 238)",
+      "date": "2026-07-12T10:00:00",
+      "location": "49800 Blue Ridge Parkway Laurel Springs, NC 28644",
+      "description": "Free traditional music concerts featuring local &amp; regional mountain musicians. Bring your chairs or a blanket to spread out and enjoy the wodnerful traditional mountain music. The concerts are can",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.434258,
+      "longitude": -81.177265
+    },
+    {
+      "id": "a4eb10bd2d0a",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-12T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "d854f4e1ccec",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-13T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "3ad54e81591d",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-14T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "b2c0527a9207",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-15T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "d8a05b2d0d04",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-16T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "13dcc5508ee6",
       "title": "Eggy at Asheville Music Hall",
       "date": "2026-07-17T00:00:00",
@@ -2474,6 +3057,17 @@
       "url": "https://allevents.in/asheville/eggy-at-asheville-music-hall/200029733212241",
       "latitude": 35.5952,
       "longitude": -82.553123
+    },
+    {
+      "id": "ed3f6ebf6a5d",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-17T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "b274dc2ad602",
@@ -2498,6 +3092,17 @@
       "longitude": -82.52536
     },
     {
+      "id": "db14a07ac190",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-18T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "622e6f240512",
       "title": "TopHouse - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-07-18T19:00:00",
@@ -2507,6 +3112,50 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.572886,
       "longitude": -80.851589
+    },
+    {
+      "id": "f6689a0f6168",
+      "title": "Milepost Music (Mabry Mill - Milepost 176)",
+      "date": "2026-07-19T10:00:00",
+      "location": "266 Mabry Mill Road SE Meadows of Dan, VA 24120",
+      "description": "Free traditional music concerts featuring local &amp; regional mountain musicians. Bring your chairs or a blanket to spread out and enjoy the wodnerful traditional mountain music. The concerts are can",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751449,
+      "longitude": -80.405851
+    },
+    {
+      "id": "c17ff8e250e9",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-19T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "e12136a26bb8",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-20T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "2312f1303bac",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-21T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "a8e83768547b",
@@ -2531,6 +3180,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "87b7fd0e3531",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-22T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "bbb3e3c9fdfa",
       "title": "Love Shine Play Festival 2026",
       "date": "2026-07-23T00:00:00",
@@ -2540,6 +3200,17 @@
       "url": "https://allevents.in/asheville/love-shine-play-festival-2026/100001514317527489",
       "latitude": 35.592747,
       "longitude": -82.556458
+    },
+    {
+      "id": "d90bab06fe32",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-23T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "9cfb300f79ea",
@@ -2553,6 +3224,17 @@
       "longitude": -81.814
     },
     {
+      "id": "e6fbff82070c",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-24T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "498d3deb34a3",
       "title": "Family Field Course: Grizzly Family Foraging",
       "date": "2026-07-25T10:00:00",
@@ -2562,6 +3244,17 @@
       "url": "https://grandfather.com/event/family-field-course-grizzly-family-foraging/",
       "latitude": 36.0979,
       "longitude": -81.814
+    },
+    {
+      "id": "d5e91ca4022d",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-25T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "6",
@@ -2586,6 +3279,28 @@
       "longitude": -80.851589
     },
     {
+      "id": "5f078a7b0f41",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-26T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "2504e7e7bd2b",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-27T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "36ba38d260bd",
       "title": "Steel Pulse in Asheville",
       "date": "2026-07-28T00:00:00",
@@ -2597,6 +3312,28 @@
       "longitude": -82.551483
     },
     {
+      "id": "c005ba3285fa",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-28T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "8f756b93b9e8",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-29T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "2588216a9571",
       "title": "Animal Enrichment Day",
       "date": "2026-07-29T19:00:00",
@@ -2606,6 +3343,17 @@
       "url": "https://grandfather.com/event/animal-enrichment-day/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "10ea2162d706",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-30T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "67d1c725bf6d",
@@ -2628,6 +3376,17 @@
       "url": "https://grandfather.com/event/educator-workshop-wild-about-bear/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "1e793c3b59f7",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-07-31T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "ed1aedc54fbd",
@@ -2718,6 +3477,39 @@
       "longitude": -82.551483
     },
     {
+      "id": "ddee6c1d3f26",
+      "title": "Milepost Music (Mabry Mill - Milepost 176)",
+      "date": "2026-08-02T10:00:00",
+      "location": "266 Mabry Mill Road SE Meadows of Dan, VA 24120",
+      "description": "Free traditional music concerts featuring local &amp; regional mountain musicians. Bring your chairs or a blanket to spread out and enjoy the wodnerful traditional mountain music. The concerts are can",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751449,
+      "longitude": -80.405851
+    },
+    {
+      "id": "86ef4034c4b2",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-02T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "56376228a5c7",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-03T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "c0f77451ce0e",
       "title": "Member Mixer - Housing &amp; Urban Development",
       "date": "2026-08-03T20:00:00.552000",
@@ -2727,6 +3519,28 @@
       "url": "https://www.ashevilledowntown.org/events/member-mixer-building-a-sustainable-and-inclusive-asheville",
       "latitude": 35.5917821,
       "longitude": -82.555861
+    },
+    {
+      "id": "c9969c407b55",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-04T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "f30955a1e440",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-05T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "13dbfef41740",
@@ -2740,6 +3554,28 @@
       "longitude": -81.8462718
     },
     {
+      "id": "c72bc0762411",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-06T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "152a7c8e4fb5",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-07T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "ac1c07ff486f",
       "title": "Grandfather by Night: Twilight Hike",
       "date": "2026-08-07T20:00:00",
@@ -2749,6 +3585,17 @@
       "url": "https://grandfather.com/event/by-night4/",
       "latitude": 36.0979,
       "longitude": -81.814
+    },
+    {
+      "id": "e7e76707d316",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-08T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "7",
@@ -2773,6 +3620,50 @@
       "longitude": -81.8462718
     },
     {
+      "id": "5f340bd1da78",
+      "title": "Milepost Music (Doughton Park - Milepost 238)",
+      "date": "2026-08-09T10:00:00",
+      "location": "49800 Blue Ridge Parkway Laurel Springs, NC 28644",
+      "description": "Free traditional music concerts featuring local &amp; regional mountain musicians. Bring your chairs or a blanket to spread out and enjoy the wodnerful traditional mountain music. The concerts are can",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.434258,
+      "longitude": -81.177265
+    },
+    {
+      "id": "3548d48e8694",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-09T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "2613e3b6b971",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-10T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "7c2c64cea414",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-11T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "cd4b8dd3abb6",
       "title": "Adult Field Course: Appalachian Woodcraft",
       "date": "2026-08-12T10:00:00",
@@ -2784,6 +3675,28 @@
       "longitude": -81.8462718
     },
     {
+      "id": "b049aed8f94f",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-12T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "bae2d8145e09",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-13T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "f25607a009b1",
       "title": "Downtown West Jefferson Gallery Crawl",
       "date": "2026-08-14T10:00:00",
@@ -2793,6 +3706,28 @@
       "url": "https://ashecountyarts.org/event/downtown-west-jefferson-gallery-crawl/",
       "latitude": 36.4332,
       "longitude": -81.499
+    },
+    {
+      "id": "c0963ea47402",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-14T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "215620a5dfac",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-15T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "edec2555d883",
@@ -2817,6 +3752,72 @@
       "longitude": -81.6752
     },
     {
+      "id": "340b68ce4a33",
+      "title": "Milepost Music (Mabry Mill - Milepost 176)",
+      "date": "2026-08-16T10:00:00",
+      "location": "266 Mabry Mill Road SE Meadows of Dan, VA 24120",
+      "description": "Free traditional music concerts featuring local &amp; regional mountain musicians. Bring your chairs or a blanket to spread out and enjoy the wodnerful traditional mountain music. The concerts are can",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751449,
+      "longitude": -80.405851
+    },
+    {
+      "id": "fed53facd8b5",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-16T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "fe623aa3f1b5",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-17T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "0ea459f716eb",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-18T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "ed383ec951f5",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-19T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "394ed1321dec",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-20T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "c3683ced0e0d",
       "title": "The Wood Brothers in Asheville",
       "date": "2026-08-21T00:00:00",
@@ -2826,6 +3827,17 @@
       "url": "https://allevents.in/asheville/the-wood-brothers-in-asheville/3300029954066906",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "82a4fc070af7",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-21T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "c0e4f7cb3d59",
@@ -2839,6 +3851,61 @@
       "longitude": -82.5490674
     },
     {
+      "id": "8aaae66b2483",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-22T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "bd923d9769c6",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-23T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "10391fabfb0a",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-24T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "5f0d59783914",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-25T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "8374a97fed64",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-26T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "275a2f1a5318",
       "title": "Watauga County Farmers\u2019 Market to Celebrate Hispanic Heritage Day with Q\u2019Pasa Appalachia",
       "date": "2026-08-27T10:00:00",
@@ -2848,6 +3915,17 @@
       "url": "https://www.hcpress.com/announcements/watauga-county-farmers-market-to-celebrate-hispanic-heritage-day-with-qpasa-appalachia.html",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "d8284850f634",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-27T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "dca87d1cea94",
@@ -2872,6 +3950,28 @@
       "longitude": -82.551147
     },
     {
+      "id": "76e08ddba631",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-28T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "b2368d1cf37b",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-29T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "8",
       "title": "Landslide",
       "date": "2026-08-29T19:00:00",
@@ -2894,9 +3994,42 @@
       "longitude": -82.553902
     },
     {
+      "id": "c5521dee659f",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-30T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "271ff6a34911",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-31T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "11e7c8f8b409",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-09-01T12:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "5810f01cb4a8",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-02T10:00:00",
       "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
       "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
       "source": "NPS Blue Ridge Pkwy",
@@ -2927,6 +4060,28 @@
       "longitude": -81.6746
     },
     {
+      "id": "c3017dcb0c2f",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-03T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "3eed94877640",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-04T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "c02b5f0da856",
       "title": "Acid Bath, Melvins, Kylesa in Asheville",
       "date": "2026-09-05T00:00:00",
@@ -2936,6 +4091,17 @@
       "url": "https://allevents.in/asheville/acid-bath-melvins-kylesa-in-asheville/3300029959698850",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "516e0a132c2e",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-05T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "345dc484ce39",
@@ -2949,6 +4115,39 @@
       "longitude": -80.851589
     },
     {
+      "id": "57945c4a9066",
+      "title": "Milepost Music (Mabry Mill - Milepost 176)",
+      "date": "2026-09-06T10:00:00",
+      "location": "266 Mabry Mill Road SE Meadows of Dan, VA 24120",
+      "description": "Free traditional music concerts featuring local &amp; regional mountain musicians. Bring your chairs or a blanket to spread out and enjoy the wodnerful traditional mountain music. The concerts are can",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751449,
+      "longitude": -80.405851
+    },
+    {
+      "id": "d7f0eca4f964",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-06T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "8ef3f1453a5d",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-07T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "007b5575c1e9",
       "title": "Blowing Rock Art & History Museum Announces Winners of the Eighth Annual Blowing Rock Plein Air Festival Show and Sale",
       "date": "2026-09-08T10:00:00",
@@ -2958,6 +4157,28 @@
       "url": "https://www.hcpress.com/arts/blowing-rock-art-history-museum-announces-winners-of-the-eighth-annual-blowing-rock-plein-air-festival-show-and-sale.html",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "fe1abcbcd2d2",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-08T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "2740cf24c525",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-09T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "165b3adb96d9",
@@ -2971,6 +4192,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "58f478ae335b",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-10T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "f4476e3cd1ed",
       "title": "Downtown West Jefferson Gallery Crawl",
       "date": "2026-09-11T10:00:00",
@@ -2980,6 +4212,17 @@
       "url": "https://ashecountyarts.org/event/downtown-west-jefferson-gallery-crawl-3/",
       "latitude": 36.4332,
       "longitude": -81.499
+    },
+    {
+      "id": "8cae7fff95d4",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-11T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "42f1d63ca188",
@@ -2993,6 +4236,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "9ff895860740",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-12T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "9",
       "title": "Def Leggend",
       "date": "2026-09-12T19:00:00",
@@ -3002,6 +4256,28 @@
       "source": "Saloon Studios",
       "latitude": 36.3551,
       "longitude": -81.5065
+    },
+    {
+      "id": "0236b8e20dbd",
+      "title": "Milepost Music (Doughton Park - Milepost 238)",
+      "date": "2026-09-13T10:00:00",
+      "location": "49800 Blue Ridge Parkway Laurel Springs, NC 28644",
+      "description": "Free traditional music concerts featuring local &amp; regional mountain musicians. Bring your chairs or a blanket to spread out and enjoy the wodnerful traditional mountain music. The concerts are can",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.434258,
+      "longitude": -81.177265
+    },
+    {
+      "id": "6040c26890d7",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-13T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "7597c6980a54",
@@ -3015,6 +4291,28 @@
       "longitude": -81.6746
     },
     {
+      "id": "0fd1448b7f6f",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-14T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "5b002451995c",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-15T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "144eca44b463",
       "title": "Frank and Kay Golf Classic is Back at Restored Hound Ears Club",
       "date": "2026-09-16T10:00:00",
@@ -3024,6 +4322,28 @@
       "url": "https://www.hcpress.com/announcements/frank-and-kay-golf-classic-is-back-at-restored-hound-ears-club.html",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "419e292993cf",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-16T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "6b558428b717",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-17T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "aed57a5bb9a8",
@@ -3037,6 +4357,28 @@
       "longitude": -81.6752
     },
     {
+      "id": "222b5e97f97a",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-18T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "9bf92f4be157",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-19T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "6e40c33c5263",
       "title": "Buskers Fest Returns to Downtown Boone on Saturday, September 20, 2025",
       "date": "2026-09-20T10:00:00",
@@ -3046,6 +4388,39 @@
       "url": "https://www.hcpress.com/announcements/buskers-fest-returns-to-downtown-boone-on-saturday-september-20-2025.html",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "3e1ddc08abbc",
+      "title": "Milepost Music (Mabry Mill - Milepost 176)",
+      "date": "2026-09-20T10:00:00",
+      "location": "266 Mabry Mill Road SE Meadows of Dan, VA 24120",
+      "description": "Free traditional music concerts featuring local &amp; regional mountain musicians. Bring your chairs or a blanket to spread out and enjoy the wodnerful traditional mountain music. The concerts are can",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751449,
+      "longitude": -80.405851
+    },
+    {
+      "id": "eec4525d6e16",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-20T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "74c43110d83b",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-21T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "557d29d21b07",
@@ -3070,6 +4445,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "c238f89d3796",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-22T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "8abe7556c39f",
       "title": "HCC A Night at Chetola is a hit!",
       "date": "2026-09-23T10:00:00",
@@ -3079,6 +4465,28 @@
       "url": "https://www.hcpress.com/announcements/hcc-a-night-at-chetola-is-a-hit.html",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "8de15588580b",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-23T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "647582c44518",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-24T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "202c4897c9a8",
@@ -3114,6 +4522,28 @@
       "longitude": -81.6746
     },
     {
+      "id": "e322acc44bf5",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-25T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "52be7720a607",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-26T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "10",
       "title": "Shot Through the Heart",
       "date": "2026-09-26T19:00:00",
@@ -3123,6 +4553,28 @@
       "source": "Saloon Studios",
       "latitude": 36.3551,
       "longitude": -81.5065
+    },
+    {
+      "id": "66978d854a88",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-27T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "9a43075bd4ea",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-28T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "b2e85ad5f105",
@@ -3136,6 +4588,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "0eba870d5465",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-29T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "ce109f8a0c3f",
       "title": "VCF 2025 \u2013 \u201cCome Hungry to the Fair!\u201d",
       "date": "2026-09-30T10:00:00",
@@ -3145,6 +4608,17 @@
       "url": "https://www.hcpress.com/announcements/vcf-2025-come-hungry-to-the-fair.html",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "a46825db5caf",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-30T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "73737cfdee37",
@@ -3161,6 +4635,17 @@
       "id": "abaf878e6c8a",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-10-01T12:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "2262a33599a1",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-02T10:00:00",
       "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
       "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
       "source": "NPS Blue Ridge Pkwy",
@@ -3202,6 +4687,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "63bedec32038",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-03T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "7924e406b68b",
       "title": "Asheville Oktoberfest",
       "date": "2026-10-03T17:00:00.281000",
@@ -3224,6 +4720,61 @@
       "longitude": -81.6746
     },
     {
+      "id": "798e97674944",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-04T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "86a1ecfe1d40",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-05T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "8afa872d7696",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-06T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "4fcf92b87bba",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-07T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "50a346476fdd",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-08T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "466d182918b7",
       "title": "Downtown West Jefferson Gallery Crawl",
       "date": "2026-10-09T10:00:00",
@@ -3233,6 +4784,17 @@
       "url": "https://ashecountyarts.org/event/downtown-west-jefferson-gallery-crawl-4/",
       "latitude": 36.4332,
       "longitude": -81.499
+    },
+    {
+      "id": "e237769da1c9",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-09T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "e1185b91e8a5",
@@ -3246,6 +4808,17 @@
       "longitude": -82.553307
     },
     {
+      "id": "aa3699eb7830",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-10T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "183ec09116ca",
       "title": "Silverada, The Pink Stones in Asheville",
       "date": "2026-10-11T00:00:00",
@@ -3257,6 +4830,72 @@
       "longitude": -82.551483
     },
     {
+      "id": "604a27d5c5fe",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-11T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "73d896e43dab",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-12T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "4d36594b51b4",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-13T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "135fb849af48",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-14T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "4c663b0041b0",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-15T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "b713a9da7a8c",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-16T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "f146175e9276",
       "title": "Carsie Blanton at The Grey Eagle",
       "date": "2026-10-17T00:00:00",
@@ -3266,6 +4905,17 @@
       "url": "https://allevents.in/asheville/carsie-blanton-at-the-grey-eagle/200029688315730",
       "latitude": 35.587063,
       "longitude": -82.564362
+    },
+    {
+      "id": "521872ec7966",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-17T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "c84fcd2eb7e1",
@@ -3290,6 +4940,72 @@
       "longitude": -81.6746
     },
     {
+      "id": "c2bf69138f8e",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-18T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "bfd39f01bb6c",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-19T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "74d337267940",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-20T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "6eacfcb7024e",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-21T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "030c11607232",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-22T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "d688b54fcffd",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-23T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "6601edc9777e",
       "title": "Asheville Halloween Bar Crawl",
       "date": "2026-10-24T00:00:00",
@@ -3299,6 +5015,39 @@
       "url": "https://allevents.in/asheville/asheville-halloween-bar-crawl/100001952207137099",
       "latitude": 35.588284,
       "longitude": -82.553627
+    },
+    {
+      "id": "56ca1b36135b",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-24T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "8e99066acccf",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-25T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "6633e8371c74",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-26T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "40f89f209448",
@@ -3312,6 +5061,28 @@
       "longitude": -82.551483
     },
     {
+      "id": "467eadc39413",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-27T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "df47197dd87f",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-28T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
       "id": "bdf6ea193938",
       "title": "This Year Challenge Your Ski and Snowboarding Buddies to Some Racing This Winter",
       "date": "2026-10-29T10:00:00",
@@ -3321,6 +5092,28 @@
       "url": "https://www.hcpress.com/sports/this-year-challenge-your-ski-and-snowboarding-buddies-to-some-racing-this-winter.html",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "cd8ded9ecbc5",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-29T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "2d25274299b8",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-30T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "dff3dc566773",
@@ -3354,6 +5147,28 @@
       "url": "https://allevents.in/asheville/the-official-halloween-bar-crawl-asheville/100001583893310529",
       "latitude": 35.591423,
       "longitude": -82.555962
+    },
+    {
+      "id": "9b09ebcdfd04",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-31T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "ad9a74eb49c3",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-11-01T10:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "ed8444ffe464",
@@ -3576,8 +5391,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-23T17:17:06.424507",
-  "total_events": 325,
+  "last_updated": "2026-04-23T22:35:01.101956",
+  "total_events": 490,
   "sources": [
     "Manual Events",
     "High Country Host",
