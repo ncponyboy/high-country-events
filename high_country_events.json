@@ -1,26 +1,15 @@
 {
   "events": [
     {
-      "id": "957cd858a8c9",
-      "title": "Game Day",
-      "date": "2026-04-22T21:30:00.715000",
-      "location": "HomeTrust Park, 30 Buchanan Place, Asheville, NC, 28801",
-      "description": "Game Day at the ballpark! Catch the Asheville Tourists take on the Greenville Drive, plus score a Magnetic Schedule Giveaway Presented by BIMCO, Hands Free NC, and Ingles",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/opening-day-9b8kw",
-      "latitude": 35.5877329,
-      "longitude": -82.54983589999999
-    },
-    {
-      "id": "a5f5f9d9a765",
-      "title": "Liars & Believers presents Yellow Bird Chase",
-      "date": "2026-04-22T22:00:00.599000",
-      "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
-      "description": "Wortham Center presents Yellow Bird Chase on Wednesday, April 22 at 6 pm\u2014a wordless, family friendly physical comedy bursting with silliness, surprises, and theatrical imagination.",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/liars-believers-presents-yellow-bird-chase",
-      "latitude": 35.5943438,
-      "longitude": -82.5511352
+      "id": "7960f43f865d",
+      "title": "MerleFest",
+      "date": "2026-04-23T17:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/merlefest/2026-04-23/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "5f402ec8e801",
@@ -375,6 +364,17 @@
       "longitude": -81.499
     },
     {
+      "id": "9df5fcda9f50",
+      "title": "Old Farmer\u2019s Ball English Country Dance",
+      "date": "2026-04-26T16:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/old-farmers-ball-english-country-dance/2026-04-26/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "f99eec151e8e",
       "title": "Game Day",
       "date": "2026-04-26T16:00:00.715000",
@@ -485,17 +485,6 @@
       "longitude": -82.555992
     },
     {
-      "id": "76fa36e80a65",
-      "title": "An Evening With Chris Smither at The Grey Eagle",
-      "date": "2026-05-01T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/an-evening-with-chris-smither-at-the-grey-eagle/200029319812711",
-      "latitude": 35.587063,
-      "longitude": -82.564362
-    },
-    {
       "id": "7ec4d7aa8249",
       "title": "Growing In The Mountains",
       "date": "2026-05-01T00:00:00",
@@ -505,6 +494,17 @@
       "url": "https://allevents.in/asheville/growing-in-the-mountains/200029680074825",
       "latitude": 35.554359,
       "longitude": -82.599258
+    },
+    {
+      "id": "76fa36e80a65",
+      "title": "An Evening With Chris Smither at The Grey Eagle",
+      "date": "2026-05-01T00:00:00",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/an-evening-with-chris-smither-at-the-grey-eagle/200029319812711",
+      "latitude": 35.587063,
+      "longitude": -82.564362
     },
     {
       "id": "6104166cfed8",
@@ -738,6 +738,17 @@
       "longitude": -82.5515
     },
     {
+      "id": "4025ada483c3",
+      "title": "May 3 - Free \u2018Give-Back\u2019 Drag Show to benefit Healing Solutions Counseling",
+      "date": "2026-05-03T00:00:00",
+      "location": "New Belgium Brewing - Asheville (Asheville, NC), 21 Craven St, Asheville, NC 28806-4607, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/may-3-free-\u2018give-back\u2019-drag-show-to-benefit-healing-solutions-counseling/200029972732601",
+      "latitude": 35.5867,
+      "longitude": -82.570641
+    },
+    {
       "id": "bf4405fb8f5a",
       "title": "Cass McCombs + Band: Interior Live Oak Live at The Grey Eagle",
       "date": "2026-05-03T00:00:00",
@@ -747,17 +758,6 @@
       "url": "https://allevents.in/asheville/cass-mccombs-band-interior-live-oak-live-at-the-grey-eagle/200029566877641",
       "latitude": 35.587063,
       "longitude": -82.564362
-    },
-    {
-      "id": "81545f866edd",
-      "title": "Free \u2018Give-Back\u2019 Drag Show to benefit Healing Solutions Counseling",
-      "date": "2026-05-03T00:00:00",
-      "location": "New Belgium Brewing Company, 21 Craven Street, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/free-\u2018give-back\u2019-drag-show-to-benefit-healing-solutions-counseling/100001986365950028",
-      "latitude": 35.58725,
-      "longitude": -82.571564
     },
     {
       "id": "e026e8d79898",
@@ -824,17 +824,6 @@
       "url": "https://www.ashevilledowntown.org/events/member-mixer-marketing-growth-for-downtown-businesses",
       "latitude": 35.5944374,
       "longitude": -82.55597519999999
-    },
-    {
-      "id": "9b2be90c6dfe",
-      "title": "Asheville Cinco De Mayo Bar Crawl",
-      "date": "2026-05-05T00:00:00",
-      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-cinco-de-mayo-bar-crawl/100001356216322529",
-      "latitude": 35.588284,
-      "longitude": -82.553627
     },
     {
       "id": "0e12ba7bc0ae",
@@ -958,17 +947,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "0f71dec8418c",
-      "title": "FAILURE w/ All Under Heaven",
-      "date": "2026-05-09T00:00:00",
-      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/failure-w-all-under-heaven/200029699572424",
-      "latitude": 35.588348,
-      "longitude": -82.553902
-    },
-    {
       "id": "aaadb7386532",
       "title": "Baby Wants Candy \u2013 Presented by Asheville Improv Festival",
       "date": "2026-05-09T00:00:00",
@@ -978,6 +956,17 @@
       "url": "https://allevents.in/asheville/baby-wants-candy-presented-by-asheville-improv-festival/200029929512736",
       "latitude": 35.591415,
       "longitude": -82.551147
+    },
+    {
+      "id": "0f71dec8418c",
+      "title": "FAILURE w/ All Under Heaven",
+      "date": "2026-05-09T00:00:00",
+      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/failure-w-all-under-heaven/200029699572424",
+      "latitude": 35.588348,
+      "longitude": -82.553902
     },
     {
       "id": "62135cdec747",
@@ -1154,6 +1143,17 @@
       "url": "https://allevents.in/asheville/dark-star-orchestra/200029785211602",
       "latitude": 35.592072,
       "longitude": -82.555382
+    },
+    {
+      "id": "a5a5fc819541",
+      "title": "Manic Focus, Russ Liquid in Asheville",
+      "date": "2026-05-15T00:00:00",
+      "location": "Sly Grog Lounge, Sly Grog Lounge, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/manic-focus-russ-liquid-in-asheville/3300029958021959",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "323026acd6b1",
@@ -1451,6 +1451,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.572886,
       "longitude": -80.851589
+    },
+    {
+      "id": "3b364ee43285",
+      "title": "SocialFest",
+      "date": "2026-05-24T00:00:00",
+      "location": "1078 Tunnel Rd, Asheville, NC, United States, North Carolina 28805, 1078 Tunnel Rd, Asheville, NC 28805-2044, United Sta",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/socialfest/200029977315230",
+      "latitude": 35.587799,
+      "longitude": -82.490723
     },
     {
       "id": "15e7a126af05",
@@ -1970,17 +1981,6 @@
       "longitude": -82.564362
     },
     {
-      "id": "4b4bcd740575",
-      "title": "The Amazing Acro-Cats' \u201cMeowloween in June\u201d Asheville Special!",
-      "date": "2026-06-12T00:00:00",
-      "location": "Wortham Center for the Performing Arts, 18 Biltmore Ave, Asheville, NC 28801, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/the-amazing-acro-cats-meowloween-in-june-asheville-special/200029920144933",
-      "latitude": 35.594505,
-      "longitude": -82.551003
-    },
-    {
       "id": "236d6d254dd0",
       "title": "Downtown West Jefferson Gallery Crawl",
       "date": "2026-06-12T10:00:00",
@@ -2179,6 +2179,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "01734c2f1163",
+      "title": "LAZRLUVR || The Orange Peel",
+      "date": "2026-06-19T00:00:00",
+      "location": "The Orange Peel, 101 Biltmore ave,Asheville,NC,United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/lazrluvr-||-the-orange-peel/200029975733853",
+      "latitude": 35.591415,
+      "longitude": -82.551147
+    },
+    {
       "id": "254d021126ec",
       "title": "Squirrel Nut Zippers: Celebrating 30 Years of &quot;Hot&quot; at The Grey Eagle",
       "date": "2026-06-19T00:00:00",
@@ -2364,6 +2375,17 @@
       "url": "https://allevents.in/asheville/of-montreal-in-asheville/3300029956595749",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "70735cf84e88",
+      "title": "2026 AVL Independence Day 5k",
+      "date": "2026-07-04T00:00:00",
+      "location": "Pack Square Park, Asheville, NC, United States, North Carolina 28801, 3 SW Pack Sq, Asheville, NC 28801-3501, United Sta",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/2026-avl-independence-day-5k/200029685188149",
+      "latitude": 35.594898,
+      "longitude": -82.551659
     },
     {
       "id": "4da3d7fdb113",
@@ -3147,17 +3169,6 @@
       "longitude": -80.850001
     },
     {
-      "id": "e993d8f5ca2d",
-      "title": "2026 Oktoberfest Half Marathon &amp; 5k",
-      "date": "2026-10-03T00:00:00",
-      "location": "Hi-Wire Brewing RAD Beer Garden, 284 Lyman St, Asheville, NC 28801-4742, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/2026-oktoberfest-half-marathon-and-5k/200029090288244",
-      "latitude": 35.582748,
-      "longitude": -82.56575
-    },
-    {
       "id": "998e8db64bbe",
       "title": "After a Helene Hiatus, Banner Elk\u2019s Woolly Worm Festival Returns Oct. 18-19",
       "date": "2026-10-03T10:00:00",
@@ -3321,6 +3332,17 @@
       "url": "https://allevents.in/asheville/wednesday-halloween-show/200029921975613",
       "latitude": 35.591415,
       "longitude": -82.551147
+    },
+    {
+      "id": "cfaa6bd0c8d2",
+      "title": "The Official Halloween Bar Crawl - Asheville",
+      "date": "2026-10-31T00:00:00",
+      "location": "Hi-Wire Brewing, 197 Hilliard Ave, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/the-official-halloween-bar-crawl-asheville/100001583893310529",
+      "latitude": 35.591423,
+      "longitude": -82.555962
     },
     {
       "id": "ed8444ffe464",
@@ -3543,8 +3565,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-22T22:39:10.518873",
-  "total_events": 322,
+  "last_updated": "2026-04-23T12:02:26.167764",
+  "total_events": 324,
   "sources": [
     "Manual Events",
     "High Country Host",
