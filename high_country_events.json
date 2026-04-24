@@ -1,72 +1,6 @@
 {
   "events": [
     {
-      "id": "692347b87ef3",
-      "title": "MerleFest",
-      "date": "2026-04-24T17:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/merlefest/2026-04-24/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "87ae97719d93",
-      "title": "Brevard Square Dance",
-      "date": "2026-04-24T17:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/square-dance-brevard/2026-04-24/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "6243db727b9a",
-      "title": "\u201cSit a Spell\u201d \u2013 Traditional Music Sessions with Warren Wilson College",
-      "date": "2026-04-24T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/sit-a-spell-traditional-music-sessions-with-warren-wilson-college/2026-04-24/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "2e5da5ad7065",
-      "title": "The Lorax (2012)",
-      "date": "2026-04-24T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/the-lorax-2012",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "f1f8c4b7d44c",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-04-24T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-04-24/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "6271a7224fc9",
-      "title": "Live Music: Gary McCoullough",
-      "date": "2026-04-24T19:00:00",
-      "location": "SouthEnd Brewing Co., 747 W King Street, Boone, 28607, United States",
-      "description": "Live Music: Gary McCoullough At SouthEnd Brewing Company",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/live-music-gary-mccoullough-3/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "3ef03e9eca75",
       "title": "Game Day",
       "date": "2026-04-24T21:30:00.715000",
@@ -813,17 +747,6 @@
       "url": "https://www.ashevilledowntown.org/events/member-mixer-marketing-growth-for-downtown-businesses",
       "latitude": 35.5944374,
       "longitude": -82.55597519999999
-    },
-    {
-      "id": "9b2be90c6dfe",
-      "title": "Asheville Cinco De Mayo Bar Crawl",
-      "date": "2026-05-05T00:00:00",
-      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-cinco-de-mayo-bar-crawl/100001356216322529",
-      "latitude": 35.588284,
-      "longitude": -82.553627
     },
     {
       "id": "0e12ba7bc0ae",
@@ -2729,6 +2652,17 @@
       "longitude": -80.850001
     },
     {
+      "id": "9c081ccbb498",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-06-25T19:00:00",
+      "location": "NC",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-06-25/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "c0f6d4066c94",
       "title": "HENRY CHO: THE EMPTY NEST TOUR - SECOND NIGHT ADDED!",
       "date": "2026-06-26T00:00:00",
@@ -2771,6 +2705,17 @@
       "source": "Saloon Studios",
       "latitude": 36.3551,
       "longitude": -81.5065
+    },
+    {
+      "id": "6d4bd6292932",
+      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
+      "date": "2026-06-26T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-06-26/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "3f4c3e5b755e",
@@ -5435,8 +5380,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-24T16:53:17.394933",
-  "total_events": 494,
+  "last_updated": "2026-04-24T22:32:25.651962",
+  "total_events": 489,
   "sources": [
     "Manual Events",
     "High Country Host",
