@@ -1,26 +1,15 @@
 {
   "events": [
     {
-      "id": "260c2750b071",
+      "id": "6eb7cd7aa909",
       "title": "Wordkeepers",
-      "date": "2026-04-25T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
+      "date": "2026-04-25T15:30:00",
+      "location": "Ashe Arts Center, 303 School Ave, West Jefferson, NC, 28694, United States",
+      "description": "Ashe Arts Invites Local Writers Wordkeepers Gathering The Ashe County Arts Council invites writers from across the High Country to join the next Wordkeepers event on Saturday, April 25, at 4 pm. Music",
       "source": "Ashe County Arts",
       "url": "https://ashecountyarts.org/event/wordkeepers-2/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "879812e2d73f",
-      "title": "Boone Earth Film Fest",
-      "date": "2026-04-25T13:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/boone-earth-film-fest-2025-b4kx7",
-      "latitude": 36.2157,
-      "longitude": -81.6752
+      "latitude": 36.4013,
+      "longitude": -81.4874
     },
     {
       "id": "f4951c307809",
@@ -309,6 +298,17 @@
       "longitude": -82.599258
     },
     {
+      "id": "f945b4d6ccb9",
+      "title": "Cosplay Rave: MUZ x Neptune Spins",
+      "date": "2026-05-01T00:00:00",
+      "location": "31 Patton Avenue Asheville, NC 28801-3314, 31 Patton Ave, Asheville, NC 28801-3314, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/cosplay-rave-muz-x-neptune-spins/200029985150834",
+      "latitude": 35.594891,
+      "longitude": -82.553017
+    },
+    {
       "id": "56a258c70975",
       "title": "Concerts at Union Mills Learning Center",
       "date": "2026-05-01T06:00:00",
@@ -483,17 +483,6 @@
       "url": "https://allevents.in/asheville/rocky-horror-picture-show-with-unexpected-pleasures/200029856630612",
       "latitude": 35.559132,
       "longitude": -82.52179
-    },
-    {
-      "id": "cb59d7cbbd32",
-      "title": "Busker Fest",
-      "date": "2026-05-02T00:00:00",
-      "location": "River Arts District, Asheville, NC, United States, North Carolina 28801, 175 Clingman Ave, Asheville, NC 28801-3207, Uni",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/busker-fest/200029969610020",
-      "latitude": 35.588188,
-      "longitude": -82.564651
     },
     {
       "id": "a692dbbf4644",
@@ -5358,8 +5347,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-25T11:42:49.852104",
-  "total_events": 487,
+  "last_updated": "2026-04-25T16:37:55.910183",
+  "total_events": 486,
   "sources": [
     "Manual Events",
     "High Country Host",
