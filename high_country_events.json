@@ -1,116 +1,6 @@
 {
   "events": [
     {
-      "id": "3ef03e9eca75",
-      "title": "Game Day",
-      "date": "2026-04-24T21:30:00.715000",
-      "location": "HomeTrust Park, 30 Buchanan Place, Asheville, NC, 28801",
-      "description": "Game Day at the ballpark! Catch the Asheville Tourists take on the Greenville Drive, plus enjoy $1 hot dogs Presented by Blossman Gas. Sponsored by Best Buy Metals.",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/opening-day-9b8kw-zpdfn-mj8da",
-      "latitude": 35.5877329,
-      "longitude": -82.54983589999999
-    },
-    {
-      "id": "c9cf3b49a7bb",
-      "title": "ERNEST, Rhys Rutherford in Asheville",
-      "date": "2026-04-25T00:00:00",
-      "location": "The Orange Peel, The Orange Peel, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/ernest-rhys-rutherford-in-asheville/3300029961646032",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
-      "id": "9dcd711ee989",
-      "title": "Willie Nelson, Drayton Farley in Asheville",
-      "date": "2026-04-25T00:00:00",
-      "location": "Asheville Yards, Asheville Yards, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/willie-nelson-drayton-farley-in-asheville/3300029957336849",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
-      "id": "9cc0d6b344da",
-      "title": "Armand Hammer",
-      "date": "2026-04-25T00:00:00",
-      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/armand-hammer/200029526623951",
-      "latitude": 35.588348,
-      "longitude": -82.553902
-    },
-    {
-      "id": "6a98acea381a",
-      "title": "Live Nation Presents: Willie Nelson &amp; Family",
-      "date": "2026-04-25T00:00:00",
-      "location": "Asheville Yards, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/live-nation-presents-willie-nelson-and-family/210009137451667",
-      "latitude": 35.594799,
-      "longitude": -82.557198
-    },
-    {
-      "id": "b0f019e07db0",
-      "title": "Grove Arcade in Bloom",
-      "date": "2026-04-25T00:00:00",
-      "location": "1 Page Ave, Asheville, NC 28801, United States, 1 Page Ave, Asheville, NC 28801, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/grove-arcade-in-bloom/200029820321734",
-      "latitude": 35.595219,
-      "longitude": -82.556297
-    },
-    {
-      "id": "a5d4750cfd18",
-      "title": "Annual Spring Fling at Peace Gardens",
-      "date": "2026-04-25T00:00:00",
-      "location": "47 Bryant St, Asheville, NC, United States, North Carolina 28806, Peace Gardens &amp; Market, 47 Bryant St, Asheville, N",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/annual-spring-fling-at-peace-gardens/200029920162723",
-      "latitude": 35.58247,
-      "longitude": -82.585037
-    },
-    {
-      "id": "81efee61b224",
-      "title": "Kids Fest",
-      "date": "2026-04-25T00:00:00",
-      "location": "Wesley Grant, Sr. Community Center, 285 Livingston St, Asheville, NC 28801-4356, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/kids-fest/200029847501811",
-      "latitude": 35.577866,
-      "longitude": -82.562111
-    },
-    {
-      "id": "0e9d3400d0a9",
-      "title": "Jazz Appreciation Month: Queen Bee and the Honeylovers | in the Palm Room at Fitz and the Wolfe",
-      "date": "2026-04-25T00:00:00",
-      "location": "1 Battery Park Ave, Asheville, NC, United States, North Carolina 28801, 1 Battery Park Ave, Asheville, NC 28801-2717, Un",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/jazz-appreciation-month-queen-bee-and-the-honeylovers-|-in-the-palm-room-at-fitz-and-the-wolfe/200029856663202",
-      "latitude": 35.59539,
-      "longitude": -82.554749
-    },
-    {
-      "id": "da620f5f3ff4",
-      "title": "Karla Bonoff",
-      "date": "2026-04-25T00:00:00.361000",
-      "location": "Diana Wortham Theatre, 18 Biltmore Avenue, Asheville, NC, 28801",
-      "description": "Singer-songwriter Karla Bonoff takes the stage with an intimate, moving performance showcasing the timeless voice behind hits made famous by legends like Linda Ronstadt and Bonnie Raitt. Known for her",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/karla-bonoff",
-      "latitude": 35.5943438,
-      "longitude": -82.5511352
-    },
-    {
       "id": "260c2750b071",
       "title": "Wordkeepers",
       "date": "2026-04-25T10:00:00",
@@ -131,6 +21,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/boone-earth-film-fest-2025-b4kx7",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "f4951c307809",
+      "title": "MerleFest",
+      "date": "2026-04-25T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/merlefest/2026-04-25/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "0b5394237a73",
@@ -167,10 +68,10 @@
     },
     {
       "id": "55f7d3545396",
-      "title": "Game Day: April 25",
+      "title": "Game Day",
       "date": "2026-04-25T20:30:00.715000",
       "location": "HomeTrust Park, 30 Buchanan Place, Asheville, NC, 28801",
-      "description": "",
+      "description": "Game Day at the ballpark! Catch the Asheville Tourists take on the Greenville Drive, plus enjoy Black Jersey Giveaway Presented by Palmetto Bath and Home.",
       "source": "Downtown Asheville",
       "url": "https://www.ashevilledowntown.org/events/opening-day-9b8kw-zpdfn-mj8da-s9lz8",
       "latitude": 35.5877329,
@@ -263,6 +164,17 @@
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-27/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "f4206d49e77f",
+      "title": "Weedeater &amp; Conan w/ Telekinetic Yeti @ Third Room",
+      "date": "2026-04-28T00:00:00",
+      "location": "46 Wall Street, Asheville, NC, United States, North Carolina 28801, 46 Wall St, Asheville, NC 28801-2710, United States,",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/weedeater-and-conan-w-telekinetic-yeti-third-room/200029792525452",
+      "latitude": 35.59449,
+      "longitude": -82.555992
     },
     {
       "id": "6c90f9b239ef",
@@ -397,6 +309,28 @@
       "longitude": -82.599258
     },
     {
+      "id": "56a258c70975",
+      "title": "Concerts at Union Mills Learning Center",
+      "date": "2026-05-01T06:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/concerts-at-union-mills/2026-05-01/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "1ea23d605af0",
+      "title": "Town & Trail Fest",
+      "date": "2026-05-01T09:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/town-trail-fest/2026-05-01/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "6104166cfed8",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-05-01T12:00:00",
@@ -426,6 +360,17 @@
       "description": "https://www.watauga-arts.org/first-friday-art-crawls",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-2/2026-05-01/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "fa60a39a1e9a",
+      "title": "\u201cSit a Spell\u201d \u2013 Traditional Music Sessions with Warren Wilson College",
+      "date": "2026-05-01T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/sit-a-spell-traditional-music-sessions-with-warren-wilson-college/2026-05-01/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -749,6 +694,17 @@
       "longitude": -82.55597519999999
     },
     {
+      "id": "9b2be90c6dfe",
+      "title": "Asheville Cinco De Mayo Bar Crawl",
+      "date": "2026-05-05T00:00:00",
+      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/asheville-cinco-de-mayo-bar-crawl/100001356216322529",
+      "latitude": 35.588284,
+      "longitude": -82.553627
+    },
+    {
       "id": "0e12ba7bc0ae",
       "title": "Ryan Montbleau (solo) at The Grey Eagle",
       "date": "2026-05-07T00:00:00",
@@ -923,6 +879,17 @@
       "url": "https://allevents.in/asheville/the-ephemeral-garden-a-mystical-marketplace-and-soir\u00e9e/200029949854735",
       "latitude": 35.590569,
       "longitude": -82.551811
+    },
+    {
+      "id": "480c07dede46",
+      "title": "Asheville Improv Festival \u2013 Closing Night!",
+      "date": "2026-05-09T00:00:00",
+      "location": "The Orange Peel, 101 Biltmore ave,Asheville,NC,United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/asheville-improv-festival-closing-night/200029975421337",
+      "latitude": 35.591415,
+      "longitude": -82.551147
     },
     {
       "id": "aff256e34aad",
@@ -1726,6 +1693,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.572886,
       "longitude": -80.851589
+    },
+    {
+      "id": "8877ee5d9ee3",
+      "title": "Uncommon Market Asheville",
+      "date": "2026-05-31T00:00:00",
+      "location": "1 Foundy Street, Asheville, NC, United States, North Carolina 28801, 1 Foundy St, Asheville, NC 28801-0146, United State",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/uncommon-market-asheville/200029978111923",
+      "latitude": 35.577862,
+      "longitude": -82.566727
     },
     {
       "id": "f8e7dc4684d2",
@@ -3070,15 +3048,15 @@
       "longitude": -81.6752
     },
     {
-      "id": "7a5567abc1a2",
-      "title": "Watchhouse with special guests Fruit Bats",
+      "id": "274d93be2755",
+      "title": "Watchhouse with special guests Fruit Bats @ Hellbender",
       "date": "2026-07-18T00:00:00",
-      "location": "151 Thompson St, Asheville, NC, United States, North Carolina 28803, 151 Thompson St, Asheville, NC 28803-1443, United S",
+      "location": "Hellbender by The Orange Peel, 151 Thompson St,Asheville, North Carolina, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/watchhouse-with-special-guests-fruit-bats/200029923607938",
-      "latitude": 35.575272,
-      "longitude": -82.52536
+      "url": "https://allevents.in/asheville/watchhouse-with-special-guests-fruit-bats-hellbender/200029923607938",
+      "latitude": 35.573601,
+      "longitude": -82.526672
     },
     {
       "id": "db14a07ac190",
@@ -5237,17 +5215,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "c0663bc6badf",
-      "title": "A Beast Touch the Mountain",
-      "date": "2027-02-27T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/a-beast-touch-the-mountain",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "7e2e86504036",
       "title": "Boone Docs Film Festival",
       "date": "2027-02-28T11:00:00",
@@ -5378,10 +5345,21 @@
       "url": "https://www.apptheatre.org/events-and-tickets/tristan-und-isolde",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "d39b0fdb97fe",
+      "title": "Boonerang: Battle of the Bands - Night 1",
+      "date": "2027-03-26T19:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/boonerang-botb1",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-24T22:32:25.651962",
-  "total_events": 489,
+  "last_updated": "2026-04-25T11:42:49.852104",
+  "total_events": 487,
   "sources": [
     "Manual Events",
     "High Country Host",
