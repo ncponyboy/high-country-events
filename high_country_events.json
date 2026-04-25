@@ -1,61 +1,6 @@
 {
   "events": [
     {
-      "id": "6eb7cd7aa909",
-      "title": "Wordkeepers",
-      "date": "2026-04-25T15:30:00",
-      "location": "Ashe Arts Center, 303 School Ave, West Jefferson, NC, 28694, United States",
-      "description": "Ashe Arts Invites Local Writers Wordkeepers Gathering The Ashe County Arts Council invites writers from across the High Country to join the next Wordkeepers event on Saturday, April 25, at 4 pm. Music",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/wordkeepers-2/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
-      "id": "f4951c307809",
-      "title": "MerleFest",
-      "date": "2026-04-25T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/merlefest/2026-04-25/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "0b5394237a73",
-      "title": "Alleghany Jubilee",
-      "date": "2026-04-25T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-04-25/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "b49b36383799",
-      "title": "Funny Fest",
-      "date": "2026-04-25T19:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/funny-fest-2026",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "216fe25bc997",
-      "title": "Sounds of Nature - Kids' Music Day",
-      "date": "2026-04-25T19:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
-      "description": "Join us for a fun-filled, nature-themed afternoon of music, where families and kids can groove to the sounds in nature! This interactive concert held in the Williams Outdoor Learning Space celebrates ",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/sounds-of-nature-kids-music-day/",
-      "latitude": 36.0850742,
-      "longitude": -81.8462718
-    },
-    {
       "id": "55f7d3545396",
       "title": "Game Day",
       "date": "2026-04-25T20:30:00.715000",
@@ -123,7 +68,7 @@
     },
     {
       "id": "4a0559e11531",
-      "title": "Suffocation in Asheville",
+      "title": "Suffocation",
       "date": "2026-04-27T00:00:00",
       "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
       "description": "",
@@ -1684,17 +1629,6 @@
       "longitude": -80.851589
     },
     {
-      "id": "8877ee5d9ee3",
-      "title": "Uncommon Market Asheville",
-      "date": "2026-05-31T00:00:00",
-      "location": "1 Foundy Street, Asheville, NC, United States, North Carolina 28801, 1 Foundy St, Asheville, NC 28801-0146, United State",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/uncommon-market-asheville/200029978111923",
-      "latitude": 35.577862,
-      "longitude": -82.566727
-    },
-    {
       "id": "f8e7dc4684d2",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-05-31T10:00:00",
@@ -2760,6 +2694,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
+    },
+    {
+      "id": "f0baf9dc43e3",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-07-02T19:00:00",
+      "location": "NC",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-07-02/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "d929cf9c4dac",
@@ -5347,8 +5292,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-25T16:37:55.910183",
-  "total_events": 486,
+  "last_updated": "2026-04-25T22:26:50.173056",
+  "total_events": 481,
   "sources": [
     "Manual Events",
     "High Country Host",
