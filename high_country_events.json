@@ -1,37 +1,15 @@
 {
   "events": [
     {
-      "id": "55f7d3545396",
-      "title": "Game Day",
-      "date": "2026-04-25T20:30:00.715000",
-      "location": "HomeTrust Park, 30 Buchanan Place, Asheville, NC, 28801",
-      "description": "Game Day at the ballpark! Catch the Asheville Tourists take on the Greenville Drive, plus enjoy Black Jersey Giveaway Presented by Palmetto Bath and Home.",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/opening-day-9b8kw-zpdfn-mj8da-s9lz8",
-      "latitude": 35.5877329,
-      "longitude": -82.54983589999999
-    },
-    {
-      "id": "61a0155b2f0a",
-      "title": "Uncommon Market",
-      "date": "2026-04-26T00:00:00",
-      "location": "1 Foundy St, Asheville, NC 28801-0146, United States, 1 Foundy St, Asheville, NC 28801-0146, United States, Asheville, N",
+      "id": "57ec19cd940b",
+      "title": "MerleFest",
+      "date": "2026-04-26T16:00:00",
+      "location": "Blue Ridge, NC",
       "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/uncommon-market/200029832774241",
-      "latitude": 35.577862,
-      "longitude": -82.566727
-    },
-    {
-      "id": "f25016900d56",
-      "title": "Gather at the Table for the Arts: Fundraiser at Craft Bistro",
-      "date": "2026-04-26T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/craft/",
-      "latitude": 36.4332,
-      "longitude": -81.499
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/merlefest/2026-04-26/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "9df5fcda9f50",
@@ -120,17 +98,6 @@
       "url": "https://www.blueridgemusicnc.com/event/boone-shape-note-singing/2026-04-28/",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "a5630b7ff020",
-      "title": "NC Playwrights Forum: Virtual",
-      "date": "2026-04-29T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/nc-playwrights-forum/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "7372aab00a73",
@@ -386,17 +353,6 @@
       "longitude": -82.555382
     },
     {
-      "id": "0676018d32b7",
-      "title": "Ani DiFranco, Valerie June in Asheville",
-      "date": "2026-05-02T00:00:00",
-      "location": "Asheville Yards, Asheville Yards, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/ani-difranco-valerie-june-in-asheville/3300029668601648",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "abf3996fb454",
       "title": "Infected Mushroom w/ special guests TBA @ Third Room",
       "date": "2026-05-02T00:00:00",
@@ -406,6 +362,17 @@
       "url": "https://allevents.in/asheville/infected-mushroom-w-special-guests-tba-third-room/200029526641631",
       "latitude": 35.59449,
       "longitude": -82.555992
+    },
+    {
+      "id": "0676018d32b7",
+      "title": "Ani DiFranco, Valerie June in Asheville",
+      "date": "2026-05-02T00:00:00",
+      "location": "Asheville Yards, Asheville Yards, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/ani-difranco-valerie-june-in-asheville/3300029668601648",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "95c1ac7b487d",
@@ -452,6 +419,17 @@
       "longitude": -82.564362
     },
     {
+      "id": "cb59d7cbbd32",
+      "title": "Busker Fest",
+      "date": "2026-05-02T00:00:00",
+      "location": "River Arts District, Asheville, NC, United States, North Carolina 28801, 175 Clingman Ave, Asheville, NC 28801-3207, Uni",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/busker-fest/200029969610020",
+      "latitude": 35.588188,
+      "longitude": -82.564651
+    },
+    {
       "id": "d0f9f34ed248",
       "title": "Do The Crawl de Mayo in Asheville!",
       "date": "2026-05-02T00:00:00",
@@ -463,15 +441,26 @@
       "longitude": -82.546196
     },
     {
-      "id": "bb66b504b741",
-      "title": "580 WKSK LIVE Old Time and Bluegrass Show Radio Show: Wayne Henderson & Friends",
+      "id": "27bb242ade45",
+      "title": "Bluegrass at Altapass: Bluegrass and Bluegrass Gospel Music Festival",
       "date": "2026-05-02T10:00:00",
-      "location": "Ashe County, NC",
+      "location": "Blue Ridge, NC",
       "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-show-radio-show-wayne-henderson-friends/",
-      "latitude": 36.4332,
-      "longitude": -81.499
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/bluegrass-at-altapass-bluegrass-and-bluegrass-gospel-music-festival/2026-05-02/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "4302c062ce07",
+      "title": "Town & Trail Fest",
+      "date": "2026-05-02T10:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/town-trail-fest/2026-05-02/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "6b13bfe7fc7f",
@@ -650,17 +639,6 @@
       "longitude": -82.564362
     },
     {
-      "id": "b17ae53d48b2",
-      "title": "Junior Appalachian Musicians End of the Semester Concert",
-      "date": "2026-05-07T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/junior-appalachian-musicians-end-of-the-semester-concert/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "8d085ca6d908",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-05-07T12:00:00",
@@ -730,12 +708,12 @@
       "id": "c7d7574b7ede",
       "title": "Asheville Movies in the Park 2026",
       "date": "2026-05-08T00:00:00",
-      "location": "Pack Square Park, 121 College St,Asheville, North Carolina, Asheville, NC",
+      "location": "80 Court Plz, Asheville, NC 28801-3507, United States, 80 Court Plz, Asheville, NC 28801-3507, United States, Asheville,",
       "description": "",
       "source": "AllEvents Asheville",
       "url": "https://allevents.in/asheville/asheville-movies-in-the-park-2026/200029920144732",
-      "latitude": 35.595428,
-      "longitude": -82.550293
+      "latitude": 35.595718,
+      "longitude": -82.548622
     },
     {
       "id": "4e55717b4502",
@@ -747,6 +725,17 @@
       "url": "https://allevents.in/asheville/kyle-petty-charity-ride-visits-asheville-nc/200029920144330",
       "latitude": 35.597599,
       "longitude": -82.550095
+    },
+    {
+      "id": "a890bc1ea105",
+      "title": "Fri May 08, 2026",
+      "date": "2026-05-08T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=2",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "0d4a116e1ae1",
@@ -967,6 +956,17 @@
       "url": "https://allevents.in/asheville/aew-presents-dynamite/210001249608648",
       "latitude": 35.597469,
       "longitude": -82.55529
+    },
+    {
+      "id": "f3cc8fdae5fb",
+      "title": "An Evening With Shawn Mullins at The Grey Eagle",
+      "date": "2026-05-13T00:00:00",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/an-evening-with-shawn-mullins-at-the-grey-eagle/200029854565622",
+      "latitude": 35.587063,
+      "longitude": -82.564362
     },
     {
       "id": "1d9b0b429fe0",
@@ -1200,17 +1200,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "13f3db77c095",
-      "title": "Ashe Community Singers Concert",
-      "date": "2026-05-22T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/ashe-community-singers/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "7a5723f090c8",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-05-22T10:00:00",
@@ -1442,17 +1431,6 @@
       "longitude": -82.551483
     },
     {
-      "id": "8e94981ca66d",
-      "title": "Old Time Square Dance with Gap Civil",
-      "date": "2026-05-28T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/old-time-square-dance-with-gap-civil/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "53eb134cc338",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-05-28T10:00:00",
@@ -1519,6 +1497,17 @@
       "longitude": -82.553123
     },
     {
+      "id": "c31bd4f80851",
+      "title": "Champagne Drip w/special guests @ Third Room",
+      "date": "2026-05-29T00:00:00",
+      "location": "46 Wall Street, Asheville, NC, United States, North Carolina 28801, 46 Wall St, Asheville, NC 28801-2710, United States,",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/champagne-drip-w-special-guests-third-room/200029973264226",
+      "latitude": 35.59449,
+      "longitude": -82.555992
+    },
+    {
       "id": "c96268ce1c14",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-05-29T10:00:00",
@@ -1574,6 +1563,17 @@
       "longitude": -82.555008
     },
     {
+      "id": "2428e8850a48",
+      "title": "WNC Whiskey Festival",
+      "date": "2026-05-30T00:00:00",
+      "location": "Mission Health / A-B Tech Conference Center, 16 Fernihurst Drive, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/wnc-whiskey-festival/100001839099850159",
+      "latitude": 35.571594,
+      "longitude": -82.556198
+    },
+    {
       "id": "0ee943d74d28",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-05-30T10:00:00",
@@ -1627,6 +1627,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.572886,
       "longitude": -80.851589
+    },
+    {
+      "id": "8877ee5d9ee3",
+      "title": "Uncommon Market Asheville",
+      "date": "2026-05-31T00:00:00",
+      "location": "1 Foundy Street, Asheville, NC, United States, North Carolina 28801, 1 Foundy St, Asheville, NC 28801-0146, United State",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/uncommon-market-asheville/200029978111923",
+      "latitude": 35.577862,
+      "longitude": -82.566727
     },
     {
       "id": "f8e7dc4684d2",
@@ -1704,6 +1715,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
+    },
+    {
+      "id": "7af029215b05",
+      "title": "Coheed and Cambria, Cicada Rhythm in Asheville",
+      "date": "2026-06-04T00:00:00",
+      "location": "The Orange Peel, The Orange Peel, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/coheed-and-cambria-cicada-rhythm-in-asheville/3300029966569354",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "4d4c39b5b382",
@@ -2080,13 +2102,13 @@
       "longitude": -82.564362
     },
     {
-      "id": "236d6d254dd0",
-      "title": "Downtown West Jefferson Gallery Crawl",
+      "id": "2ef98bb9cadd",
+      "title": "Fri Jun 12, 2026 - Fri Oct 09, 2026",
       "date": "2026-06-12T10:00:00",
       "location": "Ashe County, NC",
       "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/downtown-west-jefferson-gallery-crawl-7/",
+      "source": "Ashe Chamber",
+      "url": "https://ashechamber.com/calendar.php?caltype=2",
       "latitude": 36.4332,
       "longitude": -81.499
     },
@@ -2815,17 +2837,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
-    },
-    {
-      "id": "3a0dfdf50853",
-      "title": "Downtown West Jefferson Gallery Crawl",
-      "date": "2026-07-10T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/downtown-west-jefferson-gallery-crawl-2/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "51331f14b9d2",
@@ -3598,17 +3609,6 @@
       "longitude": -80.850001
     },
     {
-      "id": "f25607a009b1",
-      "title": "Downtown West Jefferson Gallery Crawl",
-      "date": "2026-08-14T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/downtown-west-jefferson-gallery-crawl/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "c0963ea47402",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-08-14T10:00:00",
@@ -3618,6 +3618,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
+    },
+    {
+      "id": "baee3aaf98b3",
+      "title": "Grandfather by Night: Naturalist Program",
+      "date": "2026-08-14T19:30:00",
+      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
+      "description": "Explore the mountain after hours with your own personal guides during our Grandfather by Night series! You\u2019ll discover some of the park\u2019s nighttime wonders, watch a stunning sunset (weather permitting",
+      "source": "Grandfather Mountain",
+      "url": "https://grandfather.com/event/by-night-8/",
+      "latitude": 36.0850742,
+      "longitude": -81.8462718
     },
     {
       "id": "215620a5dfac",
@@ -4102,17 +4113,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
-    },
-    {
-      "id": "f4476e3cd1ed",
-      "title": "Downtown West Jefferson Gallery Crawl",
-      "date": "2026-09-11T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/downtown-west-jefferson-gallery-crawl-3/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "8cae7fff95d4",
@@ -4676,17 +4676,6 @@
       "longitude": -80.850001
     },
     {
-      "id": "466d182918b7",
-      "title": "Downtown West Jefferson Gallery Crawl",
-      "date": "2026-10-09T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/downtown-west-jefferson-gallery-crawl-4/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "e237769da1c9",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-10-09T10:00:00",
@@ -5050,6 +5039,17 @@
       "longitude": -82.555962
     },
     {
+      "id": "66de1c1f5823",
+      "title": "Asheville Halloween Bar Crawl 2026",
+      "date": "2026-10-31T00:00:00",
+      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/asheville-halloween-bar-crawl-2026/100001985836268737",
+      "latitude": 35.588284,
+      "longitude": -82.553627
+    },
+    {
       "id": "9b09ebcdfd04",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-10-31T10:00:00",
@@ -5147,28 +5147,6 @@
       "url": "https://www.hcpress.com/announcements/mountainfilm-on-tour-returns-to-lees-mcrae-for-high-country-film-and-speaker-series-2025-26-on-feb-21-discounted-tickets-available-now.html",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "7e2e86504036",
-      "title": "Boone Docs Film Festival",
-      "date": "2027-02-28T11:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/boone-docs-2026",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "b7a3228ef016",
-      "title": "No Man\u2019s Land Film Festival",
-      "date": "2027-03-05T19:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/girls-on-the-run-nmlff",
-      "latitude": 36.2157,
-      "longitude": -81.6752
     },
     {
       "id": "80b4473e90fb",
@@ -5290,9 +5268,31 @@
       "url": "https://www.apptheatre.org/events-and-tickets/boonerang-botb1",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "eb6b5eef2652",
+      "title": "Big Hero 6 (2014)",
+      "date": "2027-03-27T17:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/big-here-6",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "bcf72968a808",
+      "title": "Toy Sheep Microcinema: THE CRAMPS AND THE MUTANTS: THE NAPA STATE TAPES",
+      "date": "2027-03-27T20:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/tsm-killer-of-sheep-ga6n9",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-25T22:26:50.173056",
+  "last_updated": "2026-04-26T11:46:39.146912",
   "total_events": 481,
   "sources": [
     "Manual Events",
