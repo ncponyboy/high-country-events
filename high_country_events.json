@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "4a0559e11531",
-      "title": "Suffocation",
-      "date": "2026-04-27T00:00:00",
-      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/suffocation/200029888970113",
-      "latitude": 35.588348,
-      "longitude": -82.553902
-    },
-    {
-      "id": "f31cd762330d",
-      "title": "Jazz Concert: SPRING",
-      "date": "2026-04-27T00:00:00",
-      "location": "10 N Liberty St, Asheville, NC, United States, North Carolina 28801, 10 N Liberty St, Asheville, NC 28801-1823, United S",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/jazz-concert-spring/200029856632632",
-      "latitude": 35.603512,
-      "longitude": -82.55204
-    },
-    {
       "id": "bec84b22081a",
       "title": "Weekly Trivia @ South End",
       "date": "2026-04-27T19:00:00",
@@ -175,6 +153,17 @@
       "url": "https://allevents.in/asheville/growing-in-the-mountains/200029680074825",
       "latitude": 35.554359,
       "longitude": -82.599258
+    },
+    {
+      "id": "61ce90873561",
+      "title": "Modelface Comedy Presents Carmen Lagala",
+      "date": "2026-05-01T00:00:00",
+      "location": "Green Man Brewery, 27 Buxton Avenue, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/modelface-comedy-presents-carmen-lagala/100001988213978531",
+      "latitude": 35.588684,
+      "longitude": -82.552536
     },
     {
       "id": "f945b4d6ccb9",
@@ -364,17 +353,6 @@
       "longitude": -82.52179
     },
     {
-      "id": "a692dbbf4644",
-      "title": "Bluegrass &amp; Brews",
-      "date": "2026-05-02T00:00:00",
-      "location": "26 Biltmore Ave, Asheville, NC 28801-3625, United States, 26 Biltmore Ave, Asheville, NC 28801-3625, United States, Ashe",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/bluegrass-and-brews/200029689912048",
-      "latitude": 35.594109,
-      "longitude": -82.551323
-    },
-    {
       "id": "10201b508f18",
       "title": "The Nude Party w/ Tobacco City at The Grey Eagle",
       "date": "2026-05-02T00:00:00",
@@ -384,6 +362,17 @@
       "url": "https://allevents.in/asheville/the-nude-party-w-tobacco-city-at-the-grey-eagle/200029100872017",
       "latitude": 35.587063,
       "longitude": -82.564362
+    },
+    {
+      "id": "a692dbbf4644",
+      "title": "Bluegrass &amp; Brews",
+      "date": "2026-05-02T00:00:00",
+      "location": "26 Biltmore Ave, Asheville, NC 28801-3625, United States, 26 Biltmore Ave, Asheville, NC 28801-3625, United States, Ashe",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/bluegrass-and-brews/200029689912048",
+      "latitude": 35.594109,
+      "longitude": -82.551323
     },
     {
       "id": "cb59d7cbbd32",
@@ -483,6 +472,28 @@
       "url": "https://www.ashevilledowntown.org/events/boom-de-ay",
       "latitude": 35.5951,
       "longitude": -82.5515
+    },
+    {
+      "id": "4c3809166372",
+      "title": "Josh Goforth, Bryan McDowell, Sheila Kay Adams in Concert",
+      "date": "2026-05-02T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/josh-goforth-bryan-mcdowell-sheila-kay-adams-in-concert/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "cde84f277213",
+      "title": "Alleghany Jubilee",
+      "date": "2026-05-02T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-05-02/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "4025ada483c3",
@@ -683,15 +694,15 @@
       "longitude": -82.5539256
     },
     {
-      "id": "6715b8c59daa",
-      "title": "Live Dead &amp; Brothers: An All-Star Celebration of Grateful Dead &amp; Allman Brothers at The Grey Eagle",
+      "id": "c7d7574b7ede",
+      "title": "Asheville Movies in the Park 2026",
       "date": "2026-05-08T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "location": "80 Court Plz, Asheville, NC 28801-3507, United States, 80 Court Plz, Asheville, NC 28801-3507, United States, Asheville,",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/live-dead-and-brothers-an-all-star-celebration-of-grateful-dead-and-allman-brothers-at-the-grey-eagl/200029330388646",
-      "latitude": 35.587063,
-      "longitude": -82.564362
+      "url": "https://allevents.in/asheville/asheville-movies-in-the-park-2026/200029920144732",
+      "latitude": 35.595718,
+      "longitude": -82.548622
     },
     {
       "id": "544f70e6e492",
@@ -705,15 +716,15 @@
       "longitude": -82.553017
     },
     {
-      "id": "c7d7574b7ede",
-      "title": "Asheville Movies in the Park 2026",
+      "id": "6715b8c59daa",
+      "title": "Live Dead &amp; Brothers: An All-Star Celebration of Grateful Dead &amp; Allman Brothers at The Grey Eagle",
       "date": "2026-05-08T00:00:00",
-      "location": "80 Court Plz, Asheville, NC 28801-3507, United States, 80 Court Plz, Asheville, NC 28801-3507, United States, Asheville,",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-movies-in-the-park-2026/200029920144732",
-      "latitude": 35.595718,
-      "longitude": -82.548622
+      "url": "https://allevents.in/asheville/live-dead-and-brothers-an-all-star-celebration-of-grateful-dead-and-allman-brothers-at-the-grey-eagl/200029330388646",
+      "latitude": 35.587063,
+      "longitude": -82.564362
     },
     {
       "id": "4e55717b4502",
@@ -802,17 +813,6 @@
       "url": "https://allevents.in/asheville/the-ephemeral-garden-a-mystical-marketplace-and-soir\u00e9e/200029949854735",
       "latitude": 35.590569,
       "longitude": -82.551811
-    },
-    {
-      "id": "480c07dede46",
-      "title": "Asheville Improv Festival \u2013 Closing Night!",
-      "date": "2026-05-09T00:00:00",
-      "location": "The Orange Peel, 101 Biltmore ave,Asheville,NC,United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-improv-festival-closing-night/200029975421337",
-      "latitude": 35.591415,
-      "longitude": -82.551147
     },
     {
       "id": "aff256e34aad",
@@ -956,17 +956,6 @@
       "url": "https://allevents.in/asheville/aew-presents-dynamite/210001249608648",
       "latitude": 35.597469,
       "longitude": -82.55529
-    },
-    {
-      "id": "f3cc8fdae5fb",
-      "title": "An Evening With Shawn Mullins at The Grey Eagle",
-      "date": "2026-05-13T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/an-evening-with-shawn-mullins-at-the-grey-eagle/200029854565622",
-      "latitude": 35.587063,
-      "longitude": -82.564362
     },
     {
       "id": "1d9b0b429fe0",
@@ -1519,6 +1508,17 @@
       "longitude": -82.553123
     },
     {
+      "id": "c31bd4f80851",
+      "title": "Champagne Drip w/special guests @ Third Room",
+      "date": "2026-05-29T00:00:00",
+      "location": "46 Wall Street, Asheville, NC, United States, North Carolina 28801, 46 Wall St, Asheville, NC 28801-2710, United States,",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/champagne-drip-w-special-guests-third-room/200029973264226",
+      "latitude": 35.59449,
+      "longitude": -82.555992
+    },
+    {
       "id": "c96268ce1c14",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-05-29T10:00:00",
@@ -1572,17 +1572,6 @@
       "url": "https://allevents.in/asheville/classic-car-show-coxe-avenue-ashevilles-original-motor-mile/200029500831923",
       "latitude": 35.59037,
       "longitude": -82.555008
-    },
-    {
-      "id": "2428e8850a48",
-      "title": "WNC Whiskey Festival",
-      "date": "2026-05-30T00:00:00",
-      "location": "Mission Health / A-B Tech Conference Center, 16 Fernihurst Drive, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/wnc-whiskey-festival/100001839099850159",
-      "latitude": 35.571594,
-      "longitude": -82.556198
     },
     {
       "id": "0ee943d74d28",
@@ -1726,6 +1715,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
+    },
+    {
+      "id": "7af029215b05",
+      "title": "Coheed and Cambria, Cicada Rhythm in Asheville",
+      "date": "2026-06-04T00:00:00",
+      "location": "The Orange Peel, The Orange Peel, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/coheed-and-cambria-cicada-rhythm-in-asheville/3300029966569354",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "4d4c39b5b382",
@@ -2639,6 +2639,28 @@
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-06-26/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "ddc950b8963e",
+      "title": "Modelface Comedy presents Sean Patton Live Special Taping (early show)",
+      "date": "2026-06-27T00:00:00",
+      "location": "AyurPrana Listening Room, 312 Haywood Road, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/modelface-comedy-presents-sean-patton-live-special-taping-early-show/100001988058368096",
+      "latitude": 35.577595,
+      "longitude": -82.576027
+    },
+    {
+      "id": "9b86d1a16abc",
+      "title": "Modelface Comedy presents Sean Patton Live Special Taping (late show)",
+      "date": "2026-06-27T00:00:00",
+      "location": "AyurPrana Listening Room, 312 Haywood Road, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/modelface-comedy-presents-sean-patton-live-special-taping-late-show/100001988059264778",
+      "latitude": 35.577595,
+      "longitude": -82.576027
     },
     {
       "id": "3f4c3e5b755e",
@@ -5083,17 +5105,6 @@
       "longitude": -82.555962
     },
     {
-      "id": "66de1c1f5823",
-      "title": "Asheville Halloween Bar Crawl 2026",
-      "date": "2026-10-31T00:00:00",
-      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-halloween-bar-crawl-2026/100001985836268737",
-      "latitude": 35.588284,
-      "longitude": -82.553627
-    },
-    {
       "id": "9b09ebcdfd04",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-10-31T10:00:00",
@@ -5191,6 +5202,17 @@
       "url": "https://www.hcpress.com/announcements/mountainfilm-on-tour-returns-to-lees-mcrae-for-high-country-film-and-speaker-series-2025-26-on-feb-21-discounted-tickets-available-now.html",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "7c065953fdc0",
+      "title": "Asheville SantaCon Bar Crawl 2026",
+      "date": "2026-12-12T00:00:00",
+      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/asheville-santacon-bar-crawl-2026/100001988203832183",
+      "latitude": 35.588284,
+      "longitude": -82.553627
     },
     {
       "id": "80b4473e90fb",
@@ -5334,10 +5356,32 @@
       "url": "https://www.apptheatre.org/events-and-tickets/tsm-killer-of-sheep-ga6n9",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "7d10bde2a3eb",
+      "title": "\u201cThe Big Sleep\u201d (1946)",
+      "date": "2027-03-28T14:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/knitflix-sleepless-in-seattle-mm7ab",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "4422050fb054",
+      "title": "Girl Climber",
+      "date": "2027-03-28T19:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/girl-climber",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-26T22:28:34.998854",
-  "total_events": 485,
+  "last_updated": "2026-04-27T12:21:51.205093",
+  "total_events": 489,
   "sources": [
     "Manual Events",
     "High Country Host",
