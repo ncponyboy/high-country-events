@@ -331,17 +331,6 @@
       "longitude": -82.551483
     },
     {
-      "id": "95c1ac7b487d",
-      "title": "Asheville BuskerFest",
-      "date": "2026-05-02T00:00:00",
-      "location": "Pack Square Park, 7 S Spruce St, Asheville, NC 28801, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-buskerfest/200029871352432",
-      "latitude": 35.595428,
-      "longitude": -82.550293
-    },
-    {
       "id": "281892a9c96a",
       "title": "Rocky Horror Picture Show with Unexpected Pleasures",
       "date": "2026-05-02T00:00:00",
@@ -362,6 +351,17 @@
       "url": "https://allevents.in/asheville/the-nude-party-w-tobacco-city-at-the-grey-eagle/200029100872017",
       "latitude": 35.587063,
       "longitude": -82.564362
+    },
+    {
+      "id": "762a6e41ffcd",
+      "title": "Asheville Buskerfest",
+      "date": "2026-05-02T00:00:00",
+      "location": "Asheville, North Carolina, Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/asheville-buskerfest/200029987049312",
+      "latitude": 35.579899,
+      "longitude": -82.555801
     },
     {
       "id": "a692dbbf4644",
@@ -481,17 +481,6 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/josh-goforth-bryan-mcdowell-sheila-kay-adams-in-concert/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "cde84f277213",
-      "title": "Alleghany Jubilee",
-      "date": "2026-05-02T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-05-02/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -620,7 +609,7 @@
       "id": "0e12ba7bc0ae",
       "title": "Ryan Montbleau (solo) at The Grey Eagle",
       "date": "2026-05-07T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville,NC,United States, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
       "url": "https://allevents.in/asheville/ryan-montbleau-solo-at-the-grey-eagle/200029785081702",
@@ -694,15 +683,15 @@
       "longitude": -82.5539256
     },
     {
-      "id": "c7d7574b7ede",
-      "title": "Asheville Movies in the Park 2026",
+      "id": "6715b8c59daa",
+      "title": "Live Dead &amp; Brothers: An All-Star Celebration of Grateful Dead &amp; Allman Brothers at The Grey Eagle",
       "date": "2026-05-08T00:00:00",
-      "location": "80 Court Plz, Asheville, NC 28801-3507, United States, 80 Court Plz, Asheville, NC 28801-3507, United States, Asheville,",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-movies-in-the-park-2026/200029920144732",
-      "latitude": 35.595718,
-      "longitude": -82.548622
+      "url": "https://allevents.in/asheville/live-dead-and-brothers-an-all-star-celebration-of-grateful-dead-and-allman-brothers-at-the-grey-eagl/200029330388646",
+      "latitude": 35.587063,
+      "longitude": -82.564362
     },
     {
       "id": "544f70e6e492",
@@ -716,15 +705,15 @@
       "longitude": -82.553017
     },
     {
-      "id": "6715b8c59daa",
-      "title": "Live Dead &amp; Brothers: An All-Star Celebration of Grateful Dead &amp; Allman Brothers at The Grey Eagle",
+      "id": "c7d7574b7ede",
+      "title": "Asheville Movies in the Park 2026",
       "date": "2026-05-08T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "location": "80 Court Plz, Asheville, NC 28801-3507, United States, 80 Court Plz, Asheville, NC 28801-3507, United States, Asheville,",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/live-dead-and-brothers-an-all-star-celebration-of-grateful-dead-and-allman-brothers-at-the-grey-eagl/200029330388646",
-      "latitude": 35.587063,
-      "longitude": -82.564362
+      "url": "https://allevents.in/asheville/asheville-movies-in-the-park-2026/200029920144732",
+      "latitude": 35.595718,
+      "longitude": -82.548622
     },
     {
       "id": "4e55717b4502",
@@ -1154,6 +1143,17 @@
       "url": "https://allevents.in/asheville/josh-ritter-in-asheville/3300029685842207",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "5e85c3f1357c",
+      "title": "Book Signing with Landon Bryant",
+      "date": "2026-05-20T21:00:00.747000",
+      "location": "Mast General Store, 15 Biltmore Avenue, Asheville, NC, 28801",
+      "description": "Meet Landon at the Mast Store in Downtown Asheville where he will be signing his recent book \ud835\ude3d\ud835\ude61\ud835\ude5a\ud835\ude68\ud835\ude68 \ud835\ude54\ud835\ude64\ud835\ude6a\ud835\ude67 \ud835\ude43\ud835\ude5a\ud835\ude56\ud835\ude67\ud835\ude69: \ud835\ude3c \ud835\ude41\ud835\ude5e\ud835\ude5a\ud835\ude61\ud835\ude59 \ud835\ude42\ud835\ude6a\ud835\ude5e\ud835\ude59\ud835\ude5a \ud835\ude69\ud835\ude64 \ud835\ude3c\ud835\ude61\ud835\ude61 \ud835\ude4f\ud835\ude5d\ud835\ude5e\ud835\ude63\ud835\ude5c\ud835\ude68 \ud835\ude4e\ud835\ude64\ud835\ude6a\ud835\ude69\ud835\ude5d\ud835\ude5a\ud835\ude67\ud835\ude63. Books will be available on the day of the signing.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/book-signing-with-landon-bryant",
+      "latitude": 35.5940335,
+      "longitude": -82.5518498
     },
     {
       "id": "a5a41301955a",
@@ -1847,6 +1847,17 @@
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-06-05/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "3e793f7cf59e",
+      "title": "Common Ground: Linda Gritta Solo Exhibition",
+      "date": "2026-06-05T21:00:00.884000",
+      "location": "Bender Gallery, 29 Biltmore Avenue, Asheville, NC, 28801",
+      "description": "Bender Gallery is pleased&nbsp;to present Common Ground, a solo exhibition of new works by Asheville-based artist Linda Gritta, on view from June 5 through June 27.",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/common-ground-linda-gritta-solo-exhibition",
+      "latitude": 35.5936652,
+      "longitude": -82.5514883
     },
     {
       "id": "c33171a1f3a9",
@@ -2773,9 +2784,9 @@
       "longitude": -82.551659
     },
     {
-      "id": "4da3d7fdb113",
+      "id": "2b58155c58a0",
       "title": "Independence Day Block Party",
-      "date": "2026-07-04T21:00:00.853000",
+      "date": "2026-07-04T16:00:00.853000",
       "location": "Asheville, NC",
       "description": "Join us for a day of free family fun with the Amazing Air Dogs, live music, local vendors, and, of course, a fireworks show!",
       "source": "Downtown Asheville",
@@ -5380,8 +5391,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-27T12:21:51.205093",
-  "total_events": 489,
+  "last_updated": "2026-04-27T17:19:25.979417",
+  "total_events": 490,
   "sources": [
     "Manual Events",
     "High Country Host",
