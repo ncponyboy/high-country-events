@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "bec84b22081a",
-      "title": "Weekly Trivia @ South End",
-      "date": "2026-04-27T19:00:00",
-      "location": "NC",
-      "description": "Every Monday at 7pm join South End Brewing for Trivia!",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-04-27/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "f4206d49e77f",
       "title": "Weedeater &amp; Conan w/ Telekinetic Yeti @ Third Room",
       "date": "2026-04-28T00:00:00",
@@ -219,6 +208,17 @@
       "url": "https://downtownboonenc.com/eventinfo/the-art-of-walking/2026-05-01/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "2090d410d7ae",
+      "title": "Xico Cocina de Fuego x The Hop Ice Cream Release",
+      "date": "2026-05-01T15:30:00.734000",
+      "location": "The Hop, 56 Patton Avenue, Asheville, NC, 28801",
+      "description": "The Hop Handcrafted Ice Cream is proud to partner with one of downtown Asheville\u2019s newest culinary destinations, Xico Cocina de Fuego, joining forces to celebrate a very special local organization. Th",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/xico-cocina-de-fuego-x-the-hop-ice-cream-release",
+      "latitude": 35.5943996,
+      "longitude": -82.5539019
     },
     {
       "id": "7aa64acbb3d4",
@@ -595,15 +595,15 @@
       "longitude": -82.55597519999999
     },
     {
-      "id": "9b2be90c6dfe",
-      "title": "Asheville Cinco De Mayo Bar Crawl",
-      "date": "2026-05-05T00:00:00",
-      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-cinco-de-mayo-bar-crawl/100001356216322529",
-      "latitude": 35.588284,
-      "longitude": -82.553627
+      "id": "d3f70b4739b2",
+      "title": "Cinco de Mayo Celebration",
+      "date": "2026-05-05T20:00:00.961000",
+      "location": "Xico, 175 Biltmore Avenue, Asheville, NC, 28801",
+      "description": "Choose your fiesta style this Cinco de Mayo\u2014opt for an intimate \u2018Fiesta Poblano\u2019 tasting menu celebrating the rich culinary traditions of Puebla, or get a first taste of Xico Chico with new menu items",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/cinco-de-mayo-celebration",
+      "latitude": 35.5890481,
+      "longitude": -82.551955
     },
     {
       "id": "0e12ba7bc0ae",
@@ -2771,6 +2771,17 @@
       "url": "https://allevents.in/asheville/of-montreal-in-asheville/3300029956595749",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "a5eb7f0c5028",
+      "title": "The Art of Walking",
+      "date": "2026-07-03T15:00:00",
+      "location": "The Turchin Center for the Visual Arts, 423 W. King Street, Boone, N, 28608, United States",
+      "description": "The Art of Walking Boone Greenway and Kennedy Trail First Fridays, 3:00-4:30pm A 3-mile loop with an art theme to complement the First Friday Art Crawl in Boone on the first Friday of each month. No e",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/the-art-of-walking/2026-07-03/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "70735cf84e88",
@@ -5215,17 +5226,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "7c065953fdc0",
-      "title": "Asheville SantaCon Bar Crawl 2026",
-      "date": "2026-12-12T00:00:00",
-      "location": "Urban Orchard, 24 Buxton Avenue, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-santacon-bar-crawl-2026/100001988203832183",
-      "latitude": 35.588284,
-      "longitude": -82.553627
-    },
-    {
       "id": "80b4473e90fb",
       "title": "A Minecraft Movie (2025)",
       "date": "2027-03-06T18:00:00",
@@ -5391,7 +5391,7 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-27T17:19:25.979417",
+  "last_updated": "2026-04-27T22:40:57.596765",
   "total_events": 490,
   "sources": [
     "Manual Events",
