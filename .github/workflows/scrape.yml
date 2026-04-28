@@ -2,10 +2,7 @@ name: Scrape High Country Events
 
 on:
   schedule:
-    # Runs at 7am, 12pm, and 6pm Eastern (UTC-4 during EDT)
-    - cron: '0 11 * * *'   # 7am EDT
-    - cron: '0 16 * * *'   # 12pm EDT
-    - cron: '0 22 * * *'   # 6pm EDT
+    - cron: '0 11 */2 * *'  # Every 2 days at 7am EDT (reduces Geekflare credit usage)
   workflow_dispatch:        # Allow manual trigger from GitHub Actions tab
 
 jobs:
