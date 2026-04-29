@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "6c90f9b239ef",
-      "title": "Boone Shape Note Singing",
-      "date": "2026-04-28T18:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/boone-shape-note-singing/2026-04-28/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "a5630b7ff020",
-      "title": "NC Playwrights Forum: Virtual",
-      "date": "2026-04-29T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/nc-playwrights-forum/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "7372aab00a73",
       "title": "Stecoah Stories & Seeds Speaker Series",
       "date": "2026-04-29T11:30:00",
@@ -43,6 +21,17 @@
       "url": "https://www.blueridgemusicnc.com/event/wednesday-night-bluegrass-at-the-ugly-dog-pub/2026-04-29/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "b58ecb7e4b03",
+      "title": "NC Playwrights Forum: Virtual",
+      "date": "2026-04-29T18:30:00",
+      "location": "Ashe Arts Center, 303 School Ave, West Jefferson, NC",
+      "description": "Presenting the all-zoom NC Playwrights Forum 6:30 pm \u2013 8:30 pm Sponsored by Ashe County Arts Council Join in this virtual forum for both actors and playwrights from across North Carolina! This monthly",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/nc-playwrights-forum/",
+      "latitude": 36.4013,
+      "longitude": -81.4874
     },
     {
       "id": "a1502d4166f3",
@@ -92,7 +81,7 @@
       "id": "fa57ddfc54d1",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-04-30T19:00:00",
-      "location": "NC",
+      "location": "Downtown Boone, NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-04-30/",
@@ -142,17 +131,6 @@
       "url": "https://allevents.in/asheville/modelface-comedy-presents-carmen-lagala/100001988213978531",
       "latitude": 35.588684,
       "longitude": -82.552536
-    },
-    {
-      "id": "f945b4d6ccb9",
-      "title": "Cosplay Rave: MUZ x Neptune Spins",
-      "date": "2026-05-01T00:00:00",
-      "location": "31 Patton Avenue Asheville, NC 28801-3314, 31 Patton Ave, Asheville, NC 28801-3314, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/cosplay-rave-muz-x-neptune-spins/200029985150834",
-      "latitude": 35.594891,
-      "longitude": -82.553017
     },
     {
       "id": "56a258c70975",
@@ -213,7 +191,7 @@
       "id": "7aa64acbb3d4",
       "title": "First Friday Art Crawl",
       "date": "2026-05-01T17:00:00",
-      "location": "NC",
+      "location": "Downtown Boone, NC",
       "description": "https://www.watauga-arts.org/first-friday-art-crawls",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-2/2026-05-01/",
@@ -298,13 +276,13 @@
       "longitude": -82.555382
     },
     {
-      "id": "abf3996fb454",
-      "title": "Infected Mushroom w/ special guests TBA @ Third Room",
+      "id": "10f8d99b4360",
+      "title": "Infected Mushroom w/ Spice Rapture &amp; Ixnee @ Third Room",
       "date": "2026-05-02T00:00:00",
       "location": "46 Wall Street, Asheville, NC, United States, North Carolina 28801, 46 Wall St, Asheville, NC 28801-2710, United States,",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/infected-mushroom-w-special-guests-tba-third-room/200029526641631",
+      "url": "https://allevents.in/asheville/infected-mushroom-w-spice-rapture-and-ixnee-third-room/200029526641631",
       "latitude": 35.59449,
       "longitude": -82.555992
     },
@@ -318,6 +296,17 @@
       "url": "https://allevents.in/asheville/ani-difranco-valerie-june-in-asheville/3300029668601648",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "10201b508f18",
+      "title": "The Nude Party w/ Tobacco City at The Grey Eagle",
+      "date": "2026-05-02T00:00:00",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/the-nude-party-w-tobacco-city-at-the-grey-eagle/200029100872017",
+      "latitude": 35.587063,
+      "longitude": -82.564362
     },
     {
       "id": "95c1ac7b487d",
@@ -342,15 +331,15 @@
       "longitude": -82.52179
     },
     {
-      "id": "10201b508f18",
-      "title": "The Nude Party w/ Tobacco City at The Grey Eagle",
+      "id": "cb59d7cbbd32",
+      "title": "Busker Fest",
       "date": "2026-05-02T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "location": "River Arts District, Asheville, NC, United States, North Carolina 28801, 175 Clingman Ave, Asheville, NC 28801-3207, Uni",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/the-nude-party-w-tobacco-city-at-the-grey-eagle/200029100872017",
-      "latitude": 35.587063,
-      "longitude": -82.564362
+      "url": "https://allevents.in/asheville/busker-fest/200029969610020",
+      "latitude": 35.588188,
+      "longitude": -82.564651
     },
     {
       "id": "d0f9f34ed248",
@@ -373,17 +362,6 @@
       "url": "https://allevents.in/asheville/bluegrass-and-brews/200029689912048",
       "latitude": 35.594109,
       "longitude": -82.551323
-    },
-    {
-      "id": "cb59d7cbbd32",
-      "title": "Busker Fest",
-      "date": "2026-05-02T00:00:00",
-      "location": "River Arts District, Asheville, NC, United States, North Carolina 28801, 175 Clingman Ave, Asheville, NC 28801-3207, Uni",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/busker-fest/200029969610020",
-      "latitude": 35.588188,
-      "longitude": -82.564651
     },
     {
       "id": "bb66b504b741",
@@ -485,6 +463,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "53cd80e31a77",
+      "title": "Asheville Community Square Dance",
+      "date": "2026-05-02T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/asheville-community-square-dance/2026-05-02/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "4025ada483c3",
       "title": "May 3 - Free \u2018Give-Back\u2019 Drag Show to benefit Healing Solutions Counseling",
       "date": "2026-05-03T00:00:00",
@@ -499,7 +488,7 @@
       "id": "bf4405fb8f5a",
       "title": "Cass McCombs + Band: Interior Live Oak Live at The Grey Eagle",
       "date": "2026-05-03T00:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave,Asheville, North Carolina, Asheville, NC",
+      "location": "The Grey Eagle, 185 Clingman Ave,Asheville,NC,United States, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
       "url": "https://allevents.in/asheville/cass-mccombs-band-interior-live-oak-live-at-the-grey-eagle/200029566877641",
@@ -576,7 +565,7 @@
       "id": "de626ed85945",
       "title": "Weekly Trivia @ South End",
       "date": "2026-05-04T19:00:00",
-      "location": "NC",
+      "location": "Downtown Boone, NC",
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-05-04/",
@@ -653,7 +642,7 @@
       "id": "f342d87d7059",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-05-07T19:00:00",
-      "location": "NC",
+      "location": "Downtown Boone, NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-07/",
@@ -884,7 +873,7 @@
       "id": "de7193aa277d",
       "title": "Weekly Trivia @ South End",
       "date": "2026-05-11T19:00:00",
-      "location": "NC",
+      "location": "Downtown Boone, NC",
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-05-11/",
@@ -972,7 +961,7 @@
       "id": "6135e532bd92",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-05-14T19:00:00",
-      "location": "NC",
+      "location": "Downtown Boone, NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-14/",
@@ -1104,7 +1093,7 @@
       "id": "efd96e85d616",
       "title": "Weekly Trivia @ South End",
       "date": "2026-05-18T19:00:00",
-      "location": "NC",
+      "location": "Downtown Boone, NC",
       "description": "Every Monday at 7pm join South End Brewing for Trivia!",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/weekly-trivia-south-end/2026-05-18/",
@@ -1124,10 +1113,10 @@
     },
     {
       "id": "f804862b84c4",
-      "title": "Landon Talks",
+      "title": "Landon Talks: An Evening of Southern Stories and Laughter",
       "date": "2026-05-19T19:00:00",
       "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
+      "description": "Landon Talks has built one of the most engaged organic audiences in the South, with over 900,000 followers across Instagram, Facebook, Threads and YouTube. His content focuses on Southern culture, foo",
       "source": "Appalachian Theatre",
       "url": "https://www.apptheatre.org/events-and-tickets/landon-talks",
       "latitude": 36.2157,
@@ -1181,7 +1170,7 @@
       "id": "241f81738d8f",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-05-21T19:00:00",
-      "location": "NC",
+      "location": "Downtown Boone, NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-21/",
@@ -1467,7 +1456,7 @@
       "id": "5250479e0f27",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-05-28T19:00:00",
-      "location": "NC",
+      "location": "Downtown Boone, NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-05-28/",
@@ -1539,6 +1528,17 @@
       "url": "https://grandfather.com/event/rhodo-ramble-2/2026-05-29/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "edcba7e477af",
+      "title": "The Goonies (1985)",
+      "date": "2026-05-29T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/the-goonies-aj26",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "bf6e632a0c97",
@@ -1627,6 +1627,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.572886,
       "longitude": -80.851589
+    },
+    {
+      "id": "164d02329d9d",
+      "title": "Bearly Dead (Grateful Dead Party!) @ Third Room",
+      "date": "2026-05-31T00:00:00",
+      "location": "Third Room, 42 Wall St, Asheville, NC 28801-2710, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/bearly-dead-grateful-dead-party-third-room/200029803299927",
+      "latitude": 35.594479,
+      "longitude": -82.555962
     },
     {
       "id": "8877ee5d9ee3",
@@ -1753,7 +1764,7 @@
       "id": "fe376ef45fb9",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-06-04T19:00:00",
-      "location": "NC",
+      "location": "Downtown Boone, NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-06-04/",
@@ -1808,7 +1819,7 @@
       "id": "9546bdf21a30",
       "title": "First Friday Art Crawl",
       "date": "2026-06-05T17:00:00",
-      "location": "NC",
+      "location": "Downtown Boone, NC",
       "description": "https://www.watauga-arts.org/first-friday-art-crawls",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-2/2026-06-05/",
@@ -2094,7 +2105,7 @@
       "id": "6d5c9c5a5b55",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-06-11T19:00:00",
-      "location": "NC",
+      "location": "Downtown Boone, NC",
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-06-11/",
@@ -2144,17 +2155,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
-    },
-    {
-      "id": "f48b2dd5ca5a",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-06-12T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-06-12/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "d1ba3c93c766",
@@ -2210,6 +2210,17 @@
       "url": "https://allevents.in/asheville/grindfest-2026/100001984973381819",
       "latitude": 35.595566,
       "longitude": -82.549385
+    },
+    {
+      "id": "5f3da44ec34c",
+      "title": "Live Nation Presents: Hot Mulligan",
+      "date": "2026-06-13T00:00:00",
+      "location": "75 Coxe Ave, Asheville, NC, United States, North Carolina 28801, 75 Coxe Ave, Asheville, NC 28801-3621, United States, A",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/live-nation-presents-hot-mulligan/200029792514946",
+      "latitude": 35.592072,
+      "longitude": -82.555382
     },
     {
       "id": "142ccf279357",
@@ -2344,17 +2355,6 @@
       "longitude": -80.850001
     },
     {
-      "id": "34a0cb1c0b79",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-06-18T19:00:00",
-      "location": "NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-06-18/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "032d48292f67",
       "title": "Boone's Got Talent \u2014 Boonerang 2026",
       "date": "2026-06-18T19:00:00",
@@ -2406,17 +2406,6 @@
       "description": "Free live music on multiple stages throughout downtown Boone. Evening silent disco.",
       "source": "Boonerang Festival",
       "url": "https://www.boonerangfest.com",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "1f84a1d04a4e",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-06-19T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-06-19/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -2575,17 +2564,6 @@
       "longitude": -80.850001
     },
     {
-      "id": "9c081ccbb498",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-06-25T19:00:00",
-      "location": "NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-06-25/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "c0f6d4066c94",
       "title": "HENRY CHO: THE EMPTY NEST TOUR - SECOND NIGHT ADDED!",
       "date": "2026-06-26T00:00:00",
@@ -2628,17 +2606,6 @@
       "source": "Saloon Studios",
       "latitude": 36.3551,
       "longitude": -81.5065
-    },
-    {
-      "id": "6d4bd6292932",
-      "title": "An Evening of Comedy and Magic with Lyndy Phillips",
-      "date": "2026-06-26T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "The Carolina Comedy Magic Parlor delivers an intimate and unforgettable evening of magic and laughter, with limited seating. Step into a cozy parlor-style theater where every seat is the best seat in ",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-06-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "3f4c3e5b755e",
@@ -2718,17 +2685,6 @@
       "longitude": -80.850001
     },
     {
-      "id": "f0baf9dc43e3",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-07-02T19:00:00",
-      "location": "NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-07-02/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "d929cf9c4dac",
       "title": "of Montreal in Asheville",
       "date": "2026-07-03T00:00:00",
@@ -2738,17 +2694,6 @@
       "url": "https://allevents.in/asheville/of-montreal-in-asheville/3300029956595749",
       "latitude": 35.595058,
       "longitude": -82.551483
-    },
-    {
-      "id": "a5eb7f0c5028",
-      "title": "The Art of Walking",
-      "date": "2026-07-03T15:00:00",
-      "location": "The Turchin Center for the Visual Arts, 423 W. King Street, Boone, N, 28608, United States",
-      "description": "The Art of Walking Boone Greenway and Kennedy Trail First Fridays, 3:00-4:30pm A 3-mile loop with an art theme to complement the First Friday Art Crawl in Boone on the first Friday of each month. No e",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/the-art-of-walking/2026-07-03/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "70735cf84e88",
@@ -2936,6 +2881,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
+    },
+    {
+      "id": "2f0fdfc3a6d4",
+      "title": "Michelle Amato Quartet",
+      "date": "2026-07-12T17:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/michelle-amato-hcjs26",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "d854f4e1ccec",
@@ -3574,6 +3530,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
+    },
+    {
+      "id": "edc0f52953fb",
+      "title": "Hermeto Pascoal Tribute Band",
+      "date": "2026-08-09T17:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/hermeto-pascoal-tribute-hcjs26",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "2613e3b6b971",
@@ -4225,6 +4192,17 @@
       "longitude": -80.850001
     },
     {
+      "id": "2f1219fe6f7b",
+      "title": "Carolina Social Music Club",
+      "date": "2026-09-13T17:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/carolina-social-music-club",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "7597c6980a54",
       "title": "St. Mary of the Hills welcomes SoLa Bazaar on Sunday, September 14",
       "date": "2026-09-14T10:00:00",
@@ -4786,6 +4764,17 @@
       "longitude": -80.850001
     },
     {
+      "id": "a5f6807e3fac",
+      "title": "Appalachian State University Jazz Ensemble",
+      "date": "2026-10-11T17:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/app-state-jazz-ensemble1-2026",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "73d896e43dab",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-10-12T10:00:00",
@@ -5083,17 +5072,6 @@
       "longitude": -82.551147
     },
     {
-      "id": "cfaa6bd0c8d2",
-      "title": "The Official Halloween Bar Crawl - Asheville",
-      "date": "2026-10-31T00:00:00",
-      "location": "Hi-Wire Brewing, 197 Hilliard Ave, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/the-official-halloween-bar-crawl-asheville/100001583893310529",
-      "latitude": 35.591423,
-      "longitude": -82.555962
-    },
-    {
       "id": "9b09ebcdfd04",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-10-31T10:00:00",
@@ -5380,8 +5358,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-04-28T12:25:44.571699",
-  "total_events": 489,
+  "last_updated": "2026-04-29T12:13:07.436963",
+  "total_events": 487,
   "sources": [
     "Manual Events",
     "High Country Host",
