@@ -1,312 +1,37 @@
 {
   "events": [
     {
-      "id": "2b9195051a8b",
-      "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
-      "date": "2026-08-09T10:00:00",
-      "location": "Brinegar Cabin is located at milepost 238.5 on the Blue Ridge Parkway. Park in the parking and follow the paved walkway to the cabin.",
-      "description": "Step back into the late 1800s at one of Doughton Park\u2019s most cherished historic sites. Completed in 1889, the Brinegar family home offers visitors a window into mountain life shaped by resilience, cra",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.418694,
-      "longitude": -81.146474
-    },
-    {
-      "id": "b236f8588d28",
-      "title": "Counting Butterflies as They Flutter by (Doughton Park - Milepost 238.5)",
-      "date": "2026-08-09T10:00:00",
-      "location": "Doughton Park located at milepost 238.5 on the Blue Ridge Parkway. Park in the parking lot next to Brinegar Cabin and follow the paved path to the garden.",
-      "description": "Be a citizen scientist and help spot and count butterflies as part of the Carolina Butterfly Monitoring Program. This is a sure way to learn and recognize common butterfly species. Join the survey for",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.418694,
-      "longitude": -81.146474
-    },
-    {
-      "id": "7809bc462d50",
-      "title": "Match That Mammal! (Peaks of Otter Visitor Center - Milepost 86)",
-      "date": "2026-08-09T10:00:00",
-      "location": "Located in the breezeway outside the Peaks of Otter Visitor Center at Milepost 86 (85919 Blue Ridge Parkway, Bedford, VA 24523).",
-      "description": "Test your knowledge by matching the correct skulls, furs, and tracks together. Learn about some of the mammals that call the Blue Ridge Parkway home.",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.445607,
-      "longitude": -79.609958
-    },
-    {
-      "id": "ef55bce56192",
-      "title": "Fire, Iron, and Tradition: Mabry Mill Blacksmith Demonstration (Mabry Mill Blacksmith Shop - Milepost 176.2)",
-      "date": "2026-08-09T10:30:00",
-      "location": "Blue Ridge Parkway - Mabry Mill Blacksmith Shop - Milepost 176.2",
-      "description": "Experience the heat, rhythm, and skill of traditional Appalachian blacksmithing. Watch as Park staff shape iron into tools and art while sharing the stories of the people who relied on this essential ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "00dbc58c3092",
-      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
-      "date": "2026-08-09T10:30:00",
-      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
-      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751806,
-      "longitude": -80.405298
-    },
-    {
-      "id": "138da5af1d92",
-      "title": "Appalachian Fiddle Tunes (Humpback Rocks - Milepost 6)",
-      "date": "2026-08-09T11:00:00",
-      "location": "Meet at the Ramsey Cabin at the Humpback Rocks Mountain Farm (Milepost 6).",
-      "description": "From the British Isles to the Blue Ridge Mountains to all across America, Appalachian fiddle music has had a long journey to get to where it is today. But how did Appalachia develop its iconic style o",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.972724,
-      "longitude": -78.899465
-    },
-    {
-      "id": "121affeaed52",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-08-09T12:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
-    },
-    {
-      "id": "634e6468ca76",
-      "title": "David Holt: An American Treasure",
-      "date": "2026-08-09T13:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/david-holt-mentors-friends-2/2026-08-09/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "34dd2b255e46",
-      "title": "Aida",
-      "date": "2026-08-09T13:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/aida-encore",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "45f990932312",
-      "title": "Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Blue Ridge Parkway milepost 294)",
-      "date": "2026-08-09T13:45:00",
-      "location": "The Moses H. Cone Manor House is located at Milepost 294 of the Blue Ridge Parkway. The two closest towns are Boone and Blowing Rock.",
-      "description": "The Gilded Age \u201cDenim King\u201d, Moses H. Cone, turned his hand from textile manufacturing to becoming a \u201cgentleman farmer\u201d in the late 1890s. And what better way to emphasize \u201cgentleman\u201d than to build a ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.149207,
-      "longitude": -81.692963
-    },
-    {
-      "id": "8fd8977facb4",
-      "title": "Live Mountain Music at the Orchard at Altapass",
-      "date": "2026-08-09T14:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/live-mountain-music-at-the-orchard-at-altapass-2/2026-08-09/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "5846615c7912",
-      "title": "Milepost Music (Doughton Park - Milepost 238)",
-      "date": "2026-08-09T14:00:00",
-      "location": "49800 Blue Ridge Parkway Laurel Springs, NC 28644",
-      "description": "Free traditional music concerts featuring local &amp; regional mountain musicians. Bring your chairs or a blanket to spread out and enjoy the wodnerful traditional mountain music. The concerts are can",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.434258,
-      "longitude": -81.177265
-    },
-    {
-      "id": "539fb9b3f7a8",
-      "title": "Mountain Music Jam",
-      "date": "2026-08-09T15:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/mountain-music-jam/2026-08-09/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "1ddb2bcaf63e",
-      "title": "Old Farmer\u2019s Ball English Country Dance",
-      "date": "2026-08-09T16:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/old-farmers-ball-english-country-dance/2026-08-09/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "727af756b920",
-      "title": "Mushroom Boom (Doughton Park - Milepost 238.5)",
-      "date": "2026-08-09T16:00:00",
-      "location": "Doughton Park - Milepost 238.5 - Blue Ridge Parkway Brinegar Cabin",
-      "description": "Mushrooms and other fungal fruiting bodies are beginning to spring up in Doughton Park. Come learn just what a mushroom is and why the fungi kingdom is a keystone kingdom in the web of life. There wil",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.418721,
-      "longitude": -81.146435
-    },
-    {
-      "id": "edc0f52953fb",
-      "title": "Hermeto Pascoal Tribute Band",
-      "date": "2026-08-09T17:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/hermeto-pascoal-tribute-hcjs26",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "4bc6134fbc55",
-      "title": "Meet the Artist: Tommy Simpson Book Signing",
-      "date": "2026-08-09T18:00:00.214000",
-      "location": "Asheville, NC",
-      "description": "Join us for a special afternoon with acclaimed artist and master woodworker Tommy Simpson as we celebrate the release of his newest book, The Art and Furniture of Tommy Simpson.",
-      "source": "Downtown Asheville",
-      "url": "https://www.ashevilledowntown.org/events/the-art-and-furniture-of-tommy-simpson",
+      "id": "247637a8c5af",
+      "title": "Chess Meetup",
+      "date": "2026-08-11T10:00:00",
+      "location": "Fairview Library, 1 Taylor Road, Asheville",
+      "description": "&lt;p&gt;Come play chess, meet new people, and enjoy a relaxed morning of friendly competition at the Fairview Library. Whether you are brand new to chess, still learning the basics, or ... &lt;a titl",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/chess-meetup/",
       "latitude": 35.5951,
       "longitude": -82.5515
     },
     {
-      "id": "1f3d3b78e206",
-      "title": "Unto these Hills",
-      "date": "2026-08-09T20:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/unto-these-hills-2/2026-08-09/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "b94d0d431de0",
-      "title": "Adventure Center of Asheville Summer Day Camps- ages 6-133",
-      "date": "2026-08-10T00:00:00",
-      "location": "85 Expo Drive, Asheville, NC, United States, North Carolina 28806, 85 Expo Dr, Asheville, NC 28806-3865, United States, ",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/adventure-center-of-asheville-summer-day-camps-ages-6-133/200030430273223",
-      "latitude": 35.593311,
-      "longitude": -82.582787
-    },
-    {
-      "id": "2613e3b6b971",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-08-10T10:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
-    },
-    {
-      "id": "c10b90fe42d8",
-      "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
-      "date": "2026-08-10T11:00:00",
-      "location": "Mabry Mill - Milepost 176.2 - Blue Ridge Parkway Meet a Park Ranger at the beginning of the paved trail near the comfort station located in the overflow parking.",
-      "description": "Step into a living postcard as we wander through the iconic Mabry Mill\u2014a place where water wheels turn, stories hum, and mountain memories linger. Join a Park Ranger on a tour that invites you to expl",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751712,
-      "longitude": -80.405357
-    },
-    {
-      "id": "5e80115039b8",
-      "title": "Dulcimer at the Cabin (Humpback Rocks - Milepost 6)",
-      "date": "2026-08-10T11:00:00",
-      "location": "Meet at the Ramsey Cabin at the Humpback Rocks Mountain Farm (Milepost 6).",
-      "description": "Dive into that Appalachain sound! Join a Ranger to learn the history of the dulcimer and take a look into the past. Come, listen, and stay a while. The program will be along the way to the Humpback Ro",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.972724,
-      "longitude": -78.899465
-    },
-    {
-      "id": "33e83615caeb",
-      "title": "David Holt: An American Treasure",
-      "date": "2026-08-10T13:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/david-holt-mentors-friends-2/2026-08-10/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "df839d7af919",
-      "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
-      "date": "2026-08-10T13:00:00",
-      "location": "Brinegar Cabin is located at milepost 238.5 on the Blue Ridge Parkway. Park in the parking and follow the paved walkway to the cabin.",
-      "description": "Step back into the late 1800s at one of Doughton Park\u2019s most cherished historic sites. Completed in 1889, the Brinegar family home offers visitors a window into mountain life shaped by resilience, cra",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.418694,
-      "longitude": -81.146474
-    },
-    {
-      "id": "5293374b8b57",
-      "title": "Old Time Appalachian Music Acoustic Jam",
-      "date": "2026-08-10T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/old-time-appalachian-music-acoustic-jam/2026-08-10/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "4bb43e4c9c10",
-      "title": "Centennial Sounds at John C Campbell Folk School",
-      "date": "2026-08-10T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/centennial-sounds-at-john-c-campbell-folk-school/2026-08-10/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "917e82dfb947",
-      "title": "Unto these Hills",
-      "date": "2026-08-10T20:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/unto-these-hills-2/2026-08-10/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "7c2c64cea414",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "id": "a8a584117143",
+      "title": "South Buncombe Library Bridge Club",
       "date": "2026-08-11T10:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
+      "location": "Skyland/South Buncombe Library, 260 Overlook Rd, Asheville, NC",
+      "description": "&lt;p&gt;Join us for ACBL-sanctioned contract bridge games every Tuesday at the library! All games are free to the public -- no registration or memberships necessary. Games are facilitated by Susan ..",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/south-buncombe-library-bridge-club/2026-08-11/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "e99d9d65e54d",
+      "title": "Quilting Bee with the Asheville Quilt Guild",
+      "date": "2026-08-11T10:00:00",
+      "location": "East Asheville Library, 3 Avon Road, Asheville",
+      "description": "&lt;p&gt;Quilters of all ages welcome! Bring your own sewing machine and project or work on a community project. Snacks not provided, but we encourage you to bring a bag lunch. ... &lt;a title=&quot;Q",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/quilting-bee-with-the-asheville-quilt-guild-2/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
     },
     {
       "id": "de9456a0fbd6",
@@ -320,6 +45,127 @@
       "longitude": -79.609958
     },
     {
+      "id": "f5f5da5ac405",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-08-11T12:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
+    },
+    {
+      "id": "5459626ec5af",
+      "title": "Root Cause Farm Share Market",
+      "date": "2026-08-11T15:00:00",
+      "location": "Root Cause Farm, 26 Joe Jenkins Rd., Fairview, NC",
+      "description": "&lt;p&gt;A no cost Market every Tuesday. These markets are partnered with Bounty &amp; Soul\u2019s Produce to the People program.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/root-cause-farm-share-market/2026-08-11/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "d7ca662cfe03",
+      "title": "Stitch N Listen",
+      "date": "2026-08-11T15:30:00",
+      "location": "West Asheville Public Library, 942 Haywood Rd, Asheville",
+      "description": "&lt;p&gt;This is a low-key community crafting circle, where we listen to an audio short story while we work. Audiobook TBD!&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/stitch-n-listen-2/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "394e9d823866",
+      "title": "Collage Art as a Meditative Practice &#8211; For Teens 12-18",
+      "date": "2026-08-11T15:30:00",
+      "location": "Weaverville Library, 41 N Main St, Weaverville",
+      "description": "&lt;p&gt;Join local artist, Jennifer Jacey, for Art as Meditation: Reflective Collage for Teens, a creative workshop that explores collage as a tool for reflection and self-discovery. Through guided p",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/collage-art-as-a-meditative-practice-for-teens-12-18/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "6830c1db053a",
+      "title": "Irish Session w/Tim Griffin",
+      "date": "2026-08-11T16:00:00",
+      "location": "Diatribe Brewing, 1042 Haywood Rd, Asheville, NC",
+      "description": "&lt;p&gt;Bring your instrument and join us for an Irish Session Jam led by Tim Griffin! Begins at 5:30pm.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/irish-session-8/2026-08-11/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "fa857a42cb2e",
+      "title": "Spanish Conversation Practice Group",
+      "date": "2026-08-11T17:30:00",
+      "location": "Pack Memorial Library, 67 Haywood St, Asheville, NC",
+      "description": "&lt;p&gt;Our friendly and welcoming Spanish conversation practice group is geared towards people with beginning and intermediate level Spanish skills who are looking for a supportive chance to practic",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/spanish-conversation-practice-group-2/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "22b5a0af5c93",
+      "title": "Grow What You Eat, Eat What You Grow",
+      "date": "2026-08-11T17:30:00",
+      "location": "NC Cooperative Extension Madison County Center, 258 Carolina Lane, Marshall",
+      "description": "&lt;p&gt;This 8-class series teaches how to plant, grow, harvest and prepare delicious meals using your harvest from small and medium-sized gardens. Participants get free gardening handouts, seeds, an",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/grow-what-you-eat-eat-what-you-grow/2026-08-11/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "a833a508e881",
+      "title": "Not Rocket Science Trivia",
+      "date": "2026-08-11T18:00:00",
+      "location": "Eluvium Brewing, 11 Florida Ave, Weaverville, NC",
+      "description": "&lt;p&gt;Join us for \\'Not Rocket Science\\' trivia. Top Teams get Gift Card Prizes!&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/not-rocket-science-trivia/2026-08-11/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "c175e46b0c66",
+      "title": "Groovin&#8217; on Grovemont: Kellin Watson &#038; the Feelgood",
+      "date": "2026-08-11T18:00:00",
+      "location": "Swannanoa Library, 101 W. Charleston St, Swannanoa",
+      "description": "&lt;p&gt;Join us for night three of our annual free Groovin\\' on Grovemont summer concert series with Kellin Watson &amp; the Feelgood! Kellin Watson &amp; the Feelgood brings together a powerhouse ..",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/groovin-on-grovemont-kellin-watson-the-feelgood/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "ca3ed56f9999",
+      "title": "Team Trivia Night",
+      "date": "2026-08-11T18:00:00",
+      "location": "Mad Co. Brew House, 45 North Main Street, Marshall, Marshall, NC",
+      "description": "&lt;p&gt;Put your brain to the test with our bi-monthly general knowledge trivia\u2014featuring your host Meghan Arnold.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/team-trivia-night/2026-08-11/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "fcb9211b13cc",
+      "title": "All Arts Open Mic!",
+      "date": "2026-08-11T18:00:00",
+      "location": "Sweeten Creek Brewing, 1127 Sweeten Creek Rd, Asheville, NC",
+      "description": "&lt;p&gt;Looking for a place to share your talent, connect with other creatives, and enjoy a night out with good friends? Whether you\u2019re a poet, musician, comedian, or storyteller, bring your ... &lt;",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/all-arts-open-mic/2026-08-11/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
       "id": "fd93ca8584ef",
       "title": "Boone Shape Note Singing",
       "date": "2026-08-11T18:30:00",
@@ -329,6 +175,61 @@
       "url": "https://www.blueridgemusicnc.com/event/boone-shape-note-singing/2026-08-11/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "2b31ac6b2b44",
+      "title": "Trivia Tuesdays with Good Guess",
+      "date": "2026-08-11T18:30:00",
+      "location": "Archetype Brewing, 265 Haywood Rd, Asheville, NC",
+      "description": "&lt;p&gt;Think you\u2019ve got what it takes to claim trivia glory? Join us every Tuesday at 7 PM for Good Guess Trivia and battle it out on everything from pop culture ... &lt;a title=&quot;Trivia Tuesday",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/trivia-tuesdays/2026-08-11/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "ad0a3d20d5a8",
+      "title": "Team Trivia w/Not Rocket Science",
+      "date": "2026-08-11T18:30:00",
+      "location": "Lookout Brewing, 103 S Ridgeway Ave #1, Black Mountain, NC",
+      "description": "&lt;p&gt;Join us every Tuesday for team trivia hosted by &quot;Not Rocket Science&quot; trivia! Prizes for 1st and 2nd place teams. Mac\\'s Burgers &amp; Cheesesteaks is open every Tuesday from 3:30-8:",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/team-trivia-w-not-rocket-science/2026-08-11/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "aa0feebb0914",
+      "title": "Eda&#8217;s Bluegrass Jam",
+      "date": "2026-08-11T18:30:00",
+      "location": "Eda&#8217;s Hide-a-Way, 1098 New Stock Rd, Weaverville, Weaverville",
+      "description": "&lt;p&gt;Open Bluegrass Jam 6:30-9pm every Tuesday! Free event, all welcome.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/edas-bluegrass-jam/2026-08-11/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "34da138c1656",
+      "title": "Robert\u2019s Totally Rad Trivia",
+      "date": "2026-08-11T19:00:00",
+      "location": "French Broad River Brewery, 101 Fairview Rd D, Asheville, NC 28803, Asheville, NC",
+      "description": "&lt;p&gt;Voted BEST TRIVIA in Asheville, Robert\u2019s Totally Rad Trivia at French Broad River Brewery every Tuesday night from 7pm-9pm! Come see if you have what it takes to win Asheville\u2019s ... &lt;a tit",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/roberts-totally-rad-trivia-2/2026-08-11/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
+    },
+    {
+      "id": "68a663b573a9",
+      "title": "RAD Weekly Trivia",
+      "date": "2026-08-11T19:00:00",
+      "location": "Hi-Wire RAD Beer Garden, 284 Lyman St, Asheville, NC",
+      "description": "&lt;p&gt;Weekly Trivia at Hi-Wire Brewing (River Arts District) that features 7 rounds of questions and prizes for top three teams.&lt;/p&gt;\\n",
+      "source": "Mountain Xpress",
+      "url": "https://mountainx.com/event/rad-weekly-trivia/2026-08-11/",
+      "latitude": 35.5951,
+      "longitude": -82.5515
     },
     {
       "id": "1041521909ed",
@@ -386,6 +287,72 @@
       "longitude": -81.6752
     },
     {
+      "id": "840ab2ff40e6",
+      "title": "A Carolina Snowbelle Christmas",
+      "date": "2026-08-12T15:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christmas-2026",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "3d8b7c4dfcd5",
+      "title": "A Christmas Carol by Candlelight",
+      "date": "2026-08-12T15:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-m5r7a",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "a01a64299016",
+      "title": "Guided Theatre Tour",
+      "date": "2026-08-12T16:00:00",
+      "location": "Appalachian Theatre, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "0f3124d5928f",
+      "title": "Ballad Night at the Old Marshall Jail Hotel",
+      "date": "2026-08-12T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/ballad-night-at-the-old-marshall-jail-hotel/2026-08-12/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "37a6aae4dc39",
+      "title": "Unto these Hills",
+      "date": "2026-08-12T20:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/unto-these-hills-2/2026-08-12/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "3538eaf50e10",
+      "title": "Grillin & Chillin",
+      "date": "2026-08-12T21:00:00",
+      "location": "Caddyshack Caf\u00e9, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "4ea681964160",
       "title": "Rooftop Comedy featuring Ryan Cox",
       "date": "2026-08-13T00:00:00",
@@ -406,17 +373,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.443389,
       "longitude": -79.609278
-    },
-    {
-      "id": "f0c114ef2874",
-      "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
-      "date": "2026-08-13T10:00:00",
-      "location": "Brinegar Cabin is located at milepost 238.5 on the Blue Ridge Parkway. Park in the parking and follow the paved walkway to the cabin.",
-      "description": "Step back into the late 1800s at one of Doughton Park\u2019s most cherished historic sites. Completed in 1889, the Brinegar family home offers visitors a window into mountain life shaped by resilience, cra",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.418694,
-      "longitude": -81.146474
     },
     {
       "id": "bae2d8145e09",
@@ -441,6 +397,127 @@
       "longitude": -78.899465
     },
     {
+      "id": "8fe0976b2946",
+      "title": "Annual North Carolina State Bluegrass Festival",
+      "date": "2026-08-13T12:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/annual-north-carolina-state-bluegrass-festival/2026-08-13/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "042f2e70051f",
+      "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
+      "date": "2026-08-13T13:00:00",
+      "location": "Brinegar Cabin is located at milepost 238.5 on the Blue Ridge Parkway. Park in the parking and follow the paved walkway to the cabin.",
+      "description": "Step back into the late 1800s at one of Doughton Park\u2019s most cherished historic sites. Completed in 1889, the Brinegar family home offers visitors a window into mountain life shaped by resilience, cra",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.418694,
+      "longitude": -81.146474
+    },
+    {
+      "id": "d3c1947a2e18",
+      "title": "Thursday Market",
+      "date": "2026-08-13T16:00:00",
+      "location": "Blowing Rock Chamber Grounds",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "969f04d25527",
+      "title": "Avery County Farmers Market",
+      "date": "2026-08-13T18:00:00",
+      "location": "Historic Banner Elk School Grounds",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "dd89b2d9fced",
+      "title": "Banner Elk Summer Concerts",
+      "date": "2026-08-13T18:00:00",
+      "location": "Tate Evans Park, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "ef0d0cbf4389",
+      "title": "Song Swap with Paddle Faster",
+      "date": "2026-08-13T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/song-swap-with-paddle-faster/2026-08-13/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "a3b006040e35",
+      "title": "FBVMA Mountain Music Jam Sessions",
+      "date": "2026-08-13T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/fbvma-mountain-music-jam-sessions/2026-08-13/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "e5bd3dc4f62c",
+      "title": "Christian Harmony Sing \u2013 Asheville NC",
+      "date": "2026-08-13T18:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-08-13/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "2c0ffb680a03",
+      "title": "Summer Concerts in the Park",
+      "date": "2026-08-13T18:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/summer-concerts-in-the-park-2/2026-08-13/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "e7d93755853a",
+      "title": "Community Jam \u2013 Crown Restaurant",
+      "date": "2026-08-13T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-08-13/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "bcfcfc52f434",
+      "title": "Weekly Jam Sessions at the Jones House",
+      "date": "2026-08-13T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-08-13/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "9a2331027386",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-08-13T19:00:00",
@@ -463,26 +540,15 @@
       "longitude": -81.6752
     },
     {
-      "id": "ebba8a03f4da",
-      "title": "Asheville Movies in the Park 2026",
-      "date": "2026-08-14T00:00:00",
-      "location": "80 Court Plz, Asheville, NC 28801-3507, United States, 80 Court Plz, Asheville, NC 28801-3507, United States, Asheville,",
+      "id": "66802efc6725",
+      "title": "Old Time Jam",
+      "date": "2026-08-13T22:00:00",
+      "location": "Jones House Community Center, NC",
       "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-movies-in-the-park-2026/200030430222354",
-      "latitude": 35.595718,
-      "longitude": -82.548622
-    },
-    {
-      "id": "f25607a009b1",
-      "title": "Downtown West Jefferson Gallery Crawl",
-      "date": "2026-08-14T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/downtown-west-jefferson-gallery-crawl/",
-      "latitude": 36.4332,
-      "longitude": -81.499
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "784500916720",
@@ -505,6 +571,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
+    },
+    {
+      "id": "1459387ae17d",
+      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
+      "date": "2026-08-14T10:30:00",
+      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
+      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
     },
     {
       "id": "b066dc3eef03",
@@ -573,6 +650,17 @@
       "longitude": -81.146435
     },
     {
+      "id": "7652cf4afa75",
+      "title": "Doc Watson Day",
+      "date": "2026-08-14T17:00:00",
+      "location": "Jones House Community Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "d1252c85c410",
       "title": "Mountaineer Laughs! Featuring Maryellen Hooper",
       "date": "2026-08-14T19:00:00",
@@ -606,6 +694,61 @@
       "longitude": -81.8462718
     },
     {
+      "id": "8aac9c78afe8",
+      "title": "Music On The Lawn",
+      "date": "2026-08-14T20:00:00",
+      "location": "The Park at Seven Devils, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "67d8d26da5a4",
+      "title": "Guided Night Hike",
+      "date": "2026-08-14T20:00:00",
+      "location": "Mount Jefferson State Natural Area, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "8e69c9a5ee0f",
+      "title": "Family Fun Night",
+      "date": "2026-08-14T21:00:00",
+      "location": "Famous Brick Oven Pizzeria, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "d4dd17c9b4fe",
+      "title": "Old Time Community Dance",
+      "date": "2026-08-14T22:00:00",
+      "location": "Todd Merchantile, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "aba5935f6af4",
+      "title": "Modelface Comedy presents Tom Thakkar",
+      "date": "2026-08-15T00:00:00",
+      "location": "AyurPrana Listening Room, 312 Haywood Road, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/modelface-comedy-presents-tom-thakkar/100001992049389348",
+      "latitude": 35.577595,
+      "longitude": -82.576027
+    },
+    {
       "id": "20a3b8519a62",
       "title": "Live Nation Presents: Dominic Fike",
       "date": "2026-08-15T00:00:00",
@@ -628,26 +771,15 @@
       "longitude": -82.552414
     },
     {
-      "id": "aba5935f6af4",
-      "title": "Modelface Comedy presents Tom Thakkar",
+      "id": "ae00a77275e2",
+      "title": "The Shedhouse Trio feat. Darren Nicholson at Jack of the Wood",
       "date": "2026-08-15T00:00:00",
-      "location": "AyurPrana Listening Room, 312 Haywood Road, Asheville, NC",
+      "location": "Jack of the Wood, 95 Patton Ave,Asheville, North Carolina, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/modelface-comedy-presents-tom-thakkar/100001992049389348",
-      "latitude": 35.577595,
-      "longitude": -82.576027
-    },
-    {
-      "id": "67b97c07d276",
-      "title": "WonkyWilla, SoDown in Asheville",
-      "date": "2026-08-15T00:00:00",
-      "location": "The Orange Peel, The Orange Peel, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/wonkywilla-sodown-in-asheville/3300030281899149",
-      "latitude": 35.595058,
-      "longitude": -82.551483
+      "url": "https://allevents.in/asheville/the-shedhouse-trio-feat-darren-nicholson-at-jack-of-the-wood/200030537156426",
+      "latitude": 35.594349,
+      "longitude": -82.555763
     },
     {
       "id": "9715a8be5e2c",
@@ -661,6 +793,17 @@
       "longitude": -82.552414
     },
     {
+      "id": "5041389918d9",
+      "title": "Blue Ridge Brutal",
+      "date": "2026-08-15T06:00:00",
+      "location": "Jefferson United Methodist Church, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "23ce12839aa0",
       "title": "TRACK Trail Adventures! (Peaks of Otter - Milepost 86)",
       "date": "2026-08-15T09:30:00",
@@ -672,28 +815,6 @@
       "longitude": -79.609958
     },
     {
-      "id": "11876b7fd28d",
-      "title": "580 WKSK LIVE Old Time and Bluegrass Show Radio Show: Tucker Conner and Friends",
-      "date": "2026-08-15T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/wksk-tucker/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "611a16fac841",
-      "title": "Coffee House Live",
-      "date": "2026-08-15T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/coffee-house-live-3/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "d0ab479e11a1",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-08-15T10:00:00",
@@ -703,28 +824,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.418694,
       "longitude": -81.146474
-    },
-    {
-      "id": "0fd7da5f2fd7",
-      "title": "Fire, Iron, and Tradition: Mabry Mill Blacksmith Demonstration (Mabry Mill Blacksmith Shop - Milepost 176.2)",
-      "date": "2026-08-15T10:00:00",
-      "location": "Blue Ridge Parkway - Mabry Mill Blacksmith Shop - Milepost 176.2",
-      "description": "Experience the heat, rhythm, and skill of traditional Appalachian blacksmithing. Watch as Park staff shape iron into tools and art while sharing the stories of the people who relied on this essential ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "b9369faa3ef2",
-      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
-      "date": "2026-08-15T10:00:00",
-      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
-      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751806,
-      "longitude": -80.405298
     },
     {
       "id": "215620a5dfac",
@@ -749,6 +848,28 @@
       "longitude": -81.159291
     },
     {
+      "id": "049276f90752",
+      "title": "Fire, Iron, and Tradition: Mabry Mill Blacksmith Demonstration (Mabry Mill Blacksmith Shop - Milepost 176.2)",
+      "date": "2026-08-15T10:30:00",
+      "location": "Blue Ridge Parkway - Mabry Mill Blacksmith Shop - Milepost 176.2",
+      "description": "Experience the heat, rhythm, and skill of traditional Appalachian blacksmithing. Watch as Park staff shape iron into tools and art while sharing the stories of the people who relied on this essential ",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
+      "id": "592f52674608",
+      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
+      "date": "2026-08-15T10:30:00",
+      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
+      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751806,
+      "longitude": -80.405298
+    },
+    {
       "id": "3da53a060dc4",
       "title": "Basketweaving Demonstrations & Ramsey Cabin Open House (Humpback Rocks Visitor Center - Milepost 6)",
       "date": "2026-08-15T11:00:00",
@@ -769,6 +890,39 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.972724,
       "longitude": -78.899465
+    },
+    {
+      "id": "b992e81920cc",
+      "title": "Watauga County Farmers Market",
+      "date": "2026-08-15T12:00:00",
+      "location": "Horn in the West Parking Lot, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "bb93caee5def",
+      "title": "Wksk Live Radio Show",
+      "date": "2026-08-15T12:00:00",
+      "location": "Ashe Civic Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "58594a7d2df4",
+      "title": "Ashe County Farmers Market",
+      "date": "2026-08-15T13:00:00",
+      "location": "Backstreet Park, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "53fcda9ca278",
@@ -837,6 +991,39 @@
       "longitude": -82.5533289
     },
     {
+      "id": "138ea64b8322",
+      "title": "Art In The Park",
+      "date": "2026-08-15T16:00:00",
+      "location": "Park Ave, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "42476900dfa3",
+      "title": "Living History Museum Day",
+      "date": "2026-08-15T16:00:00",
+      "location": "Hickory Ridge Living History Museum, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "1b4933b8f30c",
+      "title": "Animals along the Parkway (Doughton Park - Milepost 238.5)",
+      "date": "2026-08-15T16:00:00",
+      "location": "Blue Ridge Parkway, Doughton Park, Milepost 238.5. Park in the Brinegar Cabin Parking lot. Follow the walkway down to the Cabin.",
+      "description": "There are plenty of animals living along the parkway and its trails. Come learn ways to recognize signs that they may be close by. You will also hear stories about some of the ones that call Doughton ",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.418721,
+      "longitude": -81.146435
+    },
+    {
       "id": "6d37ce9ef45c",
       "title": "Todd Summer Music Series - Sassafras",
       "date": "2026-08-15T18:00:00",
@@ -870,6 +1057,28 @@
       "longitude": -81.6752
     },
     {
+      "id": "370de502e910",
+      "title": "Carolina Comedy Parlor",
+      "date": "2026-08-15T19:00:00",
+      "location": "Mysterium, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "51afe3118ec4",
+      "title": "Ghost Tours Of Wilkes",
+      "date": "2026-08-15T19:00:00",
+      "location": "Wilkes Heritage Museum, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "edec2555d883",
       "title": "Trey Hensley - Deep Roots, Many Voices: Summer Outdoor Concert Series (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-08-15T19:00:00",
@@ -890,6 +1099,28 @@
       "url": "https://www.apptheatre.org/events-and-tickets/tommy-emmanuel-cgp26",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "c176149edd29",
+      "title": "Todd Summer Concert Series",
+      "date": "2026-08-15T20:00:00",
+      "location": "Cook Park, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "78048eff727d",
+      "title": "Coffee House Live",
+      "date": "2026-08-15T21:00:00",
+      "location": "Ashe Arts Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "808e54c64d0b",
@@ -936,17 +1167,6 @@
       "longitude": -80.405298
     },
     {
-      "id": "1c1c96f8ae8c",
-      "title": "Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Blue Ridge Parkway milepost 294)",
-      "date": "2026-08-16T10:00:00",
-      "location": "The Moses H. Cone Manor House is located at Milepost 294 of the Blue Ridge Parkway. The two closest towns are Boone and Blowing Rock.",
-      "description": "The Gilded Age \u201cDenim King\u201d, Moses H. Cone, turned his hand from textile manufacturing to becoming a \u201cgentleman farmer\u201d in the late 1890s. And what better way to emphasize \u201cgentleman\u201d than to build a ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.149207,
-      "longitude": -81.692963
-    },
-    {
       "id": "fed53facd8b5",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-08-16T10:00:00",
@@ -980,6 +1200,17 @@
       "longitude": -78.899465
     },
     {
+      "id": "047039f1edf6",
+      "title": "Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Blue Ridge Parkway milepost 294)",
+      "date": "2026-08-16T13:45:00",
+      "location": "The Moses H. Cone Manor House is located at Milepost 294 of the Blue Ridge Parkway. The two closest towns are Boone and Blowing Rock.",
+      "description": "The Gilded Age \u201cDenim King\u201d, Moses H. Cone, turned his hand from textile manufacturing to becoming a \u201cgentleman farmer\u201d in the late 1890s. And what better way to emphasize \u201cgentleman\u201d than to build a ",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.149207,
+      "longitude": -81.692963
+    },
+    {
       "id": "837b554520de",
       "title": "Milepost Music (Mabry Mill - Milepost 176)",
       "date": "2026-08-16T14:00:00",
@@ -989,6 +1220,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.751449,
       "longitude": -80.405851
+    },
+    {
+      "id": "d5fb74557081",
+      "title": "Concerts On The Lawn",
+      "date": "2026-08-16T20:00:00",
+      "location": "Top of the Beech Hotel, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "d41f648841db",
@@ -1024,6 +1266,17 @@
       "longitude": -80.850001
     },
     {
+      "id": "d06e087ce919",
+      "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
+      "date": "2026-08-17T11:00:00",
+      "location": "Mabry Mill - Milepost 176.2 - Blue Ridge Parkway Meet a Park Ranger at the beginning of the paved trail near the comfort station located in the overflow parking.",
+      "description": "Step into a living postcard as we wander through the iconic Mabry Mill\u2014a place where water wheels turn, stories hum, and mountain memories linger. Join a Park Ranger on a tour that invites you to expl",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
+    },
+    {
       "id": "823a1517291e",
       "title": "Agriculture in Appalachia (Humpback Rocks Visitor Center - Milepost 6)",
       "date": "2026-08-17T11:00:00",
@@ -1033,17 +1286,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.972724,
       "longitude": -78.899464
-    },
-    {
-      "id": "f19c454a8111",
-      "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
-      "date": "2026-08-17T13:30:00",
-      "location": "Mabry Mill - Milepost 176.2 - Blue Ridge Parkway Meet a Park Ranger at the beginning of the paved trail near the comfort station located in the overflow parking.",
-      "description": "Step into a living postcard as we wander through the iconic Mabry Mill\u2014a place where water wheels turn, stories hum, and mountain memories linger. Join a Park Ranger on a tour that invites you to expl",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751712,
-      "longitude": -80.405357
     },
     {
       "id": "0ea459f716eb",
@@ -1132,50 +1374,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.443389,
       "longitude": -79.609278
-    },
-    {
-      "id": "b53ef9b91b65",
-      "title": "August 2026",
-      "date": "2026-08-20T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://www.ashecountyarts.org/events/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "72b73462fc09",
-      "title": "September 2026",
-      "date": "2026-08-20T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://www.ashecountyarts.org/events/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "693a3d8ba133",
-      "title": "October 2026",
-      "date": "2026-08-20T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://www.ashecountyarts.org/events/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "d0ae6512bd26",
-      "title": "November 2026",
-      "date": "2026-08-20T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://www.ashecountyarts.org/events/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "ff4b1d04099b",
@@ -1288,6 +1486,17 @@
       "longitude": -81.146474
     },
     {
+      "id": "b8d4ac3aa7f5",
+      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
+      "date": "2026-08-21T10:00:00",
+      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
+      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
+    },
+    {
       "id": "82a4fc070af7",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-08-21T10:00:00",
@@ -1330,6 +1539,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.445606,
       "longitude": -79.609958
+    },
+    {
+      "id": "c3e55e357ae9",
+      "title": "Beavers in the Basin (Doughton Park - Access Via Longbottom Road)",
+      "date": "2026-08-21T14:30:00",
+      "location": "To get there if leaving the Doughton Park Visitor Center (Milepost 241.5) and heading south on the Parkway, take Hwy 18 (Milepost 248) 6.2 miles south down highway 18 towards North Wilkesboro. Turn left onto Longbottom Road and go 7 miles. Meet in the gravel parking area on the right across from the trailhead. Look for the parking area once you drive over the small bridge.",
+      "description": "We have beavers in park that have built a well-developed dam along Basin Creek. Join a Ranger at the trailhead to the Grassy Gap Fire Road to learn about the beaver\u2019s physical and lifestyle adaptation",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.375254,
+      "longitude": -81.144741
     },
     {
       "id": "4321952b7c6a",
@@ -1420,17 +1640,6 @@
       "longitude": -82.570641
     },
     {
-      "id": "0e5ff42d2b0b",
-      "title": "Wordkeepers",
-      "date": "2026-08-22T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/wordkeepers/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "ed498d974260",
       "title": "Mindfulness and Well-being Series: Nature and Forest Therapy at Grandfather Mountain",
       "date": "2026-08-22T10:00:00",
@@ -1517,6 +1726,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.445607,
       "longitude": -79.609958
+    },
+    {
+      "id": "98cfe9141ae3",
+      "title": "Blooms and Butterflies (Doughton Park - Milepost 241)",
+      "date": "2026-08-22T14:00:00",
+      "location": "Doughton Park - Milepost 241. Meet at the stone comfort station (first bathroom up the hill on the left) in the Doughton Park Picnic Area.",
+      "description": "Be a citizen scientist and help spot and count butterflies as part of the Carolina Butterfly Monitoring Program while also learning about the profusion of blooming wildflowers the butterflies are nect",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.431205,
+      "longitude": -81.18097
     },
     {
       "id": "761f2e996ac7",
@@ -1618,17 +1838,6 @@
       "longitude": -81.146474
     },
     {
-      "id": "a3d543693967",
-      "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
-      "date": "2026-08-24T10:00:00",
-      "location": "Mabry Mill - Milepost 176.2 - Blue Ridge Parkway Meet a Park Ranger at the beginning of the paved trail near the comfort station located in the overflow parking.",
-      "description": "Step into a living postcard as we wander through the iconic Mabry Mill\u2014a place where water wheels turn, stories hum, and mountain memories linger. Join a Park Ranger on a tour that invites you to expl",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751712,
-      "longitude": -80.405357
-    },
-    {
       "id": "10391fabfb0a",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-08-24T10:00:00",
@@ -1638,6 +1847,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
+    },
+    {
+      "id": "8a58d506920c",
+      "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
+      "date": "2026-08-24T13:30:00",
+      "location": "Mabry Mill - Milepost 176.2 - Blue Ridge Parkway Meet a Park Ranger at the beginning of the paved trail near the comfort station located in the overflow parking.",
+      "description": "Step into a living postcard as we wander through the iconic Mabry Mill\u2014a place where water wheels turn, stories hum, and mountain memories linger. Join a Park Ranger on a tour that invites you to expl",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
     },
     {
       "id": "7b1429d832f7",
@@ -1682,17 +1902,6 @@
       "url": "https://www.apptheatre.org/events-and-tickets/guidedtours-z93xd-bf5w3-wwf5r-a5hrt-r5ddt-rx9xj-8stzr-82f7p-sp9w2-dj393-m7dtc-9skla-29fj2-tjjmj-6xk5g-y6jtg-gzsmm-zr8bk-b63p6-j347t-56y6r-3cemt-d869s-cld3w-3sh5l-shnms-8lt74",
       "latitude": 36.2157,
       "longitude": -81.6752
-    },
-    {
-      "id": "fa8970e7a567",
-      "title": "Old Time Square Dance with Three Top Serenadors",
-      "date": "2026-08-27T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/old-time-square-dance/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "275a2f1a5318",
@@ -1805,17 +2014,6 @@
       "longitude": -82.553017
     },
     {
-      "id": "3befc8cf9b43",
-      "title": "Author Reading with Donna Everhart, Registration Required",
-      "date": "2026-08-28T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/author-reading-with-donna-everhart/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "7e1ee9f67799",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-08-28T10:00:00",
@@ -1825,6 +2023,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.418694,
       "longitude": -81.146474
+    },
+    {
+      "id": "f71b5908010f",
+      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
+      "date": "2026-08-28T10:00:00",
+      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
+      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
     },
     {
       "id": "52c1aa3ded88",
@@ -2278,17 +2487,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "f11b33e1516c",
-      "title": "Boomtown Arts &amp; Heritage FestAVL",
-      "date": "2026-09-04T00:00:00",
-      "location": "Pack Square Park, 7 S Spruce St, Asheville, NC 28801, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/boomtown-arts-and-heritage-festavl/200030220947034",
-      "latitude": 35.595428,
-      "longitude": -82.550293
-    },
-    {
       "id": "e86fcf84b8af",
       "title": "Son Rompe Pera w/special guests @ Third Room (ALL AGES show)",
       "date": "2026-09-04T00:00:00",
@@ -2311,6 +2509,17 @@
       "longitude": -81.146474
     },
     {
+      "id": "bfe788bb916c",
+      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
+      "date": "2026-09-04T10:00:00",
+      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
+      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
+    },
+    {
       "id": "187bed8f7e73",
       "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
       "date": "2026-09-04T10:00:00",
@@ -2320,6 +2529,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.751712,
       "longitude": -80.405357
+    },
+    {
+      "id": "e04af87efcca",
+      "title": "Mixed Metal Mountain Bracelet Workshop",
+      "date": "2026-09-04T14:00:00.321000",
+      "location": "Ignite Jewelry Studios, 84 West Walnut Street, Asheville, North Carolina, 28801",
+      "description": "Create your own brass and silver bracelet in this hands-on metalsmithing workshop. Choose your design, then learn to solder, sand, polish, and more using traditional tools and techniques. A fun experi",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/mixed-metal-mountain-bracelet-workshop",
+      "latitude": 35.5960318,
+      "longitude": -82.55453849999999
     },
     {
       "id": "7c1c90aab486",
@@ -2441,6 +2661,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.44365,
       "longitude": -79.599822
+    },
+    {
+      "id": "8b502c816bc5",
+      "title": "Hammered Wide Band Ring Workshop",
+      "date": "2026-09-05T14:00:00.568000",
+      "location": "Ignite Jewelry Studios, 84 West Walnut Street, Asheville, North Carolina, 28801",
+      "description": "Make your own hammered sterling silver wide-band ring in this hands-on class! Perfect for a fun make-and-take, or even a unique wedding band. You\u2019ll leave with a beautiful, made-to-size ring crafted i",
+      "source": "Downtown Asheville",
+      "url": "https://www.ashevilledowntown.org/events/hammered-wide-band-ring-workshop",
+      "latitude": 35.5960318,
+      "longitude": -82.55453849999999
     },
     {
       "id": "72002879e8b2",
@@ -2586,17 +2817,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "a80590a8c3a2",
-      "title": "King Yellowman w/ Chalwa + Channel One Soundsystem latenite DJ set @ Third Room (18+ show!)",
-      "date": "2026-09-11T00:00:00",
-      "location": "Third Room, 42 Wall St, Asheville, NC 28801-2710, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/king-yellowman-w-chalwa-channel-one-soundsystem-latenite-dj-set-third-room-18-show/200030305069752",
-      "latitude": 35.594479,
-      "longitude": -82.555962
-    },
-    {
       "id": "d34bcff53aa0",
       "title": "Yellowman, Channel One in Asheville",
       "date": "2026-09-11T00:00:00",
@@ -2606,6 +2826,17 @@
       "url": "https://allevents.in/asheville/yellowman-channel-one-in-asheville/3300030344000640",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "eed83cee6418",
+      "title": "Emo Night Tour",
+      "date": "2026-09-11T00:00:00",
+      "location": "The Orange Peel, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/emo-night-tour/210001089109252",
+      "latitude": 35.591389,
+      "longitude": -82.551125
     },
     {
       "id": "f1e27a70e4a7",
@@ -2619,17 +2850,6 @@
       "longitude": -82.549385
     },
     {
-      "id": "f4476e3cd1ed",
-      "title": "Downtown West Jefferson Gallery Crawl",
-      "date": "2026-09-11T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/downtown-west-jefferson-gallery-crawl-3/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "331d6b35bceb",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-09-11T10:00:00",
@@ -2639,6 +2859,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.418694,
       "longitude": -81.146474
+    },
+    {
+      "id": "da8af2baab39",
+      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
+      "date": "2026-09-11T10:00:00",
+      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
+      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
     },
     {
       "id": "0c25375c3652",
@@ -2795,17 +3026,6 @@
       "longitude": -81.8462718
     },
     {
-      "id": "13dc1f958e83",
-      "title": "4TH ANNUAL WINE WALK ASHEVILLE",
-      "date": "2026-09-13T00:00:00",
-      "location": "The Venue Asheville, 21 N Market St, Asheville, NC 28801-8106, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/4th-annual-wine-walk-asheville/200030281052149",
-      "latitude": 35.596539,
-      "longitude": -82.551224
-    },
-    {
       "id": "8a8d897e30f8",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-09-13T10:00:00",
@@ -2850,9 +3070,9 @@
       "longitude": -80.405298
     },
     {
-      "id": "0236b8e20dbd",
+      "id": "541e9bf48a94",
       "title": "Milepost Music (Doughton Park - Milepost 238)",
-      "date": "2026-09-13T10:00:00",
+      "date": "2026-09-13T14:00:00",
       "location": "49800 Blue Ridge Parkway Laurel Springs, NC 28644",
       "description": "Free traditional music concerts featuring local &amp; regional mountain musicians. Bring your chairs or a blanket to spread out and enjoy the wodnerful traditional mountain music. The concerts are can",
       "source": "NPS Blue Ridge Pkwy",
@@ -2905,61 +3125,6 @@
       "longitude": -80.405357
     },
     {
-      "id": "1d36b9796b25",
-      "title": "On the Same Page Literary Festival",
-      "date": "2026-09-15T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/otsp/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "5322f5c28510",
-      "title": "Reading with Tommy Hays",
-      "date": "2026-09-15T11:00:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Tuesday, September 1511:00 am \u2013 11:45 amAshe County Public LibraryThis event is free and open to the public, no registration required. Join us for a reading with Tommy Hays with time for audience Q&A.",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/hays/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
-      "id": "c1356d6546c1",
-      "title": "Reading with James Dodson",
-      "date": "2026-09-15T13:00:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Tuesday, September 151:00 PM \u2013 1:45 PMAshe County Public LibraryThis event is free and open to the public, no registration required. Join us for a reading with James Dodson with time for audience Q&A.",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/dodson/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
-      "id": "7429c96c5f69",
-      "title": "Reading with Scott Gould",
-      "date": "2026-09-15T14:30:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Tuesday, September 152:30 PM \u2013 3:15 PMAshe County Public LibraryThis event is free and open to the public, no registration required. Join us for a reading with Scott Gould with time for audience Q&A. ",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/gould/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
-      "id": "89b60d06010f",
-      "title": "Reading with Terry Roberts",
-      "date": "2026-09-15T19:00:00",
-      "location": "Ashe Arts Center, 303 School Ave, West Jefferson, NC, 28694, United States",
-      "description": "Tuesday, September 157:00 pm \u2013 8:00 pmAshe Arts CenterFree and open to the public.No registration required. Join us for a reading with Terry Roberts. There will be time for Q&A after the reading. TERR",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/roberts/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
       "id": "d2ce5ce1b51d",
       "title": "The Wellermen in Asheville",
       "date": "2026-09-16T00:00:00",
@@ -2969,17 +3134,6 @@
       "url": "https://allevents.in/asheville/the-wellermen-in-asheville/3300030439704200",
       "latitude": 35.595058,
       "longitude": -82.551483
-    },
-    {
-      "id": "2b689aae18f9",
-      "title": "Workshop with Scott Gould, Registration Required",
-      "date": "2026-09-16T08:30:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Date: Wednesday, September 168:30 am \u2013 10:30 am Topic: Writing from Life Without Writing Memoir, A Fiction Workshop with Scott Gould Learn strategies for blending lived experience with fiction to crea",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/gouldws/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
     },
     {
       "id": "144eca44b463",
@@ -2993,61 +3147,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "9baf23b74755",
-      "title": "Reading with Nell Joslin",
-      "date": "2026-09-16T11:00:00",
-      "location": "Old Orchard Creek General Store, 9350 NC-194, Lansing, NC, 28643, United States",
-      "description": "Reading with Nell JoslinWednesday, September 1611:00 am \u2013 11:45 am Location: Ashe County Public Library Join us for a reading with author Nell Joslin with time for audience Q&A. NELL JOSLIN Nell Josli",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/joslin/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
-      "id": "282dbfffd595",
-      "title": "Reading with Maurice Manning",
-      "date": "2026-09-16T13:00:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Wednesday, September 161:00 PM \u2013 1:45 PMAshe County Public LibraryThis event is free and open to the public, no registration required. Join us for a reading with Maurice Manning with time for audience",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/manning/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
-      "id": "1bd406fcf4c9",
-      "title": "Reading with Annie Woodford",
-      "date": "2026-09-16T14:30:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Wednesday, September 162:30 pm \u2013 3:15 pmAshe County Public LibraryThis event is free and open to the public, no registration required. Join us for a reading with Annie Woodford with time for audience ",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/woodford/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
-      "id": "43cee9a87aed",
-      "title": "Presentation with Hilda Downer",
-      "date": "2026-09-16T16:00:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Wednesday, September 164:00 PM \u2013 4:45 PMAshe County Public LibraryThis event is free and open to the public, no registration required. Join us for a special presentation with Hilda Downer, the inaugur",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/downer/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
-      "id": "f66a742fca13",
-      "title": "Craft Talk with Maurice Manning",
-      "date": "2026-09-16T19:00:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Date: Wednesday, September 167:00 pm \u2013 8:30 pm Topic: Old Sayings to Fresh Thoughts: How Metaphor Moves from the World to the Mind, A Craft Talk with Maurice Manning Consider the colloquial expression",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/manning2/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
       "id": "9be9c9c1e86b",
       "title": "Gary Owen: No Hard Feelings Tour",
       "date": "2026-09-17T00:00:00",
@@ -3057,17 +3156,6 @@
       "url": "https://allevents.in/asheville/gary-owen-no-hard-feelings-tour/210003624928711",
       "latitude": 35.597469,
       "longitude": -82.55529
-    },
-    {
-      "id": "8f1361f865e0",
-      "title": "Workshop with Maurice Manning, Registration Required",
-      "date": "2026-09-17T08:30:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Date: Thursday, September 178:30 am \u2013 10:30 amLocation: Ashe County Public Library Playing By Ear, A Poetry Workshop with Maurice Manning We will focus on sound effects the poetic line can capture and",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/manning3/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
     },
     {
       "id": "0340e7c022e8",
@@ -3081,50 +3169,6 @@
       "longitude": -81.146474
     },
     {
-      "id": "70debce68f4d",
-      "title": "Reading with Meagan Church",
-      "date": "2026-09-17T11:00:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Thursday, September 1711:00 am \u2013 11:45 am Ashe County Public LibraryThis event is free and open to the public, no registration required. Join us for a reading with Meagan Church with time for audience",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/church/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
-      "id": "f37bea27fd66",
-      "title": "Reading with Jeremy Jones",
-      "date": "2026-09-17T13:00:00",
-      "location": "Ashe Arts Center, 303 School Ave, West Jefferson, NC, 28694, United States",
-      "description": "Thursday, September 171:00 pm \u2013 1:45 pm Ashe Arts CenterThis event is free and open to the public, no registration required. Join us for a reading with Jeremy Jones with time for audience Q&A. JEREMY ",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/jones/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
-      "id": "cec4a635e60e",
-      "title": "Reading with Linda-Marie Barrett",
-      "date": "2026-09-17T14:30:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Thursday, September 171:00 PM \u2013 1:45 PM Ashe County Public LibraryThis event is free and open to the public, no registration required. Join us for a reading with Linda-Marie Barrett with time for audi",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/barrett/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
-      "id": "7e8df0327fbd",
-      "title": "Craft Talk: Publishing a Nonfiction Book with McFarland Publishing",
-      "date": "2026-09-17T16:00:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Thursday, September 17 4:00 pm \u2013 4:45 pmLocation: Ashe County Public Library Publishing a Nonfiction Book, A Craft Talk with McFarland Publishing Founded in 1979, McFarland is a leading independent pu",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/mcfarland/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
       "id": "ee436663d7e7",
       "title": "1938 Club Lounge",
       "date": "2026-09-17T18:30:00",
@@ -3134,17 +3178,6 @@
       "url": "https://www.apptheatre.org/events-and-tickets/1938-club-lounge-gh4nw",
       "latitude": 36.2157,
       "longitude": -81.6752
-    },
-    {
-      "id": "3feb114a7cad",
-      "title": "Grinnin' Possum Podcast Live with Maurice Manning, Registration Required",
-      "date": "2026-09-17T19:00:00",
-      "location": "Hatchet West, 13 E 2nd St, West Jefferson, 28694, United States",
-      "description": "Thursday, September 177:00 pm-8:30 pmLocation: Hatchet West Coffee Shop Grinnin\u2019 Possum Podcast with Maurice Manning In this live version of the Grinnin\u2019 Possum Podcast, poet Maurice Manning brings us",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/podcast/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
     },
     {
       "id": "2fe645cada49",
@@ -3224,17 +3257,6 @@
       "longitude": -81.4264
     },
     {
-      "id": "9bbe6539ad0b",
-      "title": "Workshop with Linda-Marie Barrett, Registration Required",
-      "date": "2026-09-18T08:30:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Date: Friday, September 189:00 am \u2013 11:00 am Working with Independent Booksellers, A Craft Talk with Linda-Marie Barrett Discover how many successful authors, self-published and traditionally publishe",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/barretws/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
       "id": "612775e84170",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-09-18T10:00:00",
@@ -3246,6 +3268,17 @@
       "longitude": -81.146474
     },
     {
+      "id": "87af9b208e84",
+      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
+      "date": "2026-09-18T10:00:00",
+      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
+      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
+    },
+    {
       "id": "d571f76dd6e6",
       "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
       "date": "2026-09-18T10:00:00",
@@ -3255,28 +3288,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.751712,
       "longitude": -80.405357
-    },
-    {
-      "id": "6c4fdab5013a",
-      "title": "Reading with Terry Harmon",
-      "date": "2026-09-18T11:30:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Friday, September 1811:30 am \u2013 12:15 pm Ashe County Public LibraryThis event is free and open to the public, no registration required. Join us for a reading with Terry Harmon with time for audience Q&",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/harmon/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
-      "id": "8fd317c503ee",
-      "title": "Literary Trails Luncheon with Georgann Eubanks, Registration Required",
-      "date": "2026-09-18T13:00:00",
-      "location": "Ashe County Public Library, 148 Library Road, West Jefferson, NC, 28694, United States",
-      "description": "Friday, September 181:00 pm \u2013 3:00 pmAshe County Public Library $14 fee is required to cover the cost of lunch. Reservation is required. Click here to register GEORGANN EUBANKS Always a Festival favor",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/literary-trails-luncheon-with-georgeann-eubanks/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
     },
     {
       "id": "aabc6588fa55",
@@ -3299,6 +3310,17 @@
       "url": "https://grandfather.com/event/by-night9/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "46139435ecd4",
+      "title": "Todd Barry",
+      "date": "2026-09-19T00:00:00",
+      "location": "The Orange Peel, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/todd-barry/210001692188906",
+      "latitude": 35.591389,
+      "longitude": -82.551125
     },
     {
       "id": "c44662fd41ce",
@@ -3477,28 +3499,6 @@
       "longitude": -80.405357
     },
     {
-      "id": "a71f678b9ac1",
-      "title": "HEY, NOTHING \u2013 THE HOUND TOUR",
-      "date": "2026-09-22T00:00:00",
-      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/hey-nothing-the-hound-tour/200030515567901",
-      "latitude": 35.588348,
-      "longitude": -82.553902
-    },
-    {
-      "id": "d8642cac70db",
-      "title": "Cirque Us presents \"Stories\"",
-      "date": "2026-09-22T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/cirque-us-presents-stories/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "557d29d21b07",
       "title": "National Storytelling Festival returns to Jonesborough Oct. 3\u20135",
       "date": "2026-09-22T10:00:00",
@@ -3642,6 +3642,17 @@
       "longitude": -81.146474
     },
     {
+      "id": "2f8a0aef41b9",
+      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
+      "date": "2026-09-25T10:00:00",
+      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
+      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
+    },
+    {
       "id": "74595fbb7425",
       "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
       "date": "2026-09-25T10:00:00",
@@ -3706,6 +3717,17 @@
       "url": "https://allevents.in/asheville/ott-vinja-push-pull-in-asheville/3300030277276902",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "7815986e2346",
+      "title": "Asheville Oktoberfest 2026",
+      "date": "2026-09-26T00:00:00",
+      "location": "Urban Orchard Cider Co., 24 Buxton Avenue, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/asheville-oktoberfest-2026/100001746209773439",
+      "latitude": 35.588284,
+      "longitude": -82.553627
     },
     {
       "id": "365901ee07e7",
@@ -3818,6 +3840,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "ae491c248080",
+      "title": "Uncommon Market Asheville",
+      "date": "2026-09-27T00:00:00",
+      "location": "1 Foundy Street, Asheville, NC, United States, North Carolina 28801, 1 Foundy St, Asheville, NC 28801-0146, United State",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/uncommon-market-asheville/200030523820809",
+      "latitude": 35.577862,
+      "longitude": -82.566727
+    },
+    {
       "id": "ca91196e5699",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-09-27T10:00:00",
@@ -3928,17 +3961,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "c8cd468c99e7",
-      "title": "Angel Du$t w/ Agnostic Front &amp; Step 2 This",
-      "date": "2026-09-30T00:00:00",
-      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/angel-du$t-w-agnostic-front-and-step-2-this/200030430225121",
-      "latitude": 35.588348,
-      "longitude": -82.553902
-    },
-    {
       "id": "ce109f8a0c3f",
       "title": "VCF 2025 \u2013 \u201cCome Hungry to the Fair!\u201d",
       "date": "2026-09-30T10:00:00",
@@ -4025,6 +4047,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.418694,
       "longitude": -81.146474
+    },
+    {
+      "id": "b8de1f93d66b",
+      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
+      "date": "2026-10-02T10:00:00",
+      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
+      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
     },
     {
       "id": "df1c260eff84",
@@ -4192,6 +4225,17 @@
       "longitude": -80.405298
     },
     {
+      "id": "93a29599ea34",
+      "title": "Cos\u00ec Fan Tutte",
+      "date": "2026-10-03T13:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/https/wwwetixcom/ticket/p/80982917/the-metlive-in-hdcosc3ac-fan-tutte-boone-appalachian-theatre",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "18ec2ac096cf",
       "title": "Fall Color Ramble",
       "date": "2026-10-03T13:00:00",
@@ -4335,17 +4379,6 @@
       "longitude": -81.8462718
     },
     {
-      "id": "7058d543a887",
-      "title": "REVOCATION",
-      "date": "2026-10-06T00:00:00",
-      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/revocation/200030511955246",
-      "latitude": 35.588348,
-      "longitude": -82.553902
-    },
-    {
       "id": "9cdb5f121f84",
       "title": "Fall Color Ramble",
       "date": "2026-10-06T13:00:00",
@@ -4434,17 +4467,6 @@
       "longitude": -82.55529
     },
     {
-      "id": "466d182918b7",
-      "title": "Downtown West Jefferson Gallery Crawl",
-      "date": "2026-10-09T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/downtown-west-jefferson-gallery-crawl-4/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "ce21e4822d34",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-09T10:00:00",
@@ -4454,6 +4476,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.418694,
       "longitude": -81.146474
+    },
+    {
+      "id": "128c236c93cb",
+      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
+      "date": "2026-10-09T10:00:00",
+      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
+      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
     },
     {
       "id": "6824b6dcf237",
@@ -4610,6 +4643,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "51c174a9fccf",
+      "title": "Chelsea Wolfe",
+      "date": "2026-10-12T00:00:00",
+      "location": "The Orange Peel, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/chelsea-wolfe/210006479387030",
+      "latitude": 35.594799,
+      "longitude": -82.557198
+    },
+    {
       "id": "724d142ce68d",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-12T10:00:00",
@@ -4654,17 +4698,6 @@
       "longitude": -82.551147
     },
     {
-      "id": "6e3dac660fb2",
-      "title": "Craft Fair Of The Southern Highlands - Fall 2026",
-      "date": "2026-10-15T00:00:00",
-      "location": "Harrah's Cherokee Center - Asheville, 87 Haywood St, Asheville, NC 28801-2852, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/craft-fair-of-the-southern-highlands-fall-2026/200030264021206",
-      "latitude": 35.597683,
-      "longitude": -82.55558
-    },
-    {
       "id": "1b9f4dcbdab3",
       "title": "Noah Gundersen in Asheville",
       "date": "2026-10-15T00:00:00",
@@ -4698,17 +4731,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "c41061616993",
-      "title": "Jeff Little Trio",
-      "date": "2026-10-16T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/jeff-little-trio-2/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "4100e68a610a",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-16T10:00:00",
@@ -4718,6 +4740,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.418694,
       "longitude": -81.146474
+    },
+    {
+      "id": "efb3775a2d1c",
+      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
+      "date": "2026-10-16T10:00:00",
+      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
+      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
     },
     {
       "id": "ff4ba8908a39",
@@ -4740,6 +4773,17 @@
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-10-16/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "4fa87499a2a7",
+      "title": "Fall Dance Gathering with Dimond Saints",
+      "date": "2026-10-17T00:00:00",
+      "location": "Pack Square Park, 7 S Spruce St, Asheville, NC 28801, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/fall-dance-gathering-with-dimond-saints/200030536677841",
+      "latitude": 35.595428,
+      "longitude": -82.550293
     },
     {
       "id": "a96b7831099e",
@@ -4907,17 +4951,6 @@
       "longitude": -82.551483
     },
     {
-      "id": "d7f91163e82f",
-      "title": "Phillip Phillips in Asheville",
-      "date": "2026-10-22T00:00:00",
-      "location": "The Orange Peel, The Orange Peel, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/phillip-phillips-in-asheville/3300030393384935",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "155a02a3a105",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-22T10:00:00",
@@ -4962,6 +4995,17 @@
       "longitude": -81.146474
     },
     {
+      "id": "7716368faee3",
+      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
+      "date": "2026-10-23T10:00:00",
+      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
+      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
+    },
+    {
       "id": "fbfe93497db1",
       "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
       "date": "2026-10-23T10:00:00",
@@ -4984,17 +5028,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "6601edc9777e",
-      "title": "Asheville Halloween Bar Crawl",
-      "date": "2026-10-24T00:00:00",
-      "location": "Urban Orchard Cider Co., 24 Buxton Avenue, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-halloween-bar-crawl/100001952207137099",
-      "latitude": 35.588284,
-      "longitude": -82.553627
-    },
-    {
       "id": "111ab5b87ca3",
       "title": "Do The Halloween Pub Crawl in Asheville!",
       "date": "2026-10-24T00:00:00",
@@ -5015,17 +5048,6 @@
       "url": "https://allevents.in/asheville/candlelight-the-soundtrack-of-the-60\u00b4s-asheville/200030463538346",
       "latitude": 35.598145,
       "longitude": -82.552414
-    },
-    {
-      "id": "bde77b34d368",
-      "title": "Wordkeepers",
-      "date": "2026-10-24T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/wordkeeper3/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "b32ead996c5c",
@@ -5171,15 +5193,15 @@
       "longitude": -82.551483
     },
     {
-      "id": "d7098a736d50",
-      "title": "Boy Harsher in Asheville",
+      "id": "d373a8c5ff7f",
+      "title": "Boy Harsher",
       "date": "2026-10-28T00:00:00",
-      "location": "The Orange Peel, The Orange Peel, Asheville, NC, United States, Asheville, NC",
+      "location": "The Orange Peel, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/boy-harsher-in-asheville/3300030493462423",
-      "latitude": 35.595058,
-      "longitude": -82.551483
+      "url": "https://allevents.in/asheville/boy-harsher/210003696830288",
+      "latitude": 35.594799,
+      "longitude": -82.557198
     },
     {
       "id": "6017dc877713",
@@ -5268,6 +5290,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.418694,
       "longitude": -81.146474
+    },
+    {
+      "id": "dd2e06a2b602",
+      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
+      "date": "2026-10-30T10:00:00",
+      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
+      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
     },
     {
       "id": "ce61b6b2eace",
@@ -5435,17 +5468,6 @@
       "longitude": -82.551483
     },
     {
-      "id": "7247577feb6d",
-      "title": "Ralph Stanley II & the Clinch Mountain Boys",
-      "date": "2026-11-06T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/ralph-stanley-ii-the-clinch-mountain-boys/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "839064efff0f",
       "title": "Colby Acuff in Asheville",
       "date": "2026-11-12T00:00:00",
@@ -5455,6 +5477,17 @@
       "url": "https://allevents.in/asheville/colby-acuff-in-asheville/3300030438024937",
       "latitude": 35.595058,
       "longitude": -82.551483
+    },
+    {
+      "id": "4bf1bd703279",
+      "title": "Zack Fox (DJ Set)",
+      "date": "2026-11-14T00:00:00",
+      "location": "The Orange Peel, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/zack-fox-dj-set/210002215012617",
+      "latitude": 35.594799,
+      "longitude": -82.557198
     },
     {
       "id": "e5db7ce4dbda",
@@ -5501,15 +5534,15 @@
       "longitude": -82.5515
     },
     {
-      "id": "e6da3a1419db",
-      "title": "Asheville Official Thanksgiving Eve Bar Crawl 2026",
-      "date": "2026-11-25T00:00:00",
-      "location": "Downtown Asheville, Asheville, NC",
+      "id": "90737bb41f98",
+      "title": "Fireside Collective's Family Jamboree",
+      "date": "2026-11-28T00:00:00",
+      "location": "The Orange Peel, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-official-thanksgiving-eve-bar-crawl-2026/100001983725529459",
-      "latitude": 35.597511,
-      "longitude": -82.546059
+      "url": "https://allevents.in/asheville/fireside-collectives-family-jamboree/210003134768291",
+      "latitude": 35.594799,
+      "longitude": -82.557198
     },
     {
       "id": "5584e60e4f7c",
@@ -5666,26 +5699,15 @@
       "longitude": -82.574684
     },
     {
-      "id": "305f9f72b4b9",
-      "title": "Asheville Marathon &amp; Half presented by New Belgium",
-      "date": "2027-03-20T00:00:00",
-      "location": "Pack Square, Downtown Asheville, Asheville, NC, United States, North Carolina 28803, 1 N Pack Sq, Asheville, NC 28801-34",
+      "id": "bbf8681ceb22",
+      "title": "Modelface Comedy presents Ben Roy",
+      "date": "2027-02-27T00:00:00",
+      "location": "French Broad River Brewery, 101 Fairview Road, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-marathon-and-half-presented-by-new-belgium/200030149790259",
-      "latitude": 35.595322,
-      "longitude": -82.551804
-    },
-    {
-      "id": "f8afe3acae22",
-      "title": "Asheville FoodeesFest",
-      "date": "2027-04-02T00:00:00",
-      "location": "Tanger Outlets Asheville, 800 Brevard Road, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/asheville-foodeesfest/100001992961988958",
-      "latitude": 35.529377,
-      "longitude": -82.603386
+      "url": "https://allevents.in/asheville/modelface-comedy-presents-ben-roy/100001989064266766",
+      "latitude": 35.566483,
+      "longitude": -82.537384
     },
     {
       "id": "a12a7a97e469",
@@ -5732,17 +5754,6 @@
       "longitude": -81.4264
     },
     {
-      "id": "51e8f2740bc9",
-      "title": "Art of Jazz",
-      "date": "2027-06-11T17:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/hcjf-art-exhibition",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "bb085eb3a1f8",
       "title": "Gallery Crawl",
       "date": "2027-06-12T17:00:00",
@@ -5752,39 +5763,6 @@
       "url": "https://www.stayblueridge.com/event/Gallery-Crawl/1364",
       "latitude": 36.4458,
       "longitude": -81.4264
-    },
-    {
-      "id": "32dd7ab1fd63",
-      "title": "Spyro Gyra",
-      "date": "2027-06-12T19:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/hcjf-spyro-gyra",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "575ed05cad16",
-      "title": "Wycliffe Gordon",
-      "date": "2027-06-13T19:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/hcjf-wycliffe-gordon",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "751a1084e541",
-      "title": "Emmet Cohen Trio",
-      "date": "2027-06-14T15:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/hcjf-emmet-cohen-trio",
-      "latitude": 36.2157,
-      "longitude": -81.6752
     },
     {
       "id": "729281c33071",
@@ -5897,6 +5875,28 @@
       "longitude": -81.6752
     },
     {
+      "id": "93314a05ed35",
+      "title": "The Embers featuring Craig Woolard",
+      "date": "2027-07-11T19:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/theembers-featuring-craig-woolard711",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "388714f1c987",
+      "title": "Michelle Amato Quartet",
+      "date": "2027-07-12T17:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/michelle-amato-hcjs26",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "81e71816f8c3",
       "title": "Old Barn Winery August Music Lineup",
       "date": "2027-08-01T19:00:00",
@@ -5906,21 +5906,10 @@
       "url": "https://www.stayblueridge.com/event/Old-Barn-Winery-August-Music-Lineup/1388",
       "latitude": 36.4458,
       "longitude": -81.4264
-    },
-    {
-      "id": "8db66b903033",
-      "title": "Cool Corner Connection",
-      "date": "2027-08-07T12:00:00",
-      "location": "Old Barn Winery 2152 Beaver Creek School Rd, West Jefferson",
-      "description": "Three day Trop Rock Festival details below. Aug. 7th: 3-6:00pm - Roger Bartlett & Klee Liles Aug. 8th: 12-6:00pm - Tall Paul & Kristie, John Frinzi, Doyle Grisham Aug. 9th: 2-5:00pm - Tall Paul & Kris",
-      "source": "Stay Blue Ridge",
-      "url": "https://www.stayblueridge.com/event/Cool-Corner-Connection/1390",
-      "latitude": 36.4458,
-      "longitude": -81.4264
     }
   ],
-  "last_updated": "2026-08-09T11:22:22.009035",
-  "total_events": 538,
+  "last_updated": "2026-08-11T11:38:57.027981",
+  "total_events": 537,
   "sources": [
     "Manual Events",
     "High Country Host",
