@@ -1,385 +1,11 @@
 {
   "events": [
     {
-      "id": "d2fde380c3b0",
-      "title": "Old Time Mountain Music Jam",
-      "date": "2026-09-07T16:00:00",
-      "location": "185 King Street, 185 King St, Brevard, Brevard, NC",
-      "description": "&lt;p&gt;Join us on Mondays to listen or join in on our Old Time Appalachian Music Acoustic Jam. Like what you hear? Tip the group to support the Transylvania Junior Appalachian ... &lt;a title=&quot;",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/old-time-mountain-music-jam-3/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "c6bfa90b4ee0",
-      "title": "Genealogy",
-      "date": "2026-09-07T16:30:00",
-      "location": "Weaverville Community Center, 60 Lakeshore Drive, Weaverville, Weaverville, NC",
-      "description": "&lt;p&gt;Share and learn valuable skills and knowledge related to tracing family histories. This includes research records, understanding different types of genealogical information, and connect with ",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/genealogy/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "ec51e97c0d01",
-      "title": "Family Movie Night at Oakley/South Asheville Library",
-      "date": "2026-09-07T17:00:00",
-      "location": "Oakley/South Asheville Library, 749 Fairview Rd, Asheville, NC",
-      "description": "&lt;p&gt;Join us for a family-friendly movie screening. Popcorn provided!&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/family-movie-night-at-oakley-south-asheville-library/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "208387a949d4",
-      "title": "Alleghany Jubilee",
-      "date": "2026-09-07T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-09-07/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "2999fc6829ce",
-      "title": "Old Time Appalachian Music Acoustic Jam",
-      "date": "2026-09-07T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/old-time-appalachian-music-acoustic-jam/2026-09-07/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "b313cf8f0799",
-      "title": "Mountain Song Festival",
-      "date": "2026-09-07T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/mountain-song-festival/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "a72e7d8469a8",
-      "title": "The Shifties Social Ride",
-      "date": "2026-09-07T18:00:00",
-      "location": "Burial South Slope, 40 Collier Ave., Asheville, NC",
-      "description": "&lt;p&gt;Cycling group departing from the South Slope taproom for an hour and a half ride around town.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/the-shifties-social-ride-2/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "069b2ab5e19f",
-      "title": "Patio Show: Claire Vandiver with LB Beistad",
-      "date": "2026-09-07T18:00:00",
-      "location": "The Grey Eagle, 185 Clingman Ave, Asheville, NC",
-      "description": "&lt;p&gt;Claire Vandiver is a Nashville-born singer-songwriter whose dreamy sound and heartfelt songwriting create an intimate, cinematic listening experience. She recorded her debut full-length album",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/patio-show-claire-vandiver-with-lb-beistad/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "317ba67c1d27",
-      "title": "The Compassionate Friends of Blue Ridge",
-      "date": "2026-09-07T18:00:00",
-      "location": "Abernathy Methodist Church, 1418 Patton Avenue, Ste 1722, Asheville",
-      "description": "&lt;p&gt;This meeting will be to support family members, after the loss of a child, every first Monday of every month.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/the-compassionate-friends-of-blue-ridge/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "84eed7bdf3bf",
-      "title": "Book Club at Fairview Library",
-      "date": "2026-09-07T18:00:00",
-      "location": "Fairview Library, 1 Taylor Road, Asheville",
-      "description": "&lt;p&gt;Join our monthly book club to discuss this month\\'s selection.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/book-club-at-fairview-library/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "cda545aa391a",
-      "title": "RAD Music Bingo",
-      "date": "2026-09-07T18:00:00",
-      "location": "Hi-Wire RAD Beer Garden, 284 Lyman St, Asheville, NC",
-      "description": "&lt;p&gt;We take your three favorite things and combine them into one. Beer, Music, &amp; Bingo. Bring your charged cell phone, listed to music, mark off squares until you get a ... &lt;a title=&quot;",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/rad-music-bingo/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "2abad138aa04",
-      "title": "Singles Game Night",
-      "date": "2026-09-07T18:00:00",
-      "location": "Archetype Brewing, 265 Haywood Rd, Asheville, NC",
-      "description": "&lt;p&gt;There\u2019s always something fun at Archetype on Mondays \u2013 a way to connect with your community, meet someone new, or just get out of the house and be in the ... &lt;a title=&quot;Singles Game Ni",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/singles-game-night/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "dffa0609ffaa",
-      "title": "The Hot Seat w/C.J. Green &#038; Cam",
-      "date": "2026-09-07T19:00:00",
-      "location": "Static Age Loft, 110 N. Lexington Ave., Asheville, NC",
-      "description": "&lt;p&gt;Weekly comedy event hosted by C.J. Green &amp; Cam. Each comic who is brave enough to get up there and perform, in turn has to sit in the hot seat ... &lt;a title=&quot;The Hot Seat w/C.J. Gr",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/the-hot-seat-comedy-2/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "ffc254a449ea",
-      "title": "Big Brain Trivia",
-      "date": "2026-09-07T19:00:00",
-      "location": "Diatribe Brewing, 1042 Haywood Rd, Asheville, NC",
-      "description": "&lt;p&gt;Test your knowledge at our Big Brain Trivia night.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/big-brain-trivia-2/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "f68eae201597",
-      "title": "Local Live w/Jay Brown &#038; Taylor Watkins &#038; Owen Walsh",
-      "date": "2026-09-07T19:00:00",
-      "location": "White Horse Black Mountain, 105C Montreat Road, Black Mountain, NC",
-      "description": "&lt;p&gt;For more than a decade, Local Live\u2014hosted by acclaimed singer-songwriter Jay Brown\u2014has been a defining part of the region\u2019s music scene. With a deep love for live performance and an ... &lt;a",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/kat-williams-legacy-session-virtuous/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "f733f0287dd1",
-      "title": "Don&#8217;t Tell Comedy West Asheville",
-      "date": "2026-09-07T19:00:00",
-      "location": "Wrong Way River Lodge, 9 Midnight Dr, Asheville",
-      "description": "&lt;p&gt;This show will be at an indoor location. No Outside Drinks permitted.. Drinks will be available for purchase. Small snacks available for purchase Non-alcoholic drinks will be available. Outsi",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/dont-tell-comedy-west-asheville-4/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "57d0a6a2d91d",
-      "title": "Robert&#8217;s Totally Rad Trivia",
-      "date": "2026-09-07T19:00:00",
-      "location": "The Malvern, 1478 Patton Ave, Asheville",
-      "description": "&lt;p&gt;Wash the Monday Blues away by coming out to The Malvern in West Asheville for Robert\\'s Totally Rad Trivia.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/roberts-totally-rad-trivia-3/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "c582c20362b7",
-      "title": "Writing Group",
-      "date": "2026-09-07T19:00:00",
-      "location": "Weaverville Community Center, 60 Lakeshore Drive, Weaverville, Weaverville, NC",
-      "description": "&lt;p&gt;Hosted by In Other Words, this group welcomes all genres. Monthly meeting to workshop share our writing, ideas, and cheer each other on. InOtherWords100@gmail.com&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/writing-group/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "e267ea32a267",
-      "title": "Asheville Monday Night Contra Dance",
-      "date": "2026-09-07T19:00:00",
-      "location": "A-B Tech Ivy Building, 9 Genevieve Cir, Asheville, NC",
-      "description": "&lt;p&gt;A Fun Loving Kind Community Contra Dance in Sober &amp; Safe Dance Space!&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/asheville-monday-night-contra-dance/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "1c54adcf8b6d",
-      "title": "Open Mic Downtown",
-      "date": "2026-09-07T19:30:00",
-      "location": "One World Brewing, 10 Patton Ave, Asheville, NC, NC",
-      "description": "&lt;p&gt;Open Mic hosted by Tony Willingham. Sign-ups at 6:30 PM; Open Mic begins at 7:30 PM.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/open-mic-downtown/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "a9fe7a6bfea4",
-      "title": "Mashup Mondays w/JLloyd",
-      "date": "2026-09-07T20:00:00",
-      "location": "One World Brewing West, 520 Haywood Rd, Asheville, NC 28806, Asheville, NC",
-      "description": "&lt;p&gt;Every week will feature different special guests along with new sets of music in various styles including Funk, Jazz, Soul, Acid Jazz, Afrobeat, Reggae, Break Beat, and Dance/Groove music.&lt",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/mashup-mondays-2/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "9d40105ac111",
-      "title": "Best Ever Karaoke",
-      "date": "2026-09-07T20:00:00",
-      "location": "Fleetwood\u2019s, 496 Haywood Rd, Asheville, NC",
-      "description": "&lt;p&gt;Join Honey (whogavethisbitchamic) for a wild night of the Best Ever Karaoke.&lt;/p&gt;\\n",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/best-ever-karaoke-karaoke/2026-09-07/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "efb447ad8a57",
-      "title": "Erra: Drift Outlives the Earth",
-      "date": "2026-09-08T00:00:00",
-      "location": "The Orange Peel, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/erra-drift-outlives-the-earth/210003010391303",
-      "latitude": 35.591389,
-      "longitude": -82.551125
-    },
-    {
-      "id": "43e0b7958f42",
-      "title": "Trivia at Hi-Wire Brewing (River Arts District)",
-      "date": "2026-09-08T00:00:00",
-      "location": "Hi-Wire Brewing RAD Beer Garden &amp; Distribution Center, 284 Lyman Street, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/trivia-at-hi-wire-brewing-river-arts-district/100001991408965824",
-      "latitude": 35.582653,
-      "longitude": -82.565956
-    },
-    {
-      "id": "44af89d09fc9",
-      "title": "Croz Boyce - Featuring Avey Tare &amp; Geologist from Animal Collective",
-      "date": "2026-09-08T00:00:00",
-      "location": "AyurPrana Listening Room, 312 Haywood Rd, Asheville, NC 28806-4232, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/croz-boyce-featuring-avey-tare-and-geologist-from-animal-collective/200030356180330",
-      "latitude": 35.577621,
-      "longitude": -82.576012
-    },
-    {
-      "id": "5f0b5ccfcecb",
-      "title": "Garden Workday at the Leicester Library",
-      "date": "2026-09-08T08:00:00",
-      "location": "Leicester Public Library, 1561 Alexander Rd, Leicester",
-      "description": "&lt;p&gt;All are welcome! Just bring your garden gloves, water bottle, and dress for the weather. We meet every Tuesday &amp; Thursday in the morning, weather permitting. Times subject to change&lt;/p",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/garden-workday-at-the-leicester-library/2026-09-08/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "007b5575c1e9",
-      "title": "Blowing Rock Art & History Museum Announces Winners of the Eighth Annual Blowing Rock Plein Air Festival Show and Sale",
-      "date": "2026-09-08T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/arts/blowing-rock-art-history-museum-announces-winners-of-the-eighth-annual-blowing-rock-plein-air-festival-show-and-sale.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "fe1abcbcd2d2",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-09-08T10:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
-    },
-    {
-      "id": "dded839e34c2",
-      "title": "South Buncombe Library Bridge Club",
-      "date": "2026-09-08T10:00:00",
-      "location": "Skyland/South Buncombe Library, 260 Overlook Rd, Asheville, NC",
-      "description": "&lt;p&gt;Join us for ACBL-sanctioned contract bridge games every Tuesday at the library! All games are free to the public -- no registration or memberships necessary. Games are facilitated by Susan ..",
-      "source": "Mountain Xpress",
-      "url": "https://mountainx.com/event/south-buncombe-library-bridge-club/2026-09-08/",
-      "latitude": 35.5951,
-      "longitude": -82.5515
-    },
-    {
-      "id": "4a535bf0c99c",
-      "title": "Boone Shape Note Singing",
-      "date": "2026-09-08T18:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/boone-shape-note-singing/2026-09-08/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "92060876bcf9",
-      "title": "Dolly Paint Night at RAD Brewco",
-      "date": "2026-09-09T00:00:00",
-      "location": "The River Arts District Brewing Company (RAD Brewing Co.), 13 Mystery Street, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/dolly-paint-night-at-rad-brewco/100001999115341802",
-      "latitude": 35.587765,
-      "longitude": -82.563171
-    },
-    {
-      "id": "2740cf24c525",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-09-09T10:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
-    },
-    {
-      "id": "abfbfaf1884d",
-      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-09-09T10:00:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "5a0878de523e",
-      "title": "Match That Mammal! (Peaks of Otter Visitor Center - Milepost 86)",
-      "date": "2026-09-09T10:00:00",
-      "location": "Located in the breezeway outside the Peaks of Otter Visitor Center at Milepost 86 (85919 Blue Ridge Parkway, Bedford, VA 24523).",
-      "description": "Test your knowledge by matching the correct skulls, furs, and tracks together. Learn about some of the mammals that call the Blue Ridge Parkway home.",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.445607,
-      "longitude": -79.609958
-    },
-    {
-      "id": "abee03df53c4",
-      "title": "The Ramblin\u2019 Bald: Guided High Elevation Hike (Craggy Gardens Visitor Center - Milepost 364)",
-      "date": "2026-09-09T10:45:00",
-      "location": "Meet in front of the Craggy Gardens Visitor Center.",
-      "description": "Come join a ranger for a guided hike in our changeable mountains! The land is always in flux, whether it\u2019s seasonal flowers, deep geological time, or varied land use throughout human history. While hi",
+      "id": "1856602b9651",
+      "title": "More than Mountains: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
+      "date": "2026-09-09T13:30:00",
+      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Craggy Gardens Visitor Center is at Milepost 364.5 on the Blue Ridge Parkway.",
+      "description": "Craggy Gardens may be famous for it\u2019s gorgeous views and natural grassy balds, but there\u2019s more to the mountains than meets the eye. What about watersheds, salamanders, and mica mines? Or the Civilian",
       "source": "NPS Blue Ridge Pkwy",
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.143,
@@ -404,6 +30,17 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/fbvma-mountain-music-jam-sessions/2026-09-09/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "9de1be4eac2b",
+      "title": "Mountain Song Festival",
+      "date": "2026-09-09T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/mountain-song-festival/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -441,17 +78,6 @@
       "longitude": -82.553139
     },
     {
-      "id": "e7d6586504c3",
-      "title": "New Moon in Virgo Yoga",
-      "date": "2026-09-10T00:00:00",
-      "location": "Botanical Gardens, 151 WT Weaver Boulevard, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/new-moon-in-virgo-yoga/100001996338205312",
-      "latitude": 35.612495,
-      "longitude": -82.566032
-    },
-    {
       "id": "5c5428b448c6",
       "title": "Freedom 250: Overmountain Victory Commemoration School Days (Museum of North Carolina Minerals- Milepost 331)",
       "date": "2026-09-10T09:30:00",
@@ -474,17 +100,6 @@
       "longitude": -79.609278
     },
     {
-      "id": "165b3adb96d9",
-      "title": "2025 Gatsby Gala Highlights",
-      "date": "2026-09-10T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/app-theatre/2025-gatsby-gala-highlights.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "58f478ae335b",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-09-10T10:00:00",
@@ -494,17 +109,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
-    },
-    {
-      "id": "ee64eac1507a",
-      "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
-      "date": "2026-09-10T10:00:00",
-      "location": "Brinegar Cabin is located at milepost 238.5 on the Blue Ridge Parkway. Park in the parking and follow the paved walkway to the cabin.",
-      "description": "Step back into the late 1800s at one of Doughton Park\u2019s most cherished historic sites. Completed in 1889, the Brinegar family home offers visitors a window into mountain life shaped by resilience, cra",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.418721,
-      "longitude": -81.146435
     },
     {
       "id": "f6a81ee30685",
@@ -527,6 +131,39 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.972724,
       "longitude": -78.899465
+    },
+    {
+      "id": "3959daf35411",
+      "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
+      "date": "2026-09-10T13:00:00",
+      "location": "Brinegar Cabin is located at milepost 238.5 on the Blue Ridge Parkway. Park in the parking and follow the paved walkway to the cabin.",
+      "description": "Step back into the late 1800s at one of Doughton Park\u2019s most cherished historic sites. Completed in 1889, the Brinegar family home offers visitors a window into mountain life shaped by resilience, cra",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.418721,
+      "longitude": -81.146435
+    },
+    {
+      "id": "29446542fd05",
+      "title": "More than Mountains: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
+      "date": "2026-09-10T13:30:00",
+      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Craggy Gardens Visitor Center is at Milepost 364.5 on the Blue Ridge Parkway.",
+      "description": "Craggy Gardens may be famous for it\u2019s gorgeous views and natural grassy balds, but there\u2019s more to the mountains than meets the eye. What about watersheds, salamanders, and mica mines? Or the Civilian",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
+      "id": "b1ee2339e7ee",
+      "title": "The Wild, the Weird, and the Wonderful: Ranger-Led Talks and Activities (Waterrock Knob Visitor Center - Milepost 451)",
+      "date": "2026-09-10T13:30:00",
+      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Waterrock Knob Visitor Center is at Milepost 451 of the Blue Ridge Parkway.",
+      "description": "People come to the Blue Ridge for stunning views and refreshing forests, but the region has more to offer than what\u2019s seen on the surface. Ranger-led talks really get into the heart of the mountains, ",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
     },
     {
       "id": "2459949c4ee6",
@@ -672,6 +309,17 @@
       "longitude": -82.549385
     },
     {
+      "id": "efed17e2b973",
+      "title": "Next Stop Comedy at Salt Face Mule Brewing Co.! - Asheville, NC",
+      "date": "2026-09-11T00:00:00",
+      "location": "Salt Face Mule Brewing Co., 450 Weaverville Highway, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/next-stop-comedy-at-salt-face-mule-brewing-co-asheville-nc/100001980805595859",
+      "latitude": 35.669277,
+      "longitude": -82.584465
+    },
+    {
       "id": "a58bb210ce72",
       "title": "Modelface Comedy presents Scott Eason",
       "date": "2026-09-11T00:00:00",
@@ -738,6 +386,17 @@
       "longitude": -82.567162
     },
     {
+      "id": "ec43384b0f2a",
+      "title": "Aaron Austin Quartet | Michael W Davis, Justin Ray, Jake Wolf",
+      "date": "2026-09-11T00:00:00",
+      "location": "56 N Lexington Avenue, Asheville, NC, United States, North Carolina 28801, 54 N Lexington Ave, Asheville, NC 28801-2823,",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/aaron-austin-quartet-michael-w-davis-justin-ray-jake-wolf/200030670962218",
+      "latitude": 35.596748,
+      "longitude": -82.553131
+    },
+    {
       "id": "1eabb54e8358",
       "title": "One Weird World West Super Jam",
       "date": "2026-09-11T00:00:00",
@@ -758,17 +417,6 @@
       "url": "https://allevents.in/asheville/patio-show-morgan-geer/200030639046036",
       "latitude": 35.587059,
       "longitude": -82.56443
-    },
-    {
-      "id": "11e6fee2a5b3",
-      "title": "Next Stop Comedy at Salt Face Mule Brewing Co.",
-      "date": "2026-09-11T00:00:00",
-      "location": "450 Weaverville Highway, Asheville, North Carolina 28804, 450 Merrimon Ave, Asheville, NC 28804-1121, United States, Ash",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/next-stop-comedy-at-salt-face-mule-brewing-co/200030554087109",
-      "latitude": 35.669041,
-      "longitude": -82.584412
     },
     {
       "id": "b9c623885e35",
@@ -870,6 +518,17 @@
       "longitude": -81.8576
     },
     {
+      "id": "023b984e0055",
+      "title": "Trail Treks at Waterrock: Guided High Elevation Hike (Waterrock Knob Visitor Center - Milepost 451)",
+      "date": "2026-09-11T10:45:00",
+      "location": "Meet in front of the Waterrock Knob Visitor Center, which is at Milepost 451 on the Blue Ridge Parkway.",
+      "description": "Come join a ranger for a guided hike from the Waterrock Knob Visitor Center! Whether you follow us out on the Mountains-to-Sea trail to enjoy the different forest types, or whether we\u2019re headed to the",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
       "id": "f047aa9f28fe",
       "title": "Agriculture in Appalachia (Humpback Rocks Visitor Center - Milepost 6)",
       "date": "2026-09-11T11:00:00",
@@ -912,6 +571,28 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.149093,
       "longitude": -81.692883
+    },
+    {
+      "id": "e0c16a741a29",
+      "title": "More than Mountains: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
+      "date": "2026-09-11T13:30:00",
+      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Craggy Gardens Visitor Center is at Milepost 364.5 on the Blue Ridge Parkway.",
+      "description": "Craggy Gardens may be famous for it\u2019s gorgeous views and natural grassy balds, but there\u2019s more to the mountains than meets the eye. What about watersheds, salamanders, and mica mines? Or the Civilian",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
+      "id": "9a75b271cd74",
+      "title": "The Wild, the Weird, and the Wonderful: Ranger-Led Talks and Activities (Waterrock Knob Visitor Center - Milepost 451)",
+      "date": "2026-09-11T13:30:00",
+      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Waterrock Knob Visitor Center is at Milepost 451 of the Blue Ridge Parkway.",
+      "description": "People come to the Blue Ridge for stunning views and refreshing forests, but the region has more to offer than what\u2019s seen on the surface. Ranger-led talks really get into the heart of the mountains, ",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
     },
     {
       "id": "5bbfa3709c43",
@@ -958,6 +639,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "3421f54f5f7a",
+      "title": "Second Friday CommUnity Square Dance",
+      "date": "2026-09-11T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/second-friday-community-square-dance/2026-09-11/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "a1d3cdcd5afd",
       "title": "Dolly Film Fest: The Best Little Whorehouse in Texas",
       "date": "2026-09-11T18:00:00",
@@ -998,6 +690,17 @@
       "description": "",
       "source": "High Country Host",
       "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "edbca731142f",
+      "title": "Phipps General Store Jam",
+      "date": "2026-09-11T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/phipps-general-store-jam/2026-09-11/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1112,17 +815,6 @@
       "longitude": -82.584465
     },
     {
-      "id": "3e276df00ff5",
-      "title": "Forest Bathing @ the NC Arboretum",
-      "date": "2026-09-12T00:00:00",
-      "location": "The North Carolina Arboretum, 100 Frederick Law Olmsted Way, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/forest-bathing-the-nc-arboretum/100001979397439024",
-      "latitude": 35.495853,
-      "longitude": -82.605225
-    },
-    {
       "id": "dba5cb73bf5a",
       "title": "South Slope Stroll: Where Asheville Celebrates! (Second Saturdays)",
       "date": "2026-09-12T00:00:00",
@@ -1132,6 +824,17 @@
       "url": "https://allevents.in/asheville/south-slope-stroll-where-asheville-celebrates-second-saturdays/100001985281070123",
       "latitude": 35.589867,
       "longitude": -82.55526
+    },
+    {
+      "id": "5ed0161ef031",
+      "title": "The Stolen Faces at One World Brewing West in Asheville, NC!",
+      "date": "2026-09-12T00:00:00",
+      "location": "520 Haywood Road, Asheville, NC, United States, North Carolina 28806, 520 US-19-BR, Asheville, NC 28806-3555, United Sta",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/the-stolen-faces-at-one-world-brewing-west-in-asheville-nc/200030667333844",
+      "latitude": 35.578339,
+      "longitude": -82.584679
     },
     {
       "id": "08cc9a78339d",
@@ -1156,6 +859,17 @@
       "longitude": -82.559288
     },
     {
+      "id": "3e276df00ff5",
+      "title": "Forest Bathing @ the NC Arboretum",
+      "date": "2026-09-12T00:00:00",
+      "location": "The North Carolina Arboretum, 100 Frederick Law Olmsted Way, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/forest-bathing-the-nc-arboretum/100001979397439024",
+      "latitude": 35.495853,
+      "longitude": -82.605225
+    },
+    {
       "id": "c88a76019ae9",
       "title": "DJ Neptune Spins",
       "date": "2026-09-12T00:00:00",
@@ -1178,6 +892,17 @@
       "longitude": -82.555801
     },
     {
+      "id": "4dac1abb3714",
+      "title": "Asheville Goombay Film Festival: Stories of Place, Memory, &amp; Legacy",
+      "date": "2026-09-12T00:00:00",
+      "location": "YMI Cultural Center - Auditorium, 39 South Market Street, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/asheville-goombay-film-festival-stories-of-place-memory-and-legacy/100001999892928585",
+      "latitude": 35.593838,
+      "longitude": -82.550072
+    },
+    {
       "id": "73fe463b6caa",
       "title": "Indoor Houseplants 101 - Asheville",
       "date": "2026-09-12T00:00:00",
@@ -1198,17 +923,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.443389,
       "longitude": -79.609278
-    },
-    {
-      "id": "42f1d63ca188",
-      "title": "Appalachian Theatre Announces Fall 2025 Lineup Featuring Music, Magic, Film, and More",
-      "date": "2026-09-12T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/app-state/appalachian-theatre-announces-fall-2025-lineup-featuring-music-magic-film-and-more.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "9ff895860740",
@@ -1264,6 +978,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.751712,
       "longitude": -80.405357
+    },
+    {
+      "id": "b24420cee85f",
+      "title": "Jam Sessions at the Barber Shop",
+      "date": "2026-09-12T11:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/jam-sessions-at-the-barber-shop/2026-09-12/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "91cad1b5ad79",
@@ -1330,6 +1055,28 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.44365,
       "longitude": -79.599822
+    },
+    {
+      "id": "e2511bb85673",
+      "title": "More than Mountains: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
+      "date": "2026-09-12T13:30:00",
+      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Craggy Gardens Visitor Center is at Milepost 364.5 on the Blue Ridge Parkway.",
+      "description": "Craggy Gardens may be famous for it\u2019s gorgeous views and natural grassy balds, but there\u2019s more to the mountains than meets the eye. What about watersheds, salamanders, and mica mines? Or the Civilian",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
+      "id": "3f7a6a898236",
+      "title": "The Wild, the Weird, and the Wonderful: Ranger-Led Talks and Activities (Waterrock Knob Visitor Center - Milepost 451)",
+      "date": "2026-09-12T13:30:00",
+      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Waterrock Knob Visitor Center is at Milepost 451 of the Blue Ridge Parkway.",
+      "description": "People come to the Blue Ridge for stunning views and refreshing forests, but the region has more to offer than what\u2019s seen on the surface. Ranger-led talks really get into the heart of the mountains, ",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
     },
     {
       "id": "46a5afc0b0f0",
@@ -1464,17 +1211,6 @@
       "longitude": -82.563171
     },
     {
-      "id": "94bfe4e9cd20",
-      "title": "Markets at The Radical",
-      "date": "2026-09-13T00:00:00",
-      "location": "95 Roberts Street, Asheville, NC, United States, North Carolina 28801, 95 Roberts St, Asheville, NC 28801-3146, United S",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/markets-at-the-radical/200030625996755",
-      "latitude": 35.58746,
-      "longitude": -82.567169
-    },
-    {
       "id": "9fe07cc88673",
       "title": "An Evening With Phuncle Sam @ Third Room",
       "date": "2026-09-13T00:00:00",
@@ -1495,17 +1231,6 @@
       "url": "https://allevents.in/asheville/sunday-funday-tea-dance-a-benefit-for-asheville-humane/200030628055351",
       "latitude": 35.589279,
       "longitude": -82.553619
-    },
-    {
-      "id": "110a852a4c43",
-      "title": "Welding: Build Your own Firewood Rack",
-      "date": "2026-09-13T00:00:00",
-      "location": "Asheville Tool Library, 16 Smith Mill Road, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/welding-build-your-own-firewood-rack/100001998556263584",
-      "latitude": 35.589973,
-      "longitude": -82.631989
     },
     {
       "id": "421465ebc519",
@@ -1585,6 +1310,28 @@
       "longitude": -81.8576
     },
     {
+      "id": "c785c613cc9f",
+      "title": "More than Mountains: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
+      "date": "2026-09-13T13:30:00",
+      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Craggy Gardens Visitor Center is at Milepost 364.5 on the Blue Ridge Parkway.",
+      "description": "Craggy Gardens may be famous for it\u2019s gorgeous views and natural grassy balds, but there\u2019s more to the mountains than meets the eye. What about watersheds, salamanders, and mica mines? Or the Civilian",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
+      "id": "79cb1ead0672",
+      "title": "The Wild, the Weird, and the Wonderful: Ranger-Led Talks and Activities (Waterrock Knob Visitor Center - Milepost 451)",
+      "date": "2026-09-13T13:30:00",
+      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Waterrock Knob Visitor Center is at Milepost 451 of the Blue Ridge Parkway.",
+      "description": "People come to the Blue Ridge for stunning views and refreshing forests, but the region has more to offer than what\u2019s seen on the surface. Ranger-led talks really get into the heart of the mountains, ",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
       "id": "541e9bf48a94",
       "title": "Milepost Music (Doughton Park - Milepost 238)",
       "date": "2026-09-13T14:00:00",
@@ -1629,15 +1376,15 @@
       "longitude": -82.495865
     },
     {
-      "id": "7597c6980a54",
-      "title": "St. Mary of the Hills welcomes SoLa Bazaar on Sunday, September 14",
-      "date": "2026-09-14T10:00:00",
-      "location": "Boone, NC",
+      "id": "365677b58acd",
+      "title": "BANG Luxury Happy Hour",
+      "date": "2026-09-14T00:00:00",
+      "location": "The Omni Grove Park Inn &amp; Spa, 290 Macon Avenue, Asheville, NC",
       "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/st-mary-of-the-hills-welcomes-sola-bazaar-on-sunday-september-14.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/bang-luxury-happy-hour/100001999785811194",
+      "latitude": 35.620636,
+      "longitude": -82.542297
     },
     {
       "id": "0fd1448b7f6f",
@@ -1662,26 +1409,26 @@
       "longitude": -81.146435
     },
     {
-      "id": "841f8a154dd4",
-      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-09-14T10:00:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "0ce0f496e88c",
+      "id": "a1c51fd7eed0",
       "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
-      "date": "2026-09-14T13:30:00",
+      "date": "2026-09-14T11:00:00",
       "location": "Mabry Mill - Milepost 176.2 - Blue Ridge Parkway Meet a Park Ranger at the beginning of the paved trail near the comfort station located in the overflow parking.",
       "description": "Step into a living postcard as we wander through the iconic Mabry Mill\u2014a place where water wheels turn, stories hum, and mountain memories linger. Join a Park Ranger on a tour that invites you to expl",
       "source": "NPS Blue Ridge Pkwy",
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.751712,
       "longitude": -80.405357
+    },
+    {
+      "id": "d3ad6ce236f8",
+      "title": "Trivia at Hi-Wire Brewing (River Arts District)",
+      "date": "2026-09-15T00:00:00",
+      "location": "Hi-Wire Brewing RAD Beer Garden &amp; Distribution Center, 284 Lyman Street, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/trivia-at-hi-wire-brewing-river-arts-district/100001991408965824",
+      "latitude": 35.582653,
+      "longitude": -82.565956
     },
     {
       "id": "4ebb515cc6b1",
@@ -1715,17 +1462,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
-    },
-    {
-      "id": "d15ca29a21a5",
-      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-09-15T10:00:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
     },
     {
       "id": "5322f5c28510",
@@ -1849,17 +1585,6 @@
       "longitude": -81.4874
     },
     {
-      "id": "144eca44b463",
-      "title": "Frank and Kay Golf Classic is Back at Restored Hound Ears Club",
-      "date": "2026-09-16T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/frank-and-kay-golf-classic-is-back-at-restored-hound-ears-club.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "419e292993cf",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-09-16T10:00:00",
@@ -1869,17 +1594,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
-    },
-    {
-      "id": "7606f1722901",
-      "title": "The Ramblin\u2019 Bald: Guided High Elevation Hike (Craggy Gardens Visitor Center - Milepost 364)",
-      "date": "2026-09-16T10:45:00",
-      "location": "Meet in front of the Craggy Gardens Visitor Center.",
-      "description": "Come join a ranger for a guided hike in our changeable mountains! The land is always in flux, whether it\u2019s seasonal flowers, deep geological time, or varied land use throughout human history. While hi",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
     },
     {
       "id": "9baf23b74755",
@@ -1948,17 +1662,6 @@
       "longitude": -82.55529
     },
     {
-      "id": "a6f764ef50ad",
-      "title": "Automatic in Asheville",
-      "date": "2026-09-17T00:00:00",
-      "location": "Eulogy, Eulogy, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/automatic-in-asheville/3300030344427921",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "c668ebf32c2d",
       "title": "Modelface Comedy presents Andrew Rudick",
       "date": "2026-09-17T00:00:00",
@@ -1968,6 +1671,28 @@
       "url": "https://allevents.in/asheville/modelface-comedy-presents-andrew-rudick/100001998471799951",
       "latitude": 35.589222,
       "longitude": -82.555153
+    },
+    {
+      "id": "e72598e675e8",
+      "title": "Whiskey Tasting",
+      "date": "2026-09-17T00:00:00",
+      "location": "95 Roberts Street, Asheville, NC, United States, North Carolina 28801, 95 Roberts St, Asheville, NC 28801-3146, United S",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/whiskey-tasting/200030468488912",
+      "latitude": 35.58746,
+      "longitude": -82.567169
+    },
+    {
+      "id": "a6f764ef50ad",
+      "title": "Automatic in Asheville",
+      "date": "2026-09-17T00:00:00",
+      "location": "Eulogy, Eulogy, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/automatic-in-asheville/3300030344427921",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "ed1ba83dd87a",
@@ -2014,17 +1739,6 @@
       "longitude": -81.146435
     },
     {
-      "id": "cdf750102f00",
-      "title": "A Wooded Walk: Guided, Low-Elevation Hike (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-09-17T10:00:00",
-      "location": "Meet at the flagpole in front of the Blue Ridge Parkway Visitor Center.",
-      "description": "Come join a ranger for a guided hike along our Visitor Center Loop Trail. A shaded path in the valley, it\u2019s also a Kids In Parks TRACK Trail that's good for beginning hikers. We may learn to identify ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
       "id": "70debce68f4d",
       "title": "Reading with Meagan Church",
       "date": "2026-09-17T11:00:00",
@@ -2034,28 +1748,6 @@
       "url": "https://ashecountyarts.org/event/church/",
       "latitude": 36.4013,
       "longitude": -81.4874
-    },
-    {
-      "id": "4df0f88321b8",
-      "title": "Find Your Zen: Forest Bathing Walk (Peaks of Otter Visitor Center - Milepost 86)",
-      "date": "2026-09-17T11:00:00",
-      "location": "Meet in the amphitheater behind the Peaks of Otter Visitor Center (85919 Blue Ridge Parkway, Bedford, VA 24523).",
-      "description": "Find your Zen on the Blue Ridge Parkway with a Ranger, as they guide you through a mindful and meditative Forest Bathing Walk. Forest Bathing, or Shinrin-Yoku, is a traditional Japanese practice where",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.445607,
-      "longitude": -79.609958
-    },
-    {
-      "id": "6d17511747b1",
-      "title": "One Big House: Guided Walk (Humpback Rocks Visitor Center - Milepost 6)",
-      "date": "2026-09-17T11:00:00",
-      "location": "Meet at the Humpback Rocks Visitor Center (Milepost 6). The walk will take you through the historic farm and back, about 0.5 miles.",
-      "description": "Have you ever wondered how the forest, the farm, our homes shape us? Join a Ranger on a guided walk discussing the ecology in and around the historic farm at Humpback Rocks. Come and see how folks liv",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.972724,
-      "longitude": -78.899465
     },
     {
       "id": "f37bea27fd66",
@@ -2089,17 +1781,6 @@
       "url": "https://ashecountyarts.org/event/barrett/",
       "latitude": 36.4013,
       "longitude": -81.4874
-    },
-    {
-      "id": "c317d445d039",
-      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-09-17T14:45:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
     },
     {
       "id": "7e8df0327fbd",
@@ -2168,17 +1849,6 @@
       "longitude": -82.553902
     },
     {
-      "id": "a441a9664cb6",
-      "title": "Goodnight, Texas in Asheville",
-      "date": "2026-09-18T00:00:00",
-      "location": "Asheville Music Hall, Asheville Music Hall, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/goodnight-texas-in-asheville/3300030395543522",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "8c77ac8db713",
       "title": "Sept. 18th FREE Divine's Karaoke Kiki at Dalton Distillery",
       "date": "2026-09-18T00:00:00",
@@ -2188,6 +1858,17 @@
       "url": "https://allevents.in/asheville/sept-18th-free-divines-karaoke-kiki-at-dalton-distillery/200030342666746",
       "latitude": 35.586231,
       "longitude": -82.551857
+    },
+    {
+      "id": "a441a9664cb6",
+      "title": "Goodnight, Texas in Asheville",
+      "date": "2026-09-18T00:00:00",
+      "location": "Asheville Music Hall, Asheville Music Hall, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/goodnight-texas-in-asheville/3300030395543522",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "6d618d1a5d41",
@@ -2355,39 +2036,6 @@
       "longitude": -81.4874
     },
     {
-      "id": "749ec6f8be23",
-      "title": "Basketweaving Demonstrations & Ramsey Cabin Open House (Humpback Rocks Visitor Center - Milepost 6)",
-      "date": "2026-09-18T13:00:00",
-      "location": "Humpback Rocks Mountain Farm located at milepost 5.8 on the Blue Ridge Parkway. Follow the sidewalk from the Visitor Center down to the farm.",
-      "description": "See traditional basket weaving in action! White oak splits turn from simple reeds into sturdy baskets that will last for years. Learn how these baskets once filled the same everyday roles as today\u2019s p",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.972724,
-      "longitude": -78.899464
-    },
-    {
-      "id": "f8ad6c4d0e79",
-      "title": "Appalachian Foodways (Peaks of Otter - Milepost 86)",
-      "date": "2026-09-18T14:00:00",
-      "location": "Located in the breezeway outside the Peaks of Otter Visitor Center at Milepost 86 (85919 Blue Ridge Parkway, Bedford, VA 24523).",
-      "description": "Discover traditional Appalachian foodways at the Peaks of Otter Visitor Center. Learn how culinary traditions are shaped by the rugged subsistence farms of Appalachia. The rise of modern food insecuri",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.445606,
-      "longitude": -79.609958
-    },
-    {
-      "id": "c110e26eb6a7",
-      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-09-18T14:45:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
       "id": "3dde7fc2a2b3",
       "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
       "date": "2026-09-18T15:30:00",
@@ -2452,17 +2100,6 @@
       "url": "https://allevents.in/asheville/mike-super-magic-and-illusion/200030540615935",
       "latitude": 35.594318,
       "longitude": -82.550957
-    },
-    {
-      "id": "c7b6bc803f04",
-      "title": "Take The Edge Off, Late Night Comedy",
-      "date": "2026-09-19T00:00:00",
-      "location": "Eda Rhyne Distilling Company, 101 Fairview Road, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/take-the-edge-off-late-night-comedy/100001985418839194",
-      "latitude": 35.566441,
-      "longitude": -82.537231
     },
     {
       "id": "1a4d50e5e124",
@@ -2608,28 +2245,6 @@
       "longitude": -80.405357
     },
     {
-      "id": "1346b28f190e",
-      "title": "Basketweaving Demonstrations & Ramsey Cabin Open House (Humpback Rocks Visitor Center - Milepost 6)",
-      "date": "2026-09-19T11:00:00",
-      "location": "Humpback Rocks Mountain Farm located at milepost 5.8 on the Blue Ridge Parkway. Follow the sidewalk from the Visitor Center down to the farm.",
-      "description": "See traditional basket weaving in action! White oak splits turn from simple reeds into sturdy baskets that will last for years. Learn how these baskets once filled the same everyday roles as today\u2019s p",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.972724,
-      "longitude": -78.899464
-    },
-    {
-      "id": "26f61ef471da",
-      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-09-19T14:45:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
       "id": "e6fc94b0193c",
       "title": "Carolina EGGfest",
       "date": "2026-09-19T15:00:00.295000",
@@ -2650,17 +2265,6 @@
       "url": "https://allevents.in/asheville/baptized-in-the-mountains-a-sunday-supper-of-resilience/100001997623702268",
       "latitude": 35.585079,
       "longitude": -82.566521
-    },
-    {
-      "id": "9346c02b7b04",
-      "title": "Magical Market",
-      "date": "2026-09-20T00:00:00",
-      "location": "841 Haywood Rd., Asheville, NC, United States, North Carolina 28806, 841 US-19-BR, Asheville, NC 28806-3134, United Stat",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/magical-market/200030080641855",
-      "latitude": 35.580002,
-      "longitude": -82.59642
     },
     {
       "id": "93aeee615aa3",
@@ -2716,17 +2320,6 @@
       "url": "https://www.ashecountyarts.org/events/",
       "latitude": 36.4332,
       "longitude": -81.499
-    },
-    {
-      "id": "6e40c33c5263",
-      "title": "Buskers Fest Returns to Downtown Boone on Saturday, September 20, 2025",
-      "date": "2026-09-20T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/buskers-fest-returns-to-downtown-boone-on-saturday-september-20-2025.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "7ed67605b2bb",
@@ -2828,17 +2421,6 @@
       "longitude": -82.557198
     },
     {
-      "id": "a6dab34370ab",
-      "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
-      "date": "2026-09-21T10:00:00",
-      "location": "Mabry Mill - Milepost 176.2 - Blue Ridge Parkway Meet a Park Ranger at the beginning of the paved trail near the comfort station located in the overflow parking.",
-      "description": "Step into a living postcard as we wander through the iconic Mabry Mill\u2014a place where water wheels turn, stories hum, and mountain memories linger. Join a Park Ranger on a tour that invites you to expl",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751712,
-      "longitude": -80.405357
-    },
-    {
       "id": "74c43110d83b",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-09-21T10:00:00",
@@ -2859,6 +2441,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.418721,
       "longitude": -81.146435
+    },
+    {
+      "id": "c45be73f7eb2",
+      "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
+      "date": "2026-09-21T13:30:00",
+      "location": "Mabry Mill - Milepost 176.2 - Blue Ridge Parkway Meet a Park Ranger at the beginning of the paved trail near the comfort station located in the overflow parking.",
+      "description": "Step into a living postcard as we wander through the iconic Mabry Mill\u2014a place where water wheels turn, stories hum, and mountain memories linger. Join a Park Ranger on a tour that invites you to expl",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
     },
     {
       "id": "a71f678b9ac1",
@@ -2903,28 +2496,6 @@
       "url": "https://ashecountyarts.org/event/cirque-us-presents-stories/",
       "latitude": 36.4332,
       "longitude": -81.499
-    },
-    {
-      "id": "557d29d21b07",
-      "title": "National Storytelling Festival returns to Jonesborough Oct. 3\u20135",
-      "date": "2026-09-22T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/national-storytelling-festival-returns-to-jonesborough-oct-3-5.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "811835abccbf",
-      "title": "Watauga County Habitat for Humanity \u2013 Blueprints and Bow Ties Press Release \u2013 2025",
-      "date": "2026-09-22T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/watauga-county-habitat-for-humanity-blueprints-and-bow-ties-press-release-2025.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "c238f89d3796",
@@ -2982,17 +2553,6 @@
       "longitude": -82.557198
     },
     {
-      "id": "8abe7556c39f",
-      "title": "HCC A Night at Chetola is a hit!",
-      "date": "2026-09-23T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/hcc-a-night-at-chetola-is-a-hit.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "8de15588580b",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-09-23T10:00:00",
@@ -3026,6 +2586,17 @@
       "longitude": -82.555801
     },
     {
+      "id": "520decaf3390",
+      "title": "Gregg Allman: The Music Of My Soul",
+      "date": "2026-09-24T00:00:00",
+      "location": "The Orange Peel, 101 Biltmore ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/gregg-allman-the-music-of-my-soul/200030550386451",
+      "latitude": 35.591415,
+      "longitude": -82.551147
+    },
+    {
       "id": "dee4fa3ddbe2",
       "title": "Steve Shell (Old Gods of Appalachia) Presents ROOM TO SWING AN AX",
       "date": "2026-09-24T00:00:00",
@@ -3037,17 +2608,6 @@
       "longitude": -82.574646
     },
     {
-      "id": "4d72db88fdc2",
-      "title": "Green Leaf, Howling Giant &amp; High Desert Queen",
-      "date": "2026-09-24T00:00:00",
-      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/green-leaf-howling-giant-and-high-desert-queen/200030284342334",
-      "latitude": 35.588348,
-      "longitude": -82.553902
-    },
-    {
       "id": "276b387ca7b8",
       "title": "Greenleaf, Howling Giant and Mean Green live at Eulogy",
       "date": "2026-09-24T00:00:00",
@@ -3057,6 +2617,17 @@
       "url": "https://allevents.in/asheville/greenleaf-howling-giant-and-mean-green-live-at-eulogy/200030597779831",
       "latitude": 35.588341,
       "longitude": -82.553925
+    },
+    {
+      "id": "4d72db88fdc2",
+      "title": "Green Leaf, Howling Giant &amp; High Desert Queen",
+      "date": "2026-09-24T00:00:00",
+      "location": "10 Buxton Avenue, Asheville, North Carolina 28801, United States, 10 Buxton Ave, Asheville, NC 28801-4020, United States",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/green-leaf-howling-giant-and-high-desert-queen/200030284342334",
+      "latitude": 35.588348,
+      "longitude": -82.553902
     },
     {
       "id": "647582c44518",
@@ -3125,6 +2696,17 @@
       "longitude": -82.603386
     },
     {
+      "id": "b0df58cf3067",
+      "title": "Damien Jurado in Asheville",
+      "date": "2026-09-25T00:00:00",
+      "location": "The Grey Eagle, The Grey Eagle, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/damien-jurado-in-asheville/3300030494494711",
+      "latitude": 35.595058,
+      "longitude": -82.551483
+    },
+    {
       "id": "15a337def804",
       "title": "Gin &amp; Jazz Social 2026",
       "date": "2026-09-25T00:00:00",
@@ -3145,6 +2727,28 @@
       "url": "https://allevents.in/asheville/govt-mule-and-ziggy-marley/210003741322181",
       "latitude": 35.594799,
       "longitude": -82.557198
+    },
+    {
+      "id": "27ef0fbdd635",
+      "title": "2026 Fall Asheville Greek Festival",
+      "date": "2026-09-25T00:00:00",
+      "location": "227 Cumberland Ave, Asheville, NC, United States, North Carolina 28801, 227 Cumberland Ave, Asheville, NC 28801-1735, Un",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/2026-fall-asheville-greek-festival/200030578693326",
+      "latitude": 35.604832,
+      "longitude": -82.563148
+    },
+    {
+      "id": "5f503add13b5",
+      "title": "Ty and the Crew",
+      "date": "2026-09-25T00:00:00",
+      "location": "The Radical Asheville, Tapestry Collection by Hilton, 95 Roberts Street, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/ty-and-the-crew/100001998780116133",
+      "latitude": 35.587463,
+      "longitude": -82.567329
     },
     {
       "id": "5113b8a2f597",
@@ -3178,28 +2782,6 @@
       "url": "https://allevents.in/asheville/full-moon-in-aries-yoga/100001996341216318",
       "latitude": 35.612522,
       "longitude": -82.565964
-    },
-    {
-      "id": "27ef0fbdd635",
-      "title": "2026 Fall Asheville Greek Festival",
-      "date": "2026-09-25T00:00:00",
-      "location": "227 Cumberland Ave, Asheville, NC, United States, North Carolina 28801, 227 Cumberland Ave, Asheville, NC 28801-1735, Un",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/2026-fall-asheville-greek-festival/200030578693326",
-      "latitude": 35.604832,
-      "longitude": -82.563148
-    },
-    {
-      "id": "2af370aa64af",
-      "title": "VCF 2025 \u2013 \u201cNeighbors Helping Neighbors\u201d Release",
-      "date": "2026-09-25T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/vcf-2025-neighbors-helping-neighbors-release.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "e322acc44bf5",
@@ -3312,6 +2894,17 @@
       "longitude": -82.553902
     },
     {
+      "id": "f2f2ba279cdf",
+      "title": "Ott, Vinja, Push/Pull in Asheville",
+      "date": "2026-09-26T00:00:00",
+      "location": "Sly Grog Lounge, Sly Grog Lounge, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/ott-vinja-push-pull-in-asheville/3300030277276902",
+      "latitude": 35.595058,
+      "longitude": -82.551483
+    },
+    {
       "id": "7815986e2346",
       "title": "Asheville Oktoberfest 2026",
       "date": "2026-09-26T00:00:00",
@@ -3332,17 +2925,6 @@
       "url": "https://allevents.in/asheville/rise-a-fly-fishing-festival-year-2/100001999121560402",
       "latitude": 35.567451,
       "longitude": -82.570747
-    },
-    {
-      "id": "f2f2ba279cdf",
-      "title": "Ott, Vinja, Push/Pull in Asheville",
-      "date": "2026-09-26T00:00:00",
-      "location": "Sly Grog Lounge, Sly Grog Lounge, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/ott-vinja-push-pull-in-asheville/3300030277276902",
-      "latitude": 35.595058,
-      "longitude": -82.551483
     },
     {
       "id": "2a3fe73df2d5",
@@ -3631,17 +3213,6 @@
       "longitude": -82.553902
     },
     {
-      "id": "b2e85ad5f105",
-      "title": "VCF 2025 \u2013 Gallehers 31st Year as BBQ Bosses",
-      "date": "2026-09-29T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/vcf-2025-gallehers-31st-year-as-bbq-bosses.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "0eba870d5465",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-09-29T10:00:00",
@@ -3686,17 +3257,6 @@
       "longitude": -82.551483
     },
     {
-      "id": "ce109f8a0c3f",
-      "title": "VCF 2025 \u2013 \u201cCome Hungry to the Fair!\u201d",
-      "date": "2026-09-30T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/vcf-2025-come-hungry-to-the-fair.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "a46825db5caf",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-09-30T10:00:00",
@@ -3708,15 +3268,15 @@
       "longitude": -80.850001
     },
     {
-      "id": "73737cfdee37",
-      "title": "Blowing Rock School Fall Festival Celebrates Community Resilience",
-      "date": "2026-10-01T10:00:00",
-      "location": "Boone, NC",
+      "id": "a2b34782870e",
+      "title": "The Midnight: Time Machines",
+      "date": "2026-10-01T00:00:00",
+      "location": "The Orange Peel, Asheville, NC",
       "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/blowing-rock-school-fall-festival-celebrates-community-resilience.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/the-midnight-time-machines/210001372997428",
+      "latitude": 35.594799,
+      "longitude": -82.557198
     },
     {
       "id": "1ff2f2c9d328",
@@ -3895,17 +3455,6 @@
       "longitude": -82.56575
     },
     {
-      "id": "d20f5c2f0a01",
-      "title": "Whales in Asheville",
-      "date": "2026-10-03T00:00:00",
-      "location": "Rabbit Hole, Rabbit Hole, Asheville, NC, United States, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/whales-in-asheville/3300030366506842",
-      "latitude": 35.595058,
-      "longitude": -82.551483
-    },
-    {
       "id": "f82d568a82e0",
       "title": "Oct. 3 - Rocky Horror Themed Bingo Fundraiser for Babies Need Bottoms",
       "date": "2026-10-03T00:00:00",
@@ -3915,6 +3464,17 @@
       "url": "https://allevents.in/asheville/oct-3-rocky-horror-themed-bingo-fundraiser-for-babies-need-bottoms/200030598983207",
       "latitude": 35.59053,
       "longitude": -82.531433
+    },
+    {
+      "id": "d20f5c2f0a01",
+      "title": "Whales in Asheville",
+      "date": "2026-10-03T00:00:00",
+      "location": "Rabbit Hole, Rabbit Hole, Asheville, NC, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/whales-in-asheville/3300030366506842",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "3776714146de",
@@ -3948,28 +3508,6 @@
       "url": "https://www.stayblueridge.com/event/High-Country-Honey-Festival/1394",
       "latitude": 36.4458,
       "longitude": -81.4264
-    },
-    {
-      "id": "998e8db64bbe",
-      "title": "After a Helene Hiatus, Banner Elk\u2019s Woolly Worm Festival Returns Oct. 18-19",
-      "date": "2026-10-03T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/after-a-helene-hiatus-banner-elks-woolly-worm-festival-returns-oct-18-19.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "1f20bcec63b1",
-      "title": "Dia Latino at the King Street Farmer\u2019s Market and the Upcoming Winter Market!",
-      "date": "2026-10-03T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/dia-latino-at-the-king-street-farmers-market-and-the-upcoming-winter-market.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "cb4495565d63",
@@ -4060,28 +3598,6 @@
       "longitude": -82.564362
     },
     {
-      "id": "a996f5683900",
-      "title": "Glendale Springs Inn & Restaurant Fall for the Arts Dinner",
-      "date": "2026-10-04T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/glendale-springs-inn-restaurant-fall-for-the-arts-dinner/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "cbd8e4649214",
-      "title": "AppleFEST at the Watauga County Farmers\u2019 Market \u2013 Saturday, October 4th",
-      "date": "2026-10-04T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/applefest-at-the-watauga-county-farmers-market-saturday-october-4th.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "465031d3eb4f",
       "title": "Counting Butterflies as They Flutter by (Doughton Park - Milepost 238.5)",
       "date": "2026-10-04T10:00:00",
@@ -4148,8 +3664,8 @@
       "longitude": -81.6752
     },
     {
-      "id": "62506727eac7",
-      "title": "Appalachian Road Show",
+      "id": "66d800105741",
+      "title": "Appalachian Road Show & Sam Bush Band",
       "date": "2026-10-04T19:00:00",
       "location": "Appalachian Theatre, 559 W King St, Boone, NC",
       "description": "",
@@ -4225,15 +3741,15 @@
       "longitude": -81.8462718
     },
     {
-      "id": "f1409026f040",
-      "title": "Venardos Circus - Asheville, NC",
+      "id": "86c8a4b444e2",
+      "title": "Theo Katzman in Asheville",
       "date": "2026-10-08T00:00:00",
-      "location": "800 Brevard Rd, Asheville, NC 28806-0052, United States, 800 Brevard Rd, Asheville, NC 28806-0052, United States, Ashevi",
+      "location": "Asheville Music Hall, Asheville Music Hall, Asheville, NC, United States, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/venardos-circus-asheville-nc/200030540615835",
-      "latitude": 35.529419,
-      "longitude": -82.60302
+      "url": "https://allevents.in/asheville/theo-katzman-in-asheville/3300030168673317",
+      "latitude": 35.595058,
+      "longitude": -82.551483
     },
     {
       "id": "eb492e254c64",
@@ -4278,6 +3794,17 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-10-08/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "f4c09e83528d",
+      "title": "JJ Grey &amp; Mofro - Top of The World Tour",
+      "date": "2026-10-09T00:00:00",
+      "location": "Harrah's Cherokee Center - Asheville, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/jj-grey-and-mofro-top-of-the-world-tour/210003288717749",
+      "latitude": 35.597469,
+      "longitude": -82.55529
     },
     {
       "id": "466d182918b7",
@@ -4360,7 +3887,7 @@
       "id": "e1185b91e8a5",
       "title": "5th Lovely Asheville Annual Fall Festival (touch pic to play video)",
       "date": "2026-10-10T00:00:00",
-      "location": "Downtown Asheville, 1 Pack square,Asheville,NC,United States, Asheville, NC",
+      "location": "Downtown Asheville, 1 Pack square,Asheville, North Carolina, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
       "url": "https://allevents.in/asheville/5th-lovely-asheville-annual-fall-festival-touch-pic-to-play-video/200029856664711",
@@ -4368,13 +3895,13 @@
       "longitude": -82.553307
     },
     {
-      "id": "ea446eee4253",
-      "title": "1st Annual Blue Ridge Ball: WNC Artist &amp; Musician Benefit Night",
+      "id": "7f3ff01a01a1",
+      "title": "Annual Blue Ridge Ball: WNC Artist &amp; Musician Benefit Night",
       "date": "2026-10-10T00:00:00",
       "location": "Blue Star Gallery, 867 Haywood Road, Asheville, NC",
       "description": "",
       "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/1st-annual-blue-ridge-ball-wnc-artist-and-musician-benefit-night/100001999214944717",
+      "url": "https://allevents.in/asheville/annual-blue-ridge-ball-wnc-artist-and-musician-benefit-night/100001999214944717",
       "latitude": 35.580704,
       "longitude": -82.597603
     },
@@ -4654,6 +4181,28 @@
       "longitude": -82.550293
     },
     {
+      "id": "a8f0d9677a3d",
+      "title": "Foundation Skatepark Benefit Show with Voivod &amp; Bat All Hell + shr3d + crust",
+      "date": "2026-10-17T00:00:00",
+      "location": "The Orange Peel, 101 Biltmore Ave, Asheville, NC 28801-3640, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/foundation-skatepark-benefit-show-with-voivod-and-bat-all-hell-shr3d-crust/200030550386957",
+      "latitude": 35.591415,
+      "longitude": -82.551147
+    },
+    {
+      "id": "21cd3eda468b",
+      "title": "Oct. 17th - Asheville Drag \u201cBOO-runch\u201d Fundraiser for Open Hearts Art Center",
+      "date": "2026-10-17T00:00:00",
+      "location": "Banks Ave., 15 Banks Ave, Asheville, NC 28801-4017, United States, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/oct-17th-asheville-drag-boo-runch-fundraiser-for-open-hearts-art-center/200030674997859",
+      "latitude": 35.589211,
+      "longitude": -82.553818
+    },
+    {
       "id": "a96b7831099e",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-17T10:00:00",
@@ -4709,39 +4258,6 @@
       "longitude": -81.814
     },
     {
-      "id": "58ca39092f56",
-      "title": "GARRISON STARR SUNDAYS ON THE RIVER IN OLIVETTE",
-      "date": "2026-10-18T00:00:00",
-      "location": "OLIVETTE RIVERSIDE PAVILION, Olivette Riverside Pavilion 1069 Olivette Road, Asheville, NC 28804, ASHEVILLE, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/garrison-starr-sundays-on-the-river-in-olivette/100001980675823707",
-      "latitude": 35.650612,
-      "longitude": -82.621712
-    },
-    {
-      "id": "c84fcd2eb7e1",
-      "title": "The Original Creations of 142 Regional Craftspeople Will Be on Display at the Valle Country Fair Saturday, October 18, 2025",
-      "date": "2026-10-18T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/the-original-creations-of-142-regional-craftspeople-will-be-on-display-at-the-valle-country-fair-saturday-october-18-2025.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "f6c56775a99a",
-      "title": "The 47th Annual VALLE COUNTY FAIR Scheduled for October 18, 2025",
-      "date": "2026-10-18T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/valle-crucis/the-47th-annual-valle-county-fair-scheduled-for-october-18-2025.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "9b115ef43b02",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-18T10:00:00",
@@ -4795,6 +4311,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.418721,
       "longitude": -81.146435
+    },
+    {
+      "id": "2c98b596ab34",
+      "title": "Railroad Earth at The Orange Peel",
+      "date": "2026-10-20T00:00:00",
+      "location": "The Orange Peel, 101 Biltmore ave,Asheville, North Carolina, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/railroad-earth-at-the-orange-peel/200030447963100",
+      "latitude": 35.591415,
+      "longitude": -82.551147
     },
     {
       "id": "8325bcfc2e34",
@@ -4916,17 +4443,6 @@
       "url": "https://allevents.in/asheville/asheville-halloween-bar-crawl/100001952207137099",
       "latitude": 35.588284,
       "longitude": -82.553627
-    },
-    {
-      "id": "111ab5b87ca3",
-      "title": "Do The Halloween Pub Crawl in Asheville!",
-      "date": "2026-10-24T00:00:00",
-      "location": "Pillar Rooftop Bar, 309 College Street, Asheville, NC",
-      "description": "",
-      "source": "AllEvents Asheville",
-      "url": "https://allevents.in/asheville/do-the-halloween-pub-crawl-in-asheville/100001991742445270",
-      "latitude": 35.597012,
-      "longitude": -82.546196
     },
     {
       "id": "bde77b34d368",
@@ -5083,17 +4599,6 @@
       "longitude": -82.551483
     },
     {
-      "id": "bdf6ea193938",
-      "title": "This Year Challenge Your Ski and Snowboarding Buddies to Some Racing This Winter",
-      "date": "2026-10-29T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/sports/this-year-challenge-your-ski-and-snowboarding-buddies-to-some-racing-this-winter.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "ed4fa3eea0e9",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-29T10:00:00",
@@ -5114,6 +4619,17 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-10-29/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "81f861c509f5",
+      "title": "Bitch Cabal feat. Wednesday &amp; Mannequin Pussy",
+      "date": "2026-10-30T00:00:00",
+      "location": "Hellbenders by The Orange Peel, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/bitch-cabal-feat-wednesday-and-mannequin-pussy/210003242001340",
+      "latitude": 35.594799,
+      "longitude": -82.557198
     },
     {
       "id": "f8aa584ee130",
@@ -5158,6 +4674,17 @@
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-10-30/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "05e834c1f3f3",
+      "title": "The Halloween Bar Crawl- Asheville",
+      "date": "2026-10-31T00:00:00",
+      "location": "Hi-Wire Brewing, 197 Hilliard Ave, Asheville, NC",
+      "description": "",
+      "source": "AllEvents Asheville",
+      "url": "https://allevents.in/asheville/the-halloween-bar-crawl-asheville/100001583893310529",
+      "latitude": 35.591423,
+      "longitude": -82.555962
     },
     {
       "id": "495305dea5a5",
@@ -5424,17 +4951,6 @@
       "longitude": -81.6752
     },
     {
-      "id": "10c94070b442",
-      "title": "Mountainfilm on Tour Returns to Lees-McRae for High Country Film and Speaker Series 2025\u201326 on Feb. 21 \u2013 Discounted Tickets Available Now",
-      "date": "2026-12-04T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/mountainfilm-on-tour-returns-to-lees-mcrae-for-high-country-film-and-speaker-series-2025-26-on-feb-21-discounted-tickets-available-now.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "938bc828efe0",
       "title": "Park Vista Bourbon Tastings",
       "date": "2027-04-26T15:30:00",
@@ -5510,28 +5026,6 @@
       "url": "https://www.apptheatre.org/events-and-tickets/world-cup-26-watch-party",
       "latitude": 36.2157,
       "longitude": -81.6752
-    },
-    {
-      "id": "2e8141ccff35",
-      "title": "\u2018Local Love\u2019 Lineup Revealed for FloydFest 26~Daydream (July 22-26, 2026)",
-      "date": "2027-07-22T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/events/local-love-lineup-revealed-for-floydfest-26daydream-july-22-26-2026.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "dbfb3340021f",
-      "title": "Announcing FloydFest 26~Daydream, July 22-26, 2026; Tedeschi Trucks Band, My Morning Jacket, Stephen Wilson Jr., Lukas Nelson to Headline \u2013 Tickets on Sale Now with \u2018Early-Bird\u2019 Pricing",
-      "date": "2027-07-22T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/entertainment/announcing-floydfest-26daydream-july-22-26-2026-tedeschi-trucks-band-my-morning-jacket-stephen-wilson-jr-lukas-nelson-to-headline-tickets-on-sale-now.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "a035532115a3",
@@ -5653,10 +5147,32 @@
       "url": "https://www.apptheatre.org/events-and-tickets/no-place-for-football",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "76442fe7e91f",
+      "title": "Aida",
+      "date": "2027-08-09T13:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/aida-encore",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "ab21fc6533ca",
+      "title": "Hermeto Pascoal Tribute Band",
+      "date": "2027-08-09T17:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/hermeto-pascoal-tribute-hcjs26",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-09-07T16:14:22.813145",
-  "total_events": 514,
+  "last_updated": "2026-09-09T14:57:15.736683",
+  "total_events": 470,
   "sources": [
     "Manual Events",
     "High Country Host",
