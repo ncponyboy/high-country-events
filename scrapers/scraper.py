@@ -1679,7 +1679,7 @@ def write_ics(events: List[Dict], path: str) -> None:
 
     lines.append("END:VCALENDAR")
 
-    with open(path, "w", newline="\r\n") as f:
+    with open(path, "w", newline="") as f:
         f.write("\r\n".join(lines) + "\r\n")
 
 
