@@ -27,6 +27,7 @@ GEEKFLARE_API_KEY = os.environ.get("GEEKFLARE_API_KEY", "")
 NPS_API_KEY = os.environ.get("NPS_API_KEY", "")
 
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "high_country_events.json")
+ICS_OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "high_country_events.ics")
 MANUAL_EVENTS_FILE = os.path.join(os.path.dirname(__file__), "..", "manual_events.json")
 
 
@@ -1611,6 +1612,78 @@ async def scrape_manual_events(session: aiohttp.ClientSession) -> List[Dict]:
 
 
 # ─────────────────────────────────────────────
+# iCalendar (.ics) export
+# ─────────────────────────────────────────────
+DEFAULT_EVENT_DURATION = timedelta(hours=2)
+
+
+def _ics_escape(text: str) -> str:
+    text = text or ""
+    text = text.replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,")
+    text = text.replace("\r\n", "\\n").replace("\n", "\\n")
+    return text
+
+
+def _ics_fold(line: str) -> str:
+    # RFC 5545: lines longer than 75 octets get folded with a leading space.
+    if len(line) <= 75:
+        return line
+    parts = [line[:75]]
+    rest = line[75:]
+    while rest:
+        parts.append(" " + rest[:74])
+        rest = rest[74:]
+    return "\r\n".join(parts)
+
+
+def write_ics(events: List[Dict], path: str) -> None:
+    now_stamp = datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
+    lines = [
+        "BEGIN:VCALENDAR",
+        "VERSION:2.0",
+        "PRODID:-//High Country Events//scraper.py//EN",
+        "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+        "X-WR-CALNAME:High Country Events",
+    ]
+    for event in events:
+        try:
+            start = datetime.fromisoformat(event["date"])
+        except (KeyError, ValueError):
+            continue
+        end = start + DEFAULT_EVENT_DURATION
+        summary = _ics_escape(event.get("title", "Untitled Event"))
+        location = _ics_escape(event.get("location", ""))
+        source = event.get("source", "")
+        url = event.get("url", "")
+        description_bits = [event.get("description", "")]
+        if source:
+            description_bits.append(f"Source: {source}")
+        if url:
+            description_bits.append(url)
+        description = _ics_escape("\n".join(b for b in description_bits if b))
+
+        lines.append("BEGIN:VEVENT")
+        lines.append(f"UID:{event.get('id') or create_event_id(summary, event['date'], source)}@highcountryevents")
+        lines.append(f"DTSTAMP:{now_stamp}")
+        lines.append(f"DTSTART:{start.strftime('%Y%m%dT%H%M%S')}")
+        lines.append(f"DTEND:{end.strftime('%Y%m%dT%H%M%S')}")
+        lines.append(_ics_fold(f"SUMMARY:{summary}"))
+        if location:
+            lines.append(_ics_fold(f"LOCATION:{location}"))
+        if description:
+            lines.append(_ics_fold(f"DESCRIPTION:{description}"))
+        if url:
+            lines.append(_ics_fold(f"URL:{url}"))
+        lines.append("END:VEVENT")
+
+    lines.append("END:VCALENDAR")
+
+    with open(path, "w", newline="\r\n") as f:
+        f.write("\r\n".join(lines) + "\r\n")
+
+
+# ─────────────────────────────────────────────
 # Main
 # ─────────────────────────────────────────────
 async def main():
@@ -1676,7 +1749,10 @@ async def main():
     with open(OUTPUT_FILE, "w") as f:
         json.dump(output, f, indent=2)
 
+    write_ics(all_events, ICS_OUTPUT_FILE)
+
     print(f"\n✓ Saved {len(all_events)} events to high_country_events.json")
+    print(f"✓ Saved {len(all_events)} events to high_country_events.ics")
     print("=" * 60)
 
 
