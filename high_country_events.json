@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "e378e534b67d",
-      "title": "Polly Wood's Ordinary Open House (Peaks of Otter - Milepost 86)",
-      "date": "2026-09-19T13:00:00",
-      "location": "Polly Wood's Ordinary can be accessed from the Peaks of Otter Picnic Area or the Abbott Lake Trail located behind the Peaks of Otter Lodge.",
-      "description": "Step into history with a ranger as we unveil the fascinating story of the Wood Family, their Ordinary, and tourism at Peaks of Otter! Stop in and chat with the ranger, learn about the family, and play",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.44365,
-      "longitude": -79.599822
-    },
-    {
       "id": "c22271df1074",
       "title": "More than Mountains: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
       "date": "2026-09-19T13:30:00",
@@ -318,6 +307,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.418721,
       "longitude": -81.146435
+    },
+    {
+      "id": "d8642cac70db",
+      "title": "Cirque Us presents \"Stories\"",
+      "date": "2026-09-22T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/cirque-us-presents-stories/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "557d29d21b07",
@@ -648,6 +648,17 @@
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-09-25/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "ff63c7155b64",
+      "title": "Art on the Mountain",
+      "date": "2026-09-26T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/art-on-the-mountain-2/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "b28e23458281",
@@ -1145,6 +1156,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "f76b474254da",
+      "title": "580 WKSK Live Old Time and Bluegrass Show: Crooked Road Ramblers",
+      "date": "2026-10-03T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-show-the-dollar-brothers/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "998e8db64bbe",
       "title": "After a Helene Hiatus, Banner Elk\u2019s Woolly Worm Festival Returns Oct. 18-19",
       "date": "2026-10-03T10:00:00",
@@ -1365,6 +1387,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "9205e49d0187",
+      "title": "Missoula Children's Theatre Residency",
+      "date": "2026-10-05T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/missoula-childrens-theatre-residency/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "50e56b626716",
       "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
       "date": "2026-10-05T10:00:00",
@@ -1475,6 +1508,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "466d182918b7",
+      "title": "Downtown West Jefferson Gallery Crawl",
+      "date": "2026-10-09T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/downtown-west-jefferson-gallery-crawl-4/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "ce21e4822d34",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-09T10:00:00",
@@ -1528,6 +1572,17 @@
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-10-09/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "4a05536f5ca6",
+      "title": "Missoula Children's Theatre presents \"The Little Mermaid\"",
+      "date": "2026-10-10T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/missoula-childrens-theatre-presents-the-little-mermaid/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "9d4ec4781d0e",
@@ -1693,6 +1748,17 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-10-15/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "c41061616993",
+      "title": "Jeff Little Trio",
+      "date": "2026-10-16T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/jeff-little-trio-2/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "4100e68a610a",
@@ -1915,6 +1981,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "4d62f69f8baa",
+      "title": "Charles Ellis Trio",
+      "date": "2026-10-23T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/charlie-ellis-trio/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "05aaf47621b4",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-23T10:00:00",
@@ -1968,6 +2045,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/pressley-laton-album-release",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "bde77b34d368",
+      "title": "Wordkeepers",
+      "date": "2026-10-24T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/wordkeeper3/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "b32ead996c5c",
@@ -2245,6 +2333,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "7247577feb6d",
+      "title": "Ralph Stanley II & the Clinch Mountain Boys",
+      "date": "2026-11-06T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/ralph-stanley-ii-the-clinch-mountain-boys/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "b03d569fbfc7",
       "title": "The Art of Walking",
       "date": "2026-11-06T15:00:00",
@@ -2344,6 +2443,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "faf63e2d9f0a",
+      "title": "Holiday Makers Market",
+      "date": "2026-11-21T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/mkt/",
+      "latitude": 36.4332,
+      "longitude": -81.499
+    },
+    {
       "id": "4bb2536292ed",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-11-26T19:00:00",
@@ -2430,6 +2540,17 @@
       "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-at-the-turchin/2026-12-04/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "e789cd106bb0",
+      "title": "580 WKSK Live Old Time and Bluegrass Show: Gap Civil",
+      "date": "2026-12-12T10:00:00",
+      "location": "Ashe County, NC",
+      "description": "",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/wkskgap/",
+      "latitude": 36.4332,
+      "longitude": -81.499
     },
     {
       "id": "2e8141ccff35",
@@ -2619,8 +2740,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-09-19T14:09:44.666276",
-  "total_events": 238,
+  "last_updated": "2026-09-19T15:19:18.256109",
+  "total_events": 249,
   "sources": [
     "Manual Events",
     "High Country Host",
