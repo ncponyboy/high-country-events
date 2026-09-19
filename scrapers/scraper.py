@@ -49,6 +49,19 @@ def create_event_id(title: str, date: str, source: str) -> str:
     return hashlib.md5(f"{title}_{date}_{source}".encode()).hexdigest()[:12]
 
 
+# Some WordPress "The Events Calendar" ICS exports leak bare month-navigation
+# links (e.g. a stray "October 2026" VEVENT pointing at the generic /events/
+# page) instead of a real event. No genuine event is ever titled just this.
+BARE_MONTH_YEAR_RE = re.compile(
+    r'^(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}$',
+    re.IGNORECASE,
+)
+
+
+def is_junk_title(title: str) -> bool:
+    return bool(BARE_MONTH_YEAR_RE.match(title.strip()))
+
+
 def parse_date_time(month: str, day: str, year: int = None, time_str: str = "7pm") -> Optional[datetime]:
     try:
         if year is None:
@@ -248,7 +261,7 @@ def parse_ical_feed(raw_ical: str, source_name: str, default_location: str,
         if event_date < cutoff:
             continue
         title = clean_text(summary)
-        if not title:
+        if not title or is_junk_title(title):
             continue
         key = f"{title.lower()}_{event_date.date()}"
         if key in seen:
@@ -1721,6 +1734,12 @@ async def main():
                 print(f"  → {source_name}: {len(events)} events")
             except Exception as e:
                 log_error(f"  ✗ {source_name} failed: {e}")
+
+    junk_count = len(all_events)
+    all_events = [e for e in all_events if not is_junk_title(e["title"])]
+    junk_removed = junk_count - len(all_events)
+    if junk_removed:
+        print(f"  ✓ Removed {junk_removed} junk/navigation-link titles (e.g. bare 'Month Year')")
 
     print("\nDeduplication...")
     original_count = len(all_events)
