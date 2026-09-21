@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "17b3f880e16f",
-      "title": "Alleghany Jubilee",
-      "date": "2026-09-21T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-09-21/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "549ca4f25406",
-      "title": "Old Time Appalachian Music Acoustic Jam",
-      "date": "2026-09-21T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/old-time-appalachian-music-acoustic-jam/2026-09-21/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "d8642cac70db",
       "title": "Cirque Us presents \"Stories\"",
       "date": "2026-09-22T10:00:00",
@@ -617,6 +595,17 @@
       "longitude": -80.405357
     },
     {
+      "id": "69622bac3ce9",
+      "title": "The View from Here: Ranger-Led Talks and Activities (Buck Spring Gap Overlook-MP 407.6)",
+      "date": "2026-09-25T13:30:00",
+      "location": "This talk will be at the Buck Spring Overlook, Milepost 407.6. In high winds or inclement weather, the talk will be canceled.",
+      "description": "The Mt Pisgah area has a lot to offer, from bear habitat to the birth of American forestry, from hiking trails to former hunting lodges. And since variety is the spice of life, we want to share it all",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
       "id": "8f552fb8437b",
       "title": "The Ramblin\u2019 Bald: Guided High Elevation Hike (Craggy Gardens Visitor Center - Milepost 364)",
       "date": "2026-09-25T13:45:00",
@@ -1055,6 +1044,17 @@
       "url": "https://grandfather.com/event/sunset-at-the-swinging-bridge/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "36f9fd574acd",
+      "title": "Toy Sheep Microcinema: Three Rivers",
+      "date": "2026-10-02T19:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/tsm-three-rivers",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "7946b80ddb64",
@@ -2663,7 +2663,7 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-09-21T16:45:50.480641",
+  "last_updated": "2026-09-21T20:12:51.655255",
   "total_events": 242,
   "sources": [
     "Manual Events",
