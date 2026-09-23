@@ -1,72 +1,6 @@
 {
   "events": [
     {
-      "id": "2ea3a1f51d4e",
-      "title": "Dolly Film Fest: Steel Magnolias",
-      "date": "2026-09-22T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/dolly-film-fest-steel-magnolias",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "9fea087ee6a8",
-      "title": "CANCELLED - Antlers & Acorns: Songwriters Festival",
-      "date": "2026-09-22T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/aa-songs-stories26",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "a9096eb9b63f",
-      "title": "A Carolina Snowbelle Christmas",
-      "date": "2026-09-22T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christmas-2026",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "96bf79db3ea9",
-      "title": "A Christmas Carol by Candlelight",
-      "date": "2026-09-22T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-m5r7a",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "70653759a2f3",
-      "title": "Boone Shape Note Singing",
-      "date": "2026-09-22T18:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/boone-shape-note-singing/2026-09-22/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "18aec12b6e34",
-      "title": "Cirque Us presents \"Stories\"",
-      "date": "2026-09-22T19:30:00",
-      "location": "Ashe Civic Center, 962 Mt Jefferson Rd, West Jefferson, NC, 28694, United States",
-      "description": "Tuesday, September 22, 7:30 PMAshe Civic CenterTickets: $24 Adult, $7.50 StudentFamily Discount: Buy an Adult ticket and the Student ticket(s) are free! Did you know? When you purchase a ticket to the",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/cirque-us-presents-stories/",
-      "latitude": 36.4013,
-      "longitude": -81.4874
-    },
-    {
       "id": "d00d94846b21",
       "title": "Welcoming Fall: The Autumnal Equinox (Peaks of Otter - Milepost 86)",
       "date": "2026-09-23T09:30:00",
@@ -87,17 +21,6 @@
       "url": "https://www.hcpress.com/announcements/hcc-a-night-at-chetola-is-a-hit.html",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "8de15588580b",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-09-23T10:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
     },
     {
       "id": "0b454063ec21",
@@ -131,6 +54,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 35.854162,
       "longitude": -82.051422
+    },
+    {
+      "id": "38611f142378",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-23T12:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "ca368dac45df",
@@ -637,6 +571,39 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.445606,
       "longitude": -79.609958
+    },
+    {
+      "id": "217860568ec4",
+      "title": "Blue Ridge Parkway Volunteer BioBlitz (Asheville Visitor Center - Blue Ridge Parkway Milepost 384)",
+      "date": "2026-09-26T10:00:00",
+      "location": "Address is 195 Hemphill Knob Road, Asheville NC 28803",
+      "description": "The Blue Ridge Parkway will host a Volunteer BioBlitz on Saturday, September 26, 2026 from 10:00 am to noon starting at the Blue Ridge Parkway Visitor Center in Asheville, NC, using the iNaturalist ap",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 35.56583,
+      "longitude": -82.486366
+    },
+    {
+      "id": "ae5e76fe6458",
+      "title": "Blue Ridge Parkway Volunteer BioBlitz (Craggy Gardens Visitor Center - Blue Ridge Parkway Milepost 364)",
+      "date": "2026-09-26T10:00:00",
+      "location": "The Craggy Gardens Visitor Center is at Milepost 364.5 on the Blue Ridge Parkway between Asheville, NC and Mount Mitchell State Park.",
+      "description": "The Blue Ridge Parkway will host a Volunteer BioBlitz on Saturday, September 26, 2026 from 10:00 am to noon starting at the Craggy Gardens Visitor Center, using the iNaturalist app to document biodive",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 35.700297,
+      "longitude": -82.379646
+    },
+    {
+      "id": "1d2df9a553aa",
+      "title": "Blue Ridge Parkway Volunteer BioBlitz (Mt. Pisgah Area at Buck Springs Lodge Trailhead- Blue Ridge Parkway Milepost 407.7)",
+      "date": "2026-09-26T10:00:00",
+      "location": "Meet at the Buck Spring Overlook, at Milepost 407.6. It\u2019s the first overlook after you turn off the main Parkway, heading in the direction of the Mt Pisgah Parking Area.",
+      "description": "The Blue Ridge Parkway will host a Volunteer BioBlitz on Saturday, September 26, 2026 from 10:00 am to noon starting at the Buckspring Lodge Trailhead in teh Mt. Pisgah Area along the Blue Ridge Parkw",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 35.854162,
+      "longitude": -82.051422
     },
     {
       "id": "1080438f5289",
@@ -2674,8 +2641,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-09-22T19:25:04.070174",
-  "total_events": 243,
+  "last_updated": "2026-09-23T00:14:17.441867",
+  "total_events": 240,
   "sources": [
     "Manual Events",
     "High Country Host",
