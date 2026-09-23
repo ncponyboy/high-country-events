@@ -1,72 +1,6 @@
 {
   "events": [
     {
-      "id": "d00d94846b21",
-      "title": "Welcoming Fall: The Autumnal Equinox (Peaks of Otter - Milepost 86)",
-      "date": "2026-09-23T09:30:00",
-      "location": "Located in the breezeway outside the Peaks of Otter Visitor Center at Milepost 86 (85919 Blue Ridge Parkway, Bedford, VA 24523).",
-      "description": "The Autumnal Equinox in the Northern Hemisphere occurs on Wednesday, September 23 and marks the first day of the Fall season. Join a Ranger at Peaks of Otter to gain celestial insight into the changin",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.445607,
-      "longitude": -79.609958
-    },
-    {
-      "id": "8abe7556c39f",
-      "title": "HCC A Night at Chetola is a hit!",
-      "date": "2026-09-23T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/hcc-a-night-at-chetola-is-a-hit.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "0b454063ec21",
-      "title": "From Hunters to Heroes: The Overmountain Men (Ranger Talk - Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-09-23T10:30:00",
-      "location": "The Museum of North Carolina Minerals is located at Blue Ridge Parkway milepost 331 near Spruce Pine, NC. Address: 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "The ripple effect from our choices and actions may take weeks, months, even years to become fully apparent. Back in 1780, local militia from \u201cover the mountains\u201d in North Carolina, Tennessee, and Virg",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
-      "id": "2521902381d8",
-      "title": "The Ramblin\u2019 Bald: Guided High Elevation Hike (Craggy Gardens Visitor Center - Milepost 364)",
-      "date": "2026-09-23T10:45:00",
-      "location": "Meet in front of the Craggy Gardens Visitor Center.",
-      "description": "Come join a ranger for a guided hike in our changeable mountains! The land is always in flux, whether it\u2019s seasonal flowers, deep geological time, or varied land use throughout human history. While hi",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "eb499234a825",
-      "title": "Building Appalachia: A Geologic Story (Ranger Talk \u2013 Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-09-23T11:30:00",
-      "location": "Museum of North Carolina Minerals (Parkway milepost 331) - 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "Formed over the eons by titanic forces within the earth, the mountains of Appalachia are among the most majestic mountains on earth. Stop by the Museum of North Carolina Minerals to enjoy a 20-minute ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
-      "id": "38611f142378",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-09-23T12:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
-    },
-    {
       "id": "ca368dac45df",
       "title": "More than Mountains: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
       "date": "2026-09-23T13:30:00",
@@ -518,6 +452,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "461b28467c0e",
+      "title": "2nd Anniversary of Hurricane Helene: A Community Concert & Event",
+      "date": "2026-09-25T18:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/2nd-anniversary-of-hurricane-helene-a-community-concert-event/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "8b29ea2df1e5",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-09-25T19:00:00",
@@ -562,17 +507,6 @@
       "longitude": -81.146435
     },
     {
-      "id": "9e792ada1bb8",
-      "title": "Become a Citizen Scientist on the Trails (Peaks of Otter - Milepost 86)",
-      "date": "2026-09-26T10:00:00",
-      "location": "Located in the breezeway outside the Peaks of Otter Visitor Center at Milepost 86 (85919 Blue Ridge Parkway, Bedford, VA 24523).",
-      "description": "Heading out on a trail to recreate for National Public Lands Day? Stop by the breezeway at the Peaks of Otter Visitor Center to learn about becoming a Citizen Scientist before you head out. We can als",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.445606,
-      "longitude": -79.609958
-    },
-    {
       "id": "217860568ec4",
       "title": "Blue Ridge Parkway Volunteer BioBlitz (Asheville Visitor Center - Blue Ridge Parkway Milepost 384)",
       "date": "2026-09-26T10:00:00",
@@ -600,6 +534,17 @@
       "date": "2026-09-26T10:00:00",
       "location": "Meet at the Buck Spring Overlook, at Milepost 407.6. It\u2019s the first overlook after you turn off the main Parkway, heading in the direction of the Mt Pisgah Parking Area.",
       "description": "The Blue Ridge Parkway will host a Volunteer BioBlitz on Saturday, September 26, 2026 from 10:00 am to noon starting at the Buckspring Lodge Trailhead in teh Mt. Pisgah Area along the Blue Ridge Parkw",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 35.854162,
+      "longitude": -82.051422
+    },
+    {
+      "id": "4615ab33f8f6",
+      "title": "Blue Ridge Parkway Volunteer BioBlitz (Museum of North Carolina Minerals -Blue Ridge Parkway Milepost 331)",
+      "date": "2026-09-26T10:00:00",
+      "location": "Museum of North Carolina Minerals (Parkway milepost 331) - 79 Parkway Maintenance Road Spruce Pine, NC",
+      "description": "The Blue Ridge Parkway will host a Volunteer BioBlitz on Saturday, September 26, 2026 from 10:00 am to noon starting at the Museum of North Carolina Minerals, using the iNaturalist app to document bio",
       "source": "NPS Blue Ridge Pkwy",
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 35.854162,
@@ -672,6 +617,17 @@
       "longitude": -81.692883
     },
     {
+      "id": "94d0334f5bd7",
+      "title": "CANCELLED - Antlers & Acorns: Songwriters Festival",
+      "date": "2026-09-26T14:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/aa-songs-stories26",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "275dbf56f5d4",
       "title": "Songwriter Workshop with Beth Nielsen Chapman",
       "date": "2026-09-26T14:00:00",
@@ -679,6 +635,28 @@
       "description": "",
       "source": "Appalachian Theatre",
       "url": "https://www.apptheatre.org/events-and-tickets/songwriter-workshop-bnc",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "f0320b10a4b9",
+      "title": "A Carolina Snowbelle Christmas",
+      "date": "2026-09-26T14:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christmas-2026",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "631036944a52",
+      "title": "A Christmas Carol by Candlelight",
+      "date": "2026-09-26T14:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-m5r7a",
       "latitude": 36.2157,
       "longitude": -81.6752
     },
@@ -2465,17 +2443,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "7b15602d05ab",
-      "title": "National Treasure",
-      "date": "2027-07-31T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/national-treasure",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "781a8613c067",
       "title": "Disney\u2019s The Little Mermaid",
       "date": "2027-08-01T14:00:00",
@@ -2641,8 +2608,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-09-23T00:14:17.441867",
-  "total_events": 240,
+  "last_updated": "2026-09-23T15:16:39.435102",
+  "total_events": 237,
   "sources": [
     "Manual Events",
     "High Country Host",
