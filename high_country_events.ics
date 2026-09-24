@@ -5,36 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:High Country Events
 BEGIN:VEVENT
-UID:676bd77f07e9@highcountryevents
-DTSTAMP:20260924T154159Z
-DTSTART:20260924T144500
-DTEND:20260924T164500
-SUMMARY:History\, Naturally: Ranger-Led Talks and Activities (Blue Ridge Pa
- rkway Visitor Center - Milepost 384)
-LOCATION:This program will be inside the visitor center. We are at Milepost
-  384\, and our "normal" street address is 195 Hemphill Knob Road\, Ashevil
- le NC 28803.
-DESCRIPTION:The Blue Ridge mountains have a long history\, both when it com
- es to nature\, and when it comes to people. And park rangers get excited a
- bout all of it. There’s so much to cover\, we change the topics of\nSource
- : NPS Blue Ridge Pkwy\nhttps://www.nps.gov/blri/planyourvisit/events.htm
-URL:https://www.nps.gov/blri/planyourvisit/events.htm
-END:VEVENT
-BEGIN:VEVENT
-UID:245940ca0d78@highcountryevents
-DTSTAMP:20260924T154159Z
-DTSTART:20260924T173000
-DTEND:20260924T193000
-SUMMARY:Old-Time Jam at the Reeves
-LOCATION:Blue Ridge\, NC
-DESCRIPTION:Source: Blue Ridge Music NC\nhttps://www.blueridgemusicnc.com/e
- vent/old-time-jam-at-the-reeves-2/2026-09-24/
-URL:https://www.blueridgemusicnc.com/event/old-time-jam-at-the-reeves-2/202
- 6-09-24/
-END:VEVENT
-BEGIN:VEVENT
 UID:82d7235385f6@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260924T180000
 DTEND:20260924T200000
 SUMMARY:Roots Music Revue with Leah Song of Rising Appalachia
@@ -46,7 +18,7 @@ URL:https://www.blueridgemusicnc.com/event/roots-music-revue-with-leah-song
 END:VEVENT
 BEGIN:VEVENT
 UID:e38b6d1d3c00@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260924T180000
 DTEND:20260924T200000
 SUMMARY:Song Swap with Paddle Faster
@@ -58,7 +30,7 @@ URL:https://www.blueridgemusicnc.com/event/song-swap-with-paddle-faster/202
 END:VEVENT
 BEGIN:VEVENT
 UID:d5a2977faf0d@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260924T183000
 DTEND:20260924T203000
 SUMMARY:Christian Harmony Sing – Asheville NC
@@ -70,7 +42,7 @@ URL:https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville
 END:VEVENT
 BEGIN:VEVENT
 UID:2b99b9d7a6d0@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260924T190000
 DTEND:20260924T210000
 SUMMARY:Community Jam – Crown Restaurant
@@ -82,7 +54,7 @@ URL:https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2
 END:VEVENT
 BEGIN:VEVENT
 UID:ee3f073c649d@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260924T190000
 DTEND:20260924T210000
 SUMMARY:Weekly Jam Sessions at the Jones House
@@ -94,7 +66,7 @@ URL:https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones
 END:VEVENT
 BEGIN:VEVENT
 UID:7a04c8a6cf9f@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260924T190000
 DTEND:20260924T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -109,7 +81,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:a78644655776@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T060000
 DTEND:20260925T080000
 SUMMARY:Concerts at Union Mills Learning Center
@@ -121,7 +93,7 @@ URL:https://www.blueridgemusicnc.com/event/concerts-at-union-mills/2026-09-
 END:VEVENT
 BEGIN:VEVENT
 UID:de97c1134a35@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T100000
 DTEND:20260925T120000
 SUMMARY:The Old Timey Fall Festival
@@ -133,7 +105,7 @@ URL:https://www.blueridgemusicnc.com/event/the-old-timey-fall-festival/2026
 END:VEVENT
 BEGIN:VEVENT
 UID:2af370aa64af@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T100000
 DTEND:20260925T120000
 SUMMARY:VCF 2025 – “Neighbors Helping Neighbors” Release
@@ -145,7 +117,7 @@ URL:https://www.hcpress.com/announcements/vcf-2025-neighbors-helping-neighb
 END:VEVENT
 BEGIN:VEVENT
 UID:e322acc44bf5@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T100000
 DTEND:20260925T120000
 SUMMARY:Midday Mountain Music (Blue Ridge Music Center - Milepost 213)
@@ -159,7 +131,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:22719223ff48@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T100000
 DTEND:20260925T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -173,7 +145,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:fb52e4353984@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T100000
 DTEND:20260925T120000
 SUMMARY:History\, Naturally: Ranger-Led Talks and Activities (Blue Ridge Pa
@@ -189,7 +161,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:c229b32237d8@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T103000
 DTEND:20260925T123000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -202,7 +174,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:a12ff875a587@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T103000
 DTEND:20260925T123000
 SUMMARY:From Hunters to Heroes: The Overmountain Men (Ranger Talk - Museum 
@@ -218,7 +190,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:3c9448100dd2@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T104500
 DTEND:20260925T124500
 SUMMARY:Friends of the Forests: Guided Hikes near Mt Pisgah and Buck Spring
@@ -234,7 +206,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:cbe69d4a1796@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T110000
 DTEND:20260925T130000
 SUMMARY:Agriculture in Appalachia (Humpback Rocks Visitor Center - Milepost
@@ -249,7 +221,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:c779216b60ae@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T110000
 DTEND:20260925T130000
 SUMMARY:More than Mountains: Ranger-Led Talks and Activities (Craggy Garden
@@ -266,7 +238,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:c01ccdc3cdbc@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T113000
 DTEND:20260925T133000
 SUMMARY:Building Appalachia: A Geologic Story (Ranger Talk – Museum of Nort
@@ -281,7 +253,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:c6efc154685a@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T120000
 DTEND:20260925T140000
 SUMMARY:Basketweaving Demonstrations & Ramsey Cabin Open House (Humpback Ro
@@ -297,7 +269,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:987189eb822b@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T130000
 DTEND:20260925T150000
 SUMMARY:Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)
@@ -312,7 +284,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:69622bac3ce9@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T133000
 DTEND:20260925T153000
 SUMMARY:The View from Here: Ranger-Led Talks and Activities (Buck Spring Ga
@@ -327,7 +299,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:bfd45b46fa70@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T133000
 DTEND:20260925T153000
 SUMMARY:The Wild\, the Weird\, and the Wonderful: Ranger-Led Talks and Acti
@@ -344,7 +316,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:8f552fb8437b@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T134500
 DTEND:20260925T154500
 SUMMARY:The Ramblin’ Bald: Guided High Elevation Hike (Craggy Gardens Visit
@@ -358,7 +330,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7642ef4c29@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T140000
 DTEND:20260925T160000
 SUMMARY:Find Your Zen: Forest Bathing Walk (Peaks of Otter Visitor Center -
@@ -373,7 +345,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:6d62a46a3fcf@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T173000
 DTEND:20260925T193000
 SUMMARY:Brevard Square Dance
@@ -384,7 +356,7 @@ URL:https://www.blueridgemusicnc.com/event/square-dance-brevard/2026-09-25/
 END:VEVENT
 BEGIN:VEVENT
 UID:ad7f029613c3@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T180000
 DTEND:20260925T200000
 SUMMARY:“Sit a Spell” – Traditional Music Sessions with Warren Wilson Colle
@@ -398,7 +370,7 @@ URL:https://www.blueridgemusicnc.com/event/sit-a-spell-traditional-music-se
 END:VEVENT
 BEGIN:VEVENT
 UID:461b28467c0e@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T183000
 DTEND:20260925T203000
 SUMMARY:2nd Anniversary of Hurricane Helene: A Community Concert & Event
@@ -410,7 +382,7 @@ URL:https://www.blueridgemusicnc.com/event/2nd-anniversary-of-hurricane-hel
 END:VEVENT
 BEGIN:VEVENT
 UID:9fe2d4dfb780@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T190000
 DTEND:20260925T210000
 SUMMARY:Phipps General Store Jam
@@ -422,7 +394,7 @@ URL:https://www.blueridgemusicnc.com/event/phipps-general-store-jam/2026-09
 END:VEVENT
 BEGIN:VEVENT
 UID:8b29ea2df1e5@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260925T190000
 DTEND:20260925T210000
 SUMMARY:An Evening of Comedy and Magic with Lyndy Phillips
@@ -438,7 +410,7 @@ URL:https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:ff63c7155b64@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T100000
 DTEND:20260926T120000
 SUMMARY:Art on the Mountain
@@ -449,7 +421,7 @@ URL:https://ashecountyarts.org/event/art-on-the-mountain-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:52be7720a607@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T100000
 DTEND:20260926T120000
 SUMMARY:Midday Mountain Music (Blue Ridge Music Center - Milepost 213)
@@ -463,7 +435,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:365901ee07e7@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T100000
 DTEND:20260926T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -477,7 +449,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:217860568ec4@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T100000
 DTEND:20260926T120000
 SUMMARY:Blue Ridge Parkway Volunteer BioBlitz (Asheville Visitor Center - B
@@ -491,7 +463,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:ae5e76fe6458@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T100000
 DTEND:20260926T120000
 SUMMARY:Blue Ridge Parkway Volunteer BioBlitz (Craggy Gardens Visitor Cente
@@ -506,7 +478,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:1d2df9a553aa@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T100000
 DTEND:20260926T120000
 SUMMARY:Blue Ridge Parkway Volunteer BioBlitz (Mt. Pisgah Area at Buck Spri
@@ -522,7 +494,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:4615ab33f8f6@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T100000
 DTEND:20260926T120000
 SUMMARY:Blue Ridge Parkway Volunteer BioBlitz (Museum of North Carolina Min
@@ -537,7 +509,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:54ef71ba4d3d@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T100000
 DTEND:20260926T120000
 SUMMARY:Blue Ridge Parkway Volunteer BioBlitz (Waterrock Knob Visitor Cente
@@ -552,7 +524,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:9bd58d786cbb@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T100000
 DTEND:20260926T120000
 SUMMARY:Blue Ridge Parkway Volunteer BioBlitz: Become a Citizen Scientist o
@@ -567,7 +539,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:1080438f5289@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T101500
 DTEND:20260926T121500
 SUMMARY:Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Parkway
@@ -582,7 +554,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:ca4189419072@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T103000
 DTEND:20260926T123000
 SUMMARY:Fire\, Iron\, and Tradition: Mabry Mill Blacksmith Demonstration (M
@@ -596,7 +568,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:1ca1f89225f6@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T103000
 DTEND:20260926T123000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -609,7 +581,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:126869722412@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T103000
 DTEND:20260926T123000
 SUMMARY:Building Appalachia: A Geologic Story (Ranger Talk – Museum of Nort
@@ -624,7 +596,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:2cf14bf6eee1@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T113000
 DTEND:20260926T133000
 SUMMARY:From Hunters to Heroes: The Overmountain Men (Ranger Talk - Museum 
@@ -640,7 +612,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:904fb32a0041@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T120000
 DTEND:20260926T140000
 SUMMARY:Basketweaving Demonstrations & Ramsey Cabin Open House (Humpback Ro
@@ -656,7 +628,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:a4263e69352e@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T130000
 DTEND:20260926T150000
 SUMMARY:Polly Wood's Ordinary Open House (Peaks of Otter - Milepost 86)
@@ -670,7 +642,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:6f9ea4b27fe7@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T134500
 DTEND:20260926T154500
 SUMMARY:Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Blue Ri
@@ -685,7 +657,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:94d0334f5bd7@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T140000
 DTEND:20260926T160000
 SUMMARY:CANCELLED - Antlers & Acorns: Songwriters Festival
@@ -696,7 +668,7 @@ URL:https://www.apptheatre.org/events-and-tickets/aa-songs-stories26
 END:VEVENT
 BEGIN:VEVENT
 UID:275dbf56f5d4@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T140000
 DTEND:20260926T160000
 SUMMARY:Songwriter Workshop with Beth Nielsen Chapman
@@ -707,7 +679,7 @@ URL:https://www.apptheatre.org/events-and-tickets/songwriter-workshop-bnc
 END:VEVENT
 BEGIN:VEVENT
 UID:c42d0bd447f0@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T140000
 DTEND:20260926T160000
 SUMMARY:The Rocky Horror Picture Show - with shadowcast
@@ -719,7 +691,7 @@ URL:https://www.apptheatre.org/events-and-tickets/apo-rocky-horror-st472-w2
 END:VEVENT
 BEGIN:VEVENT
 UID:f0320b10a4b9@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T140000
 DTEND:20260926T160000
 SUMMARY:A Carolina Snowbelle Christmas
@@ -731,7 +703,7 @@ URL:https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christ
 END:VEVENT
 BEGIN:VEVENT
 UID:631036944a52@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T140000
 DTEND:20260926T160000
 SUMMARY:A Christmas Carol by Candlelight
@@ -743,7 +715,7 @@ URL:https://www.apptheatre.org/events-and-tickets/candlelight-christmas-car
 END:VEVENT
 BEGIN:VEVENT
 UID:6a733a892154@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T183000
 DTEND:20260926T203000
 SUMMARY:Creatures of the Night and Bonfire Delight
@@ -757,7 +729,7 @@ URL:https://grandfather.com/event/creatures-of-night/
 END:VEVENT
 BEGIN:VEVENT
 UID:5f9319084e1c@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T183000
 DTEND:20260926T203000
 SUMMARY:Blue Ridge Parkway Jeopardy! (Peaks of Otter - Milepost 86)
@@ -772,7 +744,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:10@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T190000
 DTEND:20260926T210000
 SUMMARY:Shot Through the Heart
@@ -783,7 +755,7 @@ URL:https://saloonstudioslive.com/shows/
 END:VEVENT
 BEGIN:VEVENT
 UID:49dccf3bab37@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260926T193000
 DTEND:20260926T213000
 SUMMARY:Songwriter Collective
@@ -794,7 +766,7 @@ URL:https://www.apptheatre.org/events-and-tickets/songwriter-collective
 END:VEVENT
 BEGIN:VEVENT
 UID:375490662ee8@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260927T100000
 DTEND:20260927T120000
 SUMMARY:Counting Butterflies as They Flutter by (Doughton Park - Milepost 2
@@ -810,7 +782,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:66978d854a88@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260927T100000
 DTEND:20260927T120000
 SUMMARY:Midday Mountain Music (Blue Ridge Music Center - Milepost 213)
@@ -824,7 +796,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:ca91196e5699@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260927T100000
 DTEND:20260927T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -838,7 +810,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:e7c5cb2f8f3b@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260927T100000
 DTEND:20260927T120000
 SUMMARY:Fire\, Iron\, and Tradition: Mabry Mill Blacksmith Demonstration (M
@@ -852,7 +824,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:095821e90bcf@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260927T100000
 DTEND:20260927T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -865,7 +837,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:07a44102bcef@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260927T100000
 DTEND:20260927T120000
 SUMMARY:Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Blue Ri
@@ -880,7 +852,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:10203fbe1e91@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260927T104500
 DTEND:20260927T124500
 SUMMARY:Friends of the Forests: Guided Hikes near Mt Pisgah and Buck Spring
@@ -896,7 +868,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:77817c095ad1@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260927T110000
 DTEND:20260927T130000
 SUMMARY:Dulcimer at the Cabin (Humpback Rocks - Milepost 6)
@@ -910,7 +882,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:70e952ac18bc@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260927T113000
 DTEND:20260927T133000
 SUMMARY:Building Appalachia: A Geologic Story (Ranger Talk – Museum of Nort
@@ -925,7 +897,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:23122c8afaed@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260927T140000
 DTEND:20260927T160000
 SUMMARY:Milepost Music (Peaks of Otter - Milepost 85.6)
@@ -940,7 +912,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:9a43075bd4ea@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260928T100000
 DTEND:20260928T120000
 SUMMARY:Midday Mountain Music (Blue Ridge Music Center - Milepost 213)
@@ -954,7 +926,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:975ea8d34170@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260928T100000
 DTEND:20260928T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -968,7 +940,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:1a1e93fbfcfb@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260928T110000
 DTEND:20260928T130000
 SUMMARY:Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)
@@ -983,7 +955,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:b2e85ad5f105@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260929T100000
 DTEND:20260929T120000
 SUMMARY:VCF 2025 – Gallehers 31st Year as BBQ Bosses
@@ -995,7 +967,7 @@ URL:https://www.hcpress.com/announcements/vcf-2025-gallehers-31st-year-as-b
 END:VEVENT
 BEGIN:VEVENT
 UID:0eba870d5465@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260929T100000
 DTEND:20260929T120000
 SUMMARY:Midday Mountain Music (Blue Ridge Music Center - Milepost 213)
@@ -1009,7 +981,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:589504ce2b3d@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260929T180000
 DTEND:20260929T200000
 SUMMARY:Silent Movie Day with Jay Brown
@@ -1021,7 +993,7 @@ URL:https://www.apptheatre.org/events-and-tickets/jay-brown-silent-movie-da
 END:VEVENT
 BEGIN:VEVENT
 UID:ce109f8a0c3f@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260930T100000
 DTEND:20260930T120000
 SUMMARY:VCF 2025 – “Come Hungry to the Fair!”
@@ -1033,7 +1005,7 @@ URL:https://www.hcpress.com/announcements/vcf-2025-come-hungry-to-the-fair.
 END:VEVENT
 BEGIN:VEVENT
 UID:a46825db5caf@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20260930T100000
 DTEND:20260930T120000
 SUMMARY:Midday Mountain Music (Blue Ridge Music Center - Milepost 213)
@@ -1047,7 +1019,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:73737cfdee37@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261001T100000
 DTEND:20261001T120000
 SUMMARY:Blowing Rock School Fall Festival Celebrates Community Resilience
@@ -1059,7 +1031,7 @@ URL:https://www.hcpress.com/announcements/blowing-rock-school-fall-festival
 END:VEVENT
 BEGIN:VEVENT
 UID:1ff2f2c9d328@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261001T100000
 DTEND:20261001T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -1073,7 +1045,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:294c2494c009@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261001T164500
 DTEND:20261001T184500
 SUMMARY:Grandfather Presents: Margaret Lowman\, Ph.D.\, aka CanopyMeg
@@ -1088,7 +1060,7 @@ URL:https://grandfather.com/event/grandfather-presents-dr-margaret-lowman-c
 END:VEVENT
 BEGIN:VEVENT
 UID:c7907cbf8f9d@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261001T190000
 DTEND:20261001T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1103,7 +1075,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:4cc680ab3648@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261002T100000
 DTEND:20261002T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -1117,7 +1089,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:b8de1f93d66b@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261002T100000
 DTEND:20261002T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -1130,7 +1102,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:7338bd2a2c11@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261002T150000
 DTEND:20261002T170000
 SUMMARY:The Art of Walking
@@ -1145,7 +1117,7 @@ URL:https://downtownboonenc.com/eventinfo/the-art-of-walking/2026-10-02/
 END:VEVENT
 BEGIN:VEVENT
 UID:dd970a1f00df@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261002T153000
 DTEND:20261002T173000
 SUMMARY:Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)
@@ -1160,7 +1132,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:48d8031484a6@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261002T160000
 DTEND:20261002T180000
 SUMMARY:First Friday Art Crawl at the Turchin
@@ -1176,7 +1148,7 @@ URL:https://downtownboonenc.com/eventinfo/first-friday-art-crawl-at-the-tur
 END:VEVENT
 BEGIN:VEVENT
 UID:869dd1ad3baf@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261002T180000
 DTEND:20261002T200000
 SUMMARY:Dolly Film Fest: 9 to 5
@@ -1187,7 +1159,7 @@ URL:https://www.apptheatre.org/events-and-tickets/dolly-film-fest-9-5
 END:VEVENT
 BEGIN:VEVENT
 UID:93f3520e771e@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261002T180000
 DTEND:20261002T200000
 SUMMARY:Sunset at the Swinging Bridge
@@ -1202,7 +1174,7 @@ URL:https://grandfather.com/event/sunset-at-the-swinging-bridge/
 END:VEVENT
 BEGIN:VEVENT
 UID:36f9fd574acd@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261002T190000
 DTEND:20261002T210000
 SUMMARY:Toy Sheep Microcinema: Three Rivers
@@ -1213,7 +1185,7 @@ URL:https://www.apptheatre.org/events-and-tickets/tsm-three-rivers
 END:VEVENT
 BEGIN:VEVENT
 UID:7946b80ddb64@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261002T190000
 DTEND:20261002T210000
 SUMMARY:An Evening of Comedy and Magic with Lyndy Phillips
@@ -1229,7 +1201,7 @@ URL:https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:f76b474254da@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261003T100000
 DTEND:20261003T120000
 SUMMARY:580 WKSK Live Old Time and Bluegrass Show: Crooked Road Ramblers
@@ -1241,7 +1213,7 @@ URL:https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-s
 END:VEVENT
 BEGIN:VEVENT
 UID:998e8db64bbe@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261003T100000
 DTEND:20261003T120000
 SUMMARY:After a Helene Hiatus\, Banner Elk’s Woolly Worm Festival Returns O
@@ -1255,7 +1227,7 @@ URL:https://www.hcpress.com/announcements/after-a-helene-hiatus-banner-elks
 END:VEVENT
 BEGIN:VEVENT
 UID:1f20bcec63b1@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261003T100000
 DTEND:20261003T120000
 SUMMARY:Dia Latino at the King Street Farmer’s Market and the Upcoming Wint
@@ -1269,7 +1241,7 @@ URL:https://www.hcpress.com/announcements/dia-latino-at-the-king-street-far
 END:VEVENT
 BEGIN:VEVENT
 UID:cb4495565d63@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261003T100000
 DTEND:20261003T120000
 SUMMARY:If You Give a Mouse a Cookie performed by Children’s Theatre of Cha
@@ -1282,7 +1254,7 @@ URL:https://www.apptheatre.org/events-and-tickets/ctcif-you-give-a-mouse-a-
 END:VEVENT
 BEGIN:VEVENT
 UID:cfcf6e936448@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261003T100000
 DTEND:20261003T120000
 SUMMARY:Polly Wood's Ordinary Open House (Peaks of Otter - Milepost 86)
@@ -1296,7 +1268,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:191d88a1485f@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261003T100000
 DTEND:20261003T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -1310,7 +1282,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:200f72f6f409@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261003T100000
 DTEND:20261003T120000
 SUMMARY:Fire\, Iron\, and Tradition: Mabry Mill Blacksmith Demonstration (M
@@ -1324,7 +1296,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:8dcbd42a6d80@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261003T100000
 DTEND:20261003T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -1337,7 +1309,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:0aca92a08fef@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261003T100000
 DTEND:20261003T120000
 SUMMARY:Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Blue Ri
@@ -1352,7 +1324,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:4c8c24a7b21a@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261003T100000
 DTEND:20261003T120000
 SUMMARY:Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Parkway
@@ -1367,7 +1339,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:93a29599ea34@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261003T130000
 DTEND:20261003T150000
 SUMMARY:Così Fan Tutte
@@ -1380,7 +1352,7 @@ URL:https://www.apptheatre.org/events-and-tickets/https/wwwetixcom/ticket/p
 END:VEVENT
 BEGIN:VEVENT
 UID:18ec2ac096cf@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261003T130000
 DTEND:20261003T150000
 SUMMARY:Fall Color Ramble
@@ -1395,7 +1367,7 @@ URL:https://grandfather.com/event/fall-color-ramble/2026-10-03/
 END:VEVENT
 BEGIN:VEVENT
 UID:cbd8e4649214@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261004T100000
 DTEND:20261004T120000
 SUMMARY:AppleFEST at the Watauga County Farmers’ Market – Saturday\, Octobe
@@ -1409,7 +1381,7 @@ URL:https://www.hcpress.com/announcements/applefest-at-the-watauga-county-f
 END:VEVENT
 BEGIN:VEVENT
 UID:465031d3eb4f@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261004T100000
 DTEND:20261004T120000
 SUMMARY:Counting Butterflies as They Flutter by (Doughton Park - Milepost 2
@@ -1425,7 +1397,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:507a2a9dc9ec@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261004T100000
 DTEND:20261004T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -1439,7 +1411,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:cd3399f458db@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261004T100000
 DTEND:20261004T120000
 SUMMARY:Fire\, Iron\, and Tradition: Mabry Mill Blacksmith Demonstration (M
@@ -1453,7 +1425,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:61a3f102c0d7@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261004T100000
 DTEND:20261004T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -1466,7 +1438,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:0889992b4aa2@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261004T100000
 DTEND:20261004T120000
 SUMMARY:Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Blue Ri
@@ -1481,7 +1453,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:c7019a2d2057@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261004T130000
 DTEND:20261004T150000
 SUMMARY:Fall Color Ramble
@@ -1496,7 +1468,7 @@ URL:https://grandfather.com/event/fall-color-ramble/2026-10-04/
 END:VEVENT
 BEGIN:VEVENT
 UID:e622d47b0cab@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261004T180000
 DTEND:20261004T200000
 SUMMARY:1938 Club Lounge
@@ -1508,7 +1480,7 @@ URL:https://www.apptheatre.org/events-and-tickets/1938-club-lounge-gh4nw-le
 END:VEVENT
 BEGIN:VEVENT
 UID:66d800105741@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261004T190000
 DTEND:20261004T210000
 SUMMARY:Appalachian Road Show & Sam Bush Band
@@ -1519,7 +1491,7 @@ URL:https://www.apptheatre.org/events-and-tickets/appalachian-roadshow26
 END:VEVENT
 BEGIN:VEVENT
 UID:9205e49d0187@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261005T100000
 DTEND:20261005T120000
 SUMMARY:Missoula Children's Theatre Residency
@@ -1530,7 +1502,7 @@ URL:https://ashecountyarts.org/event/missoula-childrens-theatre-residency/
 END:VEVENT
 BEGIN:VEVENT
 UID:4d69e3fc2a89@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261005T100000
 DTEND:20261005T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -1544,7 +1516,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:e0d0cfa5dd15@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261005T130000
 DTEND:20261005T150000
 SUMMARY:Fall Color Ramble
@@ -1559,7 +1531,7 @@ URL:https://grandfather.com/event/fall-color-ramble/2026-10-05/
 END:VEVENT
 BEGIN:VEVENT
 UID:7e7834dfb876@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261005T133000
 DTEND:20261005T153000
 SUMMARY:Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)
@@ -1574,7 +1546,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:9cdb5f121f84@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261006T130000
 DTEND:20261006T150000
 SUMMARY:Fall Color Ramble
@@ -1589,7 +1561,7 @@ URL:https://grandfather.com/event/fall-color-ramble/2026-10-06/
 END:VEVENT
 BEGIN:VEVENT
 UID:acc29d7b2631@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261006T180000
 DTEND:20261006T200000
 SUMMARY:Hitchcocktober: Shadow of a Doubt (1943)
@@ -1600,7 +1572,7 @@ URL:https://www.apptheatre.org/events-and-tickets/shadow-of-a-doubt
 END:VEVENT
 BEGIN:VEVENT
 UID:a15d561a1e80@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261007T130000
 DTEND:20261007T150000
 SUMMARY:Fall Color Ramble
@@ -1615,7 +1587,7 @@ URL:https://grandfather.com/event/fall-color-ramble/2026-10-07/
 END:VEVENT
 BEGIN:VEVENT
 UID:eb492e254c64@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261008T100000
 DTEND:20261008T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -1629,7 +1601,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:1114575ee7c8@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261008T130000
 DTEND:20261008T150000
 SUMMARY:Fall Color Ramble
@@ -1644,7 +1616,7 @@ URL:https://grandfather.com/event/fall-color-ramble/2026-10-08/
 END:VEVENT
 BEGIN:VEVENT
 UID:bdd95a32b397@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261008T180000
 DTEND:20261008T200000
 SUMMARY:Hitchcocktober: North by Northwest (1959)
@@ -1655,7 +1627,7 @@ URL:https://www.apptheatre.org/events-and-tickets/north-by-northwest-26
 END:VEVENT
 BEGIN:VEVENT
 UID:c01048551f77@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261008T190000
 DTEND:20261008T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1670,7 +1642,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:466d182918b7@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261009T100000
 DTEND:20261009T120000
 SUMMARY:Downtown West Jefferson Gallery Crawl
@@ -1682,7 +1654,7 @@ URL:https://ashecountyarts.org/event/downtown-west-jefferson-gallery-crawl-
 END:VEVENT
 BEGIN:VEVENT
 UID:ce21e4822d34@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261009T100000
 DTEND:20261009T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -1696,7 +1668,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:6824b6dcf237@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261009T100000
 DTEND:20261009T120000
 SUMMARY:Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)
@@ -1711,7 +1683,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:128c236c93cb@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261009T100000
 DTEND:20261009T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -1724,7 +1696,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:598a51a9cada@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261009T130000
 DTEND:20261009T150000
 SUMMARY:Fall Color Ramble
@@ -1739,7 +1711,7 @@ URL:https://grandfather.com/event/fall-color-ramble/2026-10-09/
 END:VEVENT
 BEGIN:VEVENT
 UID:68d8e3be7531@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261009T190000
 DTEND:20261009T210000
 SUMMARY:An Evening of Comedy and Magic with Lyndy Phillips
@@ -1755,7 +1727,7 @@ URL:https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:4a05536f5ca6@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261010T100000
 DTEND:20261010T120000
 SUMMARY:Missoula Children's Theatre presents "The Little Mermaid"
@@ -1767,7 +1739,7 @@ URL:https://ashecountyarts.org/event/missoula-childrens-theatre-presents-th
 END:VEVENT
 BEGIN:VEVENT
 UID:9d4ec4781d0e@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261010T100000
 DTEND:20261010T120000
 SUMMARY:Polly Wood's Ordinary Open House (Peaks of Otter - Milepost 86)
@@ -1781,7 +1753,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:039730517e26@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261010T100000
 DTEND:20261010T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -1795,7 +1767,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:331f418c1b03@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261010T100000
 DTEND:20261010T120000
 SUMMARY:Fire\, Iron\, and Tradition: Mabry Mill Blacksmith Demonstration (M
@@ -1809,7 +1781,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:85ac414be970@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261010T100000
 DTEND:20261010T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -1822,7 +1794,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:52d8aa9fef8b@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261010T130000
 DTEND:20261010T150000
 SUMMARY:Fall Color Ramble
@@ -1837,7 +1809,7 @@ URL:https://grandfather.com/event/fall-color-ramble/2026-10-10/
 END:VEVENT
 BEGIN:VEVENT
 UID:3bf638dbbc04@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261011T100000
 DTEND:20261011T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -1851,7 +1823,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:b42156ae9c7e@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261011T100000
 DTEND:20261011T120000
 SUMMARY:Fire\, Iron\, and Tradition: Mabry Mill Blacksmith Demonstration (M
@@ -1865,7 +1837,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:7cd4b77ce2b7@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261011T100000
 DTEND:20261011T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -1878,7 +1850,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:08c063e5d256@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261011T130000
 DTEND:20261011T150000
 SUMMARY:Fall Color Ramble
@@ -1893,7 +1865,7 @@ URL:https://grandfather.com/event/fall-color-ramble/2026-10-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5f6807e3fac@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261011T170000
 DTEND:20261011T190000
 SUMMARY:Appalachian State University Jazz Ensemble
@@ -1905,7 +1877,7 @@ URL:https://www.apptheatre.org/events-and-tickets/app-state-jazz-ensemble1-
 END:VEVENT
 BEGIN:VEVENT
 UID:65c5064431fa@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261012T100000
 DTEND:20261012T120000
 SUMMARY:Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)
@@ -1920,7 +1892,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:724d142ce68d@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261012T100000
 DTEND:20261012T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -1934,7 +1906,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:c70f6a12ec72@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261013T180000
 DTEND:20261013T200000
 SUMMARY:Hitchcocktober: Notorious (1946)
@@ -1945,7 +1917,7 @@ URL:https://www.apptheatre.org/events-and-tickets/notorious
 END:VEVENT
 BEGIN:VEVENT
 UID:ed50de2f6ee8@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261014T190000
 DTEND:20261014T210000
 SUMMARY:Charlie Baker Endowed Lecture Series - Leslie Jamison
@@ -1956,7 +1928,7 @@ URL:https://www.apptheatre.org/events-and-tickets/unchealth-leslie-jamison
 END:VEVENT
 BEGIN:VEVENT
 UID:ec406d73f2b9@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261015T100000
 DTEND:20261015T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -1970,7 +1942,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:4484adf633c2@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261015T190000
 DTEND:20261015T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1985,7 +1957,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:c41061616993@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261016T100000
 DTEND:20261016T120000
 SUMMARY:Jeff Little Trio
@@ -1996,7 +1968,7 @@ URL:https://ashecountyarts.org/event/jeff-little-trio-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:4100e68a610a@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261016T100000
 DTEND:20261016T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -2010,7 +1982,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:ff4ba8908a39@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261016T100000
 DTEND:20261016T120000
 SUMMARY:Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)
@@ -2025,7 +1997,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:efb3775a2d1c@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261016T100000
 DTEND:20261016T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -2038,7 +2010,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:a490262dc9f4@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261016T190000
 DTEND:20261016T210000
 SUMMARY:An Evening of Comedy and Magic with Lyndy Phillips
@@ -2054,7 +2026,7 @@ URL:https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:be9dee528147@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261017T100000
 DTEND:20261017T120000
 SUMMARY:Polly Wood's Ordinary Open House (Peaks of Otter - Milepost 86)
@@ -2068,7 +2040,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:a96b7831099e@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261017T100000
 DTEND:20261017T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -2082,7 +2054,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:ae048edd3f66@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261017T100000
 DTEND:20261017T120000
 SUMMARY:Fire\, Iron\, and Tradition: Mabry Mill Blacksmith Demonstration (M
@@ -2096,7 +2068,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:d5ea32ae4309@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261017T100000
 DTEND:20261017T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -2109,7 +2081,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:591859511bc3@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261017T170000
 DTEND:20261017T190000
 SUMMARY:Adult Field Course: Grandfather's Starry Skies
@@ -2123,7 +2095,7 @@ URL:https://grandfather.com/event/adult-field-course-starry-skies/
 END:VEVENT
 BEGIN:VEVENT
 UID:c84fcd2eb7e1@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261018T100000
 DTEND:20261018T120000
 SUMMARY:The Original Creations of 142 Regional Craftspeople Will Be on Disp
@@ -2138,7 +2110,7 @@ URL:https://www.hcpress.com/announcements/the-original-creations-of-142-reg
 END:VEVENT
 BEGIN:VEVENT
 UID:f6c56775a99a@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261018T100000
 DTEND:20261018T120000
 SUMMARY:The 47th Annual VALLE COUNTY FAIR Scheduled for October 18\, 2025
@@ -2150,7 +2122,7 @@ URL:https://www.hcpress.com/valle-crucis/the-47th-annual-valle-county-fair-
 END:VEVENT
 BEGIN:VEVENT
 UID:9b115ef43b02@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261018T100000
 DTEND:20261018T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -2164,7 +2136,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:133e18cb3977@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261018T100000
 DTEND:20261018T120000
 SUMMARY:Fire\, Iron\, and Tradition: Mabry Mill Blacksmith Demonstration (M
@@ -2178,7 +2150,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:0566863e44cd@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261018T100000
 DTEND:20261018T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -2191,7 +2163,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:9fccd2d92941@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261019T100000
 DTEND:20261019T120000
 SUMMARY:Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)
@@ -2206,7 +2178,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:1a58915bea4e@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261019T100000
 DTEND:20261019T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -2220,7 +2192,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:1c54768a9aa8@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261020T180000
 DTEND:20261020T200000
 SUMMARY:Hocus Pocus
@@ -2231,7 +2203,7 @@ URL:https://www.apptheatre.org/events-and-tickets/hocuspocus-rm9p6
 END:VEVENT
 BEGIN:VEVENT
 UID:8325bcfc2e34@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261020T190000
 DTEND:20261020T210000
 SUMMARY:Taste of the Arts Presents Basket Weaving – October 2026
@@ -2246,7 +2218,7 @@ URL:https://www.alleghanyartscouncil.org/events/basket-weaving-858/
 END:VEVENT
 BEGIN:VEVENT
 UID:155a02a3a105@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261022T100000
 DTEND:20261022T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -2260,7 +2232,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:9c323937b7f8@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261022T190000
 DTEND:20261022T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -2275,7 +2247,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:4d62f69f8baa@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261023T100000
 DTEND:20261023T120000
 SUMMARY:Charles Ellis Trio
@@ -2286,7 +2258,7 @@ URL:https://ashecountyarts.org/event/charlie-ellis-trio/
 END:VEVENT
 BEGIN:VEVENT
 UID:05aaf47621b4@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261023T100000
 DTEND:20261023T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -2300,7 +2272,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:fbfe93497db1@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261023T100000
 DTEND:20261023T120000
 SUMMARY:Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)
@@ -2315,7 +2287,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:7716368faee3@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261023T100000
 DTEND:20261023T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -2328,7 +2300,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:fffdb6c58107@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261023T190000
 DTEND:20261023T210000
 SUMMARY:An Evening of Comedy and Magic with Lyndy Phillips
@@ -2344,7 +2316,7 @@ URL:https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:82c862dae14a@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261023T193000
 DTEND:20261023T213000
 SUMMARY:Pressley Laton - Album Release Concert
@@ -2356,7 +2328,7 @@ URL:https://www.apptheatre.org/events-and-tickets/pressley-laton-album-rele
 END:VEVENT
 BEGIN:VEVENT
 UID:bde77b34d368@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261024T100000
 DTEND:20261024T120000
 SUMMARY:Wordkeepers
@@ -2367,7 +2339,7 @@ URL:https://ashecountyarts.org/event/wordkeeper3/
 END:VEVENT
 BEGIN:VEVENT
 UID:b32ead996c5c@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261024T100000
 DTEND:20261024T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -2381,7 +2353,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:9e1fa8c4c995@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261024T100000
 DTEND:20261024T120000
 SUMMARY:Fire\, Iron\, and Tradition: Mabry Mill Blacksmith Demonstration (M
@@ -2395,7 +2367,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:be6d88afa648@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261024T100000
 DTEND:20261024T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -2408,7 +2380,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:a69c29973868@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261024T183000
 DTEND:20261024T203000
 SUMMARY:1938 Club Lounge
@@ -2420,7 +2392,7 @@ URL:https://www.apptheatre.org/events-and-tickets/1938-club-lounge-gh4nw-le
 END:VEVENT
 BEGIN:VEVENT
 UID:f6c498e0809e@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261024T193000
 DTEND:20261024T213000
 SUMMARY:Steep Canyon Rangers
@@ -2431,7 +2403,7 @@ URL:https://www.apptheatre.org/events-and-tickets/steep-canyon-rangers
 END:VEVENT
 BEGIN:VEVENT
 UID:cd195a809cbf@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261025T100000
 DTEND:20261025T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -2445,7 +2417,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:9ed721e58ea1@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261025T100000
 DTEND:20261025T120000
 SUMMARY:Fire\, Iron\, and Tradition: Mabry Mill Blacksmith Demonstration (M
@@ -2459,7 +2431,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:464a3722c012@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261025T100000
 DTEND:20261025T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -2472,7 +2444,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:f01a42aa00a1@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261026T100000
 DTEND:20261026T120000
 SUMMARY:Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)
@@ -2487,7 +2459,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:2401d8d25a8c@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261026T100000
 DTEND:20261026T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -2501,7 +2473,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:bdf6ea193938@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261029T100000
 DTEND:20261029T120000
 SUMMARY:This Year Challenge Your Ski and Snowboarding Buddies to Some Racin
@@ -2515,7 +2487,7 @@ URL:https://www.hcpress.com/sports/this-year-challenge-your-ski-and-snowboa
 END:VEVENT
 BEGIN:VEVENT
 UID:ed4fa3eea0e9@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261029T100000
 DTEND:20261029T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -2529,7 +2501,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:67269c76f8a6@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261029T190000
 DTEND:20261029T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -2544,7 +2516,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:f8aa584ee130@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261030T100000
 DTEND:20261030T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -2558,7 +2530,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:ce61b6b2eace@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261030T100000
 DTEND:20261030T120000
 SUMMARY:Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)
@@ -2573,7 +2545,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:dd2e06a2b602@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261030T100000
 DTEND:20261030T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -2586,7 +2558,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:4ce99f0229cd@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261030T190000
 DTEND:20261030T210000
 SUMMARY:An Evening of Comedy and Magic with Lyndy Phillips
@@ -2602,7 +2574,7 @@ URL:https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:495305dea5a5@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261031T100000
 DTEND:20261031T120000
 SUMMARY:Brinegar Cabin Open House (Doughton Park - Milepost 238.5)
@@ -2616,7 +2588,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:2bce9589979f@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261031T100000
 DTEND:20261031T120000
 SUMMARY:Fire\, Iron\, and Tradition: Mabry Mill Blacksmith Demonstration (M
@@ -2630,7 +2602,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:e7dced3358a9@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261031T100000
 DTEND:20261031T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -2643,7 +2615,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:7176b6fd6e4b@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261101T100000
 DTEND:20261101T120000
 SUMMARY:Fire\, Iron\, and Tradition: Mabry Mill Blacksmith Demonstration (M
@@ -2657,7 +2629,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:325ee175b376@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261101T100000
 DTEND:20261101T120000
 SUMMARY:Historic Mill Open House (Mabry Mill - Milepost 176.2)
@@ -2670,7 +2642,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:cc9a0fa29157@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261103T180000
 DTEND:20261103T200000
 SUMMARY:1938 Club Lounge
@@ -2682,7 +2654,7 @@ URL:https://www.apptheatre.org/events-and-tickets/1938-club-lounge-gh4nw-le
 END:VEVENT
 BEGIN:VEVENT
 UID:256387036134@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261103T190000
 DTEND:20261103T210000
 SUMMARY:Jake Shimabukuro
@@ -2693,7 +2665,7 @@ URL:https://www.apptheatre.org/events-and-tickets/jake-shimabukuro
 END:VEVENT
 BEGIN:VEVENT
 UID:498c48ee1212@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261105T190000
 DTEND:20261105T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -2708,7 +2680,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:7247577feb6d@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261106T100000
 DTEND:20261106T120000
 SUMMARY:Ralph Stanley II & the Clinch Mountain Boys
@@ -2720,7 +2692,7 @@ URL:https://ashecountyarts.org/event/ralph-stanley-ii-the-clinch-mountain-b
 END:VEVENT
 BEGIN:VEVENT
 UID:b03d569fbfc7@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261106T150000
 DTEND:20261106T170000
 SUMMARY:The Art of Walking
@@ -2735,7 +2707,7 @@ URL:https://downtownboonenc.com/eventinfo/the-art-of-walking/2026-11-06/
 END:VEVENT
 BEGIN:VEVENT
 UID:52d95254ba75@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261106T160000
 DTEND:20261106T180000
 SUMMARY:First Friday Art Crawl at the Turchin
@@ -2751,7 +2723,7 @@ URL:https://downtownboonenc.com/eventinfo/first-friday-art-crawl-at-the-tur
 END:VEVENT
 BEGIN:VEVENT
 UID:4df2e56c0879@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261106T190000
 DTEND:20261106T210000
 SUMMARY:An Evening of Comedy and Magic with Lyndy Phillips
@@ -2767,7 +2739,7 @@ URL:https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:f041cb562cd2@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261112T190000
 DTEND:20261112T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -2782,7 +2754,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:1924563f3327@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261113T190000
 DTEND:20261113T210000
 SUMMARY:An Evening of Comedy and Magic with Lyndy Phillips
@@ -2798,7 +2770,7 @@ URL:https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:93f4fa6b1e43@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261115T190000
 DTEND:20261115T210000
 SUMMARY:Hayde Bluegrass Orchestra
@@ -2809,7 +2781,7 @@ URL:https://www.apptheatre.org/events-and-tickets/hayde-bluegrass-orchestra
 END:VEVENT
 BEGIN:VEVENT
 UID:da9d5f3025f4@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261119T190000
 DTEND:20261119T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -2824,7 +2796,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:d58debf367ac@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261120T110000
 DTEND:20261120T130000
 SUMMARY:Holiday Tree Arrival
@@ -2839,7 +2811,7 @@ URL:https://grandfather.com/event/holiday-tree-arrival/
 END:VEVENT
 BEGIN:VEVENT
 UID:790bd6ef62cf@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261120T190000
 DTEND:20261120T210000
 SUMMARY:An Evening of Comedy and Magic with Lyndy Phillips
@@ -2855,7 +2827,7 @@ URL:https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:faf63e2d9f0a@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261121T100000
 DTEND:20261121T120000
 SUMMARY:Holiday Makers Market
@@ -2865,7 +2837,7 @@ URL:https://ashecountyarts.org/event/mkt/
 END:VEVENT
 BEGIN:VEVENT
 UID:4bb2536292ed@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261126T190000
 DTEND:20261126T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -2880,7 +2852,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:3894a5b8d9d4@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261127T190000
 DTEND:20261127T210000
 SUMMARY:An Evening of Comedy and Magic with Lyndy Phillips
@@ -2896,7 +2868,7 @@ URL:https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:5584e60e4f7c@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261202T180000
 DTEND:20261202T200000
 SUMMARY:1938 Club Lounge
@@ -2908,7 +2880,7 @@ URL:https://www.apptheatre.org/events-and-tickets/1938-club-lounge-gh4nw-le
 END:VEVENT
 BEGIN:VEVENT
 UID:0f26b971264d@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261202T190000
 DTEND:20261202T210000
 SUMMARY:Ricky Skaggs & Kentucky Thunder Christmas
@@ -2920,7 +2892,7 @@ URL:https://www.apptheatre.org/events-and-tickets/ricky-skaggs-kyt-christma
 END:VEVENT
 BEGIN:VEVENT
 UID:e0e734aab054@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261203T190000
 DTEND:20261203T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -2935,7 +2907,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:10c94070b442@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261204T100000
 DTEND:20261204T120000
 SUMMARY:Mountainfilm on Tour Returns to Lees-McRae for High Country Film an
@@ -2950,7 +2922,7 @@ URL:https://www.hcpress.com/announcements/mountainfilm-on-tour-returns-to-l
 END:VEVENT
 BEGIN:VEVENT
 UID:3932749615a2@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261204T150000
 DTEND:20261204T170000
 SUMMARY:The Art of Walking
@@ -2965,7 +2937,7 @@ URL:https://downtownboonenc.com/eventinfo/the-art-of-walking/2026-12-04/
 END:VEVENT
 BEGIN:VEVENT
 UID:62f60e1166b1@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261204T160000
 DTEND:20261204T180000
 SUMMARY:First Friday Art Crawl at the Turchin
@@ -2981,7 +2953,7 @@ URL:https://downtownboonenc.com/eventinfo/first-friday-art-crawl-at-the-tur
 END:VEVENT
 BEGIN:VEVENT
 UID:e789cd106bb0@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20261212T100000
 DTEND:20261212T120000
 SUMMARY:580 WKSK Live Old Time and Bluegrass Show: Gap Civil
@@ -2992,7 +2964,7 @@ URL:https://ashecountyarts.org/event/wkskgap/
 END:VEVENT
 BEGIN:VEVENT
 UID:2e8141ccff35@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270722T100000
 DTEND:20270722T120000
 SUMMARY:‘Local Love’ Lineup Revealed for FloydFest 26~Daydream (July 22-26\
@@ -3005,7 +2977,7 @@ URL:https://www.hcpress.com/events/local-love-lineup-revealed-for-floydfest
 END:VEVENT
 BEGIN:VEVENT
 UID:dbfb3340021f@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270722T100000
 DTEND:20270722T120000
 SUMMARY:Announcing FloydFest 26~Daydream\, July 22-26\, 2026\; Tedeschi Tru
@@ -3022,7 +2994,7 @@ URL:https://www.hcpress.com/entertainment/announcing-floydfest-26daydream-j
 END:VEVENT
 BEGIN:VEVENT
 UID:781a8613c067@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270801T140000
 DTEND:20270801T160000
 SUMMARY:Disney’s The Little Mermaid
@@ -3033,7 +3005,7 @@ URL:https://www.apptheatre.org/events-and-tickets/disney-the-little-mermaid
 END:VEVENT
 BEGIN:VEVENT
 UID:fbb9b9c59c47@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270803T173000
 DTEND:20270803T193000
 SUMMARY:The Last of the Mohicans
@@ -3044,7 +3016,7 @@ URL:https://www.apptheatre.org/events-and-tickets/the-last-of-the-mohicans
 END:VEVENT
 BEGIN:VEVENT
 UID:709e69ee7e7f@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270805T150000
 DTEND:20270805T170000
 SUMMARY:Guided Historic Tour
@@ -3059,7 +3031,7 @@ URL:https://www.apptheatre.org/events-and-tickets/guidedtours-z93xd-bf5w3-w
 END:VEVENT
 BEGIN:VEVENT
 UID:a87fd474ee2a@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270807T180000
 DTEND:20270807T200000
 SUMMARY:School of Rock
@@ -3070,7 +3042,7 @@ URL:https://www.apptheatre.org/events-and-tickets/school-of-rock-fff
 END:VEVENT
 BEGIN:VEVENT
 UID:b95e3e32cb46@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270808T190000
 DTEND:20270808T210000
 SUMMARY:No Place for Football
@@ -3081,7 +3053,7 @@ URL:https://www.apptheatre.org/events-and-tickets/no-place-for-football
 END:VEVENT
 BEGIN:VEVENT
 UID:76442fe7e91f@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270809T130000
 DTEND:20270809T150000
 SUMMARY:Aida
@@ -3092,7 +3064,7 @@ URL:https://www.apptheatre.org/events-and-tickets/aida-encore
 END:VEVENT
 BEGIN:VEVENT
 UID:ab21fc6533ca@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270809T170000
 DTEND:20270809T190000
 SUMMARY:Hermeto Pascoal Tribute Band
@@ -3104,7 +3076,7 @@ URL:https://www.apptheatre.org/events-and-tickets/hermeto-pascoal-tribute-h
 END:VEVENT
 BEGIN:VEVENT
 UID:758fdc465632@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270812T150000
 DTEND:20270812T170000
 SUMMARY:Guided Historic Tour
@@ -3119,7 +3091,7 @@ URL:https://www.apptheatre.org/events-and-tickets/guidedtours-z93xd-bf5w3-w
 END:VEVENT
 BEGIN:VEVENT
 UID:ef5070091a5b@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270813T193000
 DTEND:20270813T213000
 SUMMARY:12 Found Objects
@@ -3130,7 +3102,7 @@ URL:https://www.apptheatre.org/events-and-tickets/12-found-objects-ra
 END:VEVENT
 BEGIN:VEVENT
 UID:bca2a54d105d@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270814T190000
 DTEND:20270814T210000
 SUMMARY:Mountaineer Laughs! Featuring Maryellen Hooper
@@ -3142,7 +3114,7 @@ URL:https://www.apptheatre.org/events-and-tickets/rentaleventtitle-j3cxr-f7
 END:VEVENT
 BEGIN:VEVENT
 UID:8615a3eb993d@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270815T140000
 DTEND:20270815T160000
 SUMMARY:Doc Watson - One of the People
@@ -3154,7 +3126,7 @@ URL:https://www.apptheatre.org/events-and-tickets/doc-watson-one-of-the-peo
 END:VEVENT
 BEGIN:VEVENT
 UID:27a130e61a56@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270815T183000
 DTEND:20270815T203000
 SUMMARY:1938 Club Lounge
@@ -3165,7 +3137,7 @@ URL:https://www.apptheatre.org/events-and-tickets/1938-club-lounge
 END:VEVENT
 BEGIN:VEVENT
 UID:72f1e34949bd@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270815T193000
 DTEND:20270815T213000
 SUMMARY:Tommy Emmanuel\, CGP : Living In The Light Tour
@@ -3176,7 +3148,7 @@ URL:https://www.apptheatre.org/events-and-tickets/tommy-emmanuel-cgp26
 END:VEVENT
 BEGIN:VEVENT
 UID:18a29dd7d914@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270819T150000
 DTEND:20270819T170000
 SUMMARY:Guided Historic Tour
@@ -3191,7 +3163,7 @@ URL:https://www.apptheatre.org/events-and-tickets/guidedtours-z93xd-bf5w3-w
 END:VEVENT
 BEGIN:VEVENT
 UID:58b3c616a79a@highcountryevents
-DTSTAMP:20260924T154159Z
+DTSTAMP:20260924T193803Z
 DTSTART:20270821T173000
 DTEND:20270821T193000
 SUMMARY:Gatsby Gala

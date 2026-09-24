@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "676bd77f07e9",
-      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-09-24T14:45:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "245940ca0d78",
-      "title": "Old-Time Jam at the Reeves",
-      "date": "2026-09-24T17:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/old-time-jam-at-the-reeves-2/2026-09-24/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "82d7235385f6",
       "title": "Roots Music Revue with Leah Song of Rising Appalachia",
       "date": "2026-09-24T18:00:00",
@@ -2564,8 +2542,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-09-24T15:41:59.459242",
-  "total_events": 233,
+  "last_updated": "2026-09-24T19:38:03.908490",
+  "total_events": 231,
   "sources": [
     "Manual Events",
     "High Country Host",
