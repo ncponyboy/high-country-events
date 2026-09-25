@@ -1,72 +1,6 @@
 {
   "events": [
     {
-      "id": "82d7235385f6",
-      "title": "Roots Music Revue with Leah Song of Rising Appalachia",
-      "date": "2026-09-24T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/roots-music-revue-with-leah-song-of-rising-appalachia/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "e38b6d1d3c00",
-      "title": "Song Swap with Paddle Faster",
-      "date": "2026-09-24T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/song-swap-with-paddle-faster/2026-09-24/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "d5a2977faf0d",
-      "title": "Christian Harmony Sing \u2013 Asheville NC",
-      "date": "2026-09-24T18:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/christian-harmony-sing-asheville-nc/2026-09-24/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "2b99b9d7a6d0",
-      "title": "Community Jam \u2013 Crown Restaurant",
-      "date": "2026-09-24T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-09-24/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "ee3f073c649d",
-      "title": "Weekly Jam Sessions at the Jones House",
-      "date": "2026-09-24T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-09-24/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "7a04c8a6cf9f",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-09-24T19:00:00",
-      "location": "N",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-09-24/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "a78644655776",
       "title": "Concerts at Union Mills Learning Center",
       "date": "2026-09-25T06:00:00",
@@ -98,17 +32,6 @@
       "url": "https://www.hcpress.com/announcements/vcf-2025-neighbors-helping-neighbors-release.html",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "e322acc44bf5",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-09-25T10:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
     },
     {
       "id": "22719223ff48",
@@ -197,6 +120,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 35.854162,
       "longitude": -82.051422
+    },
+    {
+      "id": "558e8c5374d3",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-25T12:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "c6efc154685a",
@@ -672,6 +606,50 @@
       "longitude": -81.692883
     },
     {
+      "id": "6266efeda345",
+      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
+      "date": "2026-09-27T10:00:00",
+      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
+      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
+      "id": "b558d29fdf37",
+      "title": "Painting Nature (Peaks of Otter - Milepost 86)",
+      "date": "2026-09-27T10:00:00",
+      "location": "Meet outside behind the Peaks of Otter Lodge (85554 Blue Ridge Parkway, Bedford, VA 24523) by the lake.",
+      "description": "Connect with nature through art! Join us to learn about nature journaling and how it can enhance your outdoor experience, then preserve your memories of the Peaks of Otter in a painting. Recommended i",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 37.448131,
+      "longitude": -79.604654
+    },
+    {
+      "id": "2bb7f6779c30",
+      "title": "I Love Apples \u2013 The Story of the Moses Cone & his Apple Orchards (Moses H Cone Memorial Park - Parkway milepost 294)",
+      "date": "2026-09-27T10:15:00",
+      "location": "Meet the Ranger at the Moses Cone Estate Carriage Barn.",
+      "description": "Join Ranger Sharon at the Carriage Barn on the Moses H. Cone Estate to learn why Moses Cone was excited about growing apples on the Flat Top Apple Orchards during this 30 minute talk. Learn about the ",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.149968,
+      "longitude": -81.691509
+    },
+    {
+      "id": "687dc6fc8e1d",
+      "title": "From Hunters to Heroes: The Overmountain Men (Ranger Talk - Museum of North Carolina Minerals milepost 331)",
+      "date": "2026-09-27T10:30:00",
+      "location": "The Museum of North Carolina Minerals is located at Blue Ridge Parkway milepost 331 near Spruce Pine, NC. Address: 79 Parkway Maintenance Road Spruce Pine, NC",
+      "description": "The ripple effect from our choices and actions may take weeks, months, even years to become fully apparent. Back in 1780, local militia from \u201cover the mountains\u201d in North Carolina, Tennessee, and Virg",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 35.854162,
+      "longitude": -82.051422
+    },
+    {
       "id": "10203fbe1e91",
       "title": "Friends of the Forests: Guided Hikes near Mt Pisgah and Buck Spring (Buck Spring Gap Overlook-MP 407.6)",
       "date": "2026-09-27T10:45:00",
@@ -694,6 +672,17 @@
       "longitude": -78.899465
     },
     {
+      "id": "679095a37647",
+      "title": "More than Mountains: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
+      "date": "2026-09-27T11:00:00",
+      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Craggy Gardens Visitor Center is at Milepost 364.5 on the Blue Ridge Parkway.",
+      "description": "Craggy Gardens may be famous for it\u2019s gorgeous views and natural grassy balds, but there\u2019s more to the mountains than meets the eye. What about watersheds, salamanders, and mica mines? Or the Civilian",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
       "id": "70e952ac18bc",
       "title": "Building Appalachia: A Geologic Story (Ranger Talk \u2013 Museum of North Carolina Minerals milepost 331)",
       "date": "2026-09-27T11:30:00",
@@ -703,6 +692,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 35.854162,
       "longitude": -82.051422
+    },
+    {
+      "id": "46187853afab",
+      "title": "The Ramblin\u2019 Bald: Guided High Elevation Hike (Craggy Gardens Visitor Center - Milepost 364)",
+      "date": "2026-09-27T13:45:00",
+      "location": "Meet in front of the Craggy Gardens Visitor Center.",
+      "description": "Come join a ranger for a guided hike in our changeable mountains! The land is always in flux, whether it\u2019s seasonal flowers, deep geological time, or varied land use throughout human history. While hi",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
     },
     {
       "id": "23122c8afaed",
@@ -727,17 +727,6 @@
       "longitude": -80.850001
     },
     {
-      "id": "975ea8d34170",
-      "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
-      "date": "2026-09-28T10:00:00",
-      "location": "Brinegar Cabin is located at milepost 238.5 on the Blue Ridge Parkway. Park in the parking and follow the paved walkway to the cabin.",
-      "description": "Step back into the late 1800s at one of Doughton Park\u2019s most cherished historic sites. Completed in 1889, the Brinegar family home offers visitors a window into mountain life shaped by resilience, cra",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.418721,
-      "longitude": -81.146435
-    },
-    {
       "id": "1a1e93fbfcfb",
       "title": "Guided Tour of the Mabry Mill Grounds (Mabry Mill - Milepost 176.2)",
       "date": "2026-09-28T11:00:00",
@@ -747,6 +736,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.751712,
       "longitude": -80.405357
+    },
+    {
+      "id": "433853235613",
+      "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
+      "date": "2026-09-28T13:00:00",
+      "location": "Brinegar Cabin is located at milepost 238.5 on the Blue Ridge Parkway. Park in the parking and follow the paved walkway to the cabin.",
+      "description": "Step back into the late 1800s at one of Doughton Park\u2019s most cherished historic sites. Completed in 1889, the Brinegar family home offers visitors a window into mountain life shaped by resilience, cra",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.418721,
+      "longitude": -81.146435
     },
     {
       "id": "b2e85ad5f105",
@@ -2344,6 +2344,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "616505f7c6fb",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-12-10T19:00:00",
+      "location": "N",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-12-10/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "e789cd106bb0",
       "title": "580 WKSK Live Old Time and Bluegrass Show: Gap Civil",
       "date": "2026-12-12T10:00:00",
@@ -2540,10 +2551,21 @@
       "url": "https://www.apptheatre.org/events-and-tickets/gatsby-gala-26",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "8c3ffc53b07f",
+      "title": "Guided Historic Tour",
+      "date": "2027-08-26T15:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/guidedtours-z93xd-bf5w3-wwf5r-a5hrt-r5ddt-rx9xj-8stzr-82f7p-sp9w2-dj393-m7dtc-9skla-29fj2-tjjmj-6xk5g-y6jtg-gzsmm-zr8bk-b63p6-j347t-56y6r-3cemt-d869s-cld3w-3sh5l-shnms-8lt74",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-09-24T19:38:03.908490",
-  "total_events": 231,
+  "last_updated": "2026-09-25T00:24:24.700774",
+  "total_events": 233,
   "sources": [
     "Manual Events",
     "High Country Host",
