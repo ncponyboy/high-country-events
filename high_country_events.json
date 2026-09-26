@@ -1,116 +1,6 @@
 {
   "events": [
     {
-      "id": "a4263e69352e",
-      "title": "Polly Wood's Ordinary Open House (Peaks of Otter - Milepost 86)",
-      "date": "2026-09-26T13:00:00",
-      "location": "Polly Wood's Ordinary can be accessed from the Peaks of Otter Picnic Area or the Abbott Lake Trail located behind the Peaks of Otter Lodge.",
-      "description": "Step into history with a ranger as we unveil the fascinating story of the Wood Family, their Ordinary, and tourism at Peaks of Otter! Stop in and chat with the ranger, learn about the family, and play",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.44365,
-      "longitude": -79.599822
-    },
-    {
-      "id": "6f9ea4b27fe7",
-      "title": "Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Blue Ridge Parkway milepost 294)",
-      "date": "2026-09-26T13:45:00",
-      "location": "The Moses H. Cone Manor House is located at Milepost 294 of the Blue Ridge Parkway. The two closest towns are Boone and Blowing Rock.",
-      "description": "The Gilded Age \u201cDenim King\u201d, Moses H. Cone, turned his hand from textile manufacturing to becoming a \u201cgentleman farmer\u201d in the late 1890s. And what better way to emphasize \u201cgentleman\u201d than to build a ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.149093,
-      "longitude": -81.692883
-    },
-    {
-      "id": "f040b35c4e4b",
-      "title": "Bluegrass Jam with Bruce Threlkeld",
-      "date": "2026-09-26T14:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/bluegrass-jam-with-bruce-threlkeld/2026-09-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "a3842619682c",
-      "title": "Live Mountain Music at the Orchard at Altapass",
-      "date": "2026-09-26T14:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/live-mountain-music-at-the-orchard-at-altapass-2/2026-09-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "94d0334f5bd7",
-      "title": "CANCELLED - Antlers & Acorns: Songwriters Festival",
-      "date": "2026-09-26T14:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/aa-songs-stories26",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "275dbf56f5d4",
-      "title": "Songwriter Workshop with Beth Nielsen Chapman",
-      "date": "2026-09-26T14:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/songwriter-workshop-bnc",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "c42d0bd447f0",
-      "title": "The Rocky Horror Picture Show - with shadowcast",
-      "date": "2026-09-26T14:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/apo-rocky-horror-st472-w2tbp-kxgy4-c3h8g",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "f0320b10a4b9",
-      "title": "A Carolina Snowbelle Christmas",
-      "date": "2026-09-26T14:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christmas-2026",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "631036944a52",
-      "title": "A Christmas Carol by Candlelight",
-      "date": "2026-09-26T14:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-m5r7a",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "a6b22d26db35",
-      "title": "Highlands Heritage Jamboree",
-      "date": "2026-09-26T15:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/highlands-heritage-jamboree/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "1ae55d8c3210",
       "title": "Alleghany Jubilee",
       "date": "2026-09-26T18:00:00",
@@ -417,6 +307,28 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.447194,
       "longitude": -79.60438
+    },
+    {
+      "id": "741e006c2f30",
+      "title": "Bluegrass Review on WSQL",
+      "date": "2026-09-27T15:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/bluegrass-review-on-wsql/2026-09-27/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "95f0cddf03ec",
+      "title": "Mountain Music Jam",
+      "date": "2026-09-27T15:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/mountain-music-jam/2026-09-27/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "9a43075bd4ea",
@@ -2388,8 +2300,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-09-26T14:51:55.779145",
-  "total_events": 217,
+  "last_updated": "2026-09-26T18:52:56.583678",
+  "total_events": 209,
   "sources": [
     "Manual Events",
     "High Country Host",
