@@ -1,204 +1,6 @@
 {
   "events": [
     {
-      "id": "ff63c7155b64",
-      "title": "Art on the Mountain",
-      "date": "2026-09-26T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/art-on-the-mountain-2/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
-      "id": "9125aed79750",
-      "title": "The Old Timey Fall Festival",
-      "date": "2026-09-26T10:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/the-old-timey-fall-festival/2026-09-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "365901ee07e7",
-      "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
-      "date": "2026-09-26T10:00:00",
-      "location": "Brinegar Cabin is located at milepost 238.5 on the Blue Ridge Parkway. Park in the parking and follow the paved walkway to the cabin.",
-      "description": "Step back into the late 1800s at one of Doughton Park\u2019s most cherished historic sites. Completed in 1889, the Brinegar family home offers visitors a window into mountain life shaped by resilience, cra",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.418721,
-      "longitude": -81.146435
-    },
-    {
-      "id": "217860568ec4",
-      "title": "Blue Ridge Parkway Volunteer BioBlitz (Asheville Visitor Center - Blue Ridge Parkway Milepost 384)",
-      "date": "2026-09-26T10:00:00",
-      "location": "Address is 195 Hemphill Knob Road, Asheville NC 28803",
-      "description": "The Blue Ridge Parkway will host a Volunteer BioBlitz on Saturday, September 26, 2026 from 10:00 am to noon starting at the Blue Ridge Parkway Visitor Center in Asheville, NC, using the iNaturalist ap",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.56583,
-      "longitude": -82.486366
-    },
-    {
-      "id": "ae5e76fe6458",
-      "title": "Blue Ridge Parkway Volunteer BioBlitz (Craggy Gardens Visitor Center - Blue Ridge Parkway Milepost 364)",
-      "date": "2026-09-26T10:00:00",
-      "location": "The Craggy Gardens Visitor Center is at Milepost 364.5 on the Blue Ridge Parkway between Asheville, NC and Mount Mitchell State Park.",
-      "description": "The Blue Ridge Parkway will host a Volunteer BioBlitz on Saturday, September 26, 2026 from 10:00 am to noon starting at the Craggy Gardens Visitor Center, using the iNaturalist app to document biodive",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.700297,
-      "longitude": -82.379646
-    },
-    {
-      "id": "1d2df9a553aa",
-      "title": "Blue Ridge Parkway Volunteer BioBlitz (Mt. Pisgah Area at Buck Springs Lodge Trailhead- Blue Ridge Parkway Milepost 407.7)",
-      "date": "2026-09-26T10:00:00",
-      "location": "Meet at the Buck Spring Overlook, at Milepost 407.6. It\u2019s the first overlook after you turn off the main Parkway, heading in the direction of the Mt Pisgah Parking Area.",
-      "description": "The Blue Ridge Parkway will host a Volunteer BioBlitz on Saturday, September 26, 2026 from 10:00 am to noon starting at the Buckspring Lodge Trailhead in teh Mt. Pisgah Area along the Blue Ridge Parkw",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
-      "id": "4615ab33f8f6",
-      "title": "Blue Ridge Parkway Volunteer BioBlitz (Museum of North Carolina Minerals -Blue Ridge Parkway Milepost 331)",
-      "date": "2026-09-26T10:00:00",
-      "location": "Museum of North Carolina Minerals (Parkway milepost 331) - 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "The Blue Ridge Parkway will host a Volunteer BioBlitz on Saturday, September 26, 2026 from 10:00 am to noon starting at the Museum of North Carolina Minerals, using the iNaturalist app to document bio",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
-      "id": "54ef71ba4d3d",
-      "title": "Blue Ridge Parkway Volunteer BioBlitz (Waterrock Knob Visitor Center - Blue Ridge Parkway Milepost 451.2)",
-      "date": "2026-09-26T10:00:00",
-      "location": "The Waterrock Knob Visitor Center is at Milepost 451 of the Blue Ridge Parkway.",
-      "description": "The Blue Ridge Parkway will host a Volunteer BioBlitz on Saturday, September 26, 2026 from 10:00 am to noon starting at the Waterrock Knob Visitor Center, using the iNaturalist app to document biodive",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.460514,
-      "longitude": -83.141142
-    },
-    {
-      "id": "9bd58d786cbb",
-      "title": "Blue Ridge Parkway Volunteer BioBlitz: Become a Citizen Scientist on the Trails (Peaks of Otter - Milepost 86)",
-      "date": "2026-09-26T10:00:00",
-      "location": "Located in the breezeway outside the Peaks of Otter Visitor Center at Milepost 86 (85919 Blue Ridge Parkway, Bedford, VA 24523).",
-      "description": "Heading out on a trail to recreate for National Public Lands Day? Stop by the breezeway at the Peaks of Otter Visitor Center to learn about becoming a Citizen Scientist before you head out. We can als",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.445606,
-      "longitude": -79.609958
-    },
-    {
-      "id": "1080438f5289",
-      "title": "Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Parkway milepost 294)",
-      "date": "2026-09-26T10:15:00",
-      "location": "The Moses H. Cone Manor House is located at Milepost 294 of the Blue Ridge Parkway. The two closest towns are Boone and Blowing Rock.",
-      "description": "The Gilded Age \u201cDenim King\u201d, Moses H. Cone, turned his hand from textile manufacturing to becoming a \u201cgentleman farmer\u201d in the late 1890s. And what better way to emphasize \u201cgentleman\u201d than to build a ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.149093,
-      "longitude": -81.692883
-    },
-    {
-      "id": "ca4189419072",
-      "title": "Fire, Iron, and Tradition: Mabry Mill Blacksmith Demonstration (Mabry Mill Blacksmith Shop - Milepost 176.2)",
-      "date": "2026-09-26T10:30:00",
-      "location": "Blue Ridge Parkway - Mabry Mill Blacksmith Shop - Milepost 176.2",
-      "description": "Experience the heat, rhythm, and skill of traditional Appalachian blacksmithing. Watch as Park staff shape iron into tools and art while sharing the stories of the people who relied on this essential ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751712,
-      "longitude": -80.405357
-    },
-    {
-      "id": "1ca1f89225f6",
-      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
-      "date": "2026-09-26T10:30:00",
-      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
-      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751712,
-      "longitude": -80.405357
-    },
-    {
-      "id": "126869722412",
-      "title": "Building Appalachia: A Geologic Story (Ranger Talk \u2013 Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-09-26T10:30:00",
-      "location": "Museum of North Carolina Minerals (Parkway milepost 331) - 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "Formed over the eons by titanic forces within the earth, the mountains of Appalachia are among the most majestic mountains on earth. Stop by the Museum of North Carolina Minerals to enjoy a 20-minute ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
-      "id": "858ea1694d78",
-      "title": "Jam Sessions at the Barber Shop",
-      "date": "2026-09-26T11:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/jam-sessions-at-the-barber-shop/2026-09-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "e73a27088ca1",
-      "title": "WPAQ Saturday Morning Merry-Go-Round",
-      "date": "2026-09-26T11:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/wpaq-saturday-morning-merry-go-round/2026-09-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "2cf14bf6eee1",
-      "title": "From Hunters to Heroes: The Overmountain Men (Ranger Talk - Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-09-26T11:30:00",
-      "location": "The Museum of North Carolina Minerals is located at Blue Ridge Parkway milepost 331 near Spruce Pine, NC. Address: 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "The ripple effect from our choices and actions may take weeks, months, even years to become fully apparent. Back in 1780, local militia from \u201cover the mountains\u201d in North Carolina, Tennessee, and Virg",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
-      "id": "242d3a3874a6",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-09-26T12:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
-    },
-    {
-      "id": "904fb32a0041",
-      "title": "Basketweaving Demonstrations & Ramsey Cabin Open House (Humpback Rocks Visitor Center - Milepost 6)",
-      "date": "2026-09-26T12:00:00",
-      "location": "Humpback Rocks Mountain Farm located at milepost 5.8 on the Blue Ridge Parkway. Follow the sidewalk from the Visitor Center down to the farm.",
-      "description": "See traditional basket weaving in action! White oak splits turn from simple reeds into sturdy baskets that will last for years. Learn how these baskets once filled the same everyday roles as today\u2019s p",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.972724,
-      "longitude": -78.899464
-    },
-    {
       "id": "a4263e69352e",
       "title": "Polly Wood's Ordinary Open House (Peaks of Otter - Milepost 86)",
       "date": "2026-09-26T13:00:00",
@@ -309,6 +111,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "1ae55d8c3210",
+      "title": "Alleghany Jubilee",
+      "date": "2026-09-26T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-09-26/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "6a733a892154",
       "title": "Creatures of the Night and Bonfire Delight",
       "date": "2026-09-26T18:30:00",
@@ -342,6 +155,28 @@
       "longitude": -81.5065
     },
     {
+      "id": "83a8e0c85f04",
+      "title": "Songwriters Showcase 63",
+      "date": "2026-09-26T19:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/songwriters-showcase-63/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "e38dbbe29ccf",
+      "title": "Jimmy\u2019s Pick N Grin",
+      "date": "2026-09-26T19:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/jimmys-pick-n-grin/2026-09-26/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "49dccf3bab37",
       "title": "Songwriter Collective",
       "date": "2026-09-26T19:30:00",
@@ -351,6 +186,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/songwriter-collective",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "830a552f3e28",
+      "title": "The Gospel Truth",
+      "date": "2026-09-27T07:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/the-gospel-truth/2026-09-27/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "375490662ee8",
@@ -549,6 +395,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.143,
       "longitude": -81.8576
+    },
+    {
+      "id": "bcc6627f5a03",
+      "title": "Live Mountain Music at the Orchard at Altapass",
+      "date": "2026-09-27T14:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/live-mountain-music-at-the-orchard-at-altapass-2/2026-09-27/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "23122c8afaed",
@@ -2531,8 +2388,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-09-26T00:28:53.096989",
-  "total_events": 230,
+  "last_updated": "2026-09-26T14:51:55.779145",
+  "total_events": 217,
   "sources": [
     "Manual Events",
     "High Country Host",
