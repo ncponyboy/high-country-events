@@ -1,61 +1,6 @@
 {
   "events": [
     {
-      "id": "589504ce2b3d",
-      "title": "Silent Movie Day with Jay Brown",
-      "date": "2026-09-29T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/jay-brown-silent-movie-day-2026",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "a46c3467aa1b",
-      "title": "The Rocky Horror Picture Show - with shadowcast",
-      "date": "2026-09-29T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/apo-rocky-horror-st472-w2tbp-kxgy4-c3h8g",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "6713140c1fc0",
-      "title": "Gallantry & The Impresario",
-      "date": "2026-09-29T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/gallantry-impresario",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "8aa600c1f8e9",
-      "title": "A Carolina Snowbelle Christmas",
-      "date": "2026-09-29T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christmas-2026",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "c666f3600684",
-      "title": "A Christmas Carol by Candlelight",
-      "date": "2026-09-29T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-m5r7a",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "1cfb5a026181",
       "title": "Black Bears of the Blue Ridge Parkway (Peaks of Otter - Milepost 86)",
       "date": "2026-09-30T09:30:00",
@@ -252,6 +197,17 @@
       "url": "https://grandfather.com/event/grandfather-presents-dr-margaret-lowman-canopymeg/",
       "latitude": 36.0979,
       "longitude": -81.814
+    },
+    {
+      "id": "49ae4ee4cdcd",
+      "title": "Watauga County Meet the Candidates Forum",
+      "date": "2026-10-01T17:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/bacc-mtc",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "b269aa01efd9",
@@ -1022,6 +978,17 @@
       "url": "https://grandfather.com/event/fall-color-ramble/2026-10-07/",
       "latitude": 36.0850742,
       "longitude": -81.8462718
+    },
+    {
+      "id": "d3940e71c6f9",
+      "title": "Maximum Overdrive (1986)",
+      "date": "2026-10-07T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/maximum-overdrive",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "eb492e254c64",
@@ -2608,8 +2575,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-09-29T16:46:25.047504",
-  "total_events": 237,
+  "last_updated": "2026-09-29T20:21:15.857362",
+  "total_events": 234,
   "sources": [
     "Manual Events",
     "High Country Host",
