@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "c55f0f7a719d",
-      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-09-30T14:45:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "03184f6d9979",
-      "title": "FBVMA Mountain Music Jam Sessions",
-      "date": "2026-09-30T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/fbvma-mountain-music-jam-sessions/2026-09-30/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "73737cfdee37",
       "title": "Blowing Rock School Fall Festival Celebrates Community Resilience",
       "date": "2026-10-01T10:00:00",
@@ -140,50 +118,6 @@
       "description": "",
       "source": "Appalachian Theatre",
       "url": "https://www.apptheatre.org/events-and-tickets/bacc-mtc",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "b099220aedd5",
-      "title": "The Rocky Horror Picture Show - with shadowcast",
-      "date": "2026-10-01T17:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/apo-rocky-horror-st472-w2tbp-kxgy4-c3h8g",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "4ffbd559b5ca",
-      "title": "Gallantry & The Impresario",
-      "date": "2026-10-01T17:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/gallantry-impresario",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "9004d8c1d77c",
-      "title": "A Carolina Snowbelle Christmas",
-      "date": "2026-10-01T17:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christmas-2026",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "8d5ca9e07c65",
-      "title": "A Christmas Carol by Candlelight",
-      "date": "2026-10-01T17:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-m5r7a",
       "latitude": 36.2157,
       "longitude": -81.6752
     },
@@ -2410,6 +2344,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "a87fd474ee2a",
+      "title": "School of Rock",
+      "date": "2027-08-07T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/school-of-rock-fff",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "b95e3e32cb46",
       "title": "No Place for Football",
       "date": "2027-08-08T19:00:00",
@@ -2564,8 +2509,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-09-30T16:38:42.499833",
-  "total_events": 233,
+  "last_updated": "2026-09-30T20:25:34.021870",
+  "total_events": 228,
   "sources": [
     "Manual Events",
     "High Country Host",
