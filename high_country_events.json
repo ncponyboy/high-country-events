@@ -23,17 +23,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "a46825db5caf",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-09-30T10:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
-    },
-    {
       "id": "8422f82573f9",
       "title": "A Wooded Walk: Guided, Low-Elevation Hike (Blue Ridge Parkway Visitor Center - Milepost 384)",
       "date": "2026-09-30T10:00:00",
@@ -54,6 +43,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.143,
       "longitude": -81.8576
+    },
+    {
+      "id": "e12d2761b854",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-09-30T12:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "74067c5a97cd",
@@ -496,17 +496,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "f76b474254da",
-      "title": "580 WKSK Live Old Time and Bluegrass Show: Crooked Road Ramblers",
-      "date": "2026-10-03T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/580-wksk-live-old-time-and-bluegrass-show-the-dollar-brothers/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "443ebdd0bdf4",
       "title": "Bascom Lamar Lunsford Mountain Music Festival",
       "date": "2026-10-03T10:00:00",
@@ -683,6 +672,28 @@
       "longitude": -81.8576
     },
     {
+      "id": "f6a6a46e261d",
+      "title": "Trail Treks at Waterrock: Guided High Elevation Hike (Waterrock Knob Visitor Center - Milepost 451)",
+      "date": "2026-10-03T10:45:00",
+      "location": "Meet in front of the Waterrock Knob Visitor Center, which is at Milepost 451 on the Blue Ridge Parkway.",
+      "description": "Come join a ranger for a guided hike from the Waterrock Knob Visitor Center! Whether you follow us out on the Mountains-to-Sea trail to enjoy the different forest types, or whether we\u2019re headed to the",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
+      "id": "904962cebb88",
+      "title": "580 WKSK Live Old Time and Bluegrass Show",
+      "date": "2026-10-03T11:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/580-wksk-live-old-time-and-bluegrass-show/2026-10-03/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "fe2fc516a710",
       "title": "More than Mountains: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
       "date": "2026-10-03T11:00:00",
@@ -848,6 +859,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "acb626a836c5",
+      "title": "Basketweaving Demonstrations & Ramsey Cabin Open House (Humpback Rocks Visitor Center - Milepost 6)",
+      "date": "2026-10-04T13:30:00",
+      "location": "Humpback Rocks Mountain Farm located at milepost 5.8 on the Blue Ridge Parkway. Follow the sidewalk from the Visitor Center down to the farm.",
+      "description": "See traditional basket weaving in action! White oak splits turn from simple reeds into sturdy baskets that will last for years. Learn how these baskets once filled the same everyday roles as today\u2019s p",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 37.972724,
+      "longitude": -78.899465
+    },
+    {
       "id": "e622d47b0cab",
       "title": "1938 Club Lounge",
       "date": "2026-10-04T18:00:00",
@@ -868,17 +890,6 @@
       "url": "https://www.apptheatre.org/events-and-tickets/appalachian-roadshow26",
       "latitude": 36.2157,
       "longitude": -81.6752
-    },
-    {
-      "id": "9205e49d0187",
-      "title": "Missoula Children's Theatre Residency",
-      "date": "2026-10-05T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/missoula-childrens-theatre-residency/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "4d69e3fc2a89",
@@ -1046,17 +1057,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "466d182918b7",
-      "title": "Downtown West Jefferson Gallery Crawl",
-      "date": "2026-10-09T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/downtown-west-jefferson-gallery-crawl-4/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "ce21e4822d34",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-09T10:00:00",
@@ -1121,17 +1121,6 @@
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-10-09/",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "4a05536f5ca6",
-      "title": "Missoula Children's Theatre presents \"The Little Mermaid\"",
-      "date": "2026-10-10T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/missoula-childrens-theatre-presents-the-little-mermaid/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "9d4ec4781d0e",
@@ -1374,17 +1363,6 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-10-15/",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "c41061616993",
-      "title": "Jeff Little Trio",
-      "date": "2026-10-16T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/jeff-little-trio-2/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "4100e68a610a",
@@ -1684,17 +1662,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "4d62f69f8baa",
-      "title": "Charles Ellis Trio",
-      "date": "2026-10-23T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/charlie-ellis-trio/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "05aaf47621b4",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-23T10:00:00",
@@ -1759,17 +1726,6 @@
       "url": "https://www.apptheatre.org/events-and-tickets/pressley-laton-album-release",
       "latitude": 36.2157,
       "longitude": -81.6752
-    },
-    {
-      "id": "bde77b34d368",
-      "title": "Wordkeepers",
-      "date": "2026-10-24T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/wordkeeper3/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "b32ead996c5c",
@@ -2146,17 +2102,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "7247577feb6d",
-      "title": "Ralph Stanley II & the Clinch Mountain Boys",
-      "date": "2026-11-06T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/ralph-stanley-ii-the-clinch-mountain-boys/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "b03d569fbfc7",
       "title": "The Art of Walking",
       "date": "2026-11-06T15:00:00",
@@ -2256,17 +2201,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "faf63e2d9f0a",
-      "title": "Holiday Makers Market",
-      "date": "2026-11-21T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/mkt/",
-      "latitude": 36.4332,
-      "longitude": -81.499
-    },
-    {
       "id": "4bb2536292ed",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-11-26T19:00:00",
@@ -2364,17 +2298,6 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-12-10/",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "e789cd106bb0",
-      "title": "580 WKSK Live Old Time and Bluegrass Show: Gap Civil",
-      "date": "2026-12-12T10:00:00",
-      "location": "Ashe County, NC",
-      "description": "",
-      "source": "Ashe County Arts",
-      "url": "https://ashecountyarts.org/event/wkskgap/",
-      "latitude": 36.4332,
-      "longitude": -81.499
     },
     {
       "id": "ed64a2a68149",
@@ -2575,8 +2498,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-09-29T20:21:15.857362",
-  "total_events": 234,
+  "last_updated": "2026-09-30T01:11:44.407428",
+  "total_events": 227,
   "sources": [
     "Manual Events",
     "High Country Host",
