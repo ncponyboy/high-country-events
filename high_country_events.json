@@ -1,105 +1,6 @@
 {
   "events": [
     {
-      "id": "73737cfdee37",
-      "title": "Blowing Rock School Fall Festival Celebrates Community Resilience",
-      "date": "2026-10-01T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/blowing-rock-school-fall-festival-celebrates-community-resilience.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "6bebcddbc74f",
-      "title": "A Wooded Walk: Guided, Low-Elevation Hike (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-10-01T10:00:00",
-      "location": "Meet at the flagpole in front of the Blue Ridge Parkway Visitor Center.",
-      "description": "Come join a ranger for a guided hike along our Visitor Center Loop Trail. A shaded path in the valley, it\u2019s also a Kids In Parks TRACK Trail that's good for beginning hikers. We may learn to identify ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "4d104f9a0fc8",
-      "title": "The Ramblin\u2019 Bald: Guided High Elevation Hike (Craggy Gardens Visitor Center - Milepost 364)",
-      "date": "2026-10-01T10:45:00",
-      "location": "Meet in front of the Craggy Gardens Visitor Center.",
-      "description": "Come join a ranger for a guided hike in our changeable mountains! The land is always in flux, whether it\u2019s seasonal flowers, deep geological time, or varied land use throughout human history. While hi",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "eda58f438f0d",
-      "title": "Trail Treks at Waterrock: Guided High Elevation Hike (Waterrock Knob Visitor Center - Milepost 451)",
-      "date": "2026-10-01T10:45:00",
-      "location": "Meet in front of the Waterrock Knob Visitor Center, which is at Milepost 451 on the Blue Ridge Parkway.",
-      "description": "Come join a ranger for a guided hike from the Waterrock Knob Visitor Center! Whether you follow us out on the Mountains-to-Sea trail to enjoy the different forest types, or whether we\u2019re headed to the",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "abaf878e6c8a",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-10-01T12:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
-    },
-    {
-      "id": "4890122e598f",
-      "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
-      "date": "2026-10-01T13:00:00",
-      "location": "Brinegar Cabin is located at milepost 238.5 on the Blue Ridge Parkway. Park in the parking and follow the paved walkway to the cabin.",
-      "description": "Step back into the late 1800s at one of Doughton Park\u2019s most cherished historic sites. Completed in 1889, the Brinegar family home offers visitors a window into mountain life shaped by resilience, cra",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.418721,
-      "longitude": -81.146435
-    },
-    {
-      "id": "d4c3ff4d98e5",
-      "title": "More than Mountains: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
-      "date": "2026-10-01T13:30:00",
-      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Craggy Gardens Visitor Center is at Milepost 364.5 on the Blue Ridge Parkway.",
-      "description": "Craggy Gardens may be famous for it\u2019s gorgeous views and natural grassy balds, but there\u2019s more to the mountains than meets the eye. What about watersheds, salamanders, and mica mines? Or the Civilian",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "3a7e5aa68fb1",
-      "title": "The Wild, the Weird, and the Wonderful: Ranger-Led Talks and Activities (Waterrock Knob Visitor Center - Milepost 451)",
-      "date": "2026-10-01T13:30:00",
-      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Waterrock Knob Visitor Center is at Milepost 451 of the Blue Ridge Parkway.",
-      "description": "People come to the Blue Ridge for stunning views and refreshing forests, but the region has more to offer than what\u2019s seen on the surface. Ranger-led talks really get into the heart of the mountains, ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "d68561809e85",
-      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-10-01T14:45:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
       "id": "294c2494c009",
       "title": "Grandfather Presents: Margaret Lowman, Ph.D., aka CanopyMeg",
       "date": "2026-10-01T16:45:00",
@@ -650,6 +551,17 @@
       "longitude": -81.8576
     },
     {
+      "id": "2b7630074fac",
+      "title": "Jam Sessions at the Barber Shop",
+      "date": "2026-10-03T11:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/jam-sessions-at-the-barber-shop/2026-10-03/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "fe2fc516a710",
       "title": "More than Mountains: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
       "date": "2026-10-03T11:00:00",
@@ -1064,6 +976,17 @@
       "description": "",
       "source": "Appalachian Theatre",
       "url": "https://www.apptheatre.org/events-and-tickets/north-by-northwest-26",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "0559539c8369",
+      "title": "Theory of Change",
+      "date": "2026-10-08T18:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/theory-of-change-doc",
       "latitude": 36.2157,
       "longitude": -81.6752
     },
@@ -1695,6 +1618,17 @@
       "longitude": -80.850001
     },
     {
+      "id": "e5d6b0f26033",
+      "title": "Macbeth",
+      "date": "2026-10-21T13:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/metopera-macbeth",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "155a02a3a105",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-22T10:00:00",
@@ -2179,6 +2113,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "23580a3f4b5a",
+      "title": "Into The Woods - 11/5",
+      "date": "2026-11-05T19:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/intothewoods-11/5",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "498c48ee1212",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-11-05T19:00:00",
@@ -2223,6 +2168,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "bc2bf87f7348",
+      "title": "Into The Woods - 11/6",
+      "date": "2026-11-06T19:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/intothewoods-11/6",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "4df2e56c0879",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-11-06T19:00:00",
@@ -2232,6 +2188,17 @@
       "url": "https://downtownboonenc.com/eventinfo/an-evening-of-comedy-and-magic-with-lyndy-phillips-2/2026-11-06/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "f28fb517535b",
+      "title": "Into The Woods - 11/8",
+      "date": "2026-11-08T14:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/intothewoods-11/8",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "f041cb562cd2",
@@ -2432,6 +2399,39 @@
       "longitude": -81.6746
     },
     {
+      "id": "4e9a7223d165",
+      "title": "Zoso - The Ultimate Led Zeppelin Experience",
+      "date": "2027-02-11T20:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/zoso-the-ultimate-led-zeppelin-experience",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "d1df3d6761a5",
+      "title": "The Barter Players: Peter Pan",
+      "date": "2027-02-12T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/barter-players-peter-pan",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "e1e94a273749",
+      "title": "The Man from Snowy River",
+      "date": "2027-03-05T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/man-from-snowy-river",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "2e8141ccff35",
       "title": "\u2018Local Love\u2019 Lineup Revealed for FloydFest 26~Daydream (July 22-26, 2026)",
       "date": "2027-07-22T10:00:00",
@@ -2608,7 +2608,7 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-10-01T01:11:20.714382",
+  "last_updated": "2026-10-01T17:15:01.517168",
   "total_events": 237,
   "sources": [
     "Manual Events",
