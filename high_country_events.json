@@ -1,83 +1,6 @@
 {
   "events": [
     {
-      "id": "294c2494c009",
-      "title": "Grandfather Presents: Margaret Lowman, Ph.D., aka CanopyMeg",
-      "date": "2026-10-01T16:45:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Hwy, Linville, NC",
-      "description": "One of the world\u2019s first arbornauts, CanopyMeg devoted over four decades to exploring forest canopies. Her research and exploration have taken her to more than 45 countries, on all seven continents, w",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/grandfather-presents-dr-margaret-lowman-canopymeg/",
-      "latitude": 36.0979,
-      "longitude": -81.814
-    },
-    {
-      "id": "49ae4ee4cdcd",
-      "title": "Watauga County Meet the Candidates Forum",
-      "date": "2026-10-01T17:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/bacc-mtc",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "b099220aedd5",
-      "title": "The Rocky Horror Picture Show - with shadowcast",
-      "date": "2026-10-01T17:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/apo-rocky-horror-st472-w2tbp-kxgy4-c3h8g",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "4ffbd559b5ca",
-      "title": "Gallantry & The Impresario",
-      "date": "2026-10-01T17:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/gallantry-impresario",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "9004d8c1d77c",
-      "title": "A Carolina Snowbelle Christmas",
-      "date": "2026-10-01T17:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christmas-2026",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "8d5ca9e07c65",
-      "title": "A Christmas Carol by Candlelight",
-      "date": "2026-10-01T17:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-m5r7a",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "b269aa01efd9",
-      "title": "Song Swap with Paddle Faster",
-      "date": "2026-10-01T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/song-swap-with-paddle-faster/2026-10-01/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "b696f306f06d",
       "title": "Community Jam \u2013 Crown Restaurant",
       "date": "2026-10-01T19:00:00",
@@ -386,28 +309,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "998e8db64bbe",
-      "title": "After a Helene Hiatus, Banner Elk\u2019s Woolly Worm Festival Returns Oct. 18-19",
-      "date": "2026-10-03T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/after-a-helene-hiatus-banner-elks-woolly-worm-festival-returns-oct-18-19.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "1f20bcec63b1",
-      "title": "Dia Latino at the King Street Farmer\u2019s Market and the Upcoming Winter Market!",
-      "date": "2026-10-03T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/dia-latino-at-the-king-street-farmers-market-and-the-upcoming-winter-market.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "cb4495565d63",
       "title": "If You Give a Mouse a Cookie performed by Children\u2019s Theatre of Charlotte",
       "date": "2026-10-03T10:00:00",
@@ -637,17 +538,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.149093,
       "longitude": -81.692883
-    },
-    {
-      "id": "cbd8e4649214",
-      "title": "AppleFEST at the Watauga County Farmers\u2019 Market \u2013 Saturday, October 4th",
-      "date": "2026-10-04T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/applefest-at-the-watauga-county-farmers-market-saturday-october-4th.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "465031d3eb4f",
@@ -1079,6 +969,17 @@
       "longitude": -80.405357
     },
     {
+      "id": "a210eb0146ff",
+      "title": "Beetlejuice (1988)",
+      "date": "2026-10-09T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/beetlejuice",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "68d8e3be7531",
       "title": "An Evening of Comedy and Magic with Lyndy Phillips",
       "date": "2026-10-09T19:00:00",
@@ -1409,6 +1310,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "9b869a86cd17",
+      "title": "48th Annual Valle Country Fair Scheduled for October 17, 2026",
+      "date": "2026-10-17T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/festivals/48th-annual-valle-country-fair-scheduled-for-october-17-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "be9dee528147",
       "title": "Polly Wood's Ordinary Open House (Peaks of Otter - Milepost 86)",
       "date": "2026-10-17T10:00:00",
@@ -1473,28 +1385,6 @@
       "url": "https://grandfather.com/event/adult-field-course-starry-skies/",
       "latitude": 36.0979,
       "longitude": -81.814
-    },
-    {
-      "id": "c84fcd2eb7e1",
-      "title": "The Original Creations of 142 Regional Craftspeople Will Be on Display at the Valle Country Fair Saturday, October 18, 2025",
-      "date": "2026-10-18T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/the-original-creations-of-142-regional-craftspeople-will-be-on-display-at-the-valle-country-fair-saturday-october-18-2025.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "f6c56775a99a",
-      "title": "The 47th Annual VALLE COUNTY FAIR Scheduled for October 18, 2025",
-      "date": "2026-10-18T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/valle-crucis/the-47th-annual-valle-county-fair-scheduled-for-october-18-2025.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
     },
     {
       "id": "9b115ef43b02",
@@ -1915,17 +1805,6 @@
       "longitude": -80.850001
     },
     {
-      "id": "bdf6ea193938",
-      "title": "This Year Challenge Your Ski and Snowboarding Buddies to Some Racing This Winter",
-      "date": "2026-10-29T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/sports/this-year-challenge-your-ski-and-snowboarding-buddies-to-some-racing-this-winter.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "ed4fa3eea0e9",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-29T10:00:00",
@@ -2333,13 +2212,13 @@
       "longitude": -81.6746
     },
     {
-      "id": "10c94070b442",
-      "title": "Mountainfilm on Tour Returns to Lees-McRae for High Country Film and Speaker Series 2025\u201326 on Feb. 21 \u2013 Discounted Tickets Available Now",
+      "id": "7c4b3ba268de",
+      "title": "Tickets Now on Sale for A Carolina Snowbelle Christmas",
       "date": "2026-12-04T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/mountainfilm-on-tour-returns-to-lees-mcrae-for-high-country-film-and-speaker-series-2025-26-on-feb-21-discounted-tickets-available-now.html",
+      "url": "https://www.hcpress.com/app-theatre/tickets-now-on-sale-for-a-carolina-snowbelle-christmas.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -2432,24 +2311,79 @@
       "longitude": -81.6752
     },
     {
-      "id": "2e8141ccff35",
-      "title": "\u2018Local Love\u2019 Lineup Revealed for FloydFest 26~Daydream (July 22-26, 2026)",
-      "date": "2027-07-22T10:00:00",
+      "id": "5eac94bed138",
+      "title": "Grandfather Mountain Mourns the Loss of Yonnie the Black Bear",
+      "date": "2027-06-24T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/events/local-love-lineup-revealed-for-floydfest-26daydream-july-22-26-2026.html",
+      "url": "https://www.hcpress.com/front-page/grandfather-mountain-mourns-the-loss-of-yonnie-the-black-bear.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
     {
-      "id": "dbfb3340021f",
-      "title": "Announcing FloydFest 26~Daydream, July 22-26, 2026; Tedeschi Trucks Band, My Morning Jacket, Stephen Wilson Jr., Lukas Nelson to Headline \u2013 Tickets on Sale Now with \u2018Early-Bird\u2019 Pricing",
-      "date": "2027-07-22T10:00:00",
+      "id": "c8651841bc9e",
+      "title": "Grandfather Mountain Highland Games Names Track and Field Outstanding Men\u2019s and Women\u2019s Athletes",
+      "date": "2027-08-01T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/entertainment/announcing-floydfest-26daydream-july-22-26-2026-tedeschi-trucks-band-my-morning-jacket-stephen-wilson-jr-lukas-nelson-to-headline-tickets-on-sale-now.html",
+      "url": "https://www.hcpress.com/front-page/grandfather-mountain-highland-games-names-track-and-field-outstanding-mens-and-womens-athletes-2.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "ee5864b355f7",
+      "title": "Boone Sunrise Rotary Celebrates 40 Years of Service and Welcomes Nick Friedman as Club President",
+      "date": "2027-08-01T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/boone-sunrise-rotary-celebrates-40-years-of-service-and-welcomes-nick-friedman-as-club-president.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "8285477759bf",
+      "title": "Grandfather Mountain\u2019s annual Junior Naturalist Day to take place Aug. 8",
+      "date": "2027-08-03T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/grandfather-mountains-annual-junior-naturalist-day-to-take-place-aug-8.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "0eef587b25fb",
+      "title": "Watauga, Avery Obituaries \u2013 August 4th, 2026",
+      "date": "2027-08-04T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-august-4th-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "14fedae93eb7",
+      "title": "MountainTrue\u2019s River Debris Cleanup Crew has Removed 150,000 Pounds of Storm Debris From High Country Rivers",
+      "date": "2027-08-04T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/mountaintrues-river-debris-cleanup-crew-has-removed-150000-pounds-of-storm-debris-from-high-country-rivers.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "f60053893600",
+      "title": "Daingerfield\u2019s + Peppervine August 7, 2026 \u2013 Two Celebrated Resturants, Two Visionary Chefs, One Exclusive Three-Course Dining Experience",
+      "date": "2027-08-07T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/blowing-rock/daingerfields-peppervine-august-7-2026-two-celebrated-resturants-two-visionary-chefs-one-exsclusive-three-course-dining-experience.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -2485,6 +2419,28 @@
       "url": "https://www.apptheatre.org/events-and-tickets/hermeto-pascoal-tribute-hcjs26",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "a816a807f2d9",
+      "title": "The Exchange Music Hall Presents: Pop Evil, with Lines of Loyalty and Bedlam, Dec. 4",
+      "date": "2027-08-11T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/the-exchange-music-hall-presents-pop-evil-with-lines-of-loyalty-and-bedlam-dec-4.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "4faab8daeb59",
+      "title": "Watauga, Avery Obituaries \u2013 August 11th, 2026",
+      "date": "2027-08-11T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-august-11th-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "758fdc465632",
@@ -2553,6 +2509,28 @@
       "longitude": -81.6752
     },
     {
+      "id": "95c82845ce45",
+      "title": "Foscoe Home Team Opened New Location August 18",
+      "date": "2027-08-18T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/avery/foscoe-home-team-opened-new-location-august-18.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "11cd6458b140",
+      "title": "Watauga, Avery Obituaries \u2013 August 18th, 2026",
+      "date": "2027-08-18T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-august-18th-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "18a29dd7d914",
       "title": "Guided Historic Tour",
       "date": "2027-08-19T15:00:00",
@@ -2564,6 +2542,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "27ebae5603ff",
+      "title": "State Auditor reports Town of Newland breakdowns in financial oversight",
+      "date": "2027-08-21T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/avery/state-auditor-reports-town-of-newland-breakdowns-in-financial-oversight.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "58b3c616a79a",
       "title": "Gatsby Gala",
       "date": "2027-08-21T17:30:00",
@@ -2573,6 +2562,28 @@
       "url": "https://www.apptheatre.org/events-and-tickets/gatsby-gala-26",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "ac98a2b4893f",
+      "title": "Watauga, Avery Obituaries \u2013 August 25th, 2026",
+      "date": "2027-08-25T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-august-25th-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "02bf40d6322f",
+      "title": "Watauga County Republican Women\u2019s Club Monthly Meeting Announced",
+      "date": "2027-08-26T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-county-republican-womens-club-monthly-meeting-announced.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "8c3ffc53b07f",
@@ -2606,10 +2617,21 @@
       "url": "https://www.apptheatre.org/events-and-tickets/disney-the-little-mermaid-r25lf",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "874e7cefb875",
+      "title": "Watauga, Avery Obituaries \u2013 September 1st, 2026",
+      "date": "2027-09-01T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-september-1st-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     }
   ],
-  "last_updated": "2026-10-01T17:15:01.517168",
-  "total_events": 237,
+  "last_updated": "2026-10-01T20:42:53.532960",
+  "total_events": 239,
   "sources": [
     "Manual Events",
     "High Country Host",
