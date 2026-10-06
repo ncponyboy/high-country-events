@@ -1,61 +1,6 @@
 {
   "events": [
     {
-      "id": "acc29d7b2631",
-      "title": "Hitchcocktober: Shadow of a Doubt (1943)",
-      "date": "2026-10-06T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/shadow-of-a-doubt",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "2c2669c6594d",
-      "title": "The Rocky Horror Picture Show - with shadowcast",
-      "date": "2026-10-06T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/apo-rocky-horror-st472-w2tbp-kxgy4-c3h8g",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "052515ac142a",
-      "title": "Gallantry & The Impresario",
-      "date": "2026-10-06T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/gallantry-impresario",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "9ff11242bae4",
-      "title": "A Carolina Snowbelle Christmas",
-      "date": "2026-10-06T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christmas-2026",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "1bb8ec9803ff",
-      "title": "A Christmas Carol by Candlelight",
-      "date": "2026-10-06T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-m5r7a",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "de912e35ee83",
       "title": "Hayesville Contra Dance",
       "date": "2026-10-06T19:00:00",
@@ -496,17 +441,6 @@
       "longitude": -78.899465
     },
     {
-      "id": "03de4cea7d09",
-      "title": "From Hunters to Heroes: The Overmountain Men (Ranger Talk - Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-10-09T11:30:00",
-      "location": "The Museum of North Carolina Minerals is located at Blue Ridge Parkway milepost 331 near Spruce Pine, NC. Address: 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "The ripple effect from our choices and actions may take weeks, months, even years to become fully apparent. Back in 1780, local militia from \u201cover the mountains\u201d in North Carolina, Tennessee, and Virg",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
       "id": "07b44e028647",
       "title": "Basketweaving Demonstrations & Ramsey Cabin Open House (Humpback Rocks Visitor Center - Milepost 6)",
       "date": "2026-10-09T12:00:00",
@@ -582,6 +516,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.143,
       "longitude": -81.8576
+    },
+    {
+      "id": "a18afa2bbc04",
+      "title": "From Hunters to Heroes: The Overmountain Men (Ranger Talk - Museum of North Carolina Minerals milepost 331)",
+      "date": "2026-10-09T15:00:00",
+      "location": "The Museum of North Carolina Minerals is located at Blue Ridge Parkway milepost 331 near Spruce Pine, NC. Address: 79 Parkway Maintenance Road Spruce Pine, NC",
+      "description": "The ripple effect from our choices and actions may take weeks, months, even years to become fully apparent. Back in 1780, local militia from \u201cover the mountains\u201d in North Carolina, Tennessee, and Virg",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 35.854162,
+      "longitude": -82.051422
     },
     {
       "id": "7933b798de95",
@@ -2344,8 +2289,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-10-06T17:02:46.304853",
-  "total_events": 213,
+  "last_updated": "2026-10-06T20:41:03.530639",
+  "total_events": 208,
   "sources": [
     "Manual Events",
     "High Country Host",
