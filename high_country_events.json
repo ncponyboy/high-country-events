@@ -1,72 +1,6 @@
 {
   "events": [
     {
-      "id": "0856d458bf1c",
-      "title": "FBVMA Mountain Music Jam Sessions",
-      "date": "2026-10-07T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/fbvma-mountain-music-jam-sessions/2026-10-07/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "d3940e71c6f9",
-      "title": "Maximum Overdrive (1986)",
-      "date": "2026-10-07T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/maximum-overdrive",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "c1cdb2211f5e",
-      "title": "The Rocky Horror Picture Show - with shadowcast",
-      "date": "2026-10-07T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/apo-rocky-horror-st472-w2tbp-kxgy4-c3h8g",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "29d758bb9849",
-      "title": "Gallantry & The Impresario",
-      "date": "2026-10-07T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/gallantry-impresario",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "8532d7727fa4",
-      "title": "A Carolina Snowbelle Christmas",
-      "date": "2026-10-07T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christmas-2026",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "d19fa5c0e24a",
-      "title": "A Christmas Carol by Candlelight",
-      "date": "2026-10-07T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-m5r7a",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "50a346476fdd",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-10-08T10:00:00",
@@ -1926,6 +1860,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "f041cb562cd2",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2026-11-12T19:00:00",
+      "location": "N",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-11-12/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "93f4fa6b1e43",
       "title": "Hayde Bluegrass Orchestra",
       "date": "2026-11-15T19:00:00",
@@ -2168,8 +2113,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-10-07T17:39:49.712914",
-  "total_events": 197,
+  "last_updated": "2026-10-07T20:55:17.219059",
+  "total_events": 192,
   "sources": [
     "Manual Events",
     "High Country Host",
