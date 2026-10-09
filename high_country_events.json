@@ -1,99 +1,11 @@
 {
   "events": [
     {
-      "id": "1c4c9a58256b",
-      "title": "Animals along the Parkway (Doughton Park - Milepost 238.5)",
-      "date": "2026-10-09T16:00:00",
-      "location": "Blue Ridge Parkway, Doughton Park, Milepost 238.5. Park in the Brinegar Cabin Parking lot. Follow the walkway down to the Cabin.",
-      "description": "There are plenty of animals living along the parkway and its trails. Come learn ways to recognize signs that they may be close by. You will also hear stories about some of the ones that call Doughton ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.418721,
-      "longitude": -81.146435
-    },
-    {
-      "id": "7933b798de95",
-      "title": "Second Friday CommUnity Square Dance",
-      "date": "2026-10-09T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/second-friday-community-square-dance/2026-10-09/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "988a4822d93f",
-      "title": "Bills Creek Music Festival",
-      "date": "2026-10-09T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/bills-creek-music-festival/2026-10-09/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "a210eb0146ff",
-      "title": "Beetlejuice (1988)",
-      "date": "2026-10-09T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/beetlejuice",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "eafd8009aefb",
-      "title": "The Rocky Horror Picture Show - with shadowcast",
-      "date": "2026-10-09T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/apo-rocky-horror-st472-w2tbp-kxgy4-c3h8g",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "f877db1f08dd",
-      "title": "Gallantry & The Impresario",
-      "date": "2026-10-09T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/gallantry-impresario",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "0319fa8689dc",
-      "title": "A Carolina Snowbelle Christmas",
-      "date": "2026-10-09T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christmas-2026",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "f2dd690fd0cb",
-      "title": "A Christmas Carol by Candlelight",
-      "date": "2026-10-09T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-m5r7a",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "ae1f0fdec7f3",
-      "title": "Downtown West Jefferson Gallery Crawl",
+      "title": "West Jefferson Gallery Crawl",
       "date": "2026-10-09T19:00:00",
       "location": "Downtown West Jefferson",
-      "description": "PROMOTING WEST JEFFERSON\u2019S ARTS DISTRICT Enjoy scenic downtown West Jefferson during Gallery Crawl! From June \u2013 October on the second Friday of the month, galleries extend their hours from 5-7pm! The ",
+      "description": "",
       "source": "High Country Host",
       "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
@@ -1827,6 +1739,17 @@
       "longitude": -81.499
     },
     {
+      "id": "fae2cebf647f",
+      "title": "The Carolina Comedy Magic Parlor",
+      "date": "2026-11-21T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "Looking for something unforgettable to do in Boone? Experience an intimate 20-seat comedy magic show filled with laughter, masterful sleight of hand, audience interaction and astonishing moments\u2014all j",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/the-carolina-comedy-magic-parlor/2026-11-21/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "5584e60e4f7c",
       "title": "1938 Club Lounge",
       "date": "2026-12-02T18:00:00",
@@ -2091,8 +2014,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2026-10-09T17:17:25.940667",
-  "total_events": 190,
+  "last_updated": "2026-10-09T20:25:15.417105",
+  "total_events": 183,
   "sources": [
     "Manual Events",
     "High Country Host",
