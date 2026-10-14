@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "a6cbb482f70f",
-      "title": "Hike Smart: The Ten Essentials and Leave No Trace Principles (Peaks of Otter - Milepost 86)",
-      "date": "2026-10-14T14:00:00",
-      "location": "Located by the Sharp Top Store.",
-      "description": "Before your next adventure in the park, talk to a Ranger about the Ten Essentials and Leave No Trace Principles. These outdoor recreation guidelines are designed to help protect the environment and pr",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.443389,
-      "longitude": -79.609278
-    },
-    {
-      "id": "b17f7a61288b",
-      "title": "Building Appalachia: A Geologic Story (Ranger Talk \u2013 Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-10-14T15:00:00",
-      "location": "Museum of North Carolina Minerals (Parkway milepost 331) - 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "Formed over the eons by titanic forces within the earth, the mountains of Appalachia are among the most majestic mountains on earth. Stop by the Museum of North Carolina Minerals to enjoy a 20-minute ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
       "id": "15de891ee029",
       "title": "Ballad Night at the Old Marshall Jail Hotel",
       "date": "2026-10-14T18:00:00",
@@ -41,6 +19,28 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/fbvma-mountain-music-jam-sessions/2026-10-14/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "d22c11ae82a3",
+      "title": "Lake Eden Reunion",
+      "date": "2026-10-14T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/lake-eden-reunion/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "8c17970dc7d3",
+      "title": "NC Liver Mush Festival",
+      "date": "2026-10-14T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/nc-liver-mush-festival/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -155,17 +155,6 @@
       "longitude": -79.609958
     },
     {
-      "id": "3f0ab7d1e5b0",
-      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
-      "date": "2026-10-15T10:30:00",
-      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
-      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751712,
-      "longitude": -80.405357
-    },
-    {
       "id": "11a47a9a7fce",
       "title": "Building Appalachia: A Geologic Story (Ranger Talk \u2013 Museum of North Carolina Minerals milepost 331)",
       "date": "2026-10-15T10:30:00",
@@ -208,6 +197,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.972724,
       "longitude": -78.899465
+    },
+    {
+      "id": "ee17e5b844b7",
+      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
+      "date": "2026-10-15T11:30:00",
+      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
+      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.751712,
+      "longitude": -80.405357
     },
     {
       "id": "edc299dad0a6",
@@ -507,6 +507,17 @@
       "longitude": -79.609958
     },
     {
+      "id": "ad3ce1708d12",
+      "title": "Butterflies and Blooms (Doughton Park Picnic Area - Milepost 241)",
+      "date": "2026-10-16T14:30:00",
+      "location": "Doughton Park - Milepost 241. Meet at the stone comfort station (first bathroom up the hill on the left) in the Doughton Park Picnic Area.",
+      "description": "Be a citizen scientist and help spot and count butterflies as part of the Carolina Butterfly Monitoring Program while also learning about the profusion of blooming wildflowers the butterflies are nect",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.431205,
+      "longitude": -81.18097
+    },
+    {
       "id": "b5388b6a1bf3",
       "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
       "date": "2026-10-16T14:45:00",
@@ -516,6 +527,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.143,
       "longitude": -81.8576
+    },
+    {
+      "id": "6504f19f820a",
+      "title": "All about Black Bears (Doughton Park - Milepost 238.5)",
+      "date": "2026-10-16T16:00:00",
+      "location": "Blue Ridge Parkway - Milepost 238.5 - Brinegar Cabin",
+      "description": "Want to learn about black bears?? Come join a Ranger-led talk about black bears and learn about their characteristics, diet, habitat, and amazing \"hibernation\" process. Also, learn what to do if you e",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.428681,
+      "longitude": -81.154423
     },
     {
       "id": "5a6ea2b3dd6c",
@@ -580,6 +602,17 @@
       "description": "",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/concerts-at-union-mills/2026-10-17/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "bea84fb2896f",
+      "title": "The Jeff Little Trio",
+      "date": "2026-10-17T07:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/the-jeff-little-trio/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -659,28 +692,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.972724,
       "longitude": -78.899465
-    },
-    {
-      "id": "736550b82352",
-      "title": "Friends of the Forests: Guided Hikes near Mt Pisgah and Buck Spring (Buck Spring Gap Overlook-MP 407.6)",
-      "date": "2026-10-17T10:45:00",
-      "location": "Meet at the Buck Spring Overlook, at Milepost 407.6. It\u2019s the first overlook after you turn off the main Parkway, heading in the direction of the Mt Pisgah Parking Area.",
-      "description": "Come join a ranger for a guided hike in the Mt Pisgah area! We may hike to the picnic area and examine the beauty of the forest, or walk along the Buck Spring trail near the former site of Vanderbilt\u2019",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "adf4f35e1c8d",
-      "title": "From Hunters to Heroes: The Overmountain Men (Ranger Talk - Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-10-17T11:30:00",
-      "location": "The Museum of North Carolina Minerals is located at Blue Ridge Parkway milepost 331 near Spruce Pine, NC. Address: 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "The ripple effect from our choices and actions may take weeks, months, even years to become fully apparent. Back in 1780, local militia from \u201cover the mountains\u201d in North Carolina, Tennessee, and Virg",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
     },
     {
       "id": "c7b7c6a43c1f",
@@ -2036,8 +2047,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-10-14T15:41:16.523031",
-  "total_events": 185,
+  "last_updated": "2026-10-14T19:52:11.277613",
+  "total_events": 186,
   "sources": [
     "Manual Events",
     "High Country Host",
