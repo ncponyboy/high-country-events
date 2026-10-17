@@ -1,116 +1,6 @@
 {
   "events": [
     {
-      "id": "f34f9856710a",
-      "title": "Woolly Worm Festival",
-      "date": "2026-10-17T17:00:00",
-      "location": "18, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "591859511bc3",
-      "title": "Adult Field Course: Grandfather's Starry Skies",
-      "date": "2026-10-17T17:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Hwy, Linville, NC",
-      "description": "This event is SOLD OUT. October is one of the best times of year to be stargazing at Grandfather Mountain. The air is cool and clear, and the summer constellations are still very prominent, with some ",
-      "source": "Grandfather Mountain",
-      "url": "https://grandfather.com/event/adult-field-course-starry-skies/",
-      "latitude": 36.0979,
-      "longitude": -81.814
-    },
-    {
-      "id": "962d45422722",
-      "title": "Ghost Tours Of Wilkes County",
-      "date": "2026-10-17T19:00:00",
-      "location": "Wilkes County Heritage Museum, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "d5054262998d",
-      "title": "Carolina Comedy Parlor",
-      "date": "2026-10-17T19:00:00",
-      "location": "Mysterium, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "670e8d1c152b",
-      "title": "Feed & Seed",
-      "date": "2026-10-17T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/feed-seed/2026-10-17/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "3252584bebc2",
-      "title": "Alleghany Jubilee",
-      "date": "2026-10-17T19:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-10-17/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "7f2f6e25f59c",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-10-17T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "Looking for something unforgettable to do in Boone? Experience an intimate 20-seat comedy magic show filled with laughter, masterful sleight of hand, audience interaction and astonishing moments\u2014all j",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/the-carolina-comedy-magic-parlor/2026-10-17/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "b5bb1528f197",
-      "title": "Night Sky Viewing (Peaks of Otter - Milepost 86)",
-      "date": "2026-10-17T19:00:00",
-      "location": "Meet outside behind the Peaks of Otter Lodge (85554 Blue Ridge Parkway, Bedford, VA 24523) by the lake.",
-      "description": "Explore the night sky and the nocturnal life that basks in it! Join a Ranger to view celestial objects in the night sky at Peaks of Otter. Participants will have the opportunity to view the night sky ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.448131,
-      "longitude": -79.604654
-    },
-    {
-      "id": "58eb9f7bbb94",
-      "title": "Jimmy\u2019s Pick N Grin",
-      "date": "2026-10-17T19:30:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/jimmys-pick-n-grin/2026-10-17/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "cbf3af5e7fe5",
-      "title": "Black Light Mine Tour",
-      "date": "2026-10-17T20:00:00",
-      "location": "Emerald Village, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "c84fcd2eb7e1",
       "title": "The Original Creations of 142 Regional Craftspeople Will Be on Display at the Valle Country Fair Saturday, October 18, 2025",
       "date": "2026-10-18T10:00:00",
@@ -1552,8 +1442,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-10-17T18:03:51.553585",
-  "total_events": 141,
+  "last_updated": "2026-10-17T23:55:03.136611",
+  "total_events": 131,
   "sources": [
     "Manual Events",
     "High Country Host",
