@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "043a2b5d114b",
-      "title": "Alleghany Jubilee",
-      "date": "2026-10-19T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-10-19/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "17aff495cc53",
-      "title": "Old Time Appalachian Music Acoustic Jam",
-      "date": "2026-10-19T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/old-time-appalachian-music-acoustic-jam/2026-10-19/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "74d337267940",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-10-20T10:00:00",
@@ -1772,8 +1750,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-10-19T17:19:03.559138",
-  "total_events": 161,
+  "last_updated": "2026-10-19T20:49:06.353033",
+  "total_events": 159,
   "sources": [
     "Manual Events",
     "High Country Host",
