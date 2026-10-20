@@ -1024,17 +1024,6 @@
       "longitude": -80.850001
     },
     {
-      "id": "bdf6ea193938",
-      "title": "This Year Challenge Your Ski and Snowboarding Buddies to Some Racing This Winter",
-      "date": "2026-10-29T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/sports/this-year-challenge-your-ski-and-snowboarding-buddies-to-some-racing-this-winter.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "ed4fa3eea0e9",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-29T10:00:00",
@@ -1530,13 +1519,13 @@
       "longitude": -81.6746
     },
     {
-      "id": "10c94070b442",
-      "title": "Mountainfilm on Tour Returns to Lees-McRae for High Country Film and Speaker Series 2025\u201326 on Feb. 21 \u2013 Discounted Tickets Available Now",
+      "id": "7c4b3ba268de",
+      "title": "Tickets Now on Sale for A Carolina Snowbelle Christmas",
       "date": "2026-12-04T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/mountainfilm-on-tour-returns-to-lees-mcrae-for-high-country-film-and-speaker-series-2025-26-on-feb-21-discounted-tickets-available-now.html",
+      "url": "https://www.hcpress.com/app-theatre/tickets-now-on-sale-for-a-carolina-snowbelle-christmas.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1559,6 +1548,17 @@
       "description": "Join us at the Turchin Center for the Visual Arts every First Friday of the month (except January) as downtown Boone comes alive with creativity, community, and celebration! Explore our captivating ga",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-at-the-turchin/2026-12-04/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "84a28a8e3832",
+      "title": "The Carolina Comedy Magic Parlor",
+      "date": "2026-12-05T19:00:00",
+      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
+      "description": "Looking for something unforgettable to do in Boone? Experience an intimate 20-seat comedy magic show filled with laughter, masterful sleight of hand, audience interaction and astonishing moments\u2014all j",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/the-carolina-comedy-magic-parlor/2026-12-05/",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1651,24 +1651,68 @@
       "longitude": -81.814
     },
     {
-      "id": "2e8141ccff35",
-      "title": "\u2018Local Love\u2019 Lineup Revealed for FloydFest 26~Daydream (July 22-26, 2026)",
-      "date": "2027-07-22T10:00:00",
+      "id": "a816a807f2d9",
+      "title": "The Exchange Music Hall Presents: Pop Evil, with Lines of Loyalty and Bedlam, Dec. 4",
+      "date": "2027-08-11T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/events/local-love-lineup-revealed-for-floydfest-26daydream-july-22-26-2026.html",
+      "url": "https://www.hcpress.com/front-page/the-exchange-music-hall-presents-pop-evil-with-lines-of-loyalty-and-bedlam-dec-4.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
     {
-      "id": "dbfb3340021f",
-      "title": "Announcing FloydFest 26~Daydream, July 22-26, 2026; Tedeschi Trucks Band, My Morning Jacket, Stephen Wilson Jr., Lukas Nelson to Headline \u2013 Tickets on Sale Now with \u2018Early-Bird\u2019 Pricing",
-      "date": "2027-07-22T10:00:00",
+      "id": "95c82845ce45",
+      "title": "Foscoe Home Team Opened New Location August 18",
+      "date": "2027-08-18T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/entertainment/announcing-floydfest-26daydream-july-22-26-2026-tedeschi-trucks-band-my-morning-jacket-stephen-wilson-jr-lukas-nelson-to-headline-tickets-on-sale-now.html",
+      "url": "https://www.hcpress.com/avery/foscoe-home-team-opened-new-location-august-18.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "27ebae5603ff",
+      "title": "State Auditor reports Town of Newland breakdowns in financial oversight",
+      "date": "2027-08-21T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/avery/state-auditor-reports-town-of-newland-breakdowns-in-financial-oversight.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "ac98a2b4893f",
+      "title": "Watauga, Avery Obituaries \u2013 August 25th, 2026",
+      "date": "2027-08-25T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-august-25th-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "02bf40d6322f",
+      "title": "Watauga County Republican Women\u2019s Club Monthly Meeting Announced",
+      "date": "2027-08-26T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-county-republican-womens-club-monthly-meeting-announced.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "874e7cefb875",
+      "title": "Watauga, Avery Obituaries \u2013 September 1st, 2026",
+      "date": "2027-09-01T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-september-1st-2026.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1684,6 +1728,28 @@
       "longitude": -81.6752
     },
     {
+      "id": "edb8882acf69",
+      "title": "Tomato Trail Connects High Country Shoppers with Local Food",
+      "date": "2027-09-05T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/tomato-trail-connects-high-country-shoppers-with-local-food.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "579cb3e9cc8c",
+      "title": "Watauga, Avery Obituaries \u2013 September 8th, 2026",
+      "date": "2027-09-08T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/obits/watauga-avery-obituaries-september-8th-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "2686d7ac4128",
       "title": "Dolly Film Fest: The Best Little Whorehouse in Texas",
       "date": "2027-09-11T18:00:00",
@@ -1693,6 +1759,17 @@
       "url": "https://www.apptheatre.org/events-and-tickets/dolly-film-fest-blwt",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "ea1199cce970",
+      "title": "Congresswoman Virginia Foxx Hosts U.S. Service Academy Day on September 12",
+      "date": "2027-09-12T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/congresswoman-virginia-foxx-hosts-u-s-service-academy-day-on-september-12.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "b7b43f4ee45c",
@@ -1717,13 +1794,13 @@
       "longitude": -81.6752
     },
     {
-      "id": "b0a7543244c6",
-      "title": "St. Mary of the Hills welcomes SoLa Bazaar on Sunday, September 14",
-      "date": "2027-09-14T10:00:00",
+      "id": "35f38234323e",
+      "title": "Watauga, Avery Obituaries \u2013 September 15th, 2026",
+      "date": "2027-09-15T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/st-mary-of-the-hills-welcomes-sola-bazaar-on-sunday-september-14.html",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-september-15th-2026.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1783,8 +1860,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-10-20T15:33:08.217813",
-  "total_events": 162,
+  "last_updated": "2026-10-20T19:46:09.517541",
+  "total_events": 169,
   "sources": [
     "Manual Events",
     "High Country Host",
