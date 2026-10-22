@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "b491c944e4ed",
-      "title": "FBVMA Mountain Music Jam Sessions",
-      "date": "2026-10-21T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/fbvma-mountain-music-jam-sessions/2026-10-21/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "99fa0dc7b7fd",
       "title": "Hike Smart: The Ten Essentials and Leave No Trace Principles (Peaks of Otter - Milepost 86)",
       "date": "2026-10-22T09:30:00",
@@ -21,17 +10,6 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.443389,
       "longitude": -79.609278
-    },
-    {
-      "id": "030c11607232",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-10-22T10:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
     },
     {
       "id": "c8f6ee7b3d7e",
@@ -131,6 +109,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.443389,
       "longitude": -79.609278
+    },
+    {
+      "id": "4c3d56edc7a2",
+      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
+      "date": "2026-10-22T12:00:00",
+      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
+      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.573197,
+      "longitude": -80.850001
     },
     {
       "id": "cb25671a7b84",
@@ -551,6 +540,28 @@
       "longitude": -80.850001
     },
     {
+      "id": "e95aa7a5872b",
+      "title": "Logging On: The Social Lives of Trees: Guided, Low-Elevation Hike (Blue Ridge Parkway Visitor Center - Milepost 384)",
+      "date": "2026-10-24T10:00:00",
+      "location": "Meet at the flagpole in front of the Blue Ridge Parkway Visitor Center.",
+      "description": "This guided hike will explore the complex networks going on beneath our feet. From root systems to fungi, we will discuss the communication networks of trees. Along the way, we will discuss basic plan",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
+      "id": "c7fcbb2bec5d",
+      "title": "Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Parkway milepost 294)",
+      "date": "2026-10-24T10:15:00",
+      "location": "The Moses H. Cone Manor House is located at Milepost 294 of the Blue Ridge Parkway. The two closest towns are Boone and Blowing Rock.",
+      "description": "The Gilded Age \u201cDenim King\u201d, Moses H. Cone, turned his hand from textile manufacturing to becoming a \u201cgentleman farmer\u201d in the late 1890s. And what better way to emphasize \u201cgentleman\u201d than to build a ",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.149093,
+      "longitude": -81.692883
+    },
+    {
       "id": "5588a4b0ea38",
       "title": "Fire, Iron, and Tradition: Mabry Mill Blacksmith Demonstration (Mabry Mill Blacksmith Shop - Milepost 176.2)",
       "date": "2026-10-24T10:30:00",
@@ -593,6 +604,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 35.854162,
       "longitude": -82.051422
+    },
+    {
+      "id": "24c898ede1c0",
+      "title": "Islands in the Sky: Guided High Elevation Hike (Waterrock Knob Visitor Center - Milepost 451)",
+      "date": "2026-10-24T10:45:00",
+      "location": "Meet in front of the Waterrock Knob Visitor Center, which is at Milepost 451 on the Blue Ridge Parkway.",
+      "description": "Southern Appalachian spruce-fir forests are a unique extension, or \u201carm,\u201d of the northern boreal forests which stretch from the northeastern US into Canada. Spruce-fir forests in the southeast are hom",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
     },
     {
       "id": "e3443e799821",
@@ -694,6 +716,28 @@
       "longitude": -81.8576
     },
     {
+      "id": "6a771d117527",
+      "title": "Mammals of the Blue Ridge Parkway: Ranger-Led Talks and Activities (Waterrock Knob Visitor Center - Milepost 451)",
+      "date": "2026-10-24T13:30:00",
+      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Waterrock Knob Visitor Center is at Milepost 451 of the Blue Ridge Parkway.",
+      "description": "Come learn about some of the Blue Ridge Parkway\u2019s lesser-known and lesser-seen mammals! During this 20-minute ranger talk, visitors can learn what a mammal is, what mammals can be found on the parkway",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
+      "id": "4ad2c27982e8",
+      "title": "Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Blue Ridge Parkway milepost 294)",
+      "date": "2026-10-24T13:45:00",
+      "location": "The Moses H. Cone Manor House is located at Milepost 294 of the Blue Ridge Parkway. The two closest towns are Boone and Blowing Rock.",
+      "description": "The Gilded Age \u201cDenim King\u201d, Moses H. Cone, turned his hand from textile manufacturing to becoming a \u201cgentleman farmer\u201d in the late 1890s. And what better way to emphasize \u201cgentleman\u201d than to build a ",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.149093,
+      "longitude": -81.692883
+    },
+    {
       "id": "db8a69e3a1ea",
       "title": "Bluegrass Jam with Bruce Threlkeld",
       "date": "2026-10-24T14:00:00",
@@ -703,6 +747,17 @@
       "url": "https://www.blueridgemusicnc.com/event/bluegrass-jam-with-bruce-threlkeld/2026-10-24/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "82906c0f3bf3",
+      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
+      "date": "2026-10-24T14:45:00",
+      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
+      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
     },
     {
       "id": "88b7db39ca89",
@@ -846,6 +901,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.573197,
       "longitude": -80.850001
+    },
+    {
+      "id": "4a7aa0930cae",
+      "title": "Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Blue Ridge Parkway milepost 294)",
+      "date": "2026-10-25T10:00:00",
+      "location": "The Moses H. Cone Manor House is located at Milepost 294 of the Blue Ridge Parkway. The two closest towns are Boone and Blowing Rock.",
+      "description": "The Gilded Age \u201cDenim King\u201d, Moses H. Cone, turned his hand from textile manufacturing to becoming a \u201cgentleman farmer\u201d in the late 1890s. And what better way to emphasize \u201cgentleman\u201d than to build a ",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.149093,
+      "longitude": -81.692883
     },
     {
       "id": "2401d8d25a8c",
@@ -1693,10 +1759,21 @@
       "url": "https://www.apptheatre.org/events-and-tickets/the-last-class-cr",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "99da86402c56",
+      "title": "Dolly Film Fest: Steel Magnolias",
+      "date": "2027-09-22T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/dolly-film-fest-steel-magnolias",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-10-21T19:48:34.186876",
-  "total_events": 154,
+  "last_updated": "2026-10-22T00:34:08.448731",
+  "total_events": 161,
   "sources": [
     "Manual Events",
     "High Country Host",
