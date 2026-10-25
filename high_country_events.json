@@ -1,127 +1,6 @@
 {
   "events": [
     {
-      "id": "bdacea047e10",
-      "title": "Building Appalachia: A Geologic Story (Ranger Talk \u2013 Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-10-25T13:15:00",
-      "location": "Museum of North Carolina Minerals (Parkway milepost 331) - 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "Formed over the eons by titanic forces within the earth, the mountains of Appalachia are among the most majestic mountains on earth. Stop by the Museum of North Carolina Minerals to enjoy a 20-minute ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
-      "id": "3463b0ad3ec1",
-      "title": "Mammals of the Blue Ridge Parkway: Ranger-Led Talks and Activities (Waterrock Knob Visitor Center - Milepost 451)",
-      "date": "2026-10-25T13:30:00",
-      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Waterrock Knob Visitor Center is at Milepost 451 of the Blue Ridge Parkway.",
-      "description": "Come learn about some of the Blue Ridge Parkway\u2019s lesser-known and lesser-seen mammals! During this 20-minute ranger talk, visitors can learn what a mammal is, what mammals can be found on the parkway",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "94388146a986",
-      "title": "More than Mountains: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
-      "date": "2026-10-25T13:30:00",
-      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Craggy Gardens Visitor Center is at Milepost 364.5 on the Blue Ridge Parkway.",
-      "description": "Craggy Gardens may be famous for it\u2019s gorgeous views and natural grassy balds, but there\u2019s more to the mountains than meets the eye. What about watersheds, salamanders, and mica mines? Or the Civilian",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "5179421b8171",
-      "title": "Guided Tour of Flat Top Manor (Moses H Cone Memorial Park - Blue Ridge Parkway milepost 294)",
-      "date": "2026-10-25T13:45:00",
-      "location": "The Moses H. Cone Manor House is located at Milepost 294 of the Blue Ridge Parkway. The two closest towns are Boone and Blowing Rock.",
-      "description": "The Gilded Age \u201cDenim King\u201d, Moses H. Cone, turned his hand from textile manufacturing to becoming a \u201cgentleman farmer\u201d in the late 1890s. And what better way to emphasize \u201cgentleman\u201d than to build a ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.149093,
-      "longitude": -81.692883
-    },
-    {
-      "id": "e3e0ad55a341",
-      "title": "People of these Mountains: Guided High Elevation Hike (Craggy Gardens Visitor Center - Milepost 364)",
-      "date": "2026-10-25T13:45:00",
-      "location": "Meet in front of the Craggy Gardens Visitor Center.",
-      "description": "People have lived in these mountains for millennia. This guided hike explores changes that each group of people brought when they came to these mountains. Imagine what those who preceded us found and ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "abd16fd5806a",
-      "title": "Live Mountain Music at the Orchard at Altapass",
-      "date": "2026-10-25T14:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/live-mountain-music-at-the-orchard-at-altapass-2/2026-10-25/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "f67893aefc4b",
-      "title": "Biodiversity on the Blue Ridge Parkway: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-10-25T14:45:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "The Blue Ridge Parkway winds through one of the most biodiverse places on earth, home to all kinds of living things. Join a park ranger for a 20-minute program and explore the many kinds of life on th",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "a8bb84b22567",
-      "title": "Bluegrass Review on WSQL",
-      "date": "2026-10-25T15:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/bluegrass-review-on-wsql/2026-10-25/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "39dd3e93ccbc",
-      "title": "Mountain Music Jam",
-      "date": "2026-10-25T15:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/mountain-music-jam/2026-10-25/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "cd441b4a060a",
-      "title": "From Hunters to Heroes: The Overmountain Men (Ranger Talk - Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-10-25T15:00:00",
-      "location": "The Museum of North Carolina Minerals is located at Blue Ridge Parkway milepost 331 near Spruce Pine, NC. Address: 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "The ripple effect from our choices and actions may take weeks, months, even years to become fully apparent. Back in 1780, local militia from \u201cover the mountains\u201d in North Carolina, Tennessee, and Virg",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
-      "id": "320e0ce5c7c1",
-      "title": "What's Popping in the Park (Doughton Park - Milepost 238.5)",
-      "date": "2026-10-25T16:00:00",
-      "location": "Blue Ridge Parkway - Doughton Park - Milepost 238.5. Park in the Brinegar Cabin parking lot and follow the walkway to the Cabin.",
-      "description": "The lifescape along the Blue Ridge Parkway shifts like a slow-motion film to new flowers in bloom, new shades of leaf color, and to different birds and insects that flit into view as the seasons progr",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.418721,
-      "longitude": -81.146435
-    },
-    {
       "id": "250e846dee62",
       "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
       "date": "2026-10-26T10:00:00",
@@ -657,50 +536,6 @@
       "description": "",
       "source": "Appalachian Theatre",
       "url": "https://www.apptheatre.org/events-and-tickets/waroftheworldsbrct",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "108e5bf088d8",
-      "title": "Gallantry & The Impresario",
-      "date": "2026-10-30T19:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/gallantry-impresario",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "311988b9caa6",
-      "title": "A Carolina Snowbelle Christmas",
-      "date": "2026-10-30T19:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christmas-2026",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "21dba4488e46",
-      "title": "A Christmas Carol by Candlelight",
-      "date": "2026-10-30T19:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-m5r7a",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "f1defb353226",
-      "title": "The Best Christmas Pageant Ever",
-      "date": "2026-10-30T19:30:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/beanstalk-christmaspageant",
       "latitude": 36.2157,
       "longitude": -81.6752
     },
@@ -1332,6 +1167,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "f224540cc456",
+      "title": "Carolina Social Music Club",
+      "date": "2027-09-13T17:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/carolina-social-music-club",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "b0a7543244c6",
       "title": "St. Mary of the Hills welcomes SoLa Bazaar on Sunday, September 14",
       "date": "2027-09-14T10:00:00",
@@ -1341,6 +1187,17 @@
       "url": "https://www.hcpress.com/announcements/st-mary-of-the-hills-welcomes-sola-bazaar-on-sunday-september-14.html",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "d1f5479a7d8d",
+      "title": "Between Two Sons - Daniel Boone During the American Revolution",
+      "date": "2027-09-15T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/saha-between-two-sons",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "22e265023b53",
@@ -1398,8 +1255,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-10-25T14:46:20.179225",
-  "total_events": 127,
+  "last_updated": "2026-10-25T18:39:23.940289",
+  "total_events": 114,
   "sources": [
     "Manual Events",
     "High Country Host",
