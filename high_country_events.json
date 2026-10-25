@@ -1,136 +1,15 @@
 {
   "events": [
     {
-      "id": "42aee34a3fc6",
-      "title": "The Gospel Truth",
-      "date": "2026-10-25T07:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/the-gospel-truth/2026-10-25/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "cd195a809cbf",
-      "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
-      "date": "2026-10-25T10:00:00",
-      "location": "Brinegar Cabin is located at milepost 238.5 on the Blue Ridge Parkway. Park in the parking and follow the paved walkway to the cabin.",
-      "description": "Step back into the late 1800s at one of Doughton Park\u2019s most cherished historic sites. Completed in 1889, the Brinegar family home offers visitors a window into mountain life shaped by resilience, cra",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.418721,
-      "longitude": -81.146435
-    },
-    {
-      "id": "591a0bbb848d",
-      "title": "Logging On: The Social Lives of Trees: Guided, Low-Elevation Hike (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-10-25T10:00:00",
-      "location": "Meet at the flagpole in front of the Blue Ridge Parkway Visitor Center.",
-      "description": "This guided hike will explore the complex networks going on beneath our feet. From root systems to fungi, we will discuss the communication networks of trees. Along the way, we will discuss basic plan",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "799e5c04ab15",
-      "title": "Fire, Iron, and Tradition: Mabry Mill Blacksmith Demonstration (Mabry Mill Blacksmith Shop - Milepost 176.2)",
-      "date": "2026-10-25T10:30:00",
-      "location": "Blue Ridge Parkway - Mabry Mill Blacksmith Shop - Milepost 176.2",
-      "description": "Experience the heat, rhythm, and skill of traditional Appalachian blacksmithing. Watch as Park staff shape iron into tools and art while sharing the stories of the people who relied on this essential ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751712,
-      "longitude": -80.405357
-    },
-    {
-      "id": "09c2ef4a1a08",
+      "id": "bdacea047e10",
       "title": "Building Appalachia: A Geologic Story (Ranger Talk \u2013 Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-10-25T10:30:00",
+      "date": "2026-10-25T13:15:00",
       "location": "Museum of North Carolina Minerals (Parkway milepost 331) - 79 Parkway Maintenance Road Spruce Pine, NC",
       "description": "Formed over the eons by titanic forces within the earth, the mountains of Appalachia are among the most majestic mountains on earth. Stop by the Museum of North Carolina Minerals to enjoy a 20-minute ",
       "source": "NPS Blue Ridge Pkwy",
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 35.854162,
       "longitude": -82.051422
-    },
-    {
-      "id": "dd5d926d8c2b",
-      "title": "Islands in the Sky: Guided High Elevation Hike (Waterrock Knob Visitor Center - Milepost 451)",
-      "date": "2026-10-25T10:45:00",
-      "location": "Meet in front of the Waterrock Knob Visitor Center, which is at Milepost 451 on the Blue Ridge Parkway.",
-      "description": "Southern Appalachian spruce-fir forests are a unique extension, or \u201carm,\u201d of the northern boreal forests which stretch from the northeastern US into Canada. Spruce-fir forests in the southeast are hom",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "43a5ccbec37c",
-      "title": "The Ramblin\u2019 Bald: Guided High Elevation Hike (Craggy Gardens Visitor Center - Milepost 364)",
-      "date": "2026-10-25T10:45:00",
-      "location": "Meet in front of the Craggy Gardens Visitor Center.",
-      "description": "Come join a ranger for a guided hike in our changeable mountains! The land is always in flux, whether it\u2019s seasonal flowers, deep geological time, or varied land use throughout human history. While hi",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "38a55f8cd55e",
-      "title": "Dulcimer at the Cabin (Humpback Rocks - Milepost 6)",
-      "date": "2026-10-25T11:00:00",
-      "location": "Meet at the Ramsey Cabin at the Humpback Rocks Mountain Farm (Milepost 6).",
-      "description": "Dive into that Appalachain sound! Join a Ranger to learn the history of the dulcimer and take a look into the past. Come, listen, and stay a while. The program will be along the way to the Humpback Ro",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.972724,
-      "longitude": -78.899465
-    },
-    {
-      "id": "a6adc5bc8c91",
-      "title": "The Subsistence Farmer\u2019s Toolkit: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
-      "date": "2026-10-25T11:00:00",
-      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Craggy Gardens Visitor Center is at Milepost 364.5 on the Blue Ridge Parkway.",
-      "description": "Come learn about what it would have been like to live as a subsistence farmer in the area around the Blue Ridge Parkway in the 1800s. We will look at selection of tools from an early homestead and exp",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "4cfd401d57ac",
-      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
-      "date": "2026-10-25T11:30:00",
-      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
-      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751712,
-      "longitude": -80.405357
-    },
-    {
-      "id": "49740621ec9b",
-      "title": "From Hunters to Heroes: The Overmountain Men (Ranger Talk - Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-10-25T11:30:00",
-      "location": "The Museum of North Carolina Minerals is located at Blue Ridge Parkway milepost 331 near Spruce Pine, NC. Address: 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "The ripple effect from our choices and actions may take weeks, months, even years to become fully apparent. Back in 1780, local militia from \u201cover the mountains\u201d in North Carolina, Tennessee, and Virg",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
-      "id": "55fd0d4ab6a9",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-10-25T12:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
     },
     {
       "id": "3463b0ad3ec1",
@@ -219,6 +98,17 @@
       "url": "https://www.blueridgemusicnc.com/event/mountain-music-jam/2026-10-25/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "cd441b4a060a",
+      "title": "From Hunters to Heroes: The Overmountain Men (Ranger Talk - Museum of North Carolina Minerals milepost 331)",
+      "date": "2026-10-25T15:00:00",
+      "location": "The Museum of North Carolina Minerals is located at Blue Ridge Parkway milepost 331 near Spruce Pine, NC. Address: 79 Parkway Maintenance Road Spruce Pine, NC",
+      "description": "The ripple effect from our choices and actions may take weeks, months, even years to become fully apparent. Back in 1780, local militia from \u201cover the mountains\u201d in North Carolina, Tennessee, and Virg",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 35.854162,
+      "longitude": -82.051422
     },
     {
       "id": "320e0ce5c7c1",
@@ -320,6 +210,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "e02ae9ca01d2",
+      "title": "Old Time Appalachian Music Acoustic Jam",
+      "date": "2026-10-26T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/old-time-appalachian-music-acoustic-jam/2026-10-26/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "467eadc39413",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-10-27T10:00:00",
@@ -351,6 +252,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.143,
       "longitude": -81.8576
+    },
+    {
+      "id": "51c73e7d5967",
+      "title": "Boone Shape Note Singing",
+      "date": "2026-10-27T18:30:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/boone-shape-note-singing/2026-10-27/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "df47197dd87f",
@@ -417,6 +329,39 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 37.443389,
       "longitude": -79.609278
+    },
+    {
+      "id": "b84b0b7cf488",
+      "title": "FBVMA Mountain Music Jam Sessions",
+      "date": "2026-10-28T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/fbvma-mountain-music-jam-sessions/2026-10-28/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "d9203f1ccb6c",
+      "title": "Carolina Pine at Jones House",
+      "date": "2026-10-28T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/carolina-pine-at-jones-house/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "bdf6ea193938",
+      "title": "This Year Challenge Your Ski and Snowboarding Buddies to Some Racing This Winter",
+      "date": "2026-10-29T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/sports/this-year-challenge-your-ski-and-snowboarding-buddies-to-some-racing-this-winter.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "ed4fa3eea0e9",
@@ -562,6 +507,50 @@
       "longitude": -81.8576
     },
     {
+      "id": "0c8df6f7aabf",
+      "title": "Roots Music Revue with Travis Book of Infamous Stringdusters",
+      "date": "2026-10-29T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/71634/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "31cbf17fd8c8",
+      "title": "Song Swap with Paddle Faster",
+      "date": "2026-10-29T18:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/song-swap-with-paddle-faster/2026-10-29/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "e5d12fb5ecb3",
+      "title": "Community Jam \u2013 Crown Restaurant",
+      "date": "2026-10-29T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/community-jam-crown-restaurant/2026-10-29/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "faeaea1cfa4c",
+      "title": "Weekly Jam Sessions at the Jones House",
+      "date": "2026-10-29T19:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-10-29/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "67269c76f8a6",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-10-29T19:00:00",
@@ -668,6 +657,50 @@
       "description": "",
       "source": "Appalachian Theatre",
       "url": "https://www.apptheatre.org/events-and-tickets/waroftheworldsbrct",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "108e5bf088d8",
+      "title": "Gallantry & The Impresario",
+      "date": "2026-10-30T19:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/gallantry-impresario",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "311988b9caa6",
+      "title": "A Carolina Snowbelle Christmas",
+      "date": "2026-10-30T19:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christmas-2026",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "21dba4488e46",
+      "title": "A Christmas Carol by Candlelight",
+      "date": "2026-10-30T19:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-m5r7a",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "f1defb353226",
+      "title": "The Best Christmas Pageant Ever",
+      "date": "2026-10-30T19:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/beanstalk-christmaspageant",
       "latitude": 36.2157,
       "longitude": -81.6752
     },
@@ -1090,6 +1123,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "10c94070b442",
+      "title": "Mountainfilm on Tour Returns to Lees-McRae for High Country Film and Speaker Series 2025\u201326 on Feb. 21 \u2013 Discounted Tickets Available Now",
+      "date": "2026-12-04T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/mountainfilm-on-tour-returns-to-lees-mcrae-for-high-country-film-and-speaker-series-2025-26-on-feb-21-discounted-tickets-available-now.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "3932749615a2",
       "title": "The Art of Walking",
       "date": "2026-12-04T15:00:00",
@@ -1266,125 +1310,37 @@
       "longitude": -81.814
     },
     {
-      "id": "a816a807f2d9",
-      "title": "The Exchange Music Hall Presents: Pop Evil, with Lines of Loyalty and Bedlam, Dec. 4",
-      "date": "2027-08-11T10:00:00",
+      "id": "2e8141ccff35",
+      "title": "\u2018Local Love\u2019 Lineup Revealed for FloydFest 26~Daydream (July 22-26, 2026)",
+      "date": "2027-07-22T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/front-page/the-exchange-music-hall-presents-pop-evil-with-lines-of-loyalty-and-bedlam-dec-4.html",
+      "url": "https://www.hcpress.com/events/local-love-lineup-revealed-for-floydfest-26daydream-july-22-26-2026.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
     {
-      "id": "95c82845ce45",
-      "title": "Foscoe Home Team Opened New Location August 18",
-      "date": "2027-08-18T10:00:00",
+      "id": "dbfb3340021f",
+      "title": "Announcing FloydFest 26~Daydream, July 22-26, 2026; Tedeschi Trucks Band, My Morning Jacket, Stephen Wilson Jr., Lukas Nelson to Headline \u2013 Tickets on Sale Now with \u2018Early-Bird\u2019 Pricing",
+      "date": "2027-07-22T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/avery/foscoe-home-team-opened-new-location-august-18.html",
+      "url": "https://www.hcpress.com/entertainment/announcing-floydfest-26daydream-july-22-26-2026-tedeschi-trucks-band-my-morning-jacket-stephen-wilson-jr-lukas-nelson-to-headline-tickets-on-sale-now.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
     {
-      "id": "27ebae5603ff",
-      "title": "State Auditor reports Town of Newland breakdowns in financial oversight",
-      "date": "2027-08-21T10:00:00",
+      "id": "b0a7543244c6",
+      "title": "St. Mary of the Hills welcomes SoLa Bazaar on Sunday, September 14",
+      "date": "2027-09-14T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/avery/state-auditor-reports-town-of-newland-breakdowns-in-financial-oversight.html",
+      "url": "https://www.hcpress.com/announcements/st-mary-of-the-hills-welcomes-sola-bazaar-on-sunday-september-14.html",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "ac98a2b4893f",
-      "title": "Watauga, Avery Obituaries \u2013 August 25th, 2026",
-      "date": "2027-08-25T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-august-25th-2026.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "874e7cefb875",
-      "title": "Watauga, Avery Obituaries \u2013 September 1st, 2026",
-      "date": "2027-09-01T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-september-1st-2026.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "edb8882acf69",
-      "title": "Tomato Trail Connects High Country Shoppers with Local Food",
-      "date": "2027-09-05T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/front-page/tomato-trail-connects-high-country-shoppers-with-local-food.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "579cb3e9cc8c",
-      "title": "Watauga, Avery Obituaries \u2013 September 8th, 2026",
-      "date": "2027-09-08T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/obits/watauga-avery-obituaries-september-8th-2026.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "ea1199cce970",
-      "title": "Congresswoman Virginia Foxx Hosts U.S. Service Academy Day on September 12",
-      "date": "2027-09-12T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/front-page/congresswoman-virginia-foxx-hosts-u-s-service-academy-day-on-september-12.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "f224540cc456",
-      "title": "Carolina Social Music Club",
-      "date": "2027-09-13T17:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/carolina-social-music-club",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "35f38234323e",
-      "title": "Watauga, Avery Obituaries \u2013 September 15th, 2026",
-      "date": "2027-09-15T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-september-15th-2026.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "d1f5479a7d8d",
-      "title": "Between Two Sons - Daniel Boone During the American Revolution",
-      "date": "2027-09-15T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/saha-between-two-sons",
-      "latitude": 36.2157,
-      "longitude": -81.6752
     },
     {
       "id": "22e265023b53",
@@ -1431,17 +1387,6 @@
       "longitude": -81.6752
     },
     {
-      "id": "9e943156d369",
-      "title": "Watauga, Avery Obituaries \u2013 September 22nd, 2026",
-      "date": "2027-09-22T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/obits/watauga-avery-obituaries-september-22nd-2026.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "99da86402c56",
       "title": "Dolly Film Fest: Steel Magnolias",
       "date": "2027-09-22T18:00:00",
@@ -1453,8 +1398,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-10-25T00:10:35.170848",
-  "total_events": 132,
+  "last_updated": "2026-10-25T14:46:20.179225",
+  "total_events": 127,
   "sources": [
     "Manual Events",
     "High Country Host",
