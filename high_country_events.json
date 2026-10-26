@@ -1,83 +1,6 @@
 {
   "events": [
     {
-      "id": "ea4ae9dda2c6",
-      "title": "A Wooded Walk: Guided, Low-Elevation Hike (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-10-26T10:00:00",
-      "location": "Meet at the flagpole in front of the Blue Ridge Parkway Visitor Center.",
-      "description": "Come join a ranger for a guided hike along our Visitor Center Loop Trail. A shaded path in the valley, it\u2019s also a Kids In Parks TRACK Trail that's good for beginning hikers. We may learn to identify ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "7a262e49e272",
-      "title": "The Ramblin\u2019 Bald: Guided High Elevation Hike (Craggy Gardens Visitor Center - Milepost 364)",
-      "date": "2026-10-26T10:45:00",
-      "location": "Meet in front of the Craggy Gardens Visitor Center.",
-      "description": "Come join a ranger for a guided hike in our changeable mountains! The land is always in flux, whether it\u2019s seasonal flowers, deep geological time, or varied land use throughout human history. While hi",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "d9c3eb8c8fa7",
-      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
-      "date": "2026-10-26T11:30:00",
-      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
-      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751712,
-      "longitude": -80.405357
-    },
-    {
-      "id": "97d1b585ed56",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-10-26T12:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
-    },
-    {
-      "id": "30fdc8fe069f",
-      "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
-      "date": "2026-10-26T13:00:00",
-      "location": "Brinegar Cabin is located at milepost 238.5 on the Blue Ridge Parkway. Park in the parking and follow the paved walkway to the cabin.",
-      "description": "Step back into the late 1800s at one of Doughton Park\u2019s most cherished historic sites. Completed in 1889, the Brinegar family home offers visitors a window into mountain life shaped by resilience, cra",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.418721,
-      "longitude": -81.146435
-    },
-    {
-      "id": "d73486534a34",
-      "title": "More than Mountains: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
-      "date": "2026-10-26T13:30:00",
-      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Craggy Gardens Visitor Center is at Milepost 364.5 on the Blue Ridge Parkway.",
-      "description": "Craggy Gardens may be famous for it\u2019s gorgeous views and natural grassy balds, but there\u2019s more to the mountains than meets the eye. What about watersheds, salamanders, and mica mines? Or the Civilian",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "dcbc820b85ca",
-      "title": "Mammals of the Blue Ridge Parkway: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-10-26T14:45:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "Come learn about some of the Blue Ridge Parkway\u2019s lesser-known and lesser-seen mammals! During this 20-minute ranger talk, visitors can learn what a mammal is, what mammals can be found on the parkway",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
       "id": "28001944cc09",
       "title": "Alleghany Jubilee",
       "date": "2026-10-26T18:00:00",
@@ -221,13 +144,13 @@
       "longitude": -81.6746
     },
     {
-      "id": "d9203f1ccb6c",
+      "id": "7368ac11c61b",
       "title": "Carolina Pine at Jones House",
       "date": "2026-10-28T19:00:00",
-      "location": "Blue Ridge, NC",
+      "location": "Jones House Community Center, NC",
       "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/carolina-pine-at-jones-house/",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -386,6 +309,28 @@
       "longitude": -81.8576
     },
     {
+      "id": "31983d3cd3d1",
+      "title": "Seven Devils Trunk Or Treat",
+      "date": "2026-10-29T17:00:00",
+      "location": "The Park at Seven Devils, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "6461a242ba69",
+      "title": "Avery County Farmers Market",
+      "date": "2026-10-29T18:00:00",
+      "location": "Historic Banner Elk School Grounds",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "0c8df6f7aabf",
       "title": "Roots Music Revue with Travis Book of Infamous Stringdusters",
       "date": "2026-10-29T18:00:00",
@@ -448,6 +393,17 @@
       "description": "All the World\u2019s a Stage: Douglas Moore\u2019s Gallantry and W.A. Mozart\u2019s The Impresario What happens when a down on his luck opera producer has to rent out his theatre to an over the top theatre group put",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/gallantry-the-impresarion/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "9cff10cd4178",
+      "title": "Old Time Jam",
+      "date": "2026-10-29T22:00:00",
+      "location": "Jones House Community Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -705,6 +661,72 @@
       "longitude": -81.6752
     },
     {
+      "id": "108e5bf088d8",
+      "title": "Gallantry & The Impresario",
+      "date": "2026-10-30T19:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/gallantry-impresario",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "311988b9caa6",
+      "title": "A Carolina Snowbelle Christmas",
+      "date": "2026-10-30T19:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christmas-2026",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "21dba4488e46",
+      "title": "A Christmas Carol by Candlelight",
+      "date": "2026-10-30T19:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/candlelight-christmas-carol-m5r7a",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "f1defb353226",
+      "title": "The Best Christmas Pageant Ever",
+      "date": "2026-10-30T19:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/beanstalk-christmaspageant",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "5f1f4f999056",
+      "title": "Halloween Monster Concert",
+      "date": "2026-10-30T21:00:00",
+      "location": "Rosen Concert Hall, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "fc258196b460",
+      "title": "Rockabilly Old-Time Halloween Concert",
+      "date": "2026-10-30T22:00:00",
+      "location": "Lost Province Center of the Arts, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "495305dea5a5",
       "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
       "date": "2026-10-31T10:00:00",
@@ -760,15 +782,48 @@
       "longitude": -78.899465
     },
     {
-      "id": "29be7bba1b14",
-      "title": "Boone BOO! Photo Spot",
-      "date": "2026-10-31T16:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "id": "a3b3185858ec",
+      "title": "Watauga County Farmers Market",
+      "date": "2026-10-31T12:00:00",
+      "location": "Horn in the West Parking Lot, NC",
       "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/beetlejuice-54mmn",
-      "latitude": 36.2157,
-      "longitude": -81.6752
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "7c1205d4d356",
+      "title": "Ashe County Farmers Market",
+      "date": "2026-10-31T13:00:00",
+      "location": "Backstreet Park, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "f37cca27d78b",
+      "title": "Carolina Comedy Parlor",
+      "date": "2026-10-31T19:00:00",
+      "location": "Mysterium, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "2478c8ba2fe4",
+      "title": "Boone BOO! Photo Spot",
+      "date": "2026-10-31T19:00:00",
+      "location": "Downtown Boone",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "59ad5c207e78",
@@ -778,6 +833,17 @@
       "description": "Looking for something unforgettable to do in Boone? Experience an intimate 20-seat comedy magic show filled with laughter, masterful sleight of hand, audience interaction and astonishing moments\u2014all j",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/the-carolina-comedy-magic-parlor/2026-10-31/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "c72042714f59",
+      "title": "Blowing Rock Halloween Festival",
+      "date": "2026-10-31T20:00:00",
+      "location": "Downtown Blowing Rock",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1343,17 +1409,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "f224540cc456",
-      "title": "Carolina Social Music Club",
-      "date": "2027-09-13T17:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/carolina-social-music-club",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
       "id": "b0a7543244c6",
       "title": "St. Mary of the Hills welcomes SoLa Bazaar on Sunday, September 14",
       "date": "2027-09-14T10:00:00",
@@ -1363,17 +1418,6 @@
       "url": "https://www.hcpress.com/announcements/st-mary-of-the-hills-welcomes-sola-bazaar-on-sunday-september-14.html",
       "latitude": 36.2168,
       "longitude": -81.6746
-    },
-    {
-      "id": "d1f5479a7d8d",
-      "title": "Between Two Sons - Daniel Boone During the American Revolution",
-      "date": "2027-09-15T18:00:00",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/saha-between-two-sons",
-      "latitude": 36.2157,
-      "longitude": -81.6752
     },
     {
       "id": "22e265023b53",
@@ -1453,8 +1497,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-10-26T00:03:02.167044",
-  "total_events": 132,
+  "last_updated": "2026-10-26T17:08:29.045720",
+  "total_events": 136,
   "sources": [
     "Manual Events",
     "High Country Host",
