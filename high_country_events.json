@@ -100,17 +100,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "bdf6ea193938",
-      "title": "This Year Challenge Your Ski and Snowboarding Buddies to Some Racing This Winter",
-      "date": "2026-10-29T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/sports/this-year-challenge-your-ski-and-snowboarding-buddies-to-some-racing-this-winter.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "cd8ded9ecbc5",
       "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
       "date": "2026-10-29T10:00:00",
@@ -1024,6 +1013,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "0743c3c7654b",
+      "title": "Midway (2019)",
+      "date": "2026-11-10T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/midway-2019",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "f041cb562cd2",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-11-12T19:00:00",
@@ -1035,13 +1035,35 @@
       "longitude": -81.6746
     },
     {
-      "id": "7e1871e2a6d2",
+      "id": "786e96dff4da",
+      "title": "Wicked: For Good (2025)",
+      "date": "2026-11-13T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/wicked-forgood",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "ed7fa8f6aadc",
       "title": "AppTheatre 88th Birthday Celebration - \u201cThe Wizard of Oz\u201d",
-      "date": "2026-11-14T14:00:00",
+      "date": "2026-11-14T13:00:00",
       "location": "Appalachian Theatre, 559 W King St, Boone, NC",
       "description": "",
       "source": "Appalachian Theatre",
       "url": "https://www.apptheatre.org/events-and-tickets/88th-birthday-wizardofoz",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "3ed978a738cd",
+      "title": "Morganton Improv Co.",
+      "date": "2026-11-14T19:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/morgantonimprov-1114",
       "latitude": 36.2157,
       "longitude": -81.6752
     },
@@ -1167,6 +1189,28 @@
       "longitude": -81.6746
     },
     {
+      "id": "3368486661b7",
+      "title": "National Lampoon\u2019s Christmas Vacation",
+      "date": "2026-11-27T18:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/christmas-vacation",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "b1927e74a53c",
+      "title": "The Star (2017)",
+      "date": "2026-11-28T14:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/thestar-26",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "000b3b1affd0",
       "title": "The Carolina Comedy Magic Parlor",
       "date": "2026-11-28T19:00:00",
@@ -1176,6 +1220,17 @@
       "url": "https://downtownboonenc.com/eventinfo/the-carolina-comedy-magic-parlor/2026-11-28/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "33451486da49",
+      "title": "A Christmas Story (1983)",
+      "date": "2026-11-29T15:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/christmas-story",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "5584e60e4f7c",
@@ -1207,17 +1262,6 @@
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-12-03/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "10c94070b442",
-      "title": "Mountainfilm on Tour Returns to Lees-McRae for High Country Film and Speaker Series 2025\u201326 on Feb. 21 \u2013 Discounted Tickets Available Now",
-      "date": "2026-12-04T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/mountainfilm-on-tour-returns-to-lees-mcrae-for-high-country-film-and-speaker-series-2025-26-on-feb-21-discounted-tickets-available-now.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1332,6 +1376,28 @@
       "longitude": -81.6746
     },
     {
+      "id": "fb4fdf74d246",
+      "title": "The Brit Pack - British Invasion and More",
+      "date": "2027-01-14T19:30:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/brit-pack",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
+      "id": "343db265ca1b",
+      "title": "Trey Hensley",
+      "date": "2027-01-29T19:00:00",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/trey-hensley",
+      "latitude": 36.2157,
+      "longitude": -81.6752
+    },
+    {
       "id": "8f5ffe9916db",
       "title": "Kruger Brothers",
       "date": "2027-02-06T10:00:00",
@@ -1398,35 +1464,90 @@
       "longitude": -81.814
     },
     {
-      "id": "2e8141ccff35",
-      "title": "\u2018Local Love\u2019 Lineup Revealed for FloydFest 26~Daydream (July 22-26, 2026)",
-      "date": "2027-07-22T10:00:00",
+      "id": "95c82845ce45",
+      "title": "Foscoe Home Team Opened New Location August 18",
+      "date": "2027-08-18T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/events/local-love-lineup-revealed-for-floydfest-26daydream-july-22-26-2026.html",
+      "url": "https://www.hcpress.com/avery/foscoe-home-team-opened-new-location-august-18.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
     {
-      "id": "dbfb3340021f",
-      "title": "Announcing FloydFest 26~Daydream, July 22-26, 2026; Tedeschi Trucks Band, My Morning Jacket, Stephen Wilson Jr., Lukas Nelson to Headline \u2013 Tickets on Sale Now with \u2018Early-Bird\u2019 Pricing",
-      "date": "2027-07-22T10:00:00",
+      "id": "27ebae5603ff",
+      "title": "State Auditor reports Town of Newland breakdowns in financial oversight",
+      "date": "2027-08-21T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/entertainment/announcing-floydfest-26daydream-july-22-26-2026-tedeschi-trucks-band-my-morning-jacket-stephen-wilson-jr-lukas-nelson-to-headline-tickets-on-sale-now.html",
+      "url": "https://www.hcpress.com/avery/state-auditor-reports-town-of-newland-breakdowns-in-financial-oversight.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
     {
-      "id": "b0a7543244c6",
-      "title": "St. Mary of the Hills welcomes SoLa Bazaar on Sunday, September 14",
-      "date": "2027-09-14T10:00:00",
+      "id": "ac98a2b4893f",
+      "title": "Watauga, Avery Obituaries \u2013 August 25th, 2026",
+      "date": "2027-08-25T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/st-mary-of-the-hills-welcomes-sola-bazaar-on-sunday-september-14.html",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-august-25th-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "874e7cefb875",
+      "title": "Watauga, Avery Obituaries \u2013 September 1st, 2026",
+      "date": "2027-09-01T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-september-1st-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "edb8882acf69",
+      "title": "Tomato Trail Connects High Country Shoppers with Local Food",
+      "date": "2027-09-05T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/tomato-trail-connects-high-country-shoppers-with-local-food.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "579cb3e9cc8c",
+      "title": "Watauga, Avery Obituaries \u2013 September 8th, 2026",
+      "date": "2027-09-08T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/obits/watauga-avery-obituaries-september-8th-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "ea1199cce970",
+      "title": "Congresswoman Virginia Foxx Hosts U.S. Service Academy Day on September 12",
+      "date": "2027-09-12T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/congresswoman-virginia-foxx-hosts-u-s-service-academy-day-on-september-12.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "35f38234323e",
+      "title": "Watauga, Avery Obituaries \u2013 September 15th, 2026",
+      "date": "2027-09-15T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-september-15th-2026.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1475,6 +1596,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "9e943156d369",
+      "title": "Watauga, Avery Obituaries \u2013 September 22nd, 2026",
+      "date": "2027-09-22T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/obits/watauga-avery-obituaries-september-22nd-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "99da86402c56",
       "title": "Dolly Film Fest: Steel Magnolias",
       "date": "2027-09-22T18:00:00",
@@ -1508,8 +1640,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-10-27T16:11:34.825308",
-  "total_events": 137,
+  "last_updated": "2026-10-27T20:21:02.690893",
+  "total_events": 149,
   "sources": [
     "Manual Events",
     "High Country Host",
