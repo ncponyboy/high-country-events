@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "85993988e493",
-      "title": "Building Appalachia: A Geologic Story (Ranger Talk \u2013 Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-10-28T15:00:00",
-      "location": "Museum of North Carolina Minerals (Parkway milepost 331) - 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "Formed over the eons by titanic forces within the earth, the mountains of Appalachia are among the most majestic mountains on earth. Stop by the Museum of North Carolina Minerals to enjoy a 20-minute ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
-      "id": "b84b0b7cf488",
-      "title": "FBVMA Mountain Music Jam Sessions",
-      "date": "2026-10-28T18:00:00",
-      "location": "Blue Ridge, NC",
-      "description": "",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/fbvma-mountain-music-jam-sessions/2026-10-28/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "7368ac11c61b",
       "title": "Carolina Pine at Jones House",
       "date": "2026-10-28T19:00:00",
@@ -30,17 +8,6 @@
       "description": "",
       "source": "High Country Host",
       "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "bdf6ea193938",
-      "title": "This Year Challenge Your Ski and Snowboarding Buddies to Some Racing This Winter",
-      "date": "2026-10-29T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/sports/this-year-challenge-your-ski-and-snowboarding-buddies-to-some-racing-this-winter.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1233,17 +1200,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "10c94070b442",
-      "title": "Mountainfilm on Tour Returns to Lees-McRae for High Country Film and Speaker Series 2025\u201326 on Feb. 21 \u2013 Discounted Tickets Available Now",
-      "date": "2026-12-04T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/mountainfilm-on-tour-returns-to-lees-mcrae-for-high-country-film-and-speaker-series-2025-26-on-feb-21-discounted-tickets-available-now.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "3932749615a2",
       "title": "The Art of Walking",
       "date": "2026-12-04T15:00:00",
@@ -1442,35 +1398,90 @@
       "longitude": -81.814
     },
     {
-      "id": "2e8141ccff35",
-      "title": "\u2018Local Love\u2019 Lineup Revealed for FloydFest 26~Daydream (July 22-26, 2026)",
-      "date": "2027-07-22T10:00:00",
+      "id": "95c82845ce45",
+      "title": "Foscoe Home Team Opened New Location August 18",
+      "date": "2027-08-18T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/events/local-love-lineup-revealed-for-floydfest-26daydream-july-22-26-2026.html",
+      "url": "https://www.hcpress.com/avery/foscoe-home-team-opened-new-location-august-18.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
     {
-      "id": "dbfb3340021f",
-      "title": "Announcing FloydFest 26~Daydream, July 22-26, 2026; Tedeschi Trucks Band, My Morning Jacket, Stephen Wilson Jr., Lukas Nelson to Headline \u2013 Tickets on Sale Now with \u2018Early-Bird\u2019 Pricing",
-      "date": "2027-07-22T10:00:00",
+      "id": "27ebae5603ff",
+      "title": "State Auditor reports Town of Newland breakdowns in financial oversight",
+      "date": "2027-08-21T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/entertainment/announcing-floydfest-26daydream-july-22-26-2026-tedeschi-trucks-band-my-morning-jacket-stephen-wilson-jr-lukas-nelson-to-headline-tickets-on-sale-now.html",
+      "url": "https://www.hcpress.com/avery/state-auditor-reports-town-of-newland-breakdowns-in-financial-oversight.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
     {
-      "id": "b0a7543244c6",
-      "title": "St. Mary of the Hills welcomes SoLa Bazaar on Sunday, September 14",
-      "date": "2027-09-14T10:00:00",
+      "id": "ac98a2b4893f",
+      "title": "Watauga, Avery Obituaries \u2013 August 25th, 2026",
+      "date": "2027-08-25T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/st-mary-of-the-hills-welcomes-sola-bazaar-on-sunday-september-14.html",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-august-25th-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "874e7cefb875",
+      "title": "Watauga, Avery Obituaries \u2013 September 1st, 2026",
+      "date": "2027-09-01T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-september-1st-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "edb8882acf69",
+      "title": "Tomato Trail Connects High Country Shoppers with Local Food",
+      "date": "2027-09-05T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/tomato-trail-connects-high-country-shoppers-with-local-food.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "579cb3e9cc8c",
+      "title": "Watauga, Avery Obituaries \u2013 September 8th, 2026",
+      "date": "2027-09-08T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/obits/watauga-avery-obituaries-september-8th-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "ea1199cce970",
+      "title": "Congresswoman Virginia Foxx Hosts U.S. Service Academy Day on September 12",
+      "date": "2027-09-12T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/congresswoman-virginia-foxx-hosts-u-s-service-academy-day-on-september-12.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "35f38234323e",
+      "title": "Watauga, Avery Obituaries \u2013 September 15th, 2026",
+      "date": "2027-09-15T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-september-15th-2026.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1519,6 +1530,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "9e943156d369",
+      "title": "Watauga, Avery Obituaries \u2013 September 22nd, 2026",
+      "date": "2027-09-22T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/obits/watauga-avery-obituaries-september-22nd-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "99da86402c56",
       "title": "Dolly Film Fest: Steel Magnolias",
       "date": "2027-09-22T18:00:00",
@@ -1552,8 +1574,8 @@
       "longitude": -81.6752
     }
   ],
-  "last_updated": "2026-10-28T16:58:02.237618",
-  "total_events": 141,
+  "last_updated": "2026-10-28T20:43:27.884789",
+  "total_events": 143,
   "sources": [
     "Manual Events",
     "High Country Host",
