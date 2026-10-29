@@ -1,160 +1,6 @@
 {
   "events": [
     {
-      "id": "bdf6ea193938",
-      "title": "This Year Challenge Your Ski and Snowboarding Buddies to Some Racing This Winter",
-      "date": "2026-10-29T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/sports/this-year-challenge-your-ski-and-snowboarding-buddies-to-some-racing-this-winter.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "dad64c344e38",
-      "title": "Snake Take (Peaks of Otter - Milepost 86)",
-      "date": "2026-10-29T10:00:00",
-      "location": "Located in the breezeway outside the Peaks of Otter Visitor Center at Milepost 86 (85919 Blue Ridge Parkway, Bedford, VA 24523).",
-      "description": "Join a Ranger to learn about some of the snakes that call the Blue Ridge Parkway home! All Blue Ridge NPS Programs are free and open to the public. All ages are welcome.",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.445606,
-      "longitude": -79.609958
-    },
-    {
-      "id": "e51cb5e19a26",
-      "title": "The Right Track: A History of Trails in Southern Appalachia: Guided, Low-Elevation Hike (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-10-29T10:00:00",
-      "location": "Meet at the flagpole in front of the Blue Ridge Parkway Visitor Center.",
-      "description": "All levels of experience are welcome on this relaxed, ranger-led hike on the trails. Join us to learn about the history and philosophy behind trail-building in the Southern Appalachian Mountains and m",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "81f87a0af9e7",
-      "title": "Building Appalachia: A Geologic Story (Ranger Talk \u2013 Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-10-29T10:30:00",
-      "location": "Museum of North Carolina Minerals (Parkway milepost 331) - 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "Formed over the eons by titanic forces within the earth, the mountains of Appalachia are among the most majestic mountains on earth. Stop by the Museum of North Carolina Minerals to enjoy a 20-minute ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
-      "id": "bbc8ad56b241",
-      "title": "A Mindful Meander: Guided High Elevation Hike (Craggy Gardens Visitor Center - Milepost 364)",
-      "date": "2026-10-29T10:45:00",
-      "location": "Meet in front of the Craggy Gardens Visitor Center.",
-      "description": "Do you ever get so caught up in the excitement about the destination of your hike that you forget to enjoy the journey? Come join us for a relaxed-pace guided hike where the journey becomes the focus ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "1d3568c67449",
-      "title": "People of these Mountains: Guided High Elevation Hike (Waterrock Knob Visitor Center - Milepost 451)",
-      "date": "2026-10-29T10:45:00",
-      "location": "Meet in front of the Waterrock Knob Visitor Center, which is at Milepost 451 on the Blue Ridge Parkway.",
-      "description": "People have lived in these mountains for millennia. This guided hike explores changes that each group of people brought when they came to these mountains. Imagine what those who preceded us found and ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "72cc5b8b54a5",
-      "title": "One Big House: Guided Walk (Humpback Rocks Visitor Center - Milepost 6)",
-      "date": "2026-10-29T11:00:00",
-      "location": "Meet at the Humpback Rocks Visitor Center (Milepost 6). The walk will take you through the historic farm and back, about 0.5 miles.",
-      "description": "Have you ever wondered how the forest, the farm, our homes shape us? Join a Ranger on a guided walk discussing the ecology in and around the historic farm at Humpback Rocks. Come and see how folks liv",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.972724,
-      "longitude": -78.899465
-    },
-    {
-      "id": "66362f0d6e68",
-      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
-      "date": "2026-10-29T11:30:00",
-      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
-      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751712,
-      "longitude": -80.405357
-    },
-    {
-      "id": "6dd97af539cc",
-      "title": "From Hunters to Heroes: The Overmountain Men (Ranger Talk - Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-10-29T11:30:00",
-      "location": "The Museum of North Carolina Minerals is located at Blue Ridge Parkway milepost 331 near Spruce Pine, NC. Address: 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "The ripple effect from our choices and actions may take weeks, months, even years to become fully apparent. Back in 1780, local militia from \u201cover the mountains\u201d in North Carolina, Tennessee, and Virg",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
-      "id": "5630f9ba52ed",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-10-29T12:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
-    },
-    {
-      "id": "b22bb1811f0f",
-      "title": "Brinegar Cabin Open House (Doughton Park - Milepost 238.5)",
-      "date": "2026-10-29T13:00:00",
-      "location": "Brinegar Cabin is located at milepost 238.5 on the Blue Ridge Parkway. Park in the parking and follow the paved walkway to the cabin.",
-      "description": "Step back into the late 1800s at one of Doughton Park\u2019s most cherished historic sites. Completed in 1889, the Brinegar family home offers visitors a window into mountain life shaped by resilience, cra",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.418721,
-      "longitude": -81.146435
-    },
-    {
-      "id": "e236b20a9b20",
-      "title": "I Asked a Bat For Some Advice. It Said \u201cJust Wing It.\u201d: Ranger-Led Talks and Activities (Waterrock Knob Visitor Center - Milepost 451)",
-      "date": "2026-10-29T13:30:00",
-      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Waterrock Knob Visitor Center is at Milepost 451 of the Blue Ridge Parkway.",
-      "description": "Bats are a key part of our forest ecosystems along the Parkway. They consume enormous numbers of insects and are super cool mammals. Join us for a few bat jokes and a lot of bat fun.",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "db230e9a595d",
-      "title": "The Subsistence Farmer\u2019s Toolkit: Ranger-Led Talks and Activities (Craggy Gardens Visitor Center - Milepost 364)",
-      "date": "2026-10-29T13:30:00",
-      "location": "This talk will be outside the visitor center. In high winds or inclement weather, the talk will be canceled and we will set up an informal educational table indoors. The Craggy Gardens Visitor Center is at Milepost 364.5 on the Blue Ridge Parkway.",
-      "description": "Come learn about what it would have been like to live as a subsistence farmer in the area around the Blue Ridge Parkway in the 1800s. We will look at selection of tools from an early homestead and exp",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "ea6dbbadab38",
-      "title": "Bluegrass Mountains: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-10-29T14:45:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "Bluegrass music has a long history along the Parkway, our roads preserving songs and stories of the everyday people who lived in this region before us. Join a ranger for a musical exploration of these",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
       "id": "31983d3cd3d1",
       "title": "Seven Devils Trunk Or Treat",
       "date": "2026-10-29T17:00:00",
@@ -791,6 +637,28 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.143,
       "longitude": -81.8576
+    },
+    {
+      "id": "92c0dff0d3ad",
+      "title": "Bluegrass Jam with Bruce Threlkeld",
+      "date": "2026-10-31T14:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/bluegrass-jam-with-bruce-threlkeld/2026-10-31/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "0063bee2e3fb",
+      "title": "Live Mountain Music at the Orchard at Altapass",
+      "date": "2026-10-31T14:00:00",
+      "location": "Blue Ridge, NC",
+      "description": "",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/live-mountain-music-at-the-orchard-at-altapass-2/2026-10-31/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "f37cca27d78b",
@@ -1464,6 +1332,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "814a4ece2121",
+      "title": "Sunset at the Swinging Bridge",
+      "date": "2027-02-13T17:00:00",
+      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
+      "description": "To celebrate the 75th Anniversary of the Mile High Swinging Bridge in 2027, Grandfather Mountain, the not-for-profit nature park run by the Grandfather Mountain Stewardship Foundation, is offering a s",
+      "source": "Grandfather Mountain",
+      "url": "https://grandfather.com/event/sunset-at-the-swinging-bridge/",
+      "latitude": 36.0850742,
+      "longitude": -81.8462718
+    },
+    {
       "id": "e1e94a273749",
       "title": "The Man from Snowy River",
       "date": "2027-03-05T18:00:00",
@@ -1478,12 +1357,23 @@
       "id": "ce03356f9d7f",
       "title": "Youth Climate Summit 2027",
       "date": "2027-03-13T09:00:00",
-      "location": "Grandfather Mountain, 2050 Blowing Rock Hwy, Linville, NC",
+      "location": "NC",
       "description": "Calling all middle and high school students! Showcase a project that you are doing at your school that helps mitigate climate change \u2013 benefiting their school, community or the environment! All attend",
       "source": "Grandfather Mountain",
       "url": "https://grandfather.com/event/youth-climate-summit-2027/",
       "latitude": 36.0979,
       "longitude": -81.814
+    },
+    {
+      "id": "403b6c6ccc4b",
+      "title": "Sunrise at the Swinging Bridge",
+      "date": "2027-03-20T06:40:00",
+      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
+      "description": "To celebrate the 75th Anniversary of the Mile High Swinging Bridge in 2027, Grandfather Mountain, the not-for-profit nature park run by the Grandfather Mountain Stewardship Foundation, is offering a s",
+      "source": "Grandfather Mountain",
+      "url": "https://grandfather.com/event/sunrise-at-the-swinging-bridge-3/",
+      "latitude": 36.0850742,
+      "longitude": -81.8462718
     },
     {
       "id": "2e8141ccff35",
@@ -1506,6 +1396,17 @@
       "url": "https://www.hcpress.com/entertainment/announcing-floydfest-26daydream-july-22-26-2026-tedeschi-trucks-band-my-morning-jacket-stephen-wilson-jr-lukas-nelson-to-headline-tickets-on-sale-now.html",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "bb02f100d892",
+      "title": "Sunrise at the Swinging Bridge",
+      "date": "2027-08-07T05:50:00",
+      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
+      "description": "To celebrate the 75th Anniversary of the Mile High Swinging Bridge in 2027, Grandfather Mountain, the not-for-profit nature park run by the Grandfather Mountain Stewardship Foundation, is offering a s",
+      "source": "Grandfather Mountain",
+      "url": "https://grandfather.com/event/sunrise-at-the-swinging-bridge-4/",
+      "latitude": 36.0850742,
+      "longitude": -81.8462718
     },
     {
       "id": "b0a7543244c6",
@@ -1605,10 +1506,21 @@
       "url": "https://www.apptheatre.org/events-and-tickets/jay-brown-silent-movie-day-2026",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "c5ce2f8bf3f4",
+      "title": "Sunset at the Swinging Bridge",
+      "date": "2027-10-01T18:00:00",
+      "location": "Grandfather Mountain, 2050 Blowing Rock Highway, Linville, NC, 28646, United States",
+      "description": "To celebrate the 75th Anniversary of the Mile High Swinging Bridge in 2027, Grandfather Mountain, the not-for-profit nature park run by the Grandfather Mountain Stewardship Foundation, is offering a s",
+      "source": "Grandfather Mountain",
+      "url": "https://grandfather.com/event/sunset-at-the-swinging-bridge-2/",
+      "latitude": 36.0850742,
+      "longitude": -81.8462718
     }
   ],
-  "last_updated": "2026-10-29T01:41:32.908464",
-  "total_events": 146,
+  "last_updated": "2026-10-29T17:19:09.953420",
+  "total_events": 138,
   "sources": [
     "Manual Events",
     "High Country Host",
