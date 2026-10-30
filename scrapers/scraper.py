@@ -10,11 +10,14 @@ Required environment variables (GitHub Secrets):
 
 import asyncio
 import hashlib
+import html as html_lib
 import json
+import math
 import os
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from typing import Dict, List, Optional
+from zoneinfo import ZoneInfo
 
 import aiohttp
 from bs4 import BeautifulSoup
@@ -29,6 +32,23 @@ NPS_API_KEY = os.environ.get("NPS_API_KEY", "")
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "high_country_events.json")
 ICS_OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "high_country_events.ics")
 MANUAL_EVENTS_FILE = os.path.join(os.path.dirname(__file__), "..", "manual_events.json")
+
+# Piney Creek feed: a second, tighter calendar for the Chase's Retreat tablets
+PINEY_CREEK_ICS_FILE = os.path.join(os.path.dirname(__file__), "..", "piney_creek_events.ics")
+PINEY_CREEK_ANYTIME_FILE = os.path.join(os.path.dirname(__file__), "..", "piney_creek_anytime.json")
+PINEY_CREEK_HOME = (36.546, -81.326)
+PINEY_CREEK_RADIUS_MILES = 35
+PINEY_CREEK_DAYS = 60
+PINEY_CREEK_FILL_DAYS = 14          # top up quiet days with an "anytime" idea this far out
+PINEY_CREEK_MIN_EVENTS_PER_DAY = 2
+PINEY_CREEK_EXCLUDED_SOURCES = {"High Country Press"}   # news headlines, not events
+RECURRING_PROGRAM_SOURCES = {"NPS Blue Ridge Pkwy", "NC State Parks"}
+
+# Region the main feed covers (centered on Boone)
+REGION_CENTER = (36.2168, -81.6746)
+REGION_RADIUS_MILES = 50
+
+EASTERN = ZoneInfo("America/New_York")
 
 
 def log_info(msg):    print(f"[INFO]  {msg}")
@@ -60,6 +80,17 @@ BARE_MONTH_YEAR_RE = re.compile(
 
 def is_junk_title(title: str) -> bool:
     return bool(BARE_MONTH_YEAR_RE.match(title.strip()))
+
+
+def miles_between(a, b) -> float:
+    lat1, lon1, lat2, lon2 = map(math.radians, (a[0], a[1], b[0], b[1]))
+    h = math.sin((lat2 - lat1) / 2) ** 2 + math.cos(lat1) * math.cos(lat2) * math.sin((lon2 - lon1) / 2) ** 2
+    return 2 * 3959 * math.asin(math.sqrt(h))
+
+
+def to_eastern_naive(dt: datetime) -> datetime:
+    """Aware datetime -> naive Eastern wall-clock time (what the .ics files are written in)."""
+    return dt.astimezone(EASTERN).replace(tzinfo=None)
 
 
 def parse_date_time(month: str, day: str, year: int = None, time_str: str = "7pm") -> Optional[datetime]:
@@ -247,12 +278,15 @@ def parse_ical_feed(raw_ical: str, source_name: str, default_location: str,
         geo = fields.get('GEO', '')
         if not summary or not dtstart:
             continue
+        is_utc = dtstart.upper().endswith('Z')
         dtstart_clean = dtstart.upper().rstrip('Z')
         try:
             if 'T' in dtstart_clean:
                 dt_part, t_part = dtstart_clean.split('T', 1)
                 t_part = t_part[:6].ljust(6, '0')
                 event_date = datetime.strptime(dt_part + t_part, '%Y%m%d%H%M%S')
+                if is_utc:
+                    event_date = to_eastern_naive(event_date.replace(tzinfo=timezone.utc))
             else:
                 event_date = datetime.strptime(dtstart_clean[:8], '%Y%m%d')
                 event_date = event_date.replace(hour=19, minute=0)
@@ -928,8 +962,74 @@ async def scrape_old_barn_winery(session: aiohttp.ClientSession) -> List[Dict]:
     return events
 
 
+async def fetch_tribe_events(session: aiohttp.ClientSession, base_url: str, source_name: str,
+                             days: int = 45, max_pages: int = 20) -> Optional[List[Dict]]:
+    """Events from a WordPress "The Events Calendar" REST API, with each venue's own coordinates.
+    Only events within REGION_RADIUS_MILES of REGION_CENTER are kept. Returns None if the API fails."""
+    events = []
+    start = datetime.now(EASTERN).strftime('%Y-%m-%d')
+    end = (datetime.now(EASTERN) + timedelta(days=days)).strftime('%Y-%m-%d')
+    page = 1
+    while page <= max_pages:
+        api_url = (f"{base_url}/wp-json/tribe/events/v1/events"
+                   f"?per_page=50&page={page}&start_date={start}&end_date={end}")
+        try:
+            async with session.get(api_url, headers={"User-Agent": "Mozilla/5.0"},
+                                   timeout=aiohttp.ClientTimeout(total=30)) as resp:
+                if resp.status != 200:
+                    log_warn(f"  ⚠ {source_name} events API returned HTTP {resp.status}")
+                    return None if page == 1 else events
+                data = await resp.json(content_type=None)
+        except Exception as e:
+            log_warn(f"  ⚠ {source_name} events API error: {e}")
+            return None if page == 1 else events
+        for item in data.get("events", []):
+            venue = item.get("venue") or {}
+            try:
+                lat, lon = float(venue.get("geo_lat")), float(venue.get("geo_lng"))
+            except (TypeError, ValueError):
+                continue
+            if miles_between(REGION_CENTER, (lat, lon)) > REGION_RADIUS_MILES:
+                continue
+            title = clean_text(html_lib.unescape(item.get("title", "")))
+            if not title or is_junk_title(title):
+                continue
+            try:
+                event_date = datetime.strptime(item["start_date"], '%Y-%m-%d %H:%M:%S')
+            except (KeyError, ValueError):
+                continue
+            venue_name = clean_text(html_lib.unescape(venue.get("venue", "")))
+            city = venue.get("city", "")
+            location = ", ".join(x for x in (venue_name, city, venue.get("state", "")) if x)
+            description = clean_text(html_lib.unescape(item.get("excerpt") or item.get("description") or ""))
+            events.append({
+                "id": create_event_id(title, event_date.isoformat(), source_name),
+                "title": title,
+                "date": event_date.isoformat(),
+                "location": location[:100] or "Blue Ridge, NC",
+                "description": description[:200],
+                "source": source_name,
+                "url": item.get("url") or base_url,
+                "latitude": lat,
+                "longitude": lon
+            })
+        if page >= data.get("total_pages", 1):
+            break
+        page += 1
+    return events
+
+
 async def scrape_blue_ridge_music(session: aiohttp.ClientSession) -> List[Dict]:
     log_info("Scraping Blue Ridge Music NC...")
+    events = await fetch_tribe_events(session, "https://www.blueridgemusicnc.com", "Blue Ridge Music NC")
+    if events is not None:
+        log_info(f"  ✓ Found {len(events)} events via events API")
+        return events
+    return await _scrape_blue_ridge_music_html(session)
+
+
+async def _scrape_blue_ridge_music_html(session: aiohttp.ClientSession) -> List[Dict]:
+    log_info("  Falling back to Blue Ridge Music NC web pages...")
     events = []
     try:
         url = "https://www.blueridgemusicnc.com/events/"
@@ -1074,6 +1174,32 @@ async def scrape_appalachian_theatre(session: aiohttp.ClientSession) -> List[Dic
     source_name = "Appalachian Theatre"
     base_url = "https://www.apptheatre.org"
     try:
+        json_raw = await fetch_url(f"{base_url}/events-and-tickets?format=json", session)
+        if json_raw:
+            try:
+                upcoming = json.loads(json_raw).get("upcoming", [])
+            except ValueError:
+                upcoming = []
+            for item in upcoming:
+                title_text = clean_text(html_lib.unescape(item.get("title", "")))
+                if not title_text or not item.get("startDate"):
+                    continue
+                event_date = to_eastern_naive(
+                    datetime.fromtimestamp(item["startDate"] / 1000, tz=timezone.utc))
+                events.append({
+                    "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                    "title": title_text,
+                    "date": event_date.isoformat(),
+                    "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+                    "description": clean_text(html_lib.unescape(item.get("excerpt", "")))[:200],
+                    "source": source_name,
+                    "url": base_url + item.get("fullUrl", "/events-and-tickets"),
+                    "latitude": 36.2157,
+                    "longitude": -81.6752
+                })
+            if events:
+                log_info(f"  ✓ Found {len(events)} events via JSON")
+                return events
         ical_raw = await fetch_url(f"{base_url}/events-and-tickets?format=ical", session)
         if ical_raw and 'BEGIN:VCALENDAR' in ical_raw:
             events = parse_ical_feed(
@@ -1624,6 +1750,102 @@ async def scrape_manual_events(session: aiohttp.ClientSession) -> List[Dict]:
     return events
 
 
+async def scrape_rex_theater(session: aiohttp.ClientSession) -> List[Dict]:
+    log_info("Scraping The Rex Theater (Galax, VA)...")
+    events = []
+    source_name = "Rex Theater"
+    base_url = "https://www.rex.theater"
+    try:
+        page = await fetch_url(f"{base_url}/", session)
+        if not page:
+            return events
+        for block in re.findall(r'<script[^>]*ld\+json[^>]*>(.*?)</script>', page, re.DOTALL):
+            try:
+                data = json.loads(block)
+            except ValueError:
+                continue
+            items = data if isinstance(data, list) else data.get("@graph", [data])
+            for item in items:
+                if not isinstance(item, dict) or "Event" not in str(item.get("@type")):
+                    continue
+                title_text = clean_text(html_lib.unescape(item.get("name", "")))
+                try:
+                    # The site lists dates only; shows are usually in the evening
+                    event_date = datetime.strptime(item.get("startDate", ""), "%b %d, %Y").replace(hour=19)
+                except ValueError:
+                    continue
+                if not title_text or event_date < datetime.now() - timedelta(hours=2):
+                    continue
+                offers = item.get("offers") or {}
+                if isinstance(offers, list):
+                    offers = offers[0] if offers else {}
+                events.append({
+                    "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                    "title": title_text,
+                    "date": event_date.isoformat(),
+                    "location": "The Rex Theater, 113 E Grayson St, Galax, VA",
+                    "description": "Showtime isn't listed online - check the ticket page.",
+                    "source": source_name,
+                    "url": offers.get("url") or base_url,
+                    "latitude": 36.6612,
+                    "longitude": -80.9240
+                })
+        log_info(f"  ✓ Found {len(events)} events")
+    except Exception as e:
+        log_error(f"  ✗ Rex Theater error: {e}")
+    return events
+
+
+async def scrape_nc_state_parks(session: aiohttp.ClientSession) -> List[Dict]:
+    log_info("Scraping NC State Parks programs...")
+    events = []
+    source_name = "NC State Parks"
+    try:
+        for page in range(1, 11):
+            api_url = f"https://events.dncr.nc.gov/api/2/events?days=60&pp=100&page={page}"
+            async with session.get(api_url, headers={"User-Agent": "Mozilla/5.0"},
+                                   timeout=aiohttp.ClientTimeout(total=30)) as resp:
+                if resp.status != 200:
+                    log_warn(f"  ⚠ NC State Parks API returned HTTP {resp.status}")
+                    break
+                data = await resp.json(content_type=None)
+            for wrapper in data.get("events", []):
+                item = wrapper.get("event", {})
+                geo = item.get("geo") or {}
+                try:
+                    lat, lon = float(geo["latitude"]), float(geo["longitude"])
+                except (KeyError, TypeError, ValueError):
+                    continue
+                if miles_between(REGION_CENTER, (lat, lon)) > REGION_RADIUS_MILES:
+                    continue
+                title_text = clean_text(item.get("title", ""))
+                if not title_text or "cancel" in title_text.lower():
+                    continue
+                for inst in item.get("event_instances", []):
+                    start = (inst.get("event_instance") or {}).get("start", "")
+                    try:
+                        event_date = to_eastern_naive(datetime.fromisoformat(start))
+                    except ValueError:
+                        continue
+                    events.append({
+                        "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                        "title": title_text,
+                        "date": event_date.isoformat(),
+                        "location": clean_text(item.get("location_name", ""))[:100] or "NC State Park",
+                        "description": clean_text(item.get("description_text", ""))[:200],
+                        "source": source_name,
+                        "url": item.get("localist_url") or "https://www.ncparks.gov/events",
+                        "latitude": lat,
+                        "longitude": lon
+                    })
+            if page >= (data.get("page") or {}).get("total", 1):
+                break
+        log_info(f"  ✓ Found {len(events)} events")
+    except Exception as e:
+        log_error(f"  ✗ NC State Parks error: {e}")
+    return events
+
+
 # ─────────────────────────────────────────────
 # iCalendar (.ics) export
 # ─────────────────────────────────────────────
@@ -1649,7 +1871,7 @@ def _ics_fold(line: str) -> str:
     return "\r\n".join(parts)
 
 
-def write_ics(events: List[Dict], path: str) -> None:
+def write_ics(events: List[Dict], path: str, calendar_name: str = "High Country Events") -> None:
     now_stamp = datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
     lines = [
         "BEGIN:VCALENDAR",
@@ -1657,7 +1879,7 @@ def write_ics(events: List[Dict], path: str) -> None:
         "PRODID:-//High Country Events//scraper.py//EN",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        "X-WR-CALNAME:High Country Events",
+        f"X-WR-CALNAME:{calendar_name}",
     ]
     for event in events:
         try:
@@ -1679,8 +1901,12 @@ def write_ics(events: List[Dict], path: str) -> None:
         lines.append("BEGIN:VEVENT")
         lines.append(f"UID:{event.get('id') or create_event_id(summary, event['date'], source)}@highcountryevents")
         lines.append(f"DTSTAMP:{now_stamp}")
-        lines.append(f"DTSTART:{start.strftime('%Y%m%dT%H%M%S')}")
-        lines.append(f"DTEND:{end.strftime('%Y%m%dT%H%M%S')}")
+        if event.get("all_day"):
+            lines.append(f"DTSTART;VALUE=DATE:{start.strftime('%Y%m%d')}")
+            lines.append(f"DTEND;VALUE=DATE:{(start + timedelta(days=1)).strftime('%Y%m%d')}")
+        else:
+            lines.append(f"DTSTART:{start.strftime('%Y%m%dT%H%M%S')}")
+            lines.append(f"DTEND:{end.strftime('%Y%m%dT%H%M%S')}")
         lines.append(_ics_fold(f"SUMMARY:{summary}"))
         if location:
             lines.append(_ics_fold(f"LOCATION:{location}"))
@@ -1694,6 +1920,64 @@ def write_ics(events: List[Dict], path: str) -> None:
 
     with open(path, "w", newline="") as f:
         f.write("\r\n".join(lines) + "\r\n")
+
+
+# ─────────────────────────────────────────────
+# Piney Creek feed (Chase's Retreat tablets)
+# ─────────────────────────────────────────────
+def build_piney_creek_events(all_events: List[Dict], now: datetime) -> List[Dict]:
+    """Nearby events only, each recurring ranger program once a week, and an "anytime"
+    idea on quiet days so the tablet never shows an empty or all-lecture day."""
+    horizon = now + timedelta(days=PINEY_CREEK_DAYS)
+    nearby = []
+    last_program_date: Dict[str, datetime] = {}
+    for event in all_events:
+        if event.get("source") in PINEY_CREEK_EXCLUDED_SOURCES:
+            continue
+        try:
+            start = datetime.fromisoformat(event["date"])
+            distance = miles_between(PINEY_CREEK_HOME, (float(event["latitude"]), float(event["longitude"])))
+        except (KeyError, TypeError, ValueError):
+            continue
+        if distance > PINEY_CREEK_RADIUS_MILES or start > horizon:
+            continue
+        if event.get("source") in RECURRING_PROGRAM_SOURCES:
+            key = event["title"].lower()
+            if key in last_program_date and start - last_program_date[key] < timedelta(days=7):
+                continue
+            last_program_date[key] = start
+        nearby.append(event)
+
+    try:
+        with open(PINEY_CREEK_ANYTIME_FILE) as f:
+            anytime_ideas = json.load(f)
+    except (OSError, ValueError) as e:
+        log_warn(f"  ⚠ Could not read {os.path.basename(PINEY_CREEK_ANYTIME_FILE)}: {e}")
+        anytime_ideas = []
+
+    per_day: Dict[str, int] = {}
+    for event in nearby:
+        per_day[event["date"][:10]] = per_day.get(event["date"][:10], 0) + 1
+    fillers = []
+    for offset in range(PINEY_CREEK_FILL_DAYS):
+        if not anytime_ideas:
+            break
+        day = (now + timedelta(days=offset)).replace(hour=0, minute=0, second=0, microsecond=0)
+        if per_day.get(day.strftime('%Y-%m-%d'), 0) >= PINEY_CREEK_MIN_EVENTS_PER_DAY:
+            continue
+        idea = anytime_ideas[day.toordinal() % len(anytime_ideas)]
+        fillers.append({
+            "id": create_event_id(idea["title"], day.isoformat(), "Anytime"),
+            "title": idea["title"],
+            "date": day.isoformat(),
+            "all_day": True,
+            "location": idea.get("location", ""),
+            "description": idea.get("description", ""),
+            "source": "",
+            "url": idea.get("url", ""),
+        })
+
+    return sorted(nearby + fillers, key=lambda e: e["date"])
 
 
 # ─────────────────────────────────────────────
@@ -1723,6 +2007,8 @@ async def main():
         ("Grandfather Mountain",    scrape_grandfather_mountain),
         ("Boonerang Festival",      scrape_boonerang),
         ("NPS Blue Ridge Pkwy",     scrape_nps_blueridge),
+        ("Rex Theater",             scrape_rex_theater),
+        ("NC State Parks",          scrape_nc_state_parks),
         ("Eventbrite",              scrape_eventbrite),
     ]
 
@@ -1770,8 +2056,12 @@ async def main():
 
     write_ics(all_events, ICS_OUTPUT_FILE)
 
+    piney_events = build_piney_creek_events(all_events, now)
+    write_ics(piney_events, PINEY_CREEK_ICS_FILE, calendar_name="Things to Do near Piney Creek")
+
     print(f"\n✓ Saved {len(all_events)} events to high_country_events.json")
     print(f"✓ Saved {len(all_events)} events to high_country_events.ics")
+    print(f"✓ Saved {len(piney_events)} events to piney_creek_events.ics")
     print("=" * 60)
 
 
