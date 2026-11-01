@@ -1,169 +1,15 @@
 {
   "events": [
     {
-      "id": "0063bee2e3fb",
-      "title": "Live Mountain Music at the Orchard at Altapass",
-      "date": "2026-10-31T14:00:00",
-      "location": "Orchard at Altapass, Spruce Pine, NC",
-      "description": "LIVE MUSIC at the Orchard \u2013 preserving history, heritage & culture The Orchard Music Program offers live, traditional music in support of our nonprofit mission to preserve the history, heritage and cu",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/live-mountain-music-at-the-orchard-at-altapass-2/2026-10-31/",
-      "latitude": 35.8755746,
-      "longitude": -82.0245786
-    },
-    {
-      "id": "e054db9460e7",
-      "title": "The Subsistence Farmer\u2019s Toolkit: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-10-31T14:45:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "Come learn about what it would have been like to live as a subsistence farmer in the area around the Blue Ridge Parkway in the 1800s. We will look at selection of tools from an early homestead and exp",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "883ac37712aa",
-      "title": "From Hunters to Heroes: The Overmountain Men (Ranger Talk - Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-10-31T15:00:00",
-      "location": "The Museum of North Carolina Minerals is located at Blue Ridge Parkway milepost 331 near Spruce Pine, NC. Address: 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "The ripple effect from our choices and actions may take weeks, months, even years to become fully apparent. Back in 1780, local militia from \u201cover the mountains\u201d in North Carolina, Tennessee, and Virg",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
-      "id": "f37cca27d78b",
-      "title": "Carolina Comedy Parlor",
-      "date": "2026-10-31T19:00:00",
-      "location": "Mysterium, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "2478c8ba2fe4",
-      "title": "Boone BOO! Photo Spot",
-      "date": "2026-10-31T19:00:00",
-      "location": "Downtown Boone",
-      "description": "Stop by and visit us during Boone Boo!",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "363f2eb23090",
-      "title": "Alleghany Jubilee",
-      "date": "2026-10-31T19:00:00",
-      "location": "Alleghany Jubilee, Sparta, NC",
-      "description": "If you love to flatfoot, clog, square dance, or just tap your foot to old-time mountain music, the Alleghany Jubilee is where you want to be! October 10/31 \u2013 Costume Party with Reed Tradition November",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-10-31/",
-      "latitude": 36.5057655,
-      "longitude": -81.1211449
-    },
-    {
-      "id": "59ad5c207e78",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-10-31T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "Looking for something unforgettable to do in Boone? Experience an intimate 20-seat comedy magic show filled with laughter, masterful sleight of hand, audience interaction and astonishing moments\u2014all j",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/the-carolina-comedy-magic-parlor/2026-10-31/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "a51d367cf08b",
-      "title": "Night Sky Viewing (Peaks of Otter - Milepost 86)",
-      "date": "2026-10-31T19:00:00",
-      "location": "Meet outside behind the Peaks of Otter Lodge (85554 Blue Ridge Parkway, Bedford, VA 24523) by the lake.",
-      "description": "Happy Halloween! Feel free to wear something spooky, if desired. Explore the night sky and the nocturnal life that basks in it! Join a Ranger to view celestial objects in the night sky at Peaks of Ott",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 37.448131,
-      "longitude": -79.604654
-    },
-    {
-      "id": "c72042714f59",
-      "title": "Blowing Rock Halloween Festival",
-      "date": "2026-10-31T20:00:00",
-      "location": "Downtown Blowing Rock",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "7176b6fd6e4b",
-      "title": "Fire, Iron, and Tradition: Mabry Mill Blacksmith Demonstration (Mabry Mill Blacksmith Shop - Milepost 176.2)",
-      "date": "2026-11-01T10:00:00",
-      "location": "Blue Ridge Parkway - Mabry Mill Blacksmith Shop - Milepost 176.2",
-      "description": "Experience the heat, rhythm, and skill of traditional Appalachian blacksmithing. Watch as Park staff shape iron into tools and art while sharing the stories of the people who relied on this essential ",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751712,
-      "longitude": -80.405357
-    },
-    {
-      "id": "325ee175b376",
-      "title": "Historic Mill Open House (Mabry Mill - Milepost 176.2)",
-      "date": "2026-11-01T10:00:00",
-      "location": "Blue Ridge Parkway - Mabry Mill - Milepost 176.2",
-      "description": "Take a stroll back in time at the historic Mabry Mill, a beloved Blue Ridge icon. Built by Ed Mabry with help from the local community in the early 1900s, this humble mill once bustled with the sounds",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.751712,
-      "longitude": -80.405357
-    },
-    {
-      "id": "ad9a74eb49c3",
-      "title": "Midday Mountain Music (Blue Ridge Music Center - Milepost 213)",
-      "date": "2026-11-01T10:00:00",
-      "location": "The Blue Ridge Music Center is located on Music Center Road, Galax, VA 24333 or milepost 213 on the Blue Ridge Parkway",
-      "description": "Midday Mountain Music is a free, informal music presentation featuring local and regional musicians held in the Blue Ridge Music Center's covered breezeway, milepost 213 on the Blue Ridge Parkway near",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.573197,
-      "longitude": -80.850001
-    },
-    {
-      "id": "b98df9ce8b8d",
-      "title": "From Hunters to Heroes: The Overmountain Men (Ranger Talk - Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-11-01T10:30:00",
-      "location": "The Museum of North Carolina Minerals is located at Blue Ridge Parkway milepost 331 near Spruce Pine, NC. Address: 79 Parkway Maintenance Road Spruce Pine, NC",
-      "description": "The ripple effect from our choices and actions may take weeks, months, even years to become fully apparent. Back in 1780, local militia from \u201cover the mountains\u201d in North Carolina, Tennessee, and Virg",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 35.854162,
-      "longitude": -82.051422
-    },
-    {
-      "id": "86ddcd1897d9",
+      "id": "662534e305d7",
       "title": "Building Appalachia: A Geologic Story (Ranger Talk \u2013 Museum of North Carolina Minerals milepost 331)",
-      "date": "2026-11-01T11:30:00",
+      "date": "2026-11-01T15:00:00",
       "location": "Museum of North Carolina Minerals (Parkway milepost 331) - 79 Parkway Maintenance Road Spruce Pine, NC",
       "description": "Formed over the eons by titanic forces within the earth, the mountains of Appalachia are among the most majestic mountains on earth. Stop by the Museum of North Carolina Minerals to enjoy a 20-minute ",
       "source": "NPS Blue Ridge Pkwy",
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 35.854162,
       "longitude": -82.051422
-    },
-    {
-      "id": "c8d623f728a4",
-      "title": "Live Mountain Music at the Orchard at Altapass",
-      "date": "2026-11-01T14:00:00",
-      "location": "Orchard at Altapass, Spruce Pine, NC",
-      "description": "LIVE MUSIC at the Orchard \u2013 preserving history, heritage & culture The Orchard Music Program offers live, traditional music in support of our nonprofit mission to preserve the history, heritage and cu",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/live-mountain-music-at-the-orchard-at-altapass-2/2026-11-01/",
-      "latitude": 35.8755746,
-      "longitude": -82.0245786
     },
     {
       "id": "78b916137759",
@@ -463,6 +309,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "9a2e30dc7ffb",
+      "title": "Homestead History",
+      "date": "2026-11-11T10:00:00",
+      "location": "Stone Mountain State Park Hutchinson Homestead",
+      "description": "Interested in walking through the Hutchinson Homestead? Join a park staff member at Hutchinson Homestead to be able to view the cabin and learn a little more about the history of the park.",
+      "source": "NC State Parks",
+      "url": "https://events.dncr.nc.gov/event/homestead-history-9585",
+      "latitude": 36.382303,
+      "longitude": -81.021128
+    },
+    {
       "id": "4b12baa32c21",
       "title": "Weekly Jam Sessions at the Jones House",
       "date": "2026-11-12T19:00:00",
@@ -593,6 +450,17 @@
       "url": "https://events.dncr.nc.gov/event/honoring-veterans-lecture-patriotic-musical",
       "latitude": 35.842174,
       "longitude": -81.310969
+    },
+    {
+      "id": "522273655fff",
+      "title": "Astronomy Observation with Forsyth County Astronomical Society",
+      "date": "2026-11-14T18:15:00",
+      "location": "Stone Mountain State Park Campground A Loop",
+      "description": "Come view the night sky with the Forsyth County Astronomical Society. Campers AND public are both welcome. Specific location will be in the A loop of the campground, in the field behind campsites 33, ",
+      "source": "NC State Parks",
+      "url": "https://events.dncr.nc.gov/event/astronomy-observation-with-forsyth-county-astronomical-society",
+      "latitude": 36.382303,
+      "longitude": -81.021128
     },
     {
       "id": "e59d7f845903",
@@ -815,6 +683,17 @@
       "longitude": -81.6045213
     },
     {
+      "id": "6229ade3a4d6",
+      "title": "Tree ID",
+      "date": "2026-11-21T14:30:00",
+      "location": "Stone Mountain State Park Picnic Area",
+      "description": "Join a Ranger in the picnic area to learn the tips and tricks for identifying trees during a short hike.",
+      "source": "NC State Parks",
+      "url": "https://events.dncr.nc.gov/event/tree-id",
+      "latitude": 36.382303,
+      "longitude": -81.021128
+    },
+    {
       "id": "13fb2a4249e1",
       "title": "Alleghany Jubilee",
       "date": "2026-11-21T19:00:00",
@@ -870,6 +749,17 @@
       "longitude": -81.1211449
     },
     {
+      "id": "4778b065c3f9",
+      "title": "Kids Scavenger Hunt",
+      "date": "2026-11-25T14:00:00",
+      "location": "Stone Mountain State Park Visitor Center",
+      "description": "If you like seeking out items in nature, this program is for you! Use your detective skills and join a Ranger at the Visitor Center to go on a nature scavenger hunt. Weather Permitting.",
+      "source": "NC State Parks",
+      "url": "https://events.dncr.nc.gov/event/kids-scavenger-hunt-3412",
+      "latitude": 36.382303,
+      "longitude": -81.021128
+    },
+    {
       "id": "aa422afad196",
       "title": "Old-Time Jam at the Reeves",
       "date": "2026-11-26T17:30:00",
@@ -901,6 +791,17 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-11-26/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "bcf3d425915b",
+      "title": "National Take A Hike Day",
+      "date": "2026-11-27T14:30:00",
+      "location": "Stone Mountain State Park Lower Trailhead Parking Area",
+      "description": "Learn about Stone Mountain State Park's cultural history and take in the natural beauty by joining a Park Ranger for a guided hike to the historic Hutchinson Homestead. Weather permitting.",
+      "source": "NC State Parks",
+      "url": "https://events.dncr.nc.gov/event/national-take-a-hike-day",
+      "latitude": 36.382303,
+      "longitude": -81.021128
     },
     {
       "id": "249ca4512ade",
@@ -1409,6 +1310,28 @@
       "longitude": -81.6746
     },
     {
+      "id": "267973a89bdf",
+      "title": "First Friday Art Crawl",
+      "date": "2027-01-01T17:00:00",
+      "location": "N",
+      "description": "https://www.watauga-arts.org/first-friday-art-crawls",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-2/2027-01-01/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "665219326c16",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2027-01-07T19:00:00",
+      "location": "N",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2027-01-07/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "fe4a3dd13f11",
       "title": "The Brit Pack - British Invasion and More",
       "date": "2027-01-14T19:30:00.562000",
@@ -1585,8 +1508,8 @@
       "longitude": -81.8462718
     }
   ],
-  "last_updated": "2026-10-31T15:55:14.403688",
-  "total_events": 144,
+  "last_updated": "2026-11-01T16:57:29.058775",
+  "total_events": 137,
   "sources": [
     "Manual Events",
     "High Country Host",
