@@ -1028,6 +1028,68 @@ async def scrape_blue_ridge_music(session: aiohttp.ClientSession) -> List[Dict]:
     return await _scrape_blue_ridge_music_html(session)
 
 
+async def scrape_beech_mountain(session: aiohttp.ClientSession) -> List[Dict]:
+    """Beech Mountain via The Events Calendar REST API. Its venues carry no geo
+    coordinates, so every event gets Beech Mountain's own coordinates (~14 mi from
+    REGION_CENTER, well inside the radius). Can't use fetch_tribe_events, which drops
+    any event lacking venue geo."""
+    log_info("Scraping Beech Mountain...")
+    events = []
+    source_name = "Beech Mountain"
+    BEECH_LAT, BEECH_LON = 36.2520, -81.9185
+    base_url = "https://www.beechmtn.com"
+    start = datetime.now(EASTERN).strftime('%Y-%m-%d')
+    end = (datetime.now(EASTERN) + timedelta(days=180)).strftime('%Y-%m-%d')
+    page = 1
+    seen = set()
+    try:
+        while page <= 20:
+            api_url = (f"{base_url}/wp-json/tribe/events/v1/events"
+                       f"?per_page=50&page={page}&start_date={start}&end_date={end}")
+            async with session.get(api_url, headers={"User-Agent": "Mozilla/5.0"},
+                                   timeout=aiohttp.ClientTimeout(total=30)) as resp:
+                if resp.status != 200:
+                    log_warn(f"  ⚠ Beech Mountain events API returned HTTP {resp.status}")
+                    break
+                data = await resp.json(content_type=None)
+            for item in data.get("events", []):
+                title = clean_text(html_lib.unescape(item.get("title", "")))
+                if not title or is_junk_title(title):
+                    continue
+                try:
+                    event_date = datetime.strptime(item["start_date"], '%Y-%m-%d %H:%M:%S')
+                except (KeyError, ValueError):
+                    continue
+                if event_date < datetime.now() - timedelta(hours=2):
+                    continue
+                key = f"{title.lower()}_{event_date.date()}"
+                if key in seen:
+                    continue
+                seen.add(key)
+                venue = item.get("venue") or {}
+                venue_name = clean_text(html_lib.unescape(venue.get("venue", "")))
+                location = ", ".join(x for x in (venue_name, "Beech Mountain", "NC") if x)
+                description = clean_text(html_lib.unescape(item.get("excerpt") or item.get("description") or ""))
+                events.append({
+                    "id": create_event_id(title, event_date.isoformat(), source_name),
+                    "title": title,
+                    "date": event_date.isoformat(),
+                    "location": location[:100],
+                    "description": description[:200],
+                    "source": source_name,
+                    "url": item.get("url") or base_url,
+                    "latitude": BEECH_LAT,
+                    "longitude": BEECH_LON
+                })
+            if page >= data.get("total_pages", 1):
+                break
+            page += 1
+        log_info(f"  ✓ Found {len(events)} events via events API")
+    except Exception as e:
+        log_error(f"  ✗ Beech Mountain error: {e}")
+    return events
+
+
 async def _scrape_blue_ridge_music_html(session: aiohttp.ClientSession) -> List[Dict]:
     log_info("  Falling back to Blue Ridge Music NC web pages...")
     events = []
@@ -1996,10 +2058,10 @@ async def main():
         ("Alleghany Arts Council",  scrape_alleghany_arts),
         ("AmericanTowns Alleghany", scrape_americantowns_alleghany),
         ("AmericanTowns Ashe",      scrape_americantowns_ashe),
-        ("Ashe Chamber",            scrape_ashe_chamber),
-        ("Stay Blue Ridge",         scrape_stay_blue_ridge),
-        ("Old Barn Winery",         scrape_old_barn_winery),
+        # Dropped 2026-11-07 (broken): Ashe Chamber (parser fails, redundant with Ashe
+        # County Arts), Stay Blue Ridge (?ical=1 now returns HTML), Old Barn Winery (404).
         ("Blue Ridge Music NC",     scrape_blue_ridge_music),
+        ("Beech Mountain",          scrape_beech_mountain),
         ("High Country Press",      scrape_explore_boone),
         ("Appalachian Theatre",     scrape_appalachian_theatre),
         ("Ashe County Arts",        scrape_ashe_county_arts),
