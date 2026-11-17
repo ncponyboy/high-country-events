@@ -1,105 +1,6 @@
 {
   "events": [
     {
-      "id": "5918e682d5d7",
-      "title": "Will Easter | Chris Mcginnis | Jack Marion",
-      "date": "2026-11-15T16:00:00",
-      "location": "The Jones House, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "4f79fc722a82",
-      "title": "Will Easter, Chris McGinnis, Jack Marion at Jones House",
-      "date": "2026-11-15T16:00:00",
-      "location": "Jones House Cultural Center, Boone, NC",
-      "description": "November, 15 at 4:00pm Tickets $15 Will Easter has always been a creator. Art, construction, or music, Will\u2019s hands have always been creating. Songwriting is the throughline between Will\u2019s raising in ",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/will-easter-chris-mcginnis-jack-marion-at-jones-house/",
-      "latitude": 36.2186447,
-      "longitude": -81.6830501
-    },
-    {
-      "id": "847ac6c2c360",
-      "title": "Hayde Bluegrass Orchestra",
-      "date": "2026-11-15T19:00:00",
-      "location": "Appalachian Theatre, NC",
-      "description": "",
-      "source": "High Country Host",
-      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "7193f2da8c4d",
-      "title": "Snapshots and Shorelines: A guided photograph tour",
-      "date": "2026-11-16T09:00:00",
-      "location": "Lake James State Park - Paddy's Creek Access",
-      "description": "Join a park ranger for a scenic boat tour along the beautiful shores of Lake James! Discover the natural beauty of the lake as we explore its quiet coves, wooded shorelines, and diverse wildlife habit",
-      "source": "NC State Parks",
-      "url": "https://events.dncr.nc.gov/event/snapshots-and-shorelines-a-guided-photograph-tour-6579",
-      "latitude": 35.760718,
-      "longitude": -81.882276
-    },
-    {
-      "id": "ab9a43562025",
-      "title": "Logging On: The Social Lives of Trees: Guided, Low-Elevation Hike (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-11-16T10:00:00",
-      "location": "Meet at the flagpole in front of the Blue Ridge Parkway Visitor Center.",
-      "description": "This guided hike will explore the complex networks going on beneath our feet. From root systems to fungi, we will discuss the communication networks of trees. Along the way, we will discuss basic plan",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "7b38165cc5bb",
-      "title": "Biodiversity on the Blue Ridge Parkway: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-11-16T14:45:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "The Blue Ridge Parkway winds through one of the most biodiverse places on earth, home to all kinds of living things. Join a park ranger for a 20-minute program and explore the many kinds of life on th",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "2d7539cd4b85",
-      "title": "Alleghany Jubilee",
-      "date": "2026-11-16T18:00:00",
-      "location": "Alleghany Jubilee, Sparta, NC",
-      "description": "If you love to flatfoot, clog, square dance, or just tap your foot to old-time mountain music, the Alleghany Jubilee is where you want to be! November 11/7 \u2013 New Ballard\u2019s Branch Bogtrotters 11/14 -Wh",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-11-16/",
-      "latitude": 36.5057655,
-      "longitude": -81.1211449
-    },
-    {
-      "id": "f1df4d40e3cd",
-      "title": "Forest Hike: Guided, Low-Elevation Hike (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-11-17T10:00:00",
-      "location": "Meet at the flagpole in front of the Blue Ridge Parkway Visitor Center.",
-      "description": "Join a ranger for an easy, one-and-a-half hour, one-and-a-half-mile guided walk through the forest. Experience the forest and learn how the forest experiences you, too. Expect some roots, rocks, and m",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "5c95367aba8e",
-      "title": "Bluegrass Mountains: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-11-17T14:45:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "Bluegrass music has a long history along the Parkway, our roads preserving songs and stories of the everyday people who lived in this region before us. Join a ranger for a musical exploration of these",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
       "id": "f33bb632653c",
       "title": "Watauga Community Band - 40th Anniversary Concert",
       "date": "2026-11-17T19:00:00.256000",
@@ -166,6 +67,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "71fb63d1b337",
+      "title": "Old Time Jam",
+      "date": "2026-11-19T22:00:00",
+      "location": "Jones House Community Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "d58debf367ac",
       "title": "Holiday Tree Arrival",
       "date": "2026-11-20T11:00:00",
@@ -199,6 +111,28 @@
       "longitude": -81.6752
     },
     {
+      "id": "16db31d15cb6",
+      "title": "Valle Glow",
+      "date": "2026-11-20T20:00:00",
+      "location": "Apple Barn at Valle Crucis Conference Center",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "a0f87ab103e2",
+      "title": "Light Up Downtown",
+      "date": "2026-11-20T21:00:00",
+      "location": "Downtown North Wilkesboro",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "9e8ebde2ca7a",
       "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
       "date": "2026-11-21T09:00:00",
@@ -230,6 +164,28 @@
       "url": "https://www.blueridgemusicnc.com/event/jam-sessions-at-the-barber-shop/2026-11-21/",
       "latitude": 35.7569441,
       "longitude": -81.6045213
+    },
+    {
+      "id": "362a9efe90eb",
+      "title": "Watauga County Farmers Market",
+      "date": "2026-11-21T12:00:00",
+      "location": "Horn in the West Parking Lot, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "569d0c3b2064",
+      "title": "Ashe County Farmers Market",
+      "date": "2026-11-21T13:00:00",
+      "location": "Backstreet Park, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "6229ade3a4d6",
@@ -285,6 +241,17 @@
       "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
       "latitude": 36.143,
       "longitude": -81.8576
+    },
+    {
+      "id": "9caefaa91035",
+      "title": "The Sticks: Presented by The Galax Arts Council",
+      "date": "2026-11-22T19:00:00",
+      "location": "The Rex Theater, 113 E Grayson St, Galax, VA",
+      "description": "Showtime isn't listed online - check the ticket page.",
+      "source": "Rex Theater",
+      "url": "https://tixr.com/e/213692",
+      "latitude": 36.6612,
+      "longitude": -80.924
     },
     {
       "id": "c36699294f01",
@@ -1112,6 +1079,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "8f92c178b5fe",
+      "title": "Weekly Jam Sessions at the Jones House",
+      "date": "2026-12-31T19:00:00",
+      "location": "Jones House Cultural Center, Boone, NC",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-12-31/",
+      "latitude": 36.2186447,
+      "longitude": -81.6830501
+    },
+    {
       "id": "f90d142a2f61",
       "title": "Old-Time Jam at the Jones House",
       "date": "2026-12-31T19:00:00",
@@ -1154,6 +1132,17 @@
       "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-2/2027-01-01/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "c195b87781ee",
+      "title": "Phipps General Store Jam",
+      "date": "2027-01-01T19:00:00",
+      "location": "Phipps General Store, Lansing, NC",
+      "description": "On Fridays, the doors open to Phipps General Store for a jam session that can be one of the most lively in the region. Spectators sit and chat on benches by the old counter or in chairs surrounding th",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/phipps-general-store-jam/2027-01-01/",
+      "latitude": 36.504961,
+      "longitude": -81.448992
     },
     {
       "id": "665219326c16",
@@ -1211,6 +1200,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "4385869ae9de",
+      "title": "Miles Miller",
+      "date": "2027-01-29T19:00:00",
+      "location": "The Rex Theater, 113 E Grayson St, Galax, VA",
+      "description": "Showtime isn't listed online - check the ticket page.",
+      "source": "Rex Theater",
+      "url": "https://tixr.com/e/213983",
+      "latitude": 36.6612,
+      "longitude": -80.924
+    },
+    {
       "id": "509fa8d58f6c",
       "title": "Trey Hensley",
       "date": "2027-01-29T19:00:00.562000",
@@ -1253,6 +1253,17 @@
       "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-at-the-turchin/2027-02-05/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "f3c87f0da959",
+      "title": "Liam Purcell & Cane Mill Road",
+      "date": "2027-02-06T19:00:00",
+      "location": "The Rex Theater, 113 E Grayson St, Galax, VA",
+      "description": "Showtime isn't listed online - check the ticket page.",
+      "source": "Rex Theater",
+      "url": "https://tixr.com/e/215091",
+      "latitude": 36.6612,
+      "longitude": -80.924
     },
     {
       "id": "faf99e1df6fa",
@@ -1486,8 +1497,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2026-11-15T17:30:47.895524",
-  "total_events": 135,
+  "last_updated": "2026-11-17T19:30:19.638015",
+  "total_events": 136,
   "sources": [
     "Manual Events",
     "High Country Host",
