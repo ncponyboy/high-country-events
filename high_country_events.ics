@@ -5,33 +5,8 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:High Country Events
 BEGIN:VEVENT
-UID:f33bb632653c@highcountryevents
-DTSTAMP:20261117T193019Z
-DTSTART:20261117T190000
-DTEND:20261117T210000
-SUMMARY:Watauga Community Band - 40th Anniversary Concert
-LOCATION:Appalachian Theatre\, 559 W King St\, Boone\, NC
-DESCRIPTION:Celebrating 40 years of the Watauga Community Band!\nSource: Ap
- palachian Theatre\nhttps://www.apptheatre.org/events-and-tickets/wcb-40th
-URL:https://www.apptheatre.org/events-and-tickets/wcb-40th
-END:VEVENT
-BEGIN:VEVENT
-UID:fb82b7d91be5@highcountryevents
-DTSTAMP:20261117T193019Z
-DTSTART:20261118T170000
-DTEND:20261118T190000
-SUMMARY:Miles of Stories: A Glimpse of the Blue Ridge Parkway (Waynesboro P
- ublic Library)
-LOCATION:Waynesboro Public Library 600 S Wayne Ave.\, Waynesboro\, VA 22980
-DESCRIPTION:Join a Blue Ridge Parkway Ranger at the Waynesboro Public Libra
- ry (600 S Wayne Ave.\, Waynesboro\, VA 22980) in a journey through the his
- tory of the Blue Ridge Parkway. Learn about the construction\, the\nSource
- : NPS Blue Ridge Pkwy\nhttps://www.nps.gov/blri/planyourvisit/events.htm
-URL:https://www.nps.gov/blri/planyourvisit/events.htm
-END:VEVENT
-BEGIN:VEVENT
 UID:b2fbd93909cc@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261119T190000
 DTEND:20261119T210000
 SUMMARY:Weekly Jam Sessions at the Jones House
@@ -46,7 +21,7 @@ URL:https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones
 END:VEVENT
 BEGIN:VEVENT
 UID:da9d5f3025f4@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261119T190000
 DTEND:20261119T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -61,7 +36,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:42d1c521fd33@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261119T190000
 DTEND:20261119T210000
 SUMMARY:Wayne Clawson & Robert Service
@@ -73,7 +48,7 @@ URL:https://www.apptheatre.org/events-and-tickets/hc-writers-wayne-clawson
 END:VEVENT
 BEGIN:VEVENT
 UID:03a5dffc783c@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261119T190000
 DTEND:20261119T210000
 SUMMARY:Reel Rock 20
@@ -85,7 +60,7 @@ URL:https://www.apptheatre.org/events-and-tickets/reelrock20
 END:VEVENT
 BEGIN:VEVENT
 UID:71fb63d1b337@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261119T220000
 DTEND:20261120T000000
 SUMMARY:Old Time Jam
@@ -96,7 +71,7 @@ URL:https://highcountryhost.com/High-Country-Events-Calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:d58debf367ac@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261120T110000
 DTEND:20261120T130000
 SUMMARY:Holiday Tree Arrival
@@ -111,7 +86,7 @@ URL:https://grandfather.com/event/holiday-tree-arrival/
 END:VEVENT
 BEGIN:VEVENT
 UID:71fc47057d5b@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261120T190000
 DTEND:20261120T210000
 SUMMARY:Phipps General Store Jam
@@ -126,7 +101,7 @@ URL:https://www.blueridgemusicnc.com/event/phipps-general-store-jam/2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:eea132853037@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261120T190000
 DTEND:20261120T210000
 SUMMARY:Warren Miller’s “Days Off”
@@ -139,7 +114,7 @@ URL:https://www.apptheatre.org/events-and-tickets/warrenmillers-daysoff
 END:VEVENT
 BEGIN:VEVENT
 UID:16db31d15cb6@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261120T200000
 DTEND:20261120T220000
 SUMMARY:Valle Glow
@@ -150,7 +125,7 @@ URL:https://highcountryhost.com/High-Country-Events-Calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:a0f87ab103e2@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261120T210000
 DTEND:20261120T230000
 SUMMARY:Light Up Downtown
@@ -161,7 +136,7 @@ URL:https://highcountryhost.com/High-Country-Events-Calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:9e8ebde2ca7a@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261121T090000
 DTEND:20261121T110000
 SUMMARY:History\, Naturally: Ranger-Led Talks and Activities (Blue Ridge Pa
@@ -177,7 +152,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:faf63e2d9f0a@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261121T100000
 DTEND:20261121T120000
 SUMMARY:Holiday Makers Market
@@ -191,7 +166,7 @@ URL:https://ashecountyarts.org/event/mkt/
 END:VEVENT
 BEGIN:VEVENT
 UID:857f141c8dd3@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261121T110000
 DTEND:20261121T130000
 SUMMARY:Jam Sessions at the Barber Shop
@@ -206,7 +181,7 @@ URL:https://www.blueridgemusicnc.com/event/jam-sessions-at-the-barber-shop/
 END:VEVENT
 BEGIN:VEVENT
 UID:362a9efe90eb@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261121T120000
 DTEND:20261121T140000
 SUMMARY:Watauga County Farmers Market
@@ -217,7 +192,7 @@ URL:https://highcountryhost.com/High-Country-Events-Calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:569d0c3b2064@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261121T130000
 DTEND:20261121T150000
 SUMMARY:Ashe County Farmers Market
@@ -228,7 +203,7 @@ URL:https://highcountryhost.com/High-Country-Events-Calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:6229ade3a4d6@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261121T143000
 DTEND:20261121T163000
 SUMMARY:Tree ID
@@ -240,7 +215,7 @@ URL:https://events.dncr.nc.gov/event/tree-id
 END:VEVENT
 BEGIN:VEVENT
 UID:13fb2a4249e1@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261121T190000
 DTEND:20261121T210000
 SUMMARY:Alleghany Jubilee
@@ -254,7 +229,7 @@ URL:https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-11-21/
 END:VEVENT
 BEGIN:VEVENT
 UID:fae2cebf647f@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261121T190000
 DTEND:20261121T210000
 SUMMARY:The Carolina Comedy Magic Parlor
@@ -270,7 +245,7 @@ URL:https://downtownboonenc.com/eventinfo/the-carolina-comedy-magic-parlor/
 END:VEVENT
 BEGIN:VEVENT
 UID:35f5cedffdee@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261121T190000
 DTEND:20261121T210000
 SUMMARY:Dallas Wayne: Live at The Rex
@@ -281,7 +256,7 @@ URL:https://tixr.com/e/191581
 END:VEVENT
 BEGIN:VEVENT
 UID:015b97da10ff@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261122T090000
 DTEND:20261122T110000
 SUMMARY:History\, Naturally: Ranger-Led Talks and Activities (Blue Ridge Pa
@@ -297,7 +272,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:9caefaa91035@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261122T190000
 DTEND:20261122T210000
 SUMMARY:The Sticks: Presented by The Galax Arts Council
@@ -308,7 +283,7 @@ URL:https://tixr.com/e/213692
 END:VEVENT
 BEGIN:VEVENT
 UID:c36699294f01@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261123T090000
 DTEND:20261123T110000
 SUMMARY:Snapshots and Shorelines: A guided photograph tour
@@ -323,7 +298,7 @@ URL:https://events.dncr.nc.gov/event/snapshots-and-shorelines-a-guided-phot
 END:VEVENT
 BEGIN:VEVENT
 UID:82579038f693@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261123T180000
 DTEND:20261123T200000
 SUMMARY:Alleghany Jubilee
@@ -337,7 +312,7 @@ URL:https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-11-23/
 END:VEVENT
 BEGIN:VEVENT
 UID:4778b065c3f9@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261125T140000
 DTEND:20261125T160000
 SUMMARY:Kids Scavenger Hunt
@@ -350,7 +325,7 @@ URL:https://events.dncr.nc.gov/event/kids-scavenger-hunt-3412
 END:VEVENT
 BEGIN:VEVENT
 UID:aa422afad196@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261126T173000
 DTEND:20261126T193000
 SUMMARY:Old-Time Jam at the Reeves
@@ -365,7 +340,7 @@ URL:https://www.blueridgemusicnc.com/event/old-time-jam-at-the-reeves-2/202
 END:VEVENT
 BEGIN:VEVENT
 UID:8bc008b99039@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261126T190000
 DTEND:20261126T210000
 SUMMARY:Weekly Jam Sessions at the Jones House
@@ -380,7 +355,7 @@ URL:https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones
 END:VEVENT
 BEGIN:VEVENT
 UID:4bb2536292ed@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261126T190000
 DTEND:20261126T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -395,7 +370,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:bcf3d425915b@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261127T143000
 DTEND:20261127T163000
 SUMMARY:National Take A Hike Day
@@ -408,7 +383,7 @@ URL:https://events.dncr.nc.gov/event/national-take-a-hike-day
 END:VEVENT
 BEGIN:VEVENT
 UID:249ca4512ade@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261127T180000
 DTEND:20261127T200000
 SUMMARY:National Lampoon’s Christmas Vacation
@@ -419,7 +394,7 @@ URL:https://www.apptheatre.org/events-and-tickets/christmas-vacation
 END:VEVENT
 BEGIN:VEVENT
 UID:59671ab5c4bd@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261127T190000
 DTEND:20261127T210000
 SUMMARY:Phipps General Store Jam
@@ -434,7 +409,7 @@ URL:https://www.blueridgemusicnc.com/event/phipps-general-store-jam/2026-11
 END:VEVENT
 BEGIN:VEVENT
 UID:19ed3a6fb33d@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261128T090000
 DTEND:20261128T110000
 SUMMARY:History\, Naturally: Ranger-Led Talks and Activities (Blue Ridge Pa
@@ -450,7 +425,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:bdc8444f80d6@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261128T110000
 DTEND:20261128T130000
 SUMMARY:Jam Sessions at the Barber Shop
@@ -465,7 +440,7 @@ URL:https://www.blueridgemusicnc.com/event/jam-sessions-at-the-barber-shop/
 END:VEVENT
 BEGIN:VEVENT
 UID:23c62f7742ef@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261128T140000
 DTEND:20261128T160000
 SUMMARY:The Star (2017)
@@ -478,7 +453,7 @@ URL:https://www.apptheatre.org/events-and-tickets/thestar-26
 END:VEVENT
 BEGIN:VEVENT
 UID:db96fcd7029d@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261128T190000
 DTEND:20261128T210000
 SUMMARY:Alleghany Jubilee
@@ -492,7 +467,7 @@ URL:https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-11-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:000b3b1affd0@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261128T190000
 DTEND:20261128T210000
 SUMMARY:The Carolina Comedy Magic Parlor
@@ -508,7 +483,7 @@ URL:https://downtownboonenc.com/eventinfo/the-carolina-comedy-magic-parlor/
 END:VEVENT
 BEGIN:VEVENT
 UID:62930bfb0f83@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261129T090000
 DTEND:20261129T110000
 SUMMARY:History\, Naturally: Ranger-Led Talks and Activities (Blue Ridge Pa
@@ -524,7 +499,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:a42cd5b6bd58@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261129T150000
 DTEND:20261129T170000
 SUMMARY:A Christmas Story (1983)
@@ -536,7 +511,7 @@ URL:https://www.apptheatre.org/events-and-tickets/christmas-story
 END:VEVENT
 BEGIN:VEVENT
 UID:8f213f9313ab@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261130T180000
 DTEND:20261130T200000
 SUMMARY:Alleghany Jubilee
@@ -550,7 +525,7 @@ URL:https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-11-30/
 END:VEVENT
 BEGIN:VEVENT
 UID:726fd56aac1f@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261130T190000
 DTEND:20261130T210000
 SUMMARY:ELF (2003)
@@ -563,7 +538,7 @@ URL:https://www.apptheatre.org/events-and-tickets/wyn-elf-8tf2b
 END:VEVENT
 BEGIN:VEVENT
 UID:7583a8eb6598@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261202T180000
 DTEND:20261202T200000
 SUMMARY:1938 Club Lounge
@@ -575,21 +550,23 @@ URL:https://www.apptheatre.org/events-and-tickets/1938-club-lounge-gh4nw-le
  843-gfmye-grsft-2czmc
 END:VEVENT
 BEGIN:VEVENT
-UID:a9e465fd4a8a@highcountryevents
-DTSTAMP:20261117T193019Z
+UID:4a4258c001a4@highcountryevents
+DTSTAMP:20261119T191622Z
 DTSTART:20261202T190000
 DTEND:20261202T210000
 SUMMARY:Ricky Skaggs & Kentucky Thunder Christmas
-LOCATION:Appalachian Theatre\, 559 W King St\, Boone\, NC
-DESCRIPTION:Christmas Time’s A Coming with Ricky Skaggs & Kentucky Thunder.
- Sponsored by Mast General Store\nSource: Appalachian Theatre\nhttps://www.
- apptheatre.org/events-and-tickets/ricky-skaggs-kyt-christmas
-URL:https://www.apptheatre.org/events-and-tickets/ricky-skaggs-kyt-christma
- s
+LOCATION:Appalachian Theatre of the High Country\, Boone\, NC
+DESCRIPTION:Wednesday\, December 2\, 2026 at 7 p.m. / Doors open at 6:30 p.
+ m. ADULT RESERVED – $55 STUDENT RESERVED – $45 Taxes are calculated upon c
+ heckout. Ricky Skaggs & Kentucky Thunder Christmas – You know “Ch\nSource:
+  Blue Ridge Music NC\nhttps://www.blueridgemusicnc.com/event/ricky-skaggs-
+ kentucky-thunder-christmas/
+URL:https://www.blueridgemusicnc.com/event/ricky-skaggs-kentucky-thunder-ch
+ ristmas/
 END:VEVENT
 BEGIN:VEVENT
 UID:d86bb6d06ba2@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261203T190000
 DTEND:20261203T210000
 SUMMARY:Weekly Jam Sessions at the Jones House
@@ -604,7 +581,7 @@ URL:https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones
 END:VEVENT
 BEGIN:VEVENT
 UID:e0e734aab054@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261203T190000
 DTEND:20261203T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -619,7 +596,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:10c94070b442@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261204T100000
 DTEND:20261204T120000
 SUMMARY:Mountainfilm on Tour Returns to Lees-McRae for High Country Film an
@@ -634,7 +611,7 @@ URL:https://www.hcpress.com/announcements/mountainfilm-on-tour-returns-to-l
 END:VEVENT
 BEGIN:VEVENT
 UID:3932749615a2@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261204T150000
 DTEND:20261204T170000
 SUMMARY:The Art of Walking
@@ -649,7 +626,7 @@ URL:https://downtownboonenc.com/eventinfo/the-art-of-walking/2026-12-04/
 END:VEVENT
 BEGIN:VEVENT
 UID:62f60e1166b1@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261204T160000
 DTEND:20261204T180000
 SUMMARY:First Friday Art Crawl at the Turchin
@@ -664,8 +641,22 @@ URL:https://downtownboonenc.com/eventinfo/first-friday-art-crawl-at-the-tur
  chin/2026-12-04/
 END:VEVENT
 BEGIN:VEVENT
+UID:ab5067a13c1b@highcountryevents
+DTSTAMP:20261119T191622Z
+DTSTART:20261204T170000
+DTEND:20261204T190000
+SUMMARY:West Jefferson Christmas Crawl
+LOCATION:NC
+DESCRIPTION:If you are looking for a festive way to spend time in downtown 
+ West Jefferson\, a Christmas Gallery Crawl is definitely the way to go! Th
+ ere are so many wonderful shops and galleries featuring decorati\nSource: 
+ Ashe County Arts\nhttps://ashecountyarts.org/event/west-jefferson-christma
+ s-crawl/
+URL:https://ashecountyarts.org/event/west-jefferson-christmas-crawl/
+END:VEVENT
+BEGIN:VEVENT
 UID:81730e97c3d3@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261204T190000
 DTEND:20261204T210000
 SUMMARY:Phipps General Store Jam
@@ -680,7 +671,7 @@ URL:https://www.blueridgemusicnc.com/event/phipps-general-store-jam/2026-12
 END:VEVENT
 BEGIN:VEVENT
 UID:ee66905de65a@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261204T200000
 DTEND:20261204T220000
 SUMMARY:A Carolina Snowbelle Christmas
@@ -693,7 +684,7 @@ URL:https://www.apptheatre.org/events-and-tickets/carolina-snowbelle-christ
 END:VEVENT
 BEGIN:VEVENT
 UID:18e87ecddf15@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261205T083000
 DTEND:20261205T103000
 SUMMARY:Saturday with Santa
@@ -707,7 +698,7 @@ URL:https://ashecountyarts.org/event/saturday-with-santa/
 END:VEVENT
 BEGIN:VEVENT
 UID:ef793a6736a9@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261205T090000
 DTEND:20261205T110000
 SUMMARY:History\, Naturally: Ranger-Led Talks and Activities (Blue Ridge Pa
@@ -723,7 +714,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:de020bf6e014@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261205T110000
 DTEND:20261205T130000
 SUMMARY:Jam Sessions at the Barber Shop
@@ -738,7 +729,7 @@ URL:https://www.blueridgemusicnc.com/event/jam-sessions-at-the-barber-shop/
 END:VEVENT
 BEGIN:VEVENT
 UID:8d80d646592b@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261205T190000
 DTEND:20261205T210000
 SUMMARY:Alleghany Jubilee
@@ -752,7 +743,7 @@ URL:https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-12-05/
 END:VEVENT
 BEGIN:VEVENT
 UID:84a28a8e3832@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261205T190000
 DTEND:20261205T210000
 SUMMARY:The Carolina Comedy Magic Parlor
@@ -768,7 +759,7 @@ URL:https://downtownboonenc.com/eventinfo/the-carolina-comedy-magic-parlor/
 END:VEVENT
 BEGIN:VEVENT
 UID:37e5a1793450@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261205T190000
 DTEND:20261205T210000
 SUMMARY:Keeping Time: 90 years of the Galax Old Fiddlers Convention
@@ -779,7 +770,7 @@ URL:https://tixr.com/e/213691
 END:VEVENT
 BEGIN:VEVENT
 UID:640a7f9ef331@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261206T090000
 DTEND:20261206T110000
 SUMMARY:History\, Naturally: Ranger-Led Talks and Activities (Blue Ridge Pa
@@ -795,7 +786,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:9ad04ef85af0@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261206T190000
 DTEND:20261206T210000
 SUMMARY:The Platters - Christmas Show
@@ -806,7 +797,7 @@ URL:https://tixr.com/e/192726
 END:VEVENT
 BEGIN:VEVENT
 UID:04eb9821ae7c@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261207T180000
 DTEND:20261207T200000
 SUMMARY:Alleghany Jubilee
@@ -819,8 +810,23 @@ DESCRIPTION:If you love to flatfoot\, clog\, square dance\, or just tap you
 URL:https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-12-07/
 END:VEVENT
 BEGIN:VEVENT
+UID:04e70c26b0e6@highcountryevents
+DTSTAMP:20261119T191622Z
+DTSTART:20261208T173000
+DTEND:20261208T193000
+SUMMARY:Boone Junior Appalachian Musicians – Fall 2026 Recital
+LOCATION:Appalachian Theatre of the High Country\, Boone\, NC
+DESCRIPTION:Tuesday\, December 8\, 2026 at 5:30 p.m. FREE General Admission
+  Doors open at 4:45 p.m. Boone JAM is a group music lesson program held at
+  the Jones House Cultural Center in downtown Boone for local chil\nSource:
+  Blue Ridge Music NC\nhttps://www.blueridgemusicnc.com/event/boone-junior-
+ appalachian-musicians-fall-2026-recital/
+URL:https://www.blueridgemusicnc.com/event/boone-junior-appalachian-musicia
+ ns-fall-2026-recital/
+END:VEVENT
+BEGIN:VEVENT
 UID:04db642e9124@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261208T173000
 DTEND:20261208T193000
 SUMMARY:Boone Junior Appalachian Musicians - Fall 2026 Recital
@@ -833,7 +839,7 @@ URL:https://www.apptheatre.org/events-and-tickets/boone-jam-2025-fall-6mthl
 END:VEVENT
 BEGIN:VEVENT
 UID:29090e2e8660@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261210T190000
 DTEND:20261210T210000
 SUMMARY:Weekly Jam Sessions at the Jones House
@@ -848,7 +854,7 @@ URL:https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones
 END:VEVENT
 BEGIN:VEVENT
 UID:616505f7c6fb@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261210T190000
 DTEND:20261210T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -863,7 +869,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:5ef5bf146ff8@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261211T180000
 DTEND:20261211T200000
 SUMMARY:Second Friday CommUnity Square Dance
@@ -878,7 +884,7 @@ URL:https://www.blueridgemusicnc.com/event/second-friday-community-square-d
 END:VEVENT
 BEGIN:VEVENT
 UID:9a386db3bd26@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261211T190000
 DTEND:20261211T210000
 SUMMARY:Phipps General Store Jam
@@ -893,7 +899,7 @@ URL:https://www.blueridgemusicnc.com/event/phipps-general-store-jam/2026-12
 END:VEVENT
 BEGIN:VEVENT
 UID:771e4aaf3b55@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261211T193000
 DTEND:20261211T213000
 SUMMARY:Thomas Cassell and Tim Stafford at Jones House
@@ -908,7 +914,7 @@ URL:https://www.blueridgemusicnc.com/event/thomas-cassell-and-tim-stafford-
 END:VEVENT
 BEGIN:VEVENT
 UID:0b9b84297cbb@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261211T193000
 DTEND:20261211T213000
 SUMMARY:Blue Ridge Opry with Kelley Breiding
@@ -923,7 +929,7 @@ URL:https://www.blueridgemusicnc.com/event/blue-ridge-opry-with-kelley-brei
 END:VEVENT
 BEGIN:VEVENT
 UID:e2c0fdc7b5e2@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261211T193000
 DTEND:20261211T213000
 SUMMARY:The Blue Ridge Opry
@@ -937,7 +943,7 @@ URL:https://ashecountyarts.org/event/opry/
 END:VEVENT
 BEGIN:VEVENT
 UID:c2af10f44668@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261212T090000
 DTEND:20261212T110000
 SUMMARY:History\, Naturally: Ranger-Led Talks and Activities (Blue Ridge Pa
@@ -953,7 +959,7 @@ URL:https://www.nps.gov/blri/planyourvisit/events.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:45bfa1ccb8e2@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261212T110000
 DTEND:20261212T130000
 SUMMARY:Jam Sessions at the Barber Shop
@@ -968,7 +974,7 @@ URL:https://www.blueridgemusicnc.com/event/jam-sessions-at-the-barber-shop/
 END:VEVENT
 BEGIN:VEVENT
 UID:d4d385ab2f4b@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261212T110000
 DTEND:20261212T130000
 SUMMARY:580 WKSK Live Old Time and Bluegrass Show: Gap Civil
@@ -983,7 +989,7 @@ URL:https://www.blueridgemusicnc.com/event/580-wksk-live-old-time-and-blueg
 END:VEVENT
 BEGIN:VEVENT
 UID:57d6b0b7f0b1@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261212T190000
 DTEND:20261212T210000
 SUMMARY:Alleghany Jubilee
@@ -997,7 +1003,7 @@ URL:https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-12-12/
 END:VEVENT
 BEGIN:VEVENT
 UID:2d6db9ac1a55@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261212T190000
 DTEND:20261212T210000
 SUMMARY:The Carolina Comedy Magic Parlor
@@ -1013,7 +1019,7 @@ URL:https://downtownboonenc.com/eventinfo/the-carolina-comedy-magic-parlor/
 END:VEVENT
 BEGIN:VEVENT
 UID:b4f22c854182@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261214T180000
 DTEND:20261214T200000
 SUMMARY:Alleghany Jubilee
@@ -1027,7 +1033,7 @@ URL:https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-12-14/
 END:VEVENT
 BEGIN:VEVENT
 UID:d43cd00a88a9@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261216T140000
 DTEND:20261216T160000
 SUMMARY:Ranger Workshop - Black Bears
@@ -1041,7 +1047,7 @@ URL:https://events.dncr.nc.gov/event/ranger-workshop-black-bears
 END:VEVENT
 BEGIN:VEVENT
 UID:573c9c6b4408@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261217T180000
 DTEND:20261217T200000
 SUMMARY:A Christmas Carol by Candlelight
@@ -1054,7 +1060,7 @@ URL:https://www.apptheatre.org/events-and-tickets/candlelight-christmas-car
 END:VEVENT
 BEGIN:VEVENT
 UID:40b2ef133c72@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261217T190000
 DTEND:20261217T210000
 SUMMARY:Weekly Jam Sessions at the Jones House
@@ -1069,7 +1075,7 @@ URL:https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones
 END:VEVENT
 BEGIN:VEVENT
 UID:ed64a2a68149@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261217T190000
 DTEND:20261217T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1084,7 +1090,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:d8a7a0a77977@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261217T190000
 DTEND:20261217T210000
 SUMMARY:The Best Christmas Pageant Ever
@@ -1097,7 +1103,7 @@ URL:https://www.apptheatre.org/events-and-tickets/beanstalk-christmaspagean
 END:VEVENT
 BEGIN:VEVENT
 UID:fa811248c04c@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261218T190000
 DTEND:20261218T210000
 SUMMARY:Phipps General Store Jam
@@ -1112,7 +1118,7 @@ URL:https://www.blueridgemusicnc.com/event/phipps-general-store-jam/2026-12
 END:VEVENT
 BEGIN:VEVENT
 UID:2582c5b383cd@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261218T190000
 DTEND:20261218T210000
 SUMMARY:John Berry Christmas
@@ -1123,7 +1129,7 @@ URL:https://tixr.com/e/207894
 END:VEVENT
 BEGIN:VEVENT
 UID:f9c511b29d25@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261219T110000
 DTEND:20261219T130000
 SUMMARY:Jam Sessions at the Barber Shop
@@ -1138,7 +1144,7 @@ URL:https://www.blueridgemusicnc.com/event/jam-sessions-at-the-barber-shop/
 END:VEVENT
 BEGIN:VEVENT
 UID:f5fdec28ce6c@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261219T120000
 DTEND:20261219T140000
 SUMMARY:National Wreaths Across America Day
@@ -1152,7 +1158,7 @@ URL:https://events.dncr.nc.gov/event/national-wreaths-across-america-day
 END:VEVENT
 BEGIN:VEVENT
 UID:a0dbdf7e7189@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261219T153000
 DTEND:20261219T173000
 SUMMARY:Wordkeepers
@@ -1166,7 +1172,7 @@ URL:https://ashecountyarts.org/event/wordkeeper3/
 END:VEVENT
 BEGIN:VEVENT
 UID:c28a84bbdaac@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261219T190000
 DTEND:20261219T210000
 SUMMARY:Alleghany Jubilee
@@ -1180,7 +1186,7 @@ URL:https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-12-19/
 END:VEVENT
 BEGIN:VEVENT
 UID:bc8b7eef207a@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261219T190000
 DTEND:20261219T210000
 SUMMARY:The Carolina Comedy Magic Parlor
@@ -1196,7 +1202,7 @@ URL:https://downtownboonenc.com/eventinfo/the-carolina-comedy-magic-parlor/
 END:VEVENT
 BEGIN:VEVENT
 UID:410d727f8fc0@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261219T190000
 DTEND:20261219T210000
 SUMMARY:Malpass Brother's Christmas Show
@@ -1207,7 +1213,7 @@ URL:https://tixr.com/e/190063
 END:VEVENT
 BEGIN:VEVENT
 UID:e802e38fa679@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261221T180000
 DTEND:20261221T200000
 SUMMARY:Alleghany Jubilee
@@ -1221,7 +1227,7 @@ URL:https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-12-21/
 END:VEVENT
 BEGIN:VEVENT
 UID:1f848b5918cc@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261223T180000
 DTEND:20261223T200000
 SUMMARY:Home Alone (1990)
@@ -1233,7 +1239,7 @@ URL:https://www.apptheatre.org/events-and-tickets/home-alone-gfv
 END:VEVENT
 BEGIN:VEVENT
 UID:eee4d7ac9ac2@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261224T173000
 DTEND:20261224T193000
 SUMMARY:Old-Time Jam at the Reeves
@@ -1248,7 +1254,7 @@ URL:https://www.blueridgemusicnc.com/event/old-time-jam-at-the-reeves-2/202
 END:VEVENT
 BEGIN:VEVENT
 UID:1da918f5e41a@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261224T190000
 DTEND:20261224T210000
 SUMMARY:Weekly Jam Sessions at the Jones House
@@ -1263,7 +1269,7 @@ URL:https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones
 END:VEVENT
 BEGIN:VEVENT
 UID:696183474675@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261224T190000
 DTEND:20261224T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1278,7 +1284,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:2482743c842b@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261225T190000
 DTEND:20261225T210000
 SUMMARY:Phipps General Store Jam
@@ -1293,7 +1299,7 @@ URL:https://www.blueridgemusicnc.com/event/phipps-general-store-jam/2026-12
 END:VEVENT
 BEGIN:VEVENT
 UID:a0659de73044@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261226T110000
 DTEND:20261226T130000
 SUMMARY:Jam Sessions at the Barber Shop
@@ -1308,7 +1314,7 @@ URL:https://www.blueridgemusicnc.com/event/jam-sessions-at-the-barber-shop/
 END:VEVENT
 BEGIN:VEVENT
 UID:35c2ffb0bd26@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261226T190000
 DTEND:20261226T210000
 SUMMARY:Alleghany Jubilee
@@ -1322,7 +1328,7 @@ URL:https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-12-26/
 END:VEVENT
 BEGIN:VEVENT
 UID:478ca6ffbfdc@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261226T190000
 DTEND:20261226T210000
 SUMMARY:The Carolina Comedy Magic Parlor
@@ -1338,7 +1344,7 @@ URL:https://downtownboonenc.com/eventinfo/the-carolina-comedy-magic-parlor/
 END:VEVENT
 BEGIN:VEVENT
 UID:2b2a42f050db@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261228T180000
 DTEND:20261228T200000
 SUMMARY:Alleghany Jubilee
@@ -1352,7 +1358,7 @@ URL:https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-12-28/
 END:VEVENT
 BEGIN:VEVENT
 UID:55791a047851@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261230T160000
 DTEND:20261230T180000
 SUMMARY:Falling Needles Family Fun Fest
@@ -1366,7 +1372,7 @@ URL:https://events.dncr.nc.gov/event/falling-needles-family-fun-fest
 END:VEVENT
 BEGIN:VEVENT
 UID:39397105c15d@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261231T120000
 DTEND:20261231T140000
 SUMMARY:Noon Year’s Eve @ AppTheatre: 101 Dalmatians
@@ -1379,7 +1385,7 @@ URL:https://www.apptheatre.org/events-and-tickets/noon-years-eve-cinderella
 END:VEVENT
 BEGIN:VEVENT
 UID:8f92c178b5fe@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261231T190000
 DTEND:20261231T210000
 SUMMARY:Weekly Jam Sessions at the Jones House
@@ -1394,7 +1400,7 @@ URL:https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones
 END:VEVENT
 BEGIN:VEVENT
 UID:f90d142a2f61@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261231T190000
 DTEND:20261231T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1409,7 +1415,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:abc202956aa3@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20261231T193000
 DTEND:20261231T213000
 SUMMARY:New Year’s Eve @ The AppTheatre: When Harry Met Sally (1989)
@@ -1420,7 +1426,7 @@ URL:https://www.apptheatre.org/events-and-tickets/nye-27-whms
 END:VEVENT
 BEGIN:VEVENT
 UID:3d737608d05e@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270101T090000
 DTEND:20270101T110000
 SUMMARY:First Day Hike
@@ -1433,7 +1439,7 @@ URL:https://events.dncr.nc.gov/event/first-day-hike-5052
 END:VEVENT
 BEGIN:VEVENT
 UID:267973a89bdf@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270101T170000
 DTEND:20270101T190000
 SUMMARY:First Friday Art Crawl
@@ -1446,7 +1452,7 @@ URL:https://downtownboonenc.com/eventinfo/first-friday-art-crawl-2/2027-01-
 END:VEVENT
 BEGIN:VEVENT
 UID:c195b87781ee@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270101T190000
 DTEND:20270101T210000
 SUMMARY:Phipps General Store Jam
@@ -1460,8 +1466,37 @@ URL:https://www.blueridgemusicnc.com/event/phipps-general-store-jam/2027-01
  -01/
 END:VEVENT
 BEGIN:VEVENT
+UID:bc0025bedb06@highcountryevents
+DTSTAMP:20261119T191622Z
+DTSTART:20270102T110000
+DTEND:20270102T130000
+SUMMARY:Jam Sessions at the Barber Shop
+LOCATION:The Drexel Barber Shop\, Drexel\, NC
+DESCRIPTION:One of the more quaint musical venues in the Blue Ridge region 
+ is the tiny Drexel Barber Shop in the little town of Drexel. The shop feat
+ ures a very informal jam session. Thursday\, Friday\, and Saturda\nSource:
+  Blue Ridge Music NC\nhttps://www.blueridgemusicnc.com/event/jam-sessions-
+ at-the-barber-shop/2027-01-02/
+URL:https://www.blueridgemusicnc.com/event/jam-sessions-at-the-barber-shop/
+ 2027-01-02/
+END:VEVENT
+BEGIN:VEVENT
+UID:0fad08a2427e@highcountryevents
+DTSTAMP:20261119T191622Z
+DTSTART:20270102T190000
+DTEND:20270102T210000
+SUMMARY:Alleghany Jubilee
+LOCATION:Alleghany Jubilee\, Sparta\, NC
+DESCRIPTION:If you love to flatfoot\, clog\, square dance\, or just tap you
+ r foot to old-time mountain music\, the Alleghany Jubilee is where you wan
+ t to be! November 11/7 – New Ballard’s Branch Bogtrotters 11/14 -Wh\nSourc
+ e: Blue Ridge Music NC\nhttps://www.blueridgemusicnc.com/event/alleghany-j
+ ubilee/2027-01-02/
+URL:https://www.blueridgemusicnc.com/event/alleghany-jubilee/2027-01-02/
+END:VEVENT
+BEGIN:VEVENT
 UID:665219326c16@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270107T190000
 DTEND:20270107T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1476,7 +1511,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:2304b5f1437d@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270114T190000
 DTEND:20270114T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1491,7 +1526,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:7ecf20629e2d@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270114T190000
 DTEND:20270114T210000
 SUMMARY:The Brit Pack - British Invasion and More
@@ -1503,7 +1538,7 @@ URL:https://www.apptheatre.org/events-and-tickets/brit-pack
 END:VEVENT
 BEGIN:VEVENT
 UID:857ec34a1a34@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270121T190000
 DTEND:20270121T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1517,8 +1552,24 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
  027-01-21/
 END:VEVENT
 BEGIN:VEVENT
+UID:abd4df4e2e9a@highcountryevents
+DTSTAMP:20261119T191622Z
+DTSTART:20270124T143000
+DTEND:20270124T163000
+SUMMARY:Ed Perzel Chamber Music Series: Appalachian State Faculty Ensemble
+LOCATION:Ashe Arts Center\, 303 School Ave\, West Jefferson\, NC\, 28694\, 
+ United States
+DESCRIPTION:The Ed Perzel Chamber Music Series Presents: Appalachian State 
+ Faculty EnsembleSunday\, January 24th2:30 PMAshe Arts Center Tickets: $18.
+ 50 Adult\, $7.50 StudentSeating is General Admission Get Tickets \nSource:
+  Ashe County Arts\nhttps://ashecountyarts.org/event/ed-perzel-chamber-musi
+ c-series-appalachian-state-faculty-ensemble/
+URL:https://ashecountyarts.org/event/ed-perzel-chamber-music-series-appalac
+ hian-state-faculty-ensemble/
+END:VEVENT
+BEGIN:VEVENT
 UID:0ad0b7cc1e24@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270128T190000
 DTEND:20270128T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1533,7 +1584,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:4385869ae9de@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270129T190000
 DTEND:20270129T210000
 SUMMARY:Miles Miller
@@ -1544,7 +1595,7 @@ URL:https://tixr.com/e/213983
 END:VEVENT
 BEGIN:VEVENT
 UID:509fa8d58f6c@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270129T190000
 DTEND:20270129T210000
 SUMMARY:Trey Hensley
@@ -1556,7 +1607,7 @@ URL:https://www.apptheatre.org/events-and-tickets/trey-hensley
 END:VEVENT
 BEGIN:VEVENT
 UID:d112cd93ab98@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270130T190000
 DTEND:20270130T210000
 SUMMARY:Mo-Grass
@@ -1567,7 +1618,7 @@ URL:https://tixr.com/e/209030
 END:VEVENT
 BEGIN:VEVENT
 UID:cbe86c849f85@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270204T190000
 DTEND:20270204T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1582,7 +1633,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:c43bde2b54cc@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270205T160000
 DTEND:20270205T180000
 SUMMARY:First Friday Art Crawl at the Turchin
@@ -1598,7 +1649,7 @@ URL:https://downtownboonenc.com/eventinfo/first-friday-art-crawl-at-the-tur
 END:VEVENT
 BEGIN:VEVENT
 UID:f3c87f0da959@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270206T190000
 DTEND:20270206T210000
 SUMMARY:Liam Purcell & Cane Mill Road
@@ -1609,7 +1660,7 @@ URL:https://tixr.com/e/215091
 END:VEVENT
 BEGIN:VEVENT
 UID:faf99e1df6fa@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270206T193000
 DTEND:20270206T213000
 SUMMARY:Kruger Brothers
@@ -1623,7 +1674,7 @@ URL:https://ashecountyarts.org/event/kruger-brothers-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:1c600e2ec606@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270207T140000
 DTEND:20270207T160000
 SUMMARY:Kruger Brothers Sunday Matinee
@@ -1638,7 +1689,7 @@ URL:https://ashecountyarts.org/event/kruger-brothers-sunday-matinee/
 END:VEVENT
 BEGIN:VEVENT
 UID:826dafc5c28d@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270211T190000
 DTEND:20270211T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1653,7 +1704,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:6a5afb9dfd3a@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270211T200000
 DTEND:20270211T220000
 SUMMARY:Zoso - The Ultimate Led Zeppelin Experience
@@ -1666,7 +1717,7 @@ URL:https://www.apptheatre.org/events-and-tickets/zoso-the-ultimate-led-zep
 END:VEVENT
 BEGIN:VEVENT
 UID:653530068c76@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270212T180000
 DTEND:20270212T200000
 SUMMARY:The Barter Players: Peter Pan
@@ -1679,7 +1730,7 @@ URL:https://www.apptheatre.org/events-and-tickets/barter-players-peter-pan
 END:VEVENT
 BEGIN:VEVENT
 UID:814a4ece2121@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270213T170000
 DTEND:20270213T190000
 SUMMARY:Sunset at the Swinging Bridge
@@ -1694,7 +1745,7 @@ URL:https://grandfather.com/event/sunset-at-the-swinging-bridge/
 END:VEVENT
 BEGIN:VEVENT
 UID:26a668a7128e@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270218T190000
 DTEND:20270218T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1708,8 +1759,22 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
  027-02-18/
 END:VEVENT
 BEGIN:VEVENT
+UID:56ebe9650476@highcountryevents
+DTSTAMP:20261119T191622Z
+DTSTART:20270221T143000
+DTEND:20270221T163000
+SUMMARY:Ed Perzel Chamber Music Series: Callisto Quartet
+LOCATION:Ashe Arts Center\, 303 School Ave\, West Jefferson\, NC\, 28694\, 
+ United States
+DESCRIPTION:Callisto QuartetSunday\, February 212:30 PMAshe Arts CenterTick
+ ets: $18.50 Adult\, $7.50 Student Get Tickets About Callisto Quartet Prais
+ ed for their “tremendous variety of color” (The Strad) and the “c\nSource:
+  Ashe County Arts\nhttps://ashecountyarts.org/event/callisto/
+URL:https://ashecountyarts.org/event/callisto/
+END:VEVENT
+BEGIN:VEVENT
 UID:edeac892d226@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270225T190000
 DTEND:20270225T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1724,7 +1789,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:bf864fd5ee40@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270304T190000
 DTEND:20270304T210000
 SUMMARY:Old-Time Jam at the Jones House
@@ -1739,7 +1804,7 @@ URL:https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2
 END:VEVENT
 BEGIN:VEVENT
 UID:cf42e55cf8c6@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270305T160000
 DTEND:20270305T180000
 SUMMARY:First Friday Art Crawl at the Turchin
@@ -1755,7 +1820,7 @@ URL:https://downtownboonenc.com/eventinfo/first-friday-art-crawl-at-the-tur
 END:VEVENT
 BEGIN:VEVENT
 UID:2c55c25c0126@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270305T180000
 DTEND:20270305T200000
 SUMMARY:The Man from Snowy River
@@ -1766,8 +1831,22 @@ DESCRIPTION:FREE General AdmissionSupporting The Cole Jackson Ellis Memoria
 URL:https://www.apptheatre.org/events-and-tickets/man-from-snowy-river
 END:VEVENT
 BEGIN:VEVENT
+UID:04cfe66b6553@highcountryevents
+DTSTAMP:20261119T191622Z
+DTSTART:20270307T143000
+DTEND:20270307T163000
+SUMMARY:Ed Perzel Chamber Music Series: Dalí Quartet
+LOCATION:Ashe Arts Center\, 303 School Ave\, West Jefferson\, NC\, 28694\, 
+ United States
+DESCRIPTION:Ed Perzel Chamber Music Series Presents: Dalí QuartetSunday\, M
+ arch 72:30 PMAshe Arts Center Tickets: $18.50 Adult\, $7.50 StudentSeating
+  is General Admission “… beautifully prepared program … the Latin\nSource:
+  Ashe County Arts\nhttps://ashecountyarts.org/event/terra/
+URL:https://ashecountyarts.org/event/terra/
+END:VEVENT
+BEGIN:VEVENT
 UID:ce03356f9d7f@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270313T090000
 DTEND:20270313T110000
 SUMMARY:Youth Climate Summit 2027
@@ -1781,7 +1860,7 @@ URL:https://grandfather.com/event/youth-climate-summit-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:403b6c6ccc4b@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270320T064000
 DTEND:20270320T084000
 SUMMARY:Sunrise at the Swinging Bridge
@@ -1796,7 +1875,7 @@ URL:https://grandfather.com/event/sunrise-at-the-swinging-bridge-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:8d93c7d52c51@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270402T100000
 DTEND:20270402T120000
 SUMMARY:Ola Belle Reed Songwriters Retreat
@@ -1807,8 +1886,22 @@ DESCRIPTION:Source: Ashe County Arts\nhttps://ashecountyarts.org/event/ola-
 URL:https://ashecountyarts.org/event/ola-belle-reed-songwriters-retreat-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:8953d791c353@highcountryevents
+DTSTAMP:20261119T191622Z
+DTSTART:20270411T143000
+DTEND:20270411T163000
+SUMMARY:Ed Perzel Chamber Music Series: Trio Confero
+LOCATION:Ashe Arts Center\, 303 School Ave\, West Jefferson\, NC\, 28694\, 
+ United States
+DESCRIPTION:Ed Perzel Chamber Music Series Presents: Trio ConferoSunday\, A
+ pril 112:30 PMAshe Arts Center Get Tickets TRIO CONFERO Maksim Shtrykov\, 
+ clarinet · Emil Olejnik\, cello · Misuzu Tanaka\, piano Trio Confer\nSourc
+ e: Ashe County Arts\nhttps://ashecountyarts.org/event/galvin/
+URL:https://ashecountyarts.org/event/galvin/
+END:VEVENT
+BEGIN:VEVENT
 UID:8de6ad5ea9a3@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270722T100000
 DTEND:20270722T120000
 SUMMARY:Early-Bird Tickets on Sale\, Initial Lineup Announced for FloydFest
@@ -1822,7 +1915,7 @@ URL:https://www.hcpress.com/entertainment/early-bird-tickets-on-sale-initia
 END:VEVENT
 BEGIN:VEVENT
 UID:2e8141ccff35@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270722T100000
 DTEND:20270722T120000
 SUMMARY:‘Local Love’ Lineup Revealed for FloydFest 26~Daydream (July 22-26\
@@ -1835,7 +1928,7 @@ URL:https://www.hcpress.com/events/local-love-lineup-revealed-for-floydfest
 END:VEVENT
 BEGIN:VEVENT
 UID:dbfb3340021f@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270722T100000
 DTEND:20270722T120000
 SUMMARY:Announcing FloydFest 26~Daydream\, July 22-26\, 2026\; Tedeschi Tru
@@ -1852,7 +1945,7 @@ URL:https://www.hcpress.com/entertainment/announcing-floydfest-26daydream-j
 END:VEVENT
 BEGIN:VEVENT
 UID:bb02f100d892@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270807T055000
 DTEND:20270807T075000
 SUMMARY:Sunrise at the Swinging Bridge
@@ -1867,7 +1960,7 @@ URL:https://grandfather.com/event/sunrise-at-the-swinging-bridge-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:b0a7543244c6@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20270914T100000
 DTEND:20270914T120000
 SUMMARY:St. Mary of the Hills welcomes SoLa Bazaar on Sunday\, September 14
@@ -1879,7 +1972,7 @@ URL:https://www.hcpress.com/announcements/st-mary-of-the-hills-welcomes-sol
 END:VEVENT
 BEGIN:VEVENT
 UID:c5ce2f8bf3f4@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20271001T180000
 DTEND:20271001T200000
 SUMMARY:Sunset at the Swinging Bridge
@@ -1894,7 +1987,7 @@ URL:https://grandfather.com/event/sunset-at-the-swinging-bridge-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:b6251ba5855b@highcountryevents
-DTSTAMP:20261117T193019Z
+DTSTAMP:20261119T191622Z
 DTSTART:20271004T100000
 DTEND:20271004T120000
 SUMMARY:AppleFEST at the Watauga County Farmers’ Market – Saturday\, Octobe

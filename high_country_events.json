@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "id": "f33bb632653c",
-      "title": "Watauga Community Band - 40th Anniversary Concert",
-      "date": "2026-11-17T19:00:00.256000",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "Celebrating 40 years of the Watauga Community Band!",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/wcb-40th",
-      "latitude": 36.2157,
-      "longitude": -81.6752
-    },
-    {
-      "id": "fb82b7d91be5",
-      "title": "Miles of Stories: A Glimpse of the Blue Ridge Parkway (Waynesboro Public Library)",
-      "date": "2026-11-18T17:00:00",
-      "location": "Waynesboro Public Library 600 S Wayne Ave., Waynesboro, VA 22980",
-      "description": "Join a Blue Ridge Parkway Ranger at the Waynesboro Public Library (600 S Wayne Ave., Waynesboro, VA 22980) in a journey through the history of the Blue Ridge Parkway. Learn about the construction, the",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
       "id": "b2fbd93909cc",
       "title": "Weekly Jam Sessions at the Jones House",
       "date": "2026-11-19T19:00:00",
@@ -463,15 +441,15 @@
       "longitude": -81.6752
     },
     {
-      "id": "a9e465fd4a8a",
+      "id": "4a4258c001a4",
       "title": "Ricky Skaggs & Kentucky Thunder Christmas",
-      "date": "2026-12-02T19:00:00.562000",
-      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
-      "description": "Christmas Time\u2019s A Coming with Ricky Skaggs & Kentucky Thunder.Sponsored by Mast General Store",
-      "source": "Appalachian Theatre",
-      "url": "https://www.apptheatre.org/events-and-tickets/ricky-skaggs-kyt-christmas",
-      "latitude": 36.2157,
-      "longitude": -81.6752
+      "date": "2026-12-02T19:00:00",
+      "location": "Appalachian Theatre of the High Country, Boone, NC",
+      "description": "Wednesday, December 2, 2026 at 7 p.m. / Doors open at 6:30 p.m. ADULT RESERVED \u2013 $55 STUDENT RESERVED \u2013 $45 Taxes are calculated upon checkout. Ricky Skaggs & Kentucky Thunder Christmas \u2013 You know \u201cCh",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/ricky-skaggs-kentucky-thunder-christmas/",
+      "latitude": 36.2177825,
+      "longitude": -81.6827942
     },
     {
       "id": "d86bb6d06ba2",
@@ -527,6 +505,17 @@
       "url": "https://downtownboonenc.com/eventinfo/first-friday-art-crawl-at-the-turchin/2026-12-04/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "ab5067a13c1b",
+      "title": "West Jefferson Christmas Crawl",
+      "date": "2026-12-04T17:00:00",
+      "location": "NC",
+      "description": "If you are looking for a festive way to spend time in downtown West Jefferson, a Christmas Gallery Crawl is definitely the way to go! There are so many wonderful shops and galleries featuring decorati",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/west-jefferson-christmas-crawl/",
+      "latitude": 36.4013,
+      "longitude": -81.4874
     },
     {
       "id": "81730e97c3d3",
@@ -648,6 +637,17 @@
       "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-12-07/",
       "latitude": 36.5057655,
       "longitude": -81.1211449
+    },
+    {
+      "id": "04e70c26b0e6",
+      "title": "Boone Junior Appalachian Musicians \u2013 Fall 2026 Recital",
+      "date": "2026-12-08T17:30:00",
+      "location": "Appalachian Theatre of the High Country, Boone, NC",
+      "description": "Tuesday, December 8, 2026 at 5:30 p.m. FREE General Admission Doors open at 4:45 p.m. Boone JAM is a group music lesson program held at the Jones House Cultural Center in downtown Boone for local chil",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/boone-junior-appalachian-musicians-fall-2026-recital/",
+      "latitude": 36.2177825,
+      "longitude": -81.6827942
     },
     {
       "id": "04db642e9124",
@@ -1145,6 +1145,28 @@
       "longitude": -81.448992
     },
     {
+      "id": "bc0025bedb06",
+      "title": "Jam Sessions at the Barber Shop",
+      "date": "2027-01-02T11:00:00",
+      "location": "The Drexel Barber Shop, Drexel, NC",
+      "description": "One of the more quaint musical venues in the Blue Ridge region is the tiny Drexel Barber Shop in the little town of Drexel. The shop features a very informal jam session. Thursday, Friday, and Saturda",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/jam-sessions-at-the-barber-shop/2027-01-02/",
+      "latitude": 35.7569441,
+      "longitude": -81.6045213
+    },
+    {
+      "id": "0fad08a2427e",
+      "title": "Alleghany Jubilee",
+      "date": "2027-01-02T19:00:00",
+      "location": "Alleghany Jubilee, Sparta, NC",
+      "description": "If you love to flatfoot, clog, square dance, or just tap your foot to old-time mountain music, the Alleghany Jubilee is where you want to be! November 11/7 \u2013 New Ballard\u2019s Branch Bogtrotters 11/14 -Wh",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2027-01-02/",
+      "latitude": 36.5057655,
+      "longitude": -81.1211449
+    },
+    {
       "id": "665219326c16",
       "title": "Old-Time Jam at the Jones House",
       "date": "2027-01-07T19:00:00",
@@ -1187,6 +1209,17 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2027-01-21/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "abd4df4e2e9a",
+      "title": "Ed Perzel Chamber Music Series: Appalachian State Faculty Ensemble",
+      "date": "2027-01-24T14:30:00",
+      "location": "Ashe Arts Center, 303 School Ave, West Jefferson, NC, 28694, United States",
+      "description": "The Ed Perzel Chamber Music Series Presents: Appalachian State Faculty EnsembleSunday, January 24th2:30 PMAshe Arts Center Tickets: $18.50 Adult, $7.50 StudentSeating is General Admission Get Tickets ",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/ed-perzel-chamber-music-series-appalachian-state-faculty-ensemble/",
+      "latitude": 36.4013,
+      "longitude": -81.4874
     },
     {
       "id": "0ad0b7cc1e24",
@@ -1343,6 +1376,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "56ebe9650476",
+      "title": "Ed Perzel Chamber Music Series: Callisto Quartet",
+      "date": "2027-02-21T14:30:00",
+      "location": "Ashe Arts Center, 303 School Ave, West Jefferson, NC, 28694, United States",
+      "description": "Callisto QuartetSunday, February 212:30 PMAshe Arts CenterTickets: $18.50 Adult, $7.50 Student Get Tickets About Callisto Quartet Praised for their \u201ctremendous variety of color\u201d (The Strad) and the \u201cc",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/callisto/",
+      "latitude": 36.4013,
+      "longitude": -81.4874
+    },
+    {
       "id": "edeac892d226",
       "title": "Old-Time Jam at the Jones House",
       "date": "2027-02-25T19:00:00",
@@ -1387,6 +1431,17 @@
       "longitude": -81.6752
     },
     {
+      "id": "04cfe66b6553",
+      "title": "Ed Perzel Chamber Music Series: Dal\u00ed Quartet",
+      "date": "2027-03-07T14:30:00",
+      "location": "Ashe Arts Center, 303 School Ave, West Jefferson, NC, 28694, United States",
+      "description": "Ed Perzel Chamber Music Series Presents: Dal\u00ed QuartetSunday, March 72:30 PMAshe Arts Center Tickets: $18.50 Adult, $7.50 StudentSeating is General Admission \u201c\u2026 beautifully prepared program \u2026 the Latin",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/terra/",
+      "latitude": 36.4013,
+      "longitude": -81.4874
+    },
+    {
       "id": "ce03356f9d7f",
       "title": "Youth Climate Summit 2027",
       "date": "2027-03-13T09:00:00",
@@ -1416,6 +1471,17 @@
       "description": "",
       "source": "Ashe County Arts",
       "url": "https://ashecountyarts.org/event/ola-belle-reed-songwriters-retreat-2/",
+      "latitude": 36.4013,
+      "longitude": -81.4874
+    },
+    {
+      "id": "8953d791c353",
+      "title": "Ed Perzel Chamber Music Series: Trio Confero",
+      "date": "2027-04-11T14:30:00",
+      "location": "Ashe Arts Center, 303 School Ave, West Jefferson, NC, 28694, United States",
+      "description": "Ed Perzel Chamber Music Series Presents: Trio ConferoSunday, April 112:30 PMAshe Arts Center Get Tickets TRIO CONFERO Maksim Shtrykov, clarinet \u00b7 Emil Olejnik, cello \u00b7 Misuzu Tanaka, piano Trio Confer",
+      "source": "Ashe County Arts",
+      "url": "https://ashecountyarts.org/event/galvin/",
       "latitude": 36.4013,
       "longitude": -81.4874
     },
@@ -1497,8 +1563,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2026-11-17T19:30:19.638015",
-  "total_events": 136,
+  "last_updated": "2026-11-19T19:16:22.131681",
+  "total_events": 142,
   "sources": [
     "Manual Events",
     "High Country Host",
