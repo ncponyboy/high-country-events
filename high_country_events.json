@@ -1,83 +1,6 @@
 {
   "events": [
     {
-      "id": "13fb2a4249e1",
-      "title": "Alleghany Jubilee",
-      "date": "2026-11-21T19:00:00",
-      "location": "Alleghany Jubilee, Sparta, NC",
-      "description": "If you love to flatfoot, clog, square dance, or just tap your foot to old-time mountain music, the Alleghany Jubilee is where you want to be! November 11/7 \u2013 New Ballard\u2019s Branch Bogtrotters 11/14 -Wh",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-11-21/",
-      "latitude": 36.5057655,
-      "longitude": -81.1211449
-    },
-    {
-      "id": "fae2cebf647f",
-      "title": "The Carolina Comedy Magic Parlor",
-      "date": "2026-11-21T19:00:00",
-      "location": "Mysterium Escape Adventure, 737 W. King Street, Boone, NC, 28607, United States",
-      "description": "Looking for something unforgettable to do in Boone? Experience an intimate 20-seat comedy magic show filled with laughter, masterful sleight of hand, audience interaction and astonishing moments\u2014all j",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/the-carolina-comedy-magic-parlor/2026-11-21/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "35f5cedffdee",
-      "title": "Dallas Wayne: Live at The Rex",
-      "date": "2026-11-21T19:00:00",
-      "location": "The Rex Theater, 113 E Grayson St, Galax, VA",
-      "description": "Showtime isn't listed online - check the ticket page.",
-      "source": "Rex Theater",
-      "url": "https://tixr.com/e/191581",
-      "latitude": 36.6612,
-      "longitude": -80.924
-    },
-    {
-      "id": "015b97da10ff",
-      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
-      "date": "2026-11-22T09:00:00",
-      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
-      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
-      "source": "NPS Blue Ridge Pkwy",
-      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
-      "latitude": 36.143,
-      "longitude": -81.8576
-    },
-    {
-      "id": "9caefaa91035",
-      "title": "The Sticks: Presented by The Galax Arts Council",
-      "date": "2026-11-22T19:00:00",
-      "location": "The Rex Theater, 113 E Grayson St, Galax, VA",
-      "description": "Showtime isn't listed online - check the ticket page.",
-      "source": "Rex Theater",
-      "url": "https://tixr.com/e/213692",
-      "latitude": 36.6612,
-      "longitude": -80.924
-    },
-    {
-      "id": "c36699294f01",
-      "title": "Snapshots and Shorelines: A guided photograph tour",
-      "date": "2026-11-23T09:00:00",
-      "location": "Lake James State Park - Paddy's Creek Access",
-      "description": "Join a park ranger for a scenic boat tour along the beautiful shores of Lake James! Discover the natural beauty of the lake as we explore its quiet coves, wooded shorelines, and diverse wildlife habit",
-      "source": "NC State Parks",
-      "url": "https://events.dncr.nc.gov/event/snapshots-and-shorelines-a-guided-photograph-tour-6245",
-      "latitude": 35.760718,
-      "longitude": -81.882276
-    },
-    {
-      "id": "82579038f693",
-      "title": "Alleghany Jubilee",
-      "date": "2026-11-23T18:00:00",
-      "location": "Alleghany Jubilee, Sparta, NC",
-      "description": "If you love to flatfoot, clog, square dance, or just tap your foot to old-time mountain music, the Alleghany Jubilee is where you want to be! November 11/7 \u2013 New Ballard\u2019s Branch Bogtrotters 11/14 -Wh",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2026-11-23/",
-      "latitude": 36.5057655,
-      "longitude": -81.1211449
-    },
-    {
       "id": "4778b065c3f9",
       "title": "Kids Scavenger Hunt",
       "date": "2026-11-25T14:00:00",
@@ -177,6 +100,28 @@
       "longitude": -81.6045213
     },
     {
+      "id": "1fab91a14ff9",
+      "title": "Watauga County Farmers Market",
+      "date": "2026-11-28T12:00:00",
+      "location": "Horn in the West Parking Lot, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "dedd9bd21f35",
+      "title": "Ashe County Farmers Market",
+      "date": "2026-11-28T13:00:00",
+      "location": "Backstreet Park, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "23c62f7742ef",
       "title": "The Star (2017)",
       "date": "2026-11-28T14:00:00.806000",
@@ -186,6 +131,39 @@
       "url": "https://www.apptheatre.org/events-and-tickets/thestar-26",
       "latitude": 36.2157,
       "longitude": -81.6752
+    },
+    {
+      "id": "c2949cb317ea",
+      "title": "Beech Mountain Holiday Market",
+      "date": "2026-11-28T16:00:00",
+      "location": "Buckeye Recreation Center, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "de108b648601",
+      "title": "Carolina Comedy Parlor",
+      "date": "2026-11-28T19:00:00",
+      "location": "Mysterium, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "8c17320f563e",
+      "title": "Courthouse Concert Series",
+      "date": "2026-11-28T19:00:00",
+      "location": "Museum of Ashe County History, NC",
+      "description": "",
+      "source": "High Country Host",
+      "url": "https://highcountryhost.com/High-Country-Events-Calendar",
+      "latitude": 36.2168,
+      "longitude": -81.6746
     },
     {
       "id": "db96fcd7029d",
@@ -294,17 +272,6 @@
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-12-03/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "10c94070b442",
-      "title": "Mountainfilm on Tour Returns to Lees-McRae for High Country Film and Speaker Series 2025\u201326 on Feb. 21 \u2013 Discounted Tickets Available Now",
-      "date": "2026-12-04T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/mountainfilm-on-tour-returns-to-lees-mcrae-for-high-country-film-and-speaker-series-2025-26-on-feb-21-discounted-tickets-available-now.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -571,6 +538,17 @@
       "url": "https://ashecountyarts.org/event/opry/",
       "latitude": 36.4013,
       "longitude": -81.4874
+    },
+    {
+      "id": "5004b52f707c",
+      "title": "It\u2019s a Wonderful Life: A Radio Play",
+      "date": "2026-12-11T19:30:00.598000",
+      "location": "Appalachian Theatre, 559 W King St, Boone, NC",
+      "description": "It\u2019s a Wonderful Life: A Radio Play Presented by BRCT",
+      "source": "Appalachian Theatre",
+      "url": "https://www.apptheatre.org/events-and-tickets/brct-itsawonderfullife",
+      "latitude": 36.2157,
+      "longitude": -81.6752
     },
     {
       "id": "c2af10f44668",
@@ -1013,6 +991,17 @@
       "longitude": -81.1211449
     },
     {
+      "id": "bdc19c78b4ba",
+      "title": "Weekly Jam Sessions at the Jones House",
+      "date": "2027-01-07T19:00:00",
+      "location": "Jones House Cultural Center, Boone, NC",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2027-01-07/",
+      "latitude": 36.2186447,
+      "longitude": -81.6830501
+    },
+    {
       "id": "665219326c16",
       "title": "Old-Time Jam at the Jones House",
       "date": "2027-01-07T19:00:00",
@@ -1365,6 +1354,17 @@
       "longitude": -81.814
     },
     {
+      "id": "dd41e7bf7657",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2027-03-18T19:00:00",
+      "location": "N",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2027-03-18/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "403b6c6ccc4b",
       "title": "Sunrise at the Swinging Bridge",
       "date": "2027-03-20T06:40:00",
@@ -1420,28 +1420,6 @@
       "longitude": -81.6746
     },
     {
-      "id": "2e8141ccff35",
-      "title": "\u2018Local Love\u2019 Lineup Revealed for FloydFest 26~Daydream (July 22-26, 2026)",
-      "date": "2027-07-22T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/events/local-love-lineup-revealed-for-floydfest-26daydream-july-22-26-2026.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "dbfb3340021f",
-      "title": "Announcing FloydFest 26~Daydream, July 22-26, 2026; Tedeschi Trucks Band, My Morning Jacket, Stephen Wilson Jr., Lukas Nelson to Headline \u2013 Tickets on Sale Now with \u2018Early-Bird\u2019 Pricing",
-      "date": "2027-07-22T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/entertainment/announcing-floydfest-26daydream-july-22-26-2026-tedeschi-trucks-band-my-morning-jacket-stephen-wilson-jr-lukas-nelson-to-headline-tickets-on-sale-now.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
       "id": "bb02f100d892",
       "title": "Sunrise at the Swinging Bridge",
       "date": "2027-08-07T05:50:00",
@@ -1453,13 +1431,24 @@
       "longitude": -81.8462718
     },
     {
-      "id": "b0a7543244c6",
-      "title": "St. Mary of the Hills welcomes SoLa Bazaar on Sunday, September 14",
-      "date": "2027-09-14T10:00:00",
+      "id": "edb8882acf69",
+      "title": "Tomato Trail Connects High Country Shoppers with Local Food",
+      "date": "2027-09-05T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/st-mary-of-the-hills-welcomes-sola-bazaar-on-sunday-september-14.html",
+      "url": "https://www.hcpress.com/front-page/tomato-trail-connects-high-country-shoppers-with-local-food.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "89c805399c18",
+      "title": "Watauga, Avery Obituaries \u2013 September 29th, 2026",
+      "date": "2027-09-29T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-september-29th-2026.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1475,19 +1464,63 @@
       "longitude": -81.8462718
     },
     {
-      "id": "b6251ba5855b",
-      "title": "AppleFEST at the Watauga County Farmers\u2019 Market \u2013 Saturday, October 4th",
-      "date": "2027-10-04T10:00:00",
+      "id": "81a246521987",
+      "title": "Watauga, Avery Obituaries \u2013 October 6th, 2026",
+      "date": "2027-10-06T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/announcements/applefest-at-the-watauga-county-farmers-market-saturday-october-4th.html",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-october-6th-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "6bd73d8435b0",
+      "title": "WATA 1450 & 96.5 Named NCAB\u2019s 2026 Non-Metro Station of the Year",
+      "date": "2027-10-08T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/wata-1450-96-5-named-ncabs-2026-non-metro-station-of-the-year.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "e76093af89a9",
+      "title": "Downtown Boone Development Association Receives $25,000 from Appalachian Regional Commission",
+      "date": "2027-10-08T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/boone/downtown-boone-development-association-receives-25000-from-appalachian-regional-commission.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "ac06fea53f85",
+      "title": "Watauga, Avery Obituaries \u2013 October 13th, 2026",
+      "date": "2027-10-13T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-october-13th-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "f87d415126a7",
+      "title": "Watauga, Avery Obituaries \u2013 October 20th, 2026",
+      "date": "2027-10-20T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-october-20th-2026.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2026-11-21T17:51:28.189736",
-  "total_events": 135,
+  "last_updated": "2026-11-23T22:20:13.238441",
+  "total_events": 138,
   "sources": [
     "Manual Events",
     "High Country Host",
