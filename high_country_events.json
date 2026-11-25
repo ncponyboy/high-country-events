@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "4778b065c3f9",
-      "title": "Kids Scavenger Hunt",
-      "date": "2026-11-25T14:00:00",
-      "location": "Stone Mountain State Park Visitor Center",
-      "description": "If you like seeking out items in nature, this program is for you! Use your detective skills and join a Ranger at the Visitor Center to go on a nature scavenger hunt. Weather Permitting.",
-      "source": "NC State Parks",
-      "url": "https://events.dncr.nc.gov/event/kids-scavenger-hunt-3412",
-      "latitude": 36.382303,
-      "longitude": -81.021128
-    },
-    {
       "id": "aa422afad196",
       "title": "Old-Time Jam at the Reeves",
       "date": "2026-11-26T17:30:00",
@@ -272,6 +261,17 @@
       "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
       "source": "Downtown Boone",
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-12-03/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "10c94070b442",
+      "title": "Mountainfilm on Tour Returns to Lees-McRae for High Country Film and Speaker Series 2025\u201326 on Feb. 21 \u2013 Discounted Tickets Available Now",
+      "date": "2026-12-04T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/announcements/mountainfilm-on-tour-returns-to-lees-mcrae-for-high-country-film-and-speaker-series-2025-26-on-feb-21-discounted-tickets-available-now.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -991,6 +991,17 @@
       "longitude": -81.1211449
     },
     {
+      "id": "fcd73fb141ba",
+      "title": "Ranger Workshop - Grandfather Mountain History and Ecology",
+      "date": "2027-01-06T14:00:00",
+      "location": "Grandfather Mountain State Park",
+      "description": "What makes Grandfather Mountain State Park so special? Join us for a PowerPoint presentation explaining how Grandfather Mountain State Park was created, and why we are so fortunate to be an Internatio",
+      "source": "NC State Parks",
+      "url": "https://events.dncr.nc.gov/event/ranger-workshop-grandfather-mountain-history-and-ecology",
+      "latitude": 36.154972,
+      "longitude": -81.787265
+    },
+    {
       "id": "bdc19c78b4ba",
       "title": "Weekly Jam Sessions at the Jones House",
       "date": "2027-01-07T19:00:00",
@@ -1011,6 +1022,50 @@
       "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2027-01-07/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "d6739f9c8e8a",
+      "title": "Second Friday CommUnity Square Dance",
+      "date": "2027-01-08T18:00:00",
+      "location": "Todd Mercantile, Todd, NC",
+      "description": "Come early for the potluck (starting at 6 pm) and please bring a dish to share. Get ready to get down to some old-time tunes with your friends and neighbors (starting at 7:30). It\u2019s time to start prac",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/second-friday-community-square-dance/2027-01-08/",
+      "latitude": 36.308386,
+      "longitude": -81.5956692
+    },
+    {
+      "id": "650372d2978e",
+      "title": "Phipps General Store Jam",
+      "date": "2027-01-08T19:00:00",
+      "location": "Phipps General Store, Lansing, NC",
+      "description": "On Fridays, the doors open to Phipps General Store for a jam session that can be one of the most lively in the region. Spectators sit and chat on benches by the old counter or in chairs surrounding th",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/phipps-general-store-jam/2027-01-08/",
+      "latitude": 36.504961,
+      "longitude": -81.448992
+    },
+    {
+      "id": "b7594d4fae7f",
+      "title": "Jam Sessions at the Barber Shop",
+      "date": "2027-01-09T11:00:00",
+      "location": "The Drexel Barber Shop, Drexel, NC",
+      "description": "One of the more quaint musical venues in the Blue Ridge region is the tiny Drexel Barber Shop in the little town of Drexel. The shop features a very informal jam session. Thursday, Friday, and Saturda",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/jam-sessions-at-the-barber-shop/2027-01-09/",
+      "latitude": 35.7569441,
+      "longitude": -81.6045213
+    },
+    {
+      "id": "7a38b0aaee87",
+      "title": "Alleghany Jubilee",
+      "date": "2027-01-09T19:00:00",
+      "location": "Alleghany Jubilee, Sparta, NC",
+      "description": "If you love to flatfoot, clog, square dance, or just tap your foot to old-time mountain music, the Alleghany Jubilee is where you want to be! November 11/7 \u2013 New Ballard\u2019s Branch Bogtrotters 11/14 -Wh",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2027-01-09/",
+      "latitude": 36.5057655,
+      "longitude": -81.1211449
     },
     {
       "id": "2304b5f1437d",
@@ -1420,6 +1475,28 @@
       "longitude": -81.6746
     },
     {
+      "id": "2e8141ccff35",
+      "title": "\u2018Local Love\u2019 Lineup Revealed for FloydFest 26~Daydream (July 22-26, 2026)",
+      "date": "2027-07-22T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/events/local-love-lineup-revealed-for-floydfest-26daydream-july-22-26-2026.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
+      "id": "dbfb3340021f",
+      "title": "Announcing FloydFest 26~Daydream, July 22-26, 2026; Tedeschi Trucks Band, My Morning Jacket, Stephen Wilson Jr., Lukas Nelson to Headline \u2013 Tickets on Sale Now with \u2018Early-Bird\u2019 Pricing",
+      "date": "2027-07-22T10:00:00",
+      "location": "Boone, NC",
+      "description": "",
+      "source": "High Country Press",
+      "url": "https://www.hcpress.com/entertainment/announcing-floydfest-26daydream-july-22-26-2026-tedeschi-trucks-band-my-morning-jacket-stephen-wilson-jr-lukas-nelson-to-headline-tickets-on-sale-now.html",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "bb02f100d892",
       "title": "Sunrise at the Swinging Bridge",
       "date": "2027-08-07T05:50:00",
@@ -1431,24 +1508,13 @@
       "longitude": -81.8462718
     },
     {
-      "id": "edb8882acf69",
-      "title": "Tomato Trail Connects High Country Shoppers with Local Food",
-      "date": "2027-09-05T10:00:00",
+      "id": "b0a7543244c6",
+      "title": "St. Mary of the Hills welcomes SoLa Bazaar on Sunday, September 14",
+      "date": "2027-09-14T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/front-page/tomato-trail-connects-high-country-shoppers-with-local-food.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "89c805399c18",
-      "title": "Watauga, Avery Obituaries \u2013 September 29th, 2026",
-      "date": "2027-09-29T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-september-29th-2026.html",
+      "url": "https://www.hcpress.com/announcements/st-mary-of-the-hills-welcomes-sola-bazaar-on-sunday-september-14.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     },
@@ -1464,63 +1530,19 @@
       "longitude": -81.8462718
     },
     {
-      "id": "81a246521987",
-      "title": "Watauga, Avery Obituaries \u2013 October 6th, 2026",
-      "date": "2027-10-06T10:00:00",
+      "id": "b6251ba5855b",
+      "title": "AppleFEST at the Watauga County Farmers\u2019 Market \u2013 Saturday, October 4th",
+      "date": "2027-10-04T10:00:00",
       "location": "Boone, NC",
       "description": "",
       "source": "High Country Press",
-      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-october-6th-2026.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "6bd73d8435b0",
-      "title": "WATA 1450 & 96.5 Named NCAB\u2019s 2026 Non-Metro Station of the Year",
-      "date": "2027-10-08T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/front-page/wata-1450-96-5-named-ncabs-2026-non-metro-station-of-the-year.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "e76093af89a9",
-      "title": "Downtown Boone Development Association Receives $25,000 from Appalachian Regional Commission",
-      "date": "2027-10-08T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/boone/downtown-boone-development-association-receives-25000-from-appalachian-regional-commission.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "ac06fea53f85",
-      "title": "Watauga, Avery Obituaries \u2013 October 13th, 2026",
-      "date": "2027-10-13T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-october-13th-2026.html",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "f87d415126a7",
-      "title": "Watauga, Avery Obituaries \u2013 October 20th, 2026",
-      "date": "2027-10-20T10:00:00",
-      "location": "Boone, NC",
-      "description": "",
-      "source": "High Country Press",
-      "url": "https://www.hcpress.com/front-page/watauga-avery-obituaries-october-20th-2026.html",
+      "url": "https://www.hcpress.com/announcements/applefest-at-the-watauga-county-farmers-market-saturday-october-4th.html",
       "latitude": 36.2168,
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2026-11-23T22:20:13.238441",
-  "total_events": 138,
+  "last_updated": "2026-11-25T20:19:31.350949",
+  "total_events": 140,
   "sources": [
     "Manual Events",
     "High Country Host",
