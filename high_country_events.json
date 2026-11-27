@@ -1,50 +1,6 @@
 {
   "events": [
     {
-      "id": "aa422afad196",
-      "title": "Old-Time Jam at the Reeves",
-      "date": "2026-11-26T17:30:00",
-      "location": "Reeves Theater, Elkin, NC",
-      "description": "Come watch or play in the Reeves FREE monthly Old-Time Jam hosted by local musician and luthier Joe Thrift. Help learn and preserve traditional music of the region. All ages welcome. This event is spo",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/old-time-jam-at-the-reeves-2/2026-11-26/",
-      "latitude": 36.2436176,
-      "longitude": -80.8520065
-    },
-    {
-      "id": "8bc008b99039",
-      "title": "Weekly Jam Sessions at the Jones House",
-      "date": "2026-11-26T19:00:00",
-      "location": "Jones House Cultural Center, Boone, NC",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Blue Ridge Music NC",
-      "url": "https://www.blueridgemusicnc.com/event/weekly-jam-sessions-at-the-jones-house/2026-11-26/",
-      "latitude": 36.2186447,
-      "longitude": -81.6830501
-    },
-    {
-      "id": "4bb2536292ed",
-      "title": "Old-Time Jam at the Jones House",
-      "date": "2026-11-26T19:00:00",
-      "location": "N",
-      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
-      "source": "Downtown Boone",
-      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2026-11-26/",
-      "latitude": 36.2168,
-      "longitude": -81.6746
-    },
-    {
-      "id": "bcf3d425915b",
-      "title": "National Take A Hike Day",
-      "date": "2026-11-27T14:30:00",
-      "location": "Stone Mountain State Park Lower Trailhead Parking Area",
-      "description": "Learn about Stone Mountain State Park's cultural history and take in the natural beauty by joining a Park Ranger for a guided hike to the historic Hutchinson Homestead. Weather permitting.",
-      "source": "NC State Parks",
-      "url": "https://events.dncr.nc.gov/event/national-take-a-hike-day",
-      "latitude": 36.382303,
-      "longitude": -81.021128
-    },
-    {
       "id": "249ca4512ade",
       "title": "National Lampoon\u2019s Christmas Vacation",
       "date": "2026-11-27T18:00:00.256000",
@@ -606,6 +562,17 @@
       "longitude": -81.6746
     },
     {
+      "id": "934cbffbbc80",
+      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
+      "date": "2026-12-13T09:00:00",
+      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
+      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
       "id": "b4f22c854182",
       "title": "Alleghany Jubilee",
       "date": "2026-12-14T18:00:00",
@@ -826,6 +793,17 @@
       "longitude": -81.448992
     },
     {
+      "id": "03aaf45156e0",
+      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
+      "date": "2026-12-26T09:00:00",
+      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
+      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
+    },
+    {
       "id": "a0659de73044",
       "title": "Jam Sessions at the Barber Shop",
       "date": "2026-12-26T11:00:00",
@@ -857,6 +835,17 @@
       "url": "https://downtownboonenc.com/eventinfo/the-carolina-comedy-magic-parlor/2026-12-26/",
       "latitude": 36.2168,
       "longitude": -81.6746
+    },
+    {
+      "id": "bedd05029837",
+      "title": "History, Naturally: Ranger-Led Talks and Activities (Blue Ridge Parkway Visitor Center - Milepost 384)",
+      "date": "2026-12-27T09:00:00",
+      "location": "This program will be inside the visitor center. We are at Milepost 384, and our \"normal\" street address is 195 Hemphill Knob Road, Asheville NC 28803.",
+      "description": "The Blue Ridge mountains have a long history, both when it comes to nature, and when it comes to people. And park rangers get excited about all of it. There\u2019s so much to cover, we change the topics of",
+      "source": "NPS Blue Ridge Pkwy",
+      "url": "https://www.nps.gov/blri/planyourvisit/events.htm",
+      "latitude": 36.143,
+      "longitude": -81.8576
     },
     {
       "id": "2b2a42f050db",
@@ -1064,6 +1053,17 @@
       "description": "If you love to flatfoot, clog, square dance, or just tap your foot to old-time mountain music, the Alleghany Jubilee is where you want to be! November 11/7 \u2013 New Ballard\u2019s Branch Bogtrotters 11/14 -Wh",
       "source": "Blue Ridge Music NC",
       "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2027-01-09/",
+      "latitude": 36.5057655,
+      "longitude": -81.1211449
+    },
+    {
+      "id": "6a586f0d7ec7",
+      "title": "Alleghany Jubilee",
+      "date": "2027-01-11T18:00:00",
+      "location": "Alleghany Jubilee, Sparta, NC",
+      "description": "If you love to flatfoot, clog, square dance, or just tap your foot to old-time mountain music, the Alleghany Jubilee is where you want to be! November 11/7 \u2013 New Ballard\u2019s Branch Bogtrotters 11/14 -Wh",
+      "source": "Blue Ridge Music NC",
+      "url": "https://www.blueridgemusicnc.com/event/alleghany-jubilee/2027-01-11/",
       "latitude": 36.5057655,
       "longitude": -81.1211449
     },
@@ -1431,6 +1431,17 @@
       "longitude": -81.8462718
     },
     {
+      "id": "f5ffe89f013b",
+      "title": "Old-Time Jam at the Jones House",
+      "date": "2027-03-25T19:00:00",
+      "location": "N",
+      "description": "Every Thursday evening from 7-10 PM, join local and visiting musicians at the Jones House for an old-time jam session. Bring your banjo, fiddle, guitar, mandolin \u2013 or whatever old-time acoustic instru",
+      "source": "Downtown Boone",
+      "url": "https://downtownboonenc.com/eventinfo/old-time-jam-at-the-jones-house/2027-03-25/",
+      "latitude": 36.2168,
+      "longitude": -81.6746
+    },
+    {
       "id": "8d93c7d52c51",
       "title": "Ola Belle Reed Songwriters Retreat",
       "date": "2027-04-02T10:00:00",
@@ -1541,8 +1552,8 @@
       "longitude": -81.6746
     }
   ],
-  "last_updated": "2026-11-25T20:19:31.350949",
-  "total_events": 140,
+  "last_updated": "2026-11-27T19:45:24.625488",
+  "total_events": 141,
   "sources": [
     "Manual Events",
     "High Country Host",
